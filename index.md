@@ -78,7 +78,7 @@ Hello, welcome to my repository with USC course contents and my personal project
 
       | Lecture Notes by Months | Links     |
       | ----------------------- | ---- |
-      | August Notes            | [**August**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/Notes_Aug.pdf)     |
+      | August Lectures     | [**August**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/Notes_Aug.pdf)     |
       | September Lectures      | [**September**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/Notes_Sep.pdf)     |
       | October Lectures        | [**October**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/Notes_Oct.pdf)     |
       | November Lectures       | [**November**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/Notes_Nov.pdf)     |
@@ -110,7 +110,36 @@ Hello, welcome to my repository with USC course contents and my personal project
       [**Final Exam**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/226_final.pdf)
 
 
+---
+
 ## For CS:
+
+1. **Summer 2021: CSCI 104, Data Structure and Object Oriented Programming, Prof. M. Redekopp**
+
+   Please refer to the [course website](https://bytes.usc.edu/cs104/) for more information!
+   
+   My solution to the six homework can be found at this [Git Repository](https://github.com/ShaoxiongYuan/csci104-homework)
+
+2. **Spring 2021: CSCI 170, Discrete Methods in Computer Science, Prof. S. Batista**
+
+   [**Course Syllabus**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/CSCI_170/syllabus170_sp2021.pdf)
+
+   **Midterm**
+   
+   | Files                      | Links |
+   | -------------------------- | ----- |
+   | Practice Midterm           | [**Practice Midterm**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/CSCI_170/practice_midterm.pdf)      |
+   | Practice Midterm Solutions | [**Practice Midterm Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/CSCI_170/practice_sol.pdf)      |
+   | Midterm                    | [**Midterm Exam**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/CSCI_170/midterm.pdf)      |
+   | Midterm Solutions          | [**Midterm Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/CSCI_170/midterm_sol.pdf)      |
+   
+   [**Final Exam**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/CSCI_170/final.pdf)
+
+
+---
+
+## Personal Projects:
+
 
 
 
