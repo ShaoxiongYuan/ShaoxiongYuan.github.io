@@ -37,16 +37,20 @@ Hello, welcome to my repository with USC course contents and my personal project
       Professor Paul Tokorcheck taught this class in a very good fashion. Although "Number Theory" sounds intimidating, but it is not. The course content, though abstract, was greatly demonstrated and proved by the instructor. He was also kind enough to write a recommendation letter for the Continuing Students Scholarship.
       
       Course Textbook: Elementary Number Theory by David M. Burton
+
+      Additional Useful Reference: [**Book of Proof**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_430/Book_of_Proof.pdf)
       
       Note: This class has no official lecture notes, but one good way to refer to the content is through the textbook.
       
-      [**Course Syllabus**](http://yql-skorpion.github.io/Files/USC/2021_Spring/MATH_410_Algebra/Project_FiniteFT/Project_FT.pdf)
+      [**Course Syllabus**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_430/21Spring_Math430_Syllabus.pdf)
       
-      [**Exercise List**](http://yql-skorpion.github.io/Files/USC/2021_Spring/MATH_410_Algebra/Project_FiniteFT/Project_FT.pdf)
+      [**Exercise List**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_430/Math430_ExerciseList.pdf)
       
-      [**Midterm Exam**](http://yql-skorpion.github.io/Files/USC/2021_Spring/MATH_410_Algebra/Project_FiniteFT/Project_FT.pdf)
+      [**Midterm Exam 1**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_430/21Spring_430_Exam1.pdf)
+
+      [**Midterm Exam 2**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_430/21Spring_430_Exam2.pdf)
       
-      [**Final Exam**](http://yql-skorpion.github.io/Files/USC/2021_Spring/MATH_410_Algebra/Project_FiniteFT/Project_FT.pdf)
+      [**Final Exam**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_430/21Spring_430_Exam3.pdf)
    
 2. <details><summary> <b>Fall 2020</b> (MATH 225/226). Click to expand/collapse</summary><p>
    
@@ -68,17 +72,42 @@ Hello, welcome to my repository with USC course contents and my personal project
    
    2. **MATH 226, Calculus III (Multivariable Calculus), *Prof. N. Bottman***
    
-      Course Textbook: Elementary Number Theory by David M. Burton
-   
-      Note: This class has no official lecture notes, but one good way to refer to the content is through the textbook.
-   
-      [**Course Syllabus**](http://yql-skorpion.github.io/Files/USC/2021_Spring/MATH_410_Algebra/Project_FiniteFT/Project_FT.pdf)
-   
-      [**Exercise List**](http://yql-skorpion.github.io/Files/USC/2021_Spring/MATH_410_Algebra/Project_FiniteFT/Project_FT.pdf)
-   
-      [**Midterm Exam**](http://yql-skorpion.github.io/Files/USC/2021_Spring/MATH_410_Algebra/Project_FiniteFT/Project_FT.pdf)
-   
-      [**Final Exam**](http://yql-skorpion.github.io/Files/USC/2021_Spring/MATH_410_Algebra/Project_FiniteFT/Project_FT.pdf)
+      Course Textbook: Essential Calculus by James Stewart
+
+      **Lecture Notes**
+
+      | Lecture Notes by Months | Links     |
+      | ----------------------- | ---- |
+      | August Notes            | [**August**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/Notes_Aug.pdf)     |
+      | September Lectures      | [**September**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/Notes_Sep.pdf)     |
+      | October Lectures        | [**October**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/Notes_Oct.pdf)     |
+      | November Lectures       | [**November**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/Notes_Nov.pdf)     |
+      
+      [**Exercise List**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/exercise_list.pdf)
+      
+      **Midterm Exam 1**
+      
+      | Files                      | Links |
+      | -------------------------- | ----- |
+      | Practice Midterm 1          | [**Practice Midterm**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/practice_midterm_1.pdf)      |
+      | Practice Midterm 1 Solutions | [**Practice Midterm Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/practice_solutions.pdf)      |
+      | Midterm 1                  | [**Midterm**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/midterm_1.pdf)      |
+      | Midterm 1 Solutions        | [**Midterm Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/midterm_1_solutions.pdf)      |
+
+      **Midterm Exam 2**
+
+      | Files                      | Links |
+      | -------------------------- | ----- |
+      | Practice Midterm 2          | [**Practice Midterm**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/practice_midterm_2.pdf)      |
+      | Practice Midterm 2 Solutions | [**Practice Midterm Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/practice_midterm_2_solutions.pdf)      |
+      | Midterm 2                  | [**Midterm**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/midterm_2.pdf)      |
+      | Midterm 2 Solutions        | [**Midterm Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/midterm_2_solutions.pdf)      |
+      
+      [**Final Review**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/final_review.pdf)
+
+      [**Final Review Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/final_review_sol.pdf)
+
+      [**Final Exam**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/226_final.pdf)
 
 
 ## For CS:
