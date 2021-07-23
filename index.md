@@ -118,7 +118,7 @@ Hello, welcome to my repository with USC course contents and my personal project
 
    Please refer to the [course website](https://bytes.usc.edu/cs104/) for more information!
    
-   My solution to the six homework can be found at this [Git Repository](https://github.com/ShaoxiongYuan/csci104-homework)
+   My solution to the six homework can be found at this [GitHub repository](https://github.com/ShaoxiongYuan/csci104-homework)
 
 2. **Spring 2021: CSCI 170, Discrete Methods in Computer Science, Prof. S. Batista**
 
@@ -140,6 +140,39 @@ Hello, welcome to my repository with USC course contents and my personal project
 
 ## Personal Projects:
 
+1. **Pioneer Academics**
+
+   Official Website: https://pioneeracademics.com/
+
+   In this program, I learned several fascinating identities about the Fibonacci sequence as well as other sequences such as Lucas numbers.
+
+   At the end of the Pioneer Academics, I undertook an independent research project with Prof. Dresden of Washington and Lee University, writing a paper on continued fraction, an iterative process of number patterns.
+
+   Professor Gregory Dresden's Homepage: https://dresden.academic.wlu.edu/
+
+   Link to my final paper on continued fractions: [Final Paper](https://ShaoxiongYuan.github.io/Files/Projects/Pioneer/final_paper.pdf)
+
+   Program Textbook: [Proofs That Really Count](https://ShaoxiongYuan.github.io/Files/Projects/Pioneer/textbook.pdf)
+
+   Link to my entry in [Online Encyclopedia of Integer Sequences](https://oeis.org/): https://oeis.org/A049669
+
+2. **Micro Blog Site Using Python Backend Framework Flask**
+
+   Note: I followed Corey Schafer ([His YouTube Channel](https://www.youtube.com/c/Coreyms)) to write this project.
+
+   The source code can be found at this [GitHub repository](https://github.com/ShaoxiongYuan/project/tree/master/Flask_Blog).
+   
+   I have also deployed it to the Internet following Corey's tutorials. The link to the blog website is https://www.myflaskblog.xyz.
+
+3. **Comment System Using "Waterfall Loading" (probably?) Using Flask**
+
+   The source code can be found at this [GitHub repository](https://github.com/ShaoxiongYuan/project/tree/master/comment).
+
+4. **An Online Shopping Website Using Django**
+
+   The source code can be found at this [GitHub repository](https://github.com/ShaoxiongYuan/project/tree/master/dadashop12).
+
+   This project also uses Nginx to handle static requests such as html templates, css files, and js files. To download nginx, visit [this link](http://nginx.org/en/download.html). The configuration file canbe found at [this link](https://ShaoxiongYuan.github.io/Files/Projects/dadashop/nginx.conf). The static files can be found at [this link](https://ShaoxiongYuan.github.io/Files/Projects/dadashop/dadashop.zip)
 
 
 
