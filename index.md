@@ -115,6 +115,8 @@ Hello, welcome to my repository with USC course contents and my personal project
 
 
 
-Credit to Qilin Ye (yeqilin@usc.edu). His website: https://yql-skorpion.github.io/.
+Credit to Qilin Ye (yeqilin@usc.edu). 
+
+His website: https://yql-skorpion.github.io/.
 
 He possesses great skills of using LaTeX, using which he wrote all of his math course notes that are extremely visual appealing. (You are probably gonna love math because of his notes!) He also includes the LaTeX configurations in his home page.
