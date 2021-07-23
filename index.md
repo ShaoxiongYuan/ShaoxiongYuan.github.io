@@ -160,17 +160,17 @@ Hello, welcome to my repository with USC course contents and my personal project
 
    Note: I followed Corey Schafer ([His YouTube Channel](https://www.youtube.com/c/Coreyms)) to write this project.
 
-   The source code can be found at this [GitHub repository](https://github.com/ShaoxiongYuan/project/tree/master/Flask_Blog).
+   The source code can be found [here](https://ShaoxiongYuan.github.io/Files/Projects/Flask_Blog.zip).
    
    I have also deployed it to the Internet following Corey's tutorials. The link to the blog website is https://www.myflaskblog.xyz.
 
 3. **Comment System Using "Waterfall Loading" (probably?) Using Flask**
 
-   The source code can be found at this [GitHub repository](https://github.com/ShaoxiongYuan/project/tree/master/comment).
+   The source code can be found [here](https://ShaoxiongYuan.github.io/Files/Projects/comment.zip).
 
 4. **An Online Shopping Website Using Django**
 
-   The source code can be found at this [GitHub repository](https://github.com/ShaoxiongYuan/project/tree/master/dadashop12).
+   The source code can be found [here](https://ShaoxiongYuan.github.io/Files/Projects/dadashop/dadashop12.zip).
 
    This project also uses Nginx to handle static requests such as html templates, css files, and js files. To download nginx, visit [this link](http://nginx.org/en/download.html). The configuration file canbe found at [this link](https://ShaoxiongYuan.github.io/Files/Projects/dadashop/nginx.conf). The static files can be found at [this link](https://ShaoxiongYuan.github.io/Files/Projects/dadashop/dadashop.zip)
 
