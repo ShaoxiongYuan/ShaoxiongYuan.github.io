@@ -1,3 +1,4 @@
-#markdown: CommonMarkGhPages
 markdown: GFM
-title: YQL's Fake Website
+title: Steven Yuan's USC Course Resource Repository
+description: This website is used to store all necessary resources in USC.
+theme: jekyll-theme-slate

@@ -3,17 +3,16 @@
 
 Hello, welcome to my ~~fake~~ homepage. Hopefully you will find what you want down below. 
 
-<p style="text-align: left; width:60%;  display: inline-block;"></p> — YQL
-<!---<p style="text-align: left; width:70%;  display: inline-block;"></p> B.A. in Mathematics & Data Science
-<p style="text-align: left; width:60%;  display: inline-block;"></p> B.M. in Piano--->
+<p style="text-align: left; width:60%;  display: inline-block;"></p> — Shaoxiong (Steven) Yuan
+-<p style="text-align: left; width:70%;  display: inline-block;"></p> B.S. in Applied and Computational Mathematics & Computer Science and Business Administration
 <p style="text-align: left; width:60%;  display: inline-block;"></p> Class of 2024
-<p style="text-align: left; width:60%;  display: inline-block;"></p> <a href=mailto:yeqilin@usc.edu>yeqilin@usc.edu</a>
+<p style="text-align: left; width:60%;  display: inline-block;"></p> <a href=mailto:syuan697@usc.edu>syuan697@usc.edu</a>
 
 ---
 
-My LaTeX setup: [VimTeX](https://github.com/lervag/vimtex)+[UltiSnips](https://github.com/SirVer/ultisnips)+[LLPS](https://github.com/xuhdev/vim-latex-live-preview). Idea originated from [here](https://castel.dev). For figures (in particular function plots), I use [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz). I might start to learn `Inkscape` or `Ipe` soon, should I find them necessary (for complex analysis or PDEs, for example).
+<!-- My LaTeX setup: [VimTeX](https://github.com/lervag/vimtex)+[UltiSnips](https://github.com/SirVer/ultisnips)+[LLPS](https://github.com/xuhdev/vim-latex-live-preview). Idea originated from [here](https://castel.dev). For figures (in particular function plots), I use [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz). I might start to learn `Inkscape` or `Ipe` soon, should I find them necessary (for complex analysis or PDEs, for example).
 
-Despite my ~~fluent~~ LaTex skills, I only know ε more than `hello world` in CS.
+Despite my ~~fluent~~ LaTex skills, I only know ε more than `hello world` in CS. -->
 
 <!---_A [demo](https://github.com/YQL-Skorpion/YQL-Skorpion.github.io/blob/main/demo.tex) file (and [pdf](http://yql-skorpion.github.io/demo.pdf)) with the current preamble I am using._ --->
 
