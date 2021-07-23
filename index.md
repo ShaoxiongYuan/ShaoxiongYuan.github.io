@@ -22,11 +22,15 @@ Hello, welcome to my repository with USC course contents and my personal project
    
       Course Textbook: A First Course in Probability (9th edition)
    
-      [**All Lecture Notes**](http://yql-skorpion.github.io/Files/USC/2021_Spring/MATH_407_Probability/Notes/407_notes.pdf)
+      [**All Lecture Notes**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_407/MATH_407_Notes.pdf)
+
+      [**Quiz 1**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_407/407Quiz1.pdf)
+
+      [**Quiz 2**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_407/407Quiz2.pdf)
    
-      [**Midterm Exam**](http://yql-skorpion.github.io/Files/USC/2021_Spring/MATH_410_Algebra/Project_FiniteFT/Project_FT.pdf)
+      [**Midterm Exam**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_407/407Midterm1.pdf)
    
-      [**Final Exam**](http://yql-skorpion.github.io/Files/USC/2021_Spring/MATH_410_Algebra/Project_FiniteFT/Project_FT.pdf)
+      [**Final Exam with Solution**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_407/407Final.pdf)
    
    2. **MATH 430, Number Theory, *Prof. P. Tokorcheck***
    
@@ -75,33 +79,13 @@ Hello, welcome to my repository with USC course contents and my personal project
       [**Midterm Exam**](http://yql-skorpion.github.io/Files/USC/2021_Spring/MATH_410_Algebra/Project_FiniteFT/Project_FT.pdf)
    
       [**Final Exam**](http://yql-skorpion.github.io/Files/USC/2021_Spring/MATH_410_Algebra/Project_FiniteFT/Project_FT.pdf)
-   
-3. Pre-USC: [some notes](https://yql-skorpion.github.io/Files/USC/Pre_USC_Algebra/BC_Abstract_Algebra/AbsAlgebraNotes.pdf) on abstract algebra ([source](http://fmwww.bc.edu/gross/MT216/MT216_notes.pdf)). My first large LaTeX document.
+
+
+## For CS:
 
 
 
 
+Credit to Qilin Ye (yeqilin@usc.edu). His website: https://yql-skorpion.github.io/.
 
-
-
-
----
-
-
-
-
-## For Piano: 
-
-| Date | Repertoire |
-| :---: | :---: |
-| 2/23 | [Beethoven, Sonata No.11 Op.22, 1st mvt](https://yql-skorpion.github.io/Files/USC/Piano/Beethoven/Beethoven_Sonata_No.11_Op.22_mvt1.pdf) |
-| 3/9 | [Schubert, Impromptu Op.90 No.1 in C minor, D.899](https://yql-skorpion.github.io/Files/USC/Piano/Schubert/Schubert_Impromptu_Op.90_No.1.pdf) |
-| 3/16 | [Beethoven, Sonata No.11 Op.22, 2nd mvt](https://yql-skorpion.github.io/Files/USC/Piano/Beethoven/Beethoven_Sonata_No.11_Op.22_mvt2.pdf) |
-| 3/30 | [Bach, English Suite No.2 (Prelude), BWV 807](http://yql-skorpion.github.io/Files/USC/Piano/Bach/Bach_EnSuite_No.2_BWV807_Prelude.pdf) |
-| 4/12 | Same as [3/9 (Schubert)](https://yql-skorpion.github.io/Files/USC/Piano/Schubert/Schubert_Impromptu_Op.90_No.1.pdf) |
-| 4/19 | [Bach, BWV 807 (Allemonde)](http://yql-skorpion.github.io/Files/USC/Piano/Bach/Bach_EnSuite_No.2_BWV807_Allemonde.pdf) |
-| 4/26 | Mock Jury |
-
-
-
-Credit to Qilin Ye (yeqilin@usc.edu), who helped me build this amazing website
+He possesses great skills of using LaTeX, using which he wrote all of his math course notes that are extremely visual appealing. (You are probably gonna love math because of his notes!) He also includes the LaTeX configurations in his home page.
