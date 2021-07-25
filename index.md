@@ -74,6 +74,8 @@ Hello, welcome to my repository with USC course contents and my personal project
    
       Course Textbook: Essential Calculus by James Stewart
 
+      Useful Resources: [Symbolab](https://www.symbolab.com/)  |  [Wolfram|Alpha](https://www.wolframalpha.com/)  |  [Mathematica Free Download for USC](https://software.usc.edu/mathematica/)
+
       **Lecture Notes**
 
       | Lecture Notes by Months | Links     |
@@ -172,9 +174,17 @@ Hello, welcome to my repository with USC course contents and my personal project
 
    The source code can be found [here](https://ShaoxiongYuan.github.io/Files/Projects/dadashop/dadashop12.zip).
 
-   This project also uses Nginx to handle static requests such as html templates, css files, and js files. To download nginx, visit [this link](http://nginx.org/en/download.html). The configuration file canbe found at [this link](https://ShaoxiongYuan.github.io/Files/Projects/dadashop/nginx.conf). The static files can be found at [this link](https://ShaoxiongYuan.github.io/Files/Projects/dadashop/dadashop.zip)
+   This project also uses Nginx to handle static requests such as html templates, css files, and js files. To download nginx, visit [this link](http://nginx.org/en/download.html). The configuration file canbe found at [this link](https://ShaoxiongYuan.github.io/Files/Projects/dadashop/nginx.conf). The static files can be found at [this link](https://ShaoxiongYuan.github.io/Files/Projects/dadashop/dadashop.zip).
 
+5. **GPT-2 (Generative "Python" Transformer) Implementation**
 
+   This project trained the GPT model from scratch to allow the computer to predict what my next line of Python code is. The complete tutorial is taught by [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) in [Generating Python code with GPT](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ). The trained model using 80G of python files can be found at [this link](https://huggingface.co/Sentdex/GPyT).
+
+   The source code can be found [here](https://ShaoxiongYuan.github.io/Files/Projects/gpt-2.zip)
+
+6. **Download all Microsoft Templates with Scrapy**
+
+   The source code can be found [here](https://ShaoxiongYuan.github.io/Files/Projects/Microsoft.zip).
 
 
 Credit to Qilin Ye (yeqilin@usc.edu). 
