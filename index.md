@@ -2,9 +2,9 @@ Hello, welcome to my repository with USC course contents and my personal project
 
 ​                                                                                                                        **— Shaoxiong (Steven) Yuan**
 
-​                                                                                       B.S. in Applied and Computational Mathematics
+​                                                                                   B.S. in Applied and Computational Mathematics &
 
-​                                                                                B.S. Computer Science and Business Administration
+​                                                                           B.S. in Computer Science and Business Administration
 
 ​                                                                                                                                                     Class of 2024
 
@@ -174,7 +174,7 @@ Hello, welcome to my repository with USC course contents and my personal project
 
    The source code can be found [here](https://ShaoxiongYuan.github.io/Files/Projects/dadashop/dadashop12.zip).
 
-   This project also uses Nginx to handle static requests such as html templates, css files, and js files. To download nginx, visit [this link](http://nginx.org/en/download.html). The configuration file canbe found at [this link](https://ShaoxiongYuan.github.io/Files/Projects/dadashop/nginx.conf). The static files can be found at [this link](https://ShaoxiongYuan.github.io/Files/Projects/dadashop/dadashop.zip).
+   This project also uses Nginx to handle static requests such as html templates, css files, and js files. To download nginx, visit [this link](http://nginx.org/en/download.html). The configuration file can be found [here](https://ShaoxiongYuan.github.io/Files/Projects/dadashop/nginx.conf). The static files can be found [here](https://ShaoxiongYuan.github.io/Files/Projects/dadashop/dadashop.zip).
 
 5. **GPT-2 (Generative "Python" Transformer) Implementation**
 
@@ -185,6 +185,8 @@ Hello, welcome to my repository with USC course contents and my personal project
 6. **Download all Microsoft Templates with Scrapy**
 
    The source code can be found [here](https://ShaoxiongYuan.github.io/Files/Projects/Microsoft.zip).
+   
+   
 
 
 Credit to Qilin Ye (yeqilin@usc.edu). 
