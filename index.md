@@ -2,9 +2,9 @@ Hello, welcome to my repository with USC course contents and my personal project
 
 ​                                                                                                                        **— Shaoxiong (Steven) Yuan**
 
-​                                                                                   B.S. in Applied and Computational Mathematics &
+​                                                                                   [B.S. in Applied and Computational Mathematics](https://catalogue.usc.edu/preview_program.php?catoid=14&poid=16919) &
 
-​                                                                           B.S. in Computer Science and Business Administration
+​                                                                           [B.S. in Computer Science and Business Administration](https://catalogue.usc.edu/preview_program.php?catoid=14&poid=17153)
 
 ​                                                                                                                                                     Class of 2024
 
@@ -111,12 +111,15 @@ Hello, welcome to my repository with USC course contents and my personal project
 
       [**Final Exam**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/226_final.pdf)
 
+3. **Fall 2021: MATH 408, Mathematical Statistics, *Prof J. Bartroff***
+
+   Course Textbook: Mathematical Statistics and Data Analysis by John A. Rice
 
 ---
 
 ## For CS:
 
-1. **Summer 2021: CSCI 104, Data Structure and Object Oriented Programming, Prof. M. Redekopp**
+1. **Summer 2021: CSCI 104, Data Structure and Object Oriented Programming, *Prof. M. Redekopp***
 
    Please refer to the [course website](https://bytes.usc.edu/cs104/) for more information!
    
@@ -137,7 +140,15 @@ Hello, welcome to my repository with USC course contents and my personal project
    
    [**Final Exam**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/CSCI_170/final.pdf)
 
+3. <details><summary> <b>Fall 2021</b> (CSCI 201/360). Click to expand/collapse</summary><p>
 
+   1. **CSCI 201, Principles of Software Development, [*Prof. V. Adamchik*](https://viterbi-web.usc.edu/~adamchik/)**
+
+      Course Textbook: *#NA*
+   
+   2. **CSCI 360, Introduction to Artificial Intelligence, [*Prof. S. Koenig*](http://www.idm-lab.org/)**
+
+      Course Textbook: Artificial Intelligence by Russell Stewart
 ---
 
 ## Personal Projects:
@@ -152,7 +163,7 @@ Hello, welcome to my repository with USC course contents and my personal project
 
    Professor Gregory Dresden's Homepage: https://dresden.academic.wlu.edu/
 
-   Link to my final paper on continued fractions: [Final Paper](https://ShaoxiongYuan.github.io/Files/Projects/Pioneer/final_paper.pdf)
+   Link to my final paper on continued fractions: [Final Paper](https://arxiv.org/abs/1907.12459)
 
    Program Textbook: [Proofs That Really Count](https://ShaoxiongYuan.github.io/Files/Projects/Pioneer/textbook.pdf)
 
@@ -164,7 +175,7 @@ Hello, welcome to my repository with USC course contents and my personal project
 
    The source code can be found [here](https://ShaoxiongYuan.github.io/Files/Projects/Flask_Blog.zip).
    
-   I have also deployed it to the Internet following Corey's tutorials. The link to the blog website is https://www.myflaskblog.xyz.
+   <!-- I have also deployed it to the Internet following Corey's tutorials. The link to the blog website is https://www.myflaskblog.xyz. -->
 
 3. **Comment System Using "Waterfall Loading" (probably?) Using Flask**
 
@@ -186,7 +197,14 @@ Hello, welcome to my repository with USC course contents and my personal project
 
    The source code can be found [here](https://ShaoxiongYuan.github.io/Files/Projects/Microsoft.zip).
    
-   
+---
+
+**Useful Websites:**
+   Software Available to Campus: https://software.usc.edu/ (Some softwares have educational licenses and can be applied directly in their official websites)
+
+   USC Schedule of Classes: https://classes.usc.edu/
+
+   USC Catalogue: https://catalogue.usc.edu/
 
 
 Credit to Qilin Ye (yeqilin@usc.edu). 
