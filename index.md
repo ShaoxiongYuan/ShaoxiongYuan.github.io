@@ -2,9 +2,9 @@ Hello, welcome to my repository with USC course contents and my personal project
 
 **— Shaoxiong (Steven) Yuan**
 
-<p style="text-align:right;">Applied and Computational Mathematics](https://catalogue.usc.edu/preview_program.php?catoid=14&poid=16919) &</p> 
+<p style="text-align:right;" markdown="1">[Applied and Computational Mathematics](https://catalogue.usc.edu/preview_program.php?catoid=14&poid=16919) &</p> 
 
-<p style="text-align:right;">[B.S. in Computer Science and Business Administration](https://catalogue.usc.edu/preview_program.php?catoid=14&poid=17153)</p>
+<p style="text-align:right;" markdown="1">[B.S. in Computer Science and Business Administration](https://catalogue.usc.edu/preview_program.php?catoid=14&poid=17153)</p>
 
 <p style="text-align:right;">Class of 2024</p>
 
