@@ -1,14 +1,14 @@
 Hello, welcome to my repository with USC course contents and my personal projects.
 
-​                                                                                                                        **— Shaoxiong (Steven) Yuan**
+**— Shaoxiong (Steven) Yuan**
 
-​                                                                                   [B.S. in Applied and Computational Mathematics](https://catalogue.usc.edu/preview_program.php?catoid=14&poid=16919) &
+<p style="text-align:right;">Applied and Computational Mathematics](https://catalogue.usc.edu/preview_program.php?catoid=14&poid=16919) &</p> 
 
-​                                                                           [B.S. in Computer Science and Business Administration](https://catalogue.usc.edu/preview_program.php?catoid=14&poid=17153)
+<p style="text-align:right;">[B.S. in Computer Science and Business Administration](https://catalogue.usc.edu/preview_program.php?catoid=14&poid=17153)</p>
 
-​                                                                                                                                                     Class of 2024
+<p style="text-align:right;">Class of 2024</p>
 
-​                                                                                                                                          <a href=mailto:syuan697@usc.edu>syuan697@usc.edu</a>
+<p style="text-align:right;"><a href=mailto:syuan697@usc.edu>syuan697@usc.edu</a></p>
 
 ---
 
@@ -125,7 +125,7 @@ Hello, welcome to my repository with USC course contents and my personal project
    
    My solution to the six homework can be found at this [GitHub repository](https://github.com/ShaoxiongYuan/csci104-homework)
 
-2. **Spring 2021: CSCI 170, Discrete Methods in Computer Science, Prof. S. Batista**
+2. **Spring 2021: CSCI 170, Discrete Methods in Computer Science, *Prof. S. Batista***
 
    [**Course Syllabus**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/CSCI_170/syllabus170_sp2021.pdf)
 
