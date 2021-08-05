@@ -2,9 +2,9 @@ Hello, welcome to my repository with USC course contents and my personal project
 
 **— Shaoxiong (Steven) Yuan**
 
-<p style="text-align:right;" markdown="1">[Applied and Computational Mathematics](https://catalogue.usc.edu/preview_program.php?catoid=14&poid=16919) &</p> 
+<p style="text-align:right;">B.S. in Applied and Computational Mathematics &</p> 
 
-<p style="text-align:right;" markdown="1">[B.S. in Computer Science and Business Administration](https://catalogue.usc.edu/preview_program.php?catoid=14&poid=17153)</p>
+<p style="text-align:right;">B.S. in Computer Science and Business Administration</p>
 
 <p style="text-align:right;">Class of 2024</p>
 
@@ -14,7 +14,11 @@ Hello, welcome to my repository with USC course contents and my personal project
 
 ## For Math: 
 
-1. <details><summary> <b>Spring 2021</b> (MATH 407/430). Click to expand/collapse</summary><p>
+1. **Fall 2021: MATH 408, Mathematical Statistics, *Prof J. Bartroff***
+
+   Course Textbook: Mathematical Statistics and Data Analysis by John A. Rice
+
+2. <details><summary> <b>Spring 2021</b> (MATH 407/430). Click to expand/collapse</summary><p>
 
    1. **MATH 407, Probability Theory, *Prof. J. Fulman***
    
@@ -52,7 +56,7 @@ Hello, welcome to my repository with USC course contents and my personal project
       
       [**Final Exam**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_430/21Spring_430_Exam3.pdf)
    
-2. <details><summary> <b>Fall 2020</b> (MATH 225/226). Click to expand/collapse</summary><p>
+3. <details><summary> <b>Fall 2020</b> (MATH 225/226). Click to expand/collapse</summary><p>
    
    1. **MATH 225, Linear Algebra and Differential Equation, *Prof. S. Kamienny***
    
@@ -111,21 +115,26 @@ Hello, welcome to my repository with USC course contents and my personal project
 
       [**Final Exam**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/226_final.pdf)
 
-3. **Fall 2021: MATH 408, Mathematical Statistics, *Prof J. Bartroff***
-
-   Course Textbook: Mathematical Statistics and Data Analysis by John A. Rice
-
 ---
 
 ## For CS:
+1. <details><summary> <b>Fall 2021</b> (CSCI 201/360). Click to expand/collapse</summary><p>
 
-1. **Summer 2021: CSCI 104, Data Structure and Object Oriented Programming, *Prof. M. Redekopp***
+   1. **CSCI 201, Principles of Software Development, [*Prof. V. Adamchik*](https://viterbi-web.usc.edu/~adamchik/)**
+
+      Course Textbook: *#NA*
+   
+   2. **CSCI 360, Introduction to Artificial Intelligence, [*Prof. S. Koenig*](http://www.idm-lab.org/)**
+
+      Course Textbook: Artificial Intelligence by Russell Stewart
+
+2. **Summer 2021: CSCI 104, Data Structure and Object Oriented Programming, *Prof. M. Redekopp***
 
    Please refer to the [course website](https://bytes.usc.edu/cs104/) for more information!
    
    My solution to the six homework can be found at this [GitHub repository](https://github.com/ShaoxiongYuan/csci104-homework)
 
-2. **Spring 2021: CSCI 170, Discrete Methods in Computer Science, *Prof. S. Batista***
+3. **Spring 2021: CSCI 170, Discrete Methods in Computer Science, *Prof. S. Batista***
 
    [**Course Syllabus**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/CSCI_170/syllabus170_sp2021.pdf)
 
@@ -140,15 +149,23 @@ Hello, welcome to my repository with USC course contents and my personal project
    
    [**Final Exam**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/CSCI_170/final.pdf)
 
-3. <details><summary> <b>Fall 2021</b> (CSCI 201/360). Click to expand/collapse</summary><p>
+4. **Fall 2020: ITP 168, Introduction to Matlab, *Prof. R. Kim***
 
-   1. **CSCI 201, Principles of Software Development, [*Prof. V. Adamchik*](https://viterbi-web.usc.edu/~adamchik/)**
+   Course Textbook: Not Available
 
-      Course Textbook: *#NA*
-   
-   2. **CSCI 360, Introduction to Artificial Intelligence, [*Prof. S. Koenig*](http://www.idm-lab.org/)**
+   **Midterm**
 
-      Course Textbook: Artificial Intelligence by Russell Stewart
+   | Files                      | Links |
+   | -------------------------- | ----- |
+   | Practice Midterm           | [**Practice Midterm**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/ITP_168/midterm_practice.pdf)      |
+   | Practice Midterm Solutions | [**Practice Midterm Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/ITP_168/mp_ans.pdf)      |
+
+   **Final**
+
+   | Files                      | Links |
+   | -------------------------- | ----- |
+   | Practice Final           | [**Practice Final**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/ITP_168/final_practice.pdf)      |
+   | Practice Midterm Solutions | [**Practice Final Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/ITP_168/fp_ans.pdf)      |
 ---
 
 ## Personal Projects:
@@ -199,13 +216,14 @@ Hello, welcome to my repository with USC course contents and my personal project
    
 ---
 
-**Useful Websites:**
+## Useful Websites:
    Software Available to Campus: https://software.usc.edu/ (Some softwares have educational licenses and can be applied directly in their official websites)
 
    USC Schedule of Classes: https://classes.usc.edu/
 
    USC Catalogue: https://catalogue.usc.edu/
 
+---
 
 Credit to Qilin Ye (yeqilin@usc.edu). 
 
