@@ -18,6 +18,29 @@ Hello, welcome to my repository with USC course contents and my personal project
 
    Course Textbook: Mathematical Statistics and Data Analysis by John A. Rice
 
+   [**Course Syllabus**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/MATH_408/syllabus.pdf)
+
+   **Midterm Exam 1**
+      
+      | Files                      | Links |
+      | -------------------------- | ----- |
+      | Practice Midterm 1          | [**Practice Midterm**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/MATH_408/mtI2021F_prac.pdf)      |
+      | Practice Midterm 1 Solutions | [**Practice Midterm Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/MATH_408/mtI2021F_prac_soln.pdf)      |
+
+   **Midterm Exam 2**
+
+      | Files                      | Links |
+      | -------------------------- | ----- |
+      | Practice Midterm 2          | [**Practice Midterm**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/MATH_408/mtII2021F_prac.pdf)      |
+      | Practice Midterm 2 Solutions | [**Practice Midterm Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/MATH_408/mtII2021F_prac_soln.pdf)      |
+
+   **Final**
+
+      | Files                      | Links |
+      | -------------------------- | ----- |
+      | Practice Final           | [**Practice Final**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/MATH_408/final2021F_prac.pdf)      |
+      | Practice Final Solutions | [**Practice Final Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/MATH_408/final2021F_prac_soln.pdf)      |
+
 2. <details><summary> <b>Spring 2021</b> (MATH 407/430). Click to expand/collapse</summary><p>
 
    1. **MATH 407, Probability Theory, *Prof. J. Fulman***
@@ -118,23 +141,35 @@ Hello, welcome to my repository with USC course contents and my personal project
 ---
 
 ## For CS:
-1. <details><summary> <b>Fall 2021</b> (CSCI 201/360). Click to expand/collapse</summary><p>
+1. <details><summary> <b>Fall 2021</b> (CSCI 201/270). Click to expand/collapse</summary><p>
 
    1. **CSCI 201, Principles of Software Development, [*Prof. V. Adamchik*](https://viterbi-web.usc.edu/~adamchik/)**
 
-      Course Textbook: *#NA*
-   
-   2. **CSCI 360, Introduction to Artificial Intelligence, [*Prof. S. Koenig*](http://www.idm-lab.org/)**
+      Course Textbook: Introduction to Java Programming and Data Structures by Y. Daniel Liang(12th edition)
 
-      Course Textbook: Artificial Intelligence by Russell Stewart
+      [**Course Syllabus**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/CSCI_201/syllabus.pdf)
+
+      [**Programming Assignment 1**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/CSCI_201/PA1.pdf)
+
+      [**Programming Assignment 2**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/CSCI_201/PA2.pdf)
+
+      My solution to the first two programming assignments can be found [here](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/CSCI_201/CSCI_201.zip)
+   
+   2. **CSCI 270, Introduction to Artificial Intelligence, [*Prof. S. Dughmi*](http://www.idm-lab.org/)**
+
+      Please refer to the [course website](https://viterbi-web.usc.edu/~shaddin/cs270fa21/index.html) for more information!
+
+      Course Textbook: Algorithm Design by Jon Kleinberg and Eva Tardos
 
 2. **Summer 2021: CSCI 104, Data Structure and Object Oriented Programming, *Prof. M. Redekopp***
 
    Please refer to the [course website](https://bytes.usc.edu/cs104/) for more information!
    
-   My solution to the six homework can be found at this [GitHub repository](https://github.com/ShaoxiongYuan/csci104-homework)
+   My solution to the six programming assignments can be found at this [GitHub repository](https://github.com/ShaoxiongYuan/csci104-homework)
 
 3. **Spring 2021: CSCI 170, Discrete Methods in Computer Science, *Prof. S. Batista***
+
+   Course Textbook: Essential Discrete Mathematics for Computer Science, by Harry Lewis and Rachel Zax
 
    [**Course Syllabus**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/CSCI_170/syllabus170_sp2021.pdf)
 
@@ -165,7 +200,7 @@ Hello, welcome to my repository with USC course contents and my personal project
    | Files                      | Links |
    | -------------------------- | ----- |
    | Practice Final           | [**Practice Final**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/ITP_168/final_practice.pdf)      |
-   | Practice Midterm Solutions | [**Practice Final Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/ITP_168/fp_ans.pdf)      |
+   | Practice Final Solutions | [**Practice Final Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/ITP_168/fp_ans.pdf)      |
 ---
 
 ## Personal Projects:
