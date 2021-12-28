@@ -155,11 +155,13 @@ Hello, welcome to my repository with USC course contents and my personal project
 
       My solution to the first two programming assignments can be found [here](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/CSCI_201/CSCI_201.zip)
    
-   2. **CSCI 270, Introduction to Artificial Intelligence, [*Prof. S. Dughmi*](http://www.idm-lab.org/)**
+   2. **CSCI 270, Introduction to Artificial Intelligence, *Prof. S. Dughmi***
 
       Please refer to the [course website](https://viterbi-web.usc.edu/~shaddin/cs270fa21/index.html) for more information!
 
       Course Textbook: Algorithm Design by Jon Kleinberg and Eva Tardos
+
+      A Useful Course on Coursera: [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
 
 2. **Summer 2021: CSCI 104, Data Structure and Object Oriented Programming, *Prof. M. Redekopp***
 
