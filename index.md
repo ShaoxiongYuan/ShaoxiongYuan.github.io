@@ -141,35 +141,68 @@ Hello, welcome to my repository with USC course contents and my personal project
 ---
 
 ## For CS:
-1. <details><summary> <b>Fall 2021</b> (CSCI 201/270). Click to expand/collapse</summary><p>
+1. **Spring 2022: CSCI 360, Introduction to Artificial Intelligence, *Prof. Bistra N. Dilkina***
+
+   Course Textbook: Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig (4th edition)
+
+   [**Course Syllabus**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/syllabus.pdf)
+
+   **Projects**
+
+   | Files                      | Links |
+   | -------------------------- | ----- |
+   | Project 1 | [**PA1**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_1.pdf)  |
+   | Project 2 | [**PA2**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_2.pdf)  |
+   | Project 3 | [**PA3**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_3.pdf)  |
+   <!-- | Project 4 | [**PA4**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_4.pdf)  | -->
+
+   [**Solution to PA1:**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_1.zip)
+
+   [**Solution to PA2:**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_2.zip)
+
+   **Homework**
+
+   | Files                      | Links |
+   | -------------------------- | ----- |
+   | Homework 1 | [**HW1**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/hw1.pdf)  |
+   <!-- | Homework 2 | [**PA2**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_2.pdf)  |
+   | Homework 3 | [**PA3**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_3.pdf)  |
+   | Homework 4 | [**PA4**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_4.pdf)  | -->
+
+2. <details><summary> <b>Fall 2021</b> (CSCI 201/270). Click to expand/collapse</summary><p>
 
    1. **CSCI 201, Principles of Software Development, [*Prof. V. Adamchik*](https://viterbi-web.usc.edu/~adamchik/)**
 
-      Course Textbook: Introduction to Java Programming and Data Structures by Y. Daniel Liang(12th edition)
+      Course Textbook: Introduction to Java Programming and Data Structures by Y. Daniel Liang (12th edition)
 
       [**Course Syllabus**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/CSCI_201/syllabus.pdf)
 
-      [**Programming Assignment 1**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/CSCI_201/PA1.pdf)
+      **Prgramming Assignments**
 
-      [**Programming Assignment 2**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/CSCI_201/PA2.pdf)
+      | Files                      | Links |
+      | -------------------------- | ----- |
+      | Programming Assignment 1 | [**PA1**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/CSCI_201/PA1.pdf)      |
+      | Programming Assignment 2 | [**PA2**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/CSCI_201/PA2.pdf)      |
+      | Programming Assignment 3 | [**PA3**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/CSCI_201/PA3.pdf)      |
+      | Programming Assignment 4 | [**PA4**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/CSCI_201/PA4.pdf)      |
 
       My solution to the first two programming assignments can be found [here](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/CSCI_201/CSCI_201.zip)
    
    2. **CSCI 270, Introduction to Artificial Intelligence, *Prof. S. Dughmi***
 
-      Please refer to the [course website](https://viterbi-web.usc.edu/~shaddin/cs270fa21/index.html) for more information!
+      Please refer to the [course website](https://viterbi-web.usc.edu/~shaddin/cs270fa21/index.html) for more information including course syllabus and assignments!
 
       Course Textbook: Algorithm Design by Jon Kleinberg and Eva Tardos
 
       A Useful Course on Coursera: [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
 
-2. **Summer 2021: CSCI 104, Data Structure and Object Oriented Programming, *Prof. M. Redekopp***
+3. **Summer 2021: CSCI 104, Data Structure and Object Oriented Programming, *Prof. M. Redekopp***
 
    Please refer to the [course website](https://bytes.usc.edu/cs104/) for more information!
    
    My solution to the six programming assignments can be found at this [GitHub repository](https://github.com/ShaoxiongYuan/csci104-homework)
 
-3. **Spring 2021: CSCI 170, Discrete Methods in Computer Science, *Prof. S. Batista***
+4. **Spring 2021: CSCI 170, Discrete Methods in Computer Science, *Prof. S. Batista***
 
    Course Textbook: Essential Discrete Mathematics for Computer Science, by Harry Lewis and Rachel Zax
 
@@ -186,7 +219,7 @@ Hello, welcome to my repository with USC course contents and my personal project
    
    [**Final Exam**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/CSCI_170/final.pdf)
 
-4. **Fall 2020: ITP 168, Introduction to Matlab, *Prof. R. Kim***
+5. **Fall 2020: ITP 168, Introduction to Matlab, *Prof. R. Kim***
 
    Course Textbook: Not Available
 
