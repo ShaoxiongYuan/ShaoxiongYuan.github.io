@@ -154,20 +154,22 @@ Hello, welcome to my repository with USC course contents and my personal project
    | Project 1 | [**PA1**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_1.pdf)  |
    | Project 2 | [**PA2**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_2.pdf)  |
    | Project 3 | [**PA3**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_3.pdf)  |
-   <!-- | Project 4 | [**PA4**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_4.pdf)  | -->
+   | Project 4 | [**PA4**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_4.pdf)  |
 
    [**Solution to PA1:**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_1.zip)
 
    [**Solution to PA2:**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_2.zip)
 
+   [**Solution to PA3:**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_3.zip)
+
+   [**Solution to PA4:**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_4.zip)
+
    **Homework**
 
-   | Files                      | Links |
-   | -------------------------- | ----- |
-   | Homework 1 | [**HW1**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/hw1.pdf)  |
-   <!-- | Homework 2 | [**PA2**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_2.pdf)  |
-   | Homework 3 | [**PA3**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_3.pdf)  |
-   | Homework 4 | [**PA4**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_4.pdf)  | -->
+   | Files                      | Links |   Solutions   |
+   | -------------------------- | ----- | ------------- |
+   | Homework 1 | [**HW1**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/hw1.pdf)  | [**HW1 Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/hw1_sol.pdf) |
+   | Homework 2 | [**HW2**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/hw2.pdf)  | [**HW2 Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/hw2_sol.pdf) |
 
 2. <details><summary> <b>Fall 2021</b> (CSCI 201/270). Click to expand/collapse</summary><p>
 
