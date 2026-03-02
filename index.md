@@ -1,14 +1,15 @@
-Hello, welcome to my repository with USC course contents and my personal projects.
+# Shaoxiong (Steven) Yuan
 
-**— Shaoxiong (Steven) Yuan**
+Welcome! This site hosts my USC coursework, personal projects, and movie reviews.
 
-<p style="text-align:right;">B.S. in Applied and Computational Mathematics &</p> 
+<p style="text-align:right;"><b>B.S. in Applied and Computational Mathematics &</b></p>
+<p style="text-align:right;"><b>B.S. in Computer Science and Business Administration</b></p>
+<p style="text-align:right;">University of Southern California — Class of 2024</p>
+<p style="text-align:right;"><a href="mailto:syuan697@usc.edu">syuan697@usc.edu</a></p>
 
-<p style="text-align:right;">B.S. in Computer Science and Business Administration</p>
+---
 
-<p style="text-align:right;">Class of 2024</p>
-
-<p style="text-align:right;"><a href=mailto:syuan697@usc.edu>syuan697@usc.edu</a></p>
+**Quick Navigation:** [Math Courses](#for-math) | [CS Courses](#for-cs) | [Personal Projects](#personal-projects) | [Movie Reviews](movie-reviews.md) | [Useful Links](#useful-websites)
 
 ---
 
@@ -278,6 +279,18 @@ Hello, welcome to my repository with USC course contents and my personal project
 
    The source code can be found [here](https://ShaoxiongYuan.github.io/Files/Projects/Microsoft.zip).
    
+---
+
+## Movie Reviews
+
+I write occasional film reviews when a movie is worth thinking about beyond the credits — more analytical than plot summary.
+
+**[→ View All Movie Reviews](movie-reviews.md)**
+
+| Film | Director | Rating |
+| ---- | -------- | ------ |
+| [*Good Luck, Have Fun, Don't Die*](movie-reviews.md#good-luck-have-fun-dont-die) | Gore Verbinski | ★★★★ |
+
 ---
 
 ## Useful Websites:

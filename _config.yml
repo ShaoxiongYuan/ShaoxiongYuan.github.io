@@ -1,4 +1,12 @@
 markdown: GFM
 title: Steven Yuan's Repository
-description: This website is used to store all distributable resources.
-theme: jekyll-theme-merlot
+description: USC coursework, personal projects, and movie reviews.
+
+# Disable default theme — we use a custom layout instead
+theme: null
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
