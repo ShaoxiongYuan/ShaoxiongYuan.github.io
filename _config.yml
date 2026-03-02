@@ -1,6 +1,9 @@
-markdown: GFM
+markdown: kramdown
+kramdown:
+  input: GFM
+
 title: Steven Yuan's Repository
-description: USC coursework, personal projects, and movie reviews.
+description: Coursework, personal projects, and movie reviews.
 
 # Disable default theme — we use a custom layout instead
 theme: null
