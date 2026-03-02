@@ -1,19 +1,24 @@
 # Shaoxiong (Steven) Yuan
 
-Welcome! This site hosts my USC coursework, personal projects, and movie reviews.
+Welcome! This site hosts my coursework, personal projects, and movie reviews.
 
-<p style="text-align:right;"><b>B.S. in Applied and Computational Mathematics &</b></p>
+<p style="text-align:right;"><b>M.F.E. in Financial Engineering</b></p>
+<p style="text-align:right;">UCLA Anderson School of Management — December 2025</p>
+<p style="text-align:right;">&nbsp;</p>
+<p style="text-align:right;"><b>B.A. in Applied and Computational Mathematics &</b></p>
 <p style="text-align:right;"><b>B.S. in Computer Science and Business Administration</b></p>
 <p style="text-align:right;">University of Southern California — Class of 2024</p>
-<p style="text-align:right;"><a href="mailto:syuan697@usc.edu">syuan697@usc.edu</a></p>
+<p style="text-align:right;"><a href="mailto:ysxstevenpp123@gmail.com">ysxstevenpp123@gmail.com</a></p>
 
 ---
 
-**Quick Navigation:** [Math Courses](#for-math) | [CS Courses](#for-cs) | [Personal Projects](#personal-projects) | [Movie Reviews](movie-reviews.md) | [Useful Links](#useful-websites)
+**Quick Navigation:** [USC Courses](#usc-coursework) | [UCLA Courses](#ucla-coursework) | [Personal Projects](#personal-projects) | [Movie Reviews](movie-reviews.md)
 
 ---
 
-## For Math: 
+## USC Coursework
+
+### For Math:
 
 1. **Fall 2021: MATH 408, Mathematical Statistics, *Prof J. Bartroff***
 
@@ -141,7 +146,8 @@ Welcome! This site hosts my USC coursework, personal projects, and movie reviews
 
 ---
 
-## For CS:
+### For CS:
+
 1. **Spring 2022: CSCI 360, Introduction to Artificial Intelligence, *Prof. Bistra N. Dilkina***
 
    Course Textbook: Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig (4th edition)
@@ -231,6 +237,13 @@ Welcome! This site hosts my USC coursework, personal projects, and movie reviews
    | -------------------------- | ----- |
    | Practice Final           | [**Practice Final**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/ITP_168/final_practice.pdf)      |
    | Practice Final Solutions | [**Practice Final Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/ITP_168/fp_ans.pdf)      |
+
+---
+
+## UCLA Coursework
+
+*Files coming soon.*
+
 ---
 
 ## Personal Projects:
@@ -256,8 +269,6 @@ Welcome! This site hosts my USC coursework, personal projects, and movie reviews
    Note: I followed Corey Schafer ([His YouTube Channel](https://www.youtube.com/c/Coreyms)) to write this project.
 
    The source code can be found [here](https://ShaoxiongYuan.github.io/Files/Projects/Flask_Blog.zip).
-   
-   <!-- I have also deployed it to the Internet following Corey's tutorials. The link to the blog website is https://www.myflaskblog.xyz. -->
 
 3. **Comment System Using "Waterfall Loading" (probably?) Using Flask**
 
@@ -290,20 +301,3 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 | Film | Director | Rating |
 | ---- | -------- | ------ |
 | [*Good Luck, Have Fun, Don't Die*](movie-reviews.md#good-luck-have-fun-dont-die) | Gore Verbinski | ★★★★ |
-
----
-
-## Useful Websites:
-   Software Available to Campus: https://software.usc.edu/ (Some softwares have educational licenses and can be applied directly in their official websites)
-
-   USC Schedule of Classes: https://classes.usc.edu/
-
-   USC Catalogue: https://catalogue.usc.edu/
-
----
-
-Credit to Qilin Ye (yeqilin@usc.edu). 
-
-His website: https://yql-skorpion.github.io/.
-
-He possesses great skills of using LaTeX, using which he wrote all of his math course notes that are extremely visual appealing. (You are probably gonna love math because of his notes!) He also includes the LaTeX configurations in his home page.
