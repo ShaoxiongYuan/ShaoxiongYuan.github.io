@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Crimson+Pro:ital,wght@0,300;0,400;1,300;1,400&family=Bebas+Neue&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --ink: #0a0a0a;
+      --paper: #f5f0e8;
+      --gold: #c9a84c;
+      --gold-dim: #7a6530;
+      --muted: #6b6355;
+    }
+
+    html { font-size: 18px; }
+
+    body {
+      background: var(--ink);
+      color: var(--paper);
+      font-family: 'Crimson Pro', Georgia, serif;
+      font-weight: 300;
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* ── HERO ─────────────────────────────── */
+    .hero {
+      position: relative;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      min-height: 100vh;
+      overflow: hidden;
+    }
+
+    .hero-poster {
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero-poster img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: top center;
+      display: block;
+      filter: grayscale(20%) contrast(1.05);
+    }
+
+    .hero-poster::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(to right, transparent 60%, var(--ink) 100%),
+        linear-gradient(to bottom, transparent 80%, rgba(0,0,0,0.5) 100%);
+    }
+
+    .hero-info {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 4rem 3.5rem 4rem 3rem;
+      position: relative;
+      z-index: 1;
+    }
+
+    .back-link {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 0.75rem;
+      letter-spacing: 0.2em;
+      color: var(--gold-dim);
+      text-decoration: none;
+      margin-bottom: 3rem;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5em;
+      transition: color 0.2s;
+      width: fit-content;
+    }
+    .back-link:hover { color: var(--gold); }
+    .back-link::before { content: '←'; }
+
+    .film-label {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 0.7rem;
+      letter-spacing: 0.3em;
+      color: var(--gold);
+      margin-bottom: 1.2rem;
+      opacity: 0.8;
+    }
+
+    .film-title {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: clamp(2rem, 4.5vw, 3.8rem);
+      font-weight: 700;
+      line-height: 1.05;
+      color: var(--paper);
+      margin-bottom: 0.6rem;
+      letter-spacing: -0.01em;
+      font-style: italic;
+    }
+
+    .film-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1.5rem;
+      margin: 1.5rem 0 2rem;
+      font-family: 'Bebas Neue', sans-serif;
+      letter-spacing: 0.12em;
+      font-size: 0.82rem;
+      color: var(--muted);
+    }
+    .film-meta span { color: var(--paper); }
+
+    .star-rating {
+      display: flex;
+      align-items: baseline;
+      gap: 0.5rem;
+      margin-bottom: 2.5rem;
+    }
+    .stars {
+      font-size: 1.5rem;
+      color: var(--gold);
+      letter-spacing: 0.1em;
+      line-height: 1;
+    }
+    .star-label {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 0.7rem;
+      letter-spacing: 0.2em;
+      color: var(--muted);
+    }
+
+    .tagline {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-style: italic;
+      font-size: 1rem;
+      color: var(--gold-dim);
+      line-height: 1.55;
+      border-left: 2px solid var(--gold-dim);
+      padding-left: 1.2rem;
+      max-width: 36ch;
+    }
+
+    .hero-rule {
+      position: absolute;
+      bottom: 0; left: 0; right: 0;
+      height: 1px;
+      background: linear-gradient(to right, transparent, var(--gold-dim), transparent);
+      opacity: 0.35;
+    }
+
+    /* ── REVIEW BODY ─────────────────────── */
+    .review-body {
+      max-width: 72ch;
+      margin: 0 auto;
+      padding: 5rem 2rem 6rem;
+    }
+
+    /* Markdown output styling */
+    .review-body p {
+      font-size: 1.05rem;
+      line-height: 1.85;
+      color: #d4cfc5;
+      margin-bottom: 1.6rem;
+      font-weight: 300;
+    }
+
+    .review-body > p:first-of-type::first-letter {
+      font-family: 'Playfair Display', Georgia, serif;
+      float: left;
+      font-size: 4.2rem;
+      line-height: 0.75;
+      margin: 0.15em 0.1em 0 0;
+      color: var(--gold);
+      font-weight: 700;
+    }
+
+    .review-body h2 {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 1.35rem;
+      font-weight: 400;
+      font-style: italic;
+      color: var(--paper);
+      margin: 3rem 0 1rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid rgba(201,168,76,0.2);
+    }
+
+    .review-body em { font-style: italic; color: #e0dbd0; }
+
+    .review-body blockquote {
+      border-left: 3px solid var(--gold);
+      margin: 2.5rem 0;
+      padding: 0.4rem 0 0.4rem 1.8rem;
+    }
+    .review-body blockquote p {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-style: italic;
+      font-size: 1.15rem;
+      color: var(--paper);
+      line-height: 1.6;
+      margin-bottom: 0;
+    }
+
+    /* ── FOOTER ──────────────────────────── */
+    .review-footer {
+      border-top: 1px solid rgba(201,168,76,0.15);
+      max-width: 72ch;
+      margin: 0 auto;
+      padding: 2.5rem 2rem 4rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .review-footer a {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 0.75rem;
+      letter-spacing: 0.2em;
+      color: var(--gold-dim);
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+    .review-footer a:hover { color: var(--gold); }
+    .footer-brand {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-style: italic;
+      font-size: 0.85rem;
+      color: rgba(201,168,76,0.3);
+    }
+
+    /* ── RESPONSIVE ──────────────────────── */
+    @media (max-width: 768px) {
+      .hero { grid-template-columns: 1fr; min-height: auto; }
+      .hero-poster { height: 65vw; max-height: 440px; }
+      .hero-poster::after {
+        background: linear-gradient(to bottom, transparent 50%, var(--ink) 100%);
+      }
+      .hero-info { padding: 2.5rem 1.5rem 3rem; }
+      .back-link { margin-bottom: 1.5rem; }
+      .film-title { font-size: clamp(1.8rem, 7vw, 2.8rem); }
+    }
+  </style>
+</head>
+<body>
+
+  <section class="hero">
+    <div class="hero-poster">
+      <img src="{{ page.poster }}" alt="{{ page.film_title }} poster" loading="eager">
+    </div>
+    <div class="hero-info">
+      <a href="/movie-reviews" class="back-link">All Reviews</a>
+      <div class="film-label">Film Review</div>
+      <h1 class="film-title">{{ page.film_title }}</h1>
+      <div class="film-meta">
+        <div>Dir. <span>{{ page.director }}</span></div>
+        <div><span>{{ page.year }}</span></div>
+        <div><span>{{ page.genre }}</span></div>
+      </div>
+      <div class="star-rating">
+        <span class="stars">{{ page.rating }}</span>
+        <span class="star-label">/ 5</span>
+      </div>
+      <p class="tagline">{{ page.tagline }}</p>
+    </div>
+    <div class="hero-rule"></div>
+  </section>
+
+  <main class="review-body">
+    {{ content }}
+  </main>
+
+  <footer class="review-footer">
+    <a href="/movie-reviews">← Back to All Reviews</a>
+    <span class="footer-brand">Shaoxiong Yuan · Film</span>
+  </footer>
+
+</body>
+</html>

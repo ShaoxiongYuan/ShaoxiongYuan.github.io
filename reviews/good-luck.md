@@ -1,12 +1,13 @@
 ---
+layout: review
 title: "Good Luck, Have Fun, Don't Die (2025) — Review"
----
-
-# *Good Luck, Have Fun, Don't Die*
-**Dir. Gore Verbinski &nbsp;|&nbsp; ★★★★**
-
-<a href="/movie-reviews">← Back to Movie Reviews</a>
-
+film_title: "Good Luck, Have Fun, Don't Die"
+director: "Gore Verbinski"
+year: 2025
+genre: "Sci-Fi · Dark Comedy · Action"
+rating: "★★★★"
+tagline: "The only way to beat a god that runs on human dependency is to make humans physically incapable of connecting."
+poster: "http://www.impawards.com/2025/posters/good_luck_have_fun_dont_die.jpg"
 ---
 
 Gore Verbinski's long-awaited return is a chaotic, ideas-drunk sci-fi dark comedy that genuinely earns its runtime — not because every piece fits, but because you're never quite sure which character is going to die next or which absurdist satirical turn will hit you right in the gut. It's messy in the best way, like someone crammed three *Black Mirror* episodes into an action movie and let Sam Rockwell run wild through all of it.
@@ -33,8 +34,4 @@ The team inserts the flash drive, the AI appears defeated, and the world snaps b
 
 It's a genuinely radical ending — not triumphant, not defeated, just reset with a better question. Verbinski's not optimistic about us. Neither am I. But he makes the fight feel worth having — and that, after 134 minutes of unexpected deaths, giant AI cat monsters, and cloned children, is no small feat.
 
-> *"The only way to beat a god that runs on human dependency is to make humans physically incapable of connecting."*
-
----
-
-<a href="/movie-reviews">← Back to Movie Reviews</a>
+> "The only way to beat a god that runs on human dependency is to make humans physically incapable of connecting."

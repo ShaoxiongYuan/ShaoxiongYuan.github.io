@@ -1,17 +1,16 @@
 ---
+layout: review
 title: "How to Make a Killing (2026) — Review"
+film_title: "How to Make a Killing"
+director: "John Patton Ford"
+year: 2026
+genre: "Black Comedy · Thriller"
+rating: "★★★"
+tagline: "It wanted to be wicked. It only made it to clever."
+poster: "http://www.impawards.com/2026/posters/how_to_make_a_killing.jpg"
 ---
 
-# *How to Make a Killing*
-**Dir. John Patton Ford &nbsp;|&nbsp; ★★★**
-
-<a href="/movie-reviews">← Back to Movie Reviews</a>
-
----
-
-A fortune built on bodies, undone by the one person who played the game better.
-
-The setup is classical, almost operatic in its ambition: Becket, narrating from the shadow of his own execution, walks us through a methodical climb toward a $28 billion inheritance, one relative at a time. We know where it ends before it begins — and the film seems to know we know. That self-awareness is both its sharpest asset and its most persistent liability.
+A fortune built on bodies, undone by the one person who played the game better. The setup is classical, almost operatic in its ambition: Becket, narrating from the shadow of his own execution, walks us through a methodical climb toward a $28 billion inheritance, one relative at a time. We know where it ends before it begins — and the film seems to know we know. That self-awareness is both its sharpest asset and its most persistent liability.
 
 ## The Tragedy of Momentum
 
@@ -32,7 +31,3 @@ Supporting performances pick up the slack in isolated bursts — the film comes 
 What you're left with is a film that lands somewhere genuinely ambiguous: Becket gets the money and loses everything, Julia gets everything and deserves none of it, and the audience exits not quite satisfied, not quite cheated. Whether that moral murkiness is a feature or a flaw probably depends on your patience for stories that refuse to punish their worst people cleanly. I find myself admiring the ending more than I enjoyed getting there.
 
 Decent, and occasionally more than that. But it wanted to be wicked. It only made it to clever.
-
----
-
-<a href="/movie-reviews">← Back to Movie Reviews</a>
