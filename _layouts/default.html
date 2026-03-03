@@ -1,81 +1,456 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{{ page.title | default: site.title }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@300;400;500&family=DM+Mono:wght@400&display=swap" rel="stylesheet" />
   <style>
-    /* Reset & Base */
+    /* ── Reset & Base ────────────────────────────────── */
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
+    :root {
+      --cream:   #f7f4ef;
+      --paper:   #fffdf9;
+      --ink:     #1a1713;
+      --muted:   #6b6459;
+      --rule:    #e2ddd6;
+      --accent:  #b85c30;
+      --accent2: #4a7c6f;
+      --serif:   'Lora', Georgia, serif;
+      --sans:    'DM Sans', system-ui, sans-serif;
+      --mono:    'DM Mono', monospace;
+    }
+
+    html { scroll-behavior: smooth; }
+
     body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      background: #1a1a1a;
-      color: #e0e0e0;
-      display: flex;
+      background: var(--cream);
+      color: var(--ink);
+      font-family: var(--sans);
+      font-size: 16px;
+      line-height: 1.7;
       min-height: 100vh;
     }
 
-    a { color: #d4af7a; text-decoration: none; }
-    a:hover { text-decoration: underline; }
+    /* ── Layout ──────────────────────────────────────── */
+    .site-wrap {
+      display: grid;
+      grid-template-columns: 240px 1fr;
+      grid-template-rows: auto 1fr auto;
+      min-height: 100vh;
+    }
 
-    /* ── Sidebar ── */
+    /* ── Sidebar ─────────────────────────────────────── */
     .sidebar {
-      width: 220px;
-      min-width: 220px;
-      background: #111;
-      border-right: 1px solid #2a2a2a;
-      display: flex;
-      flex-direction: column;
-      padding: 1.5rem 0 2rem;
+      grid-row: 1 / -1;
+      background: var(--ink);
+      color: var(--cream);
+      padding: 2.5rem 1.75rem;
       position: sticky;
       top: 0;
       height: 100vh;
       overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
     }
 
     .sidebar-name {
-      font-size: 1rem;
+      font-family: var(--serif);
+      font-size: 1.25rem;
       font-weight: 600;
-      color: #f0ece4;
-      padding: 0 1.25rem 1.25rem;
-      border-bottom: 1px solid #2a2a2a;
-      margin-bottom: 1rem;
-      letter-spacing: 0.01em;
+      line-height: 1.3;
+      color: #fff;
+      letter-spacing: -0.01em;
     }
 
-    .sidebar-name a {
-      color: #f0ece4;
-      text-decoration: none;
-    }
-    .sidebar-name a:hover { color: #d4af7a; }
-
-    .nav-group { margin-bottom: 0.25rem; }
-
-    .nav-group-label {
-      font-size: 0.68rem;
-      font-weight: 600;
+    .sidebar-name span {
+      display: block;
+      font-family: var(--sans);
+      font-size: 0.72rem;
+      font-weight: 300;
       letter-spacing: 0.12em;
       text-transform: uppercase;
-      color: #555;
-      padding: 0.6rem 1.25rem 0.3rem;
+      color: #a09890;
+      margin-top: 0.35rem;
     }
 
-    .nav-link {
+    .sidebar-divider {
+      border: none;
+      border-top: 1px solid #3a3530;
+    }
+
+    .sidebar-section-label {
+      font-size: 0.65rem;
+      font-weight: 500;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: #7a7068;
+      margin-bottom: 0.6rem;
+    }
+
+    .sidebar nav ul {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 0.2rem;
+    }
+
+    .sidebar nav ul li a {
       display: block;
-      padding: 0.38rem 1.25rem 0.38rem 1.6rem;
-      font-size: 0.88rem;
-      color: #b0b0b0;
-      transition: color 0.15s, background 0.15s;
-    }
-
-    .nav-link:hover {
-      color: #f0ece4;
-      background: #1e1e1e;
+      font-size: 0.875rem;
+      color: #c8c0b8;
       text-decoration: none;
+      padding: 0.3rem 0.5rem;
+      border-radius: 4px;
+      transition: background 0.15s, color 0.15s;
     }
 
-    /* ── Degree block (used in index.md) ── */
+    .sidebar nav ul li a:hover {
+      background: #2e2a26;
+      color: #fff;
+    }
+
+    .sidebar-contact {
+      margin-top: auto;
+      font-size: 0.78rem;
+      color: #7a7068;
+    }
+
+    .sidebar-contact a {
+      color: #a09080;
+      text-decoration: none;
+      transition: color 0.15s;
+    }
+
+    .sidebar-contact a:hover { color: var(--accent); }
+
+    /* ── Main ────────────────────────────────────────── */
+    .main-content {
+      background: var(--paper);
+      padding: 3.5rem 4rem;
+      max-width: 860px;
+      width: 100%;
+    }
+
+    /* ── Typography ──────────────────────────────────── */
+    .main-content h1 {
+      font-family: var(--serif);
+      font-size: 2.1rem;
+      font-weight: 600;
+      line-height: 1.2;
+      letter-spacing: -0.02em;
+      color: var(--ink);
+      margin-bottom: 0.5rem;
+    }
+
+    .main-content h2 {
+      font-family: var(--serif);
+      font-size: 1.4rem;
+      font-weight: 600;
+      color: var(--ink);
+      margin-top: 3rem;
+      margin-bottom: 0.75rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 2px solid var(--rule);
+    }
+
+    .main-content h3 {
+      font-family: var(--serif);
+      font-size: 1.1rem;
+      font-weight: 600;
+      font-style: italic;
+      color: var(--ink);
+      margin-top: 1.75rem;
+      margin-bottom: 0.4rem;
+    }
+
+    .main-content h4 {
+      font-family: var(--sans);
+      font-size: 0.8rem;
+      font-weight: 500;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-top: 1.25rem;
+      margin-bottom: 0.4rem;
+    }
+
+    .main-content p {
+      margin-bottom: 1rem;
+      color: #2e2a26;
+    }
+
+    .main-content a {
+      color: var(--accent);
+      text-decoration: underline;
+      text-underline-offset: 2px;
+      transition: color 0.15s;
+    }
+
+    .main-content a:hover { color: #8a3a18; }
+
+    .main-content strong { font-weight: 600; color: var(--ink); }
+    .main-content em { font-style: italic; }
+
+    .main-content hr {
+      border: none;
+      border-top: 1px solid var(--rule);
+      margin: 2.5rem 0;
+    }
+
+    /* ── Lists ───────────────────────────────────────── */
+    .main-content ol, .main-content ul {
+      padding-left: 1.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .main-content li {
+      margin-bottom: 0.4rem;
+      color: #2e2a26;
+    }
+
+    /* ── Tables ──────────────────────────────────────── */
+    .main-content table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.875rem;
+      margin: 1.25rem 0 1.75rem;
+    }
+
+    .main-content thead tr {
+      background: var(--ink);
+      color: var(--cream);
+    }
+
+    .main-content thead th {
+      padding: 0.6rem 0.85rem;
+      text-align: left;
+      font-family: var(--sans);
+      font-weight: 500;
+      font-size: 0.75rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .main-content tbody tr {
+      border-bottom: 1px solid var(--rule);
+      transition: background 0.1s;
+    }
+
+    .main-content tbody tr:hover { background: #f0ece6; }
+
+    .main-content td {
+      padding: 0.55rem 0.85rem;
+      vertical-align: top;
+    }
+
+    /* ── Code ────────────────────────────────────────── */
+    .main-content code {
+      font-family: var(--mono);
+      font-size: 0.82em;
+      background: #efeae3;
+      padding: 0.15em 0.4em;
+      border-radius: 3px;
+      color: #3a2e26;
+    }
+
+    .main-content pre {
+      background: var(--ink);
+      color: #d4cfc8;
+      padding: 1.25rem 1.5rem;
+      border-radius: 6px;
+      overflow-x: auto;
+      margin: 1.5rem 0;
+      font-family: var(--mono);
+      font-size: 0.85rem;
+      line-height: 1.6;
+    }
+
+    .main-content pre code {
+      background: none;
+      padding: 0;
+      color: inherit;
+    }
+
+    /* ── Blockquote ──────────────────────────────────── */
+    .main-content blockquote {
+      border-left: 3px solid var(--accent);
+      margin: 1.75rem 0;
+      padding: 0.75rem 1.5rem;
+      background: #f5f0e8;
+      border-radius: 0 4px 4px 0;
+    }
+
+    .main-content blockquote p {
+      font-family: var(--serif);
+      font-style: italic;
+      font-size: 1.05rem;
+      color: var(--muted);
+      margin: 0;
+    }
+
+    /* ── Details/Summary ─────────────────────────────── */
+    .main-content details {
+      margin: 0.5rem 0;
+      border-left: 2px solid var(--rule);
+      padding-left: 0.75rem;
+      transition: border-color 0.2s;
+    }
+
+    .main-content details[open] {
+      border-color: var(--accent2);
+    }
+
+    .main-content summary {
+      cursor: pointer;
+      padding: 0.45rem 0;
+      color: var(--accent2);
+      font-weight: 500;
+      list-style: none;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      user-select: none;
+    }
+
+    .main-content summary::-webkit-details-marker { display: none; }
+
+    .main-content summary::before {
+      content: '▶';
+      font-size: 0.65rem;
+      transition: transform 0.25s ease;
+      flex-shrink: 0;
+    }
+
+    .main-content details[open] > summary::before {
+      transform: rotate(90deg);
+    }
+
+    /* Animate details open */
+    .main-content details[open] > *:not(summary) {
+      animation: detailsFadeIn 0.25s ease;
+    }
+
+    @keyframes detailsFadeIn {
+      from { opacity: 0; transform: translateY(-6px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Fix nested content inside details */
+    .main-content details p,
+    .main-content details li,
+    .main-content details ol,
+    .main-content details ul {
+      margin-top: 0.25rem;
+    }
+
+    .main-content details > *:not(summary) {
+      padding-top: 0.4rem;
+    }
+
+    /* ── Animations ──────────────────────────────────── */
+
+    /* Hero fade-in on load */
+    @keyframes heroFadeUp {
+      from { opacity: 0; transform: translateY(18px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .page-intro {
+      animation: heroFadeUp 0.65s ease both;
+    }
+
+    /* Sidebar name entrance */
+    .sidebar-name {
+      animation: heroFadeUp 0.5s ease both;
+    }
+
+    /* Scroll-triggered fade-in */
+    .scroll-reveal {
+      opacity: 0;
+      transform: translateY(22px);
+      transition: opacity 0.55s ease, transform 0.55s ease;
+    }
+
+    .scroll-reveal.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    /* Staggered reveal delays */
+    .scroll-reveal:nth-child(2) { transition-delay: 0.08s; }
+    .scroll-reveal:nth-child(3) { transition-delay: 0.16s; }
+    .scroll-reveal:nth-child(4) { transition-delay: 0.24s; }
+    .scroll-reveal:nth-child(5) { transition-delay: 0.32s; }
+
+    /* Sidebar nav hover — slide-right bar */
+    .sidebar nav ul li a {
+      position: relative;
+      overflow: hidden;
+    }
+
+    .sidebar nav ul li a::after {
+      content: '';
+      position: absolute;
+      left: 0; top: 50%;
+      transform: translateY(-50%) scaleY(0);
+      width: 2px;
+      height: 60%;
+      background: var(--accent);
+      border-radius: 2px;
+      transition: transform 0.18s ease, opacity 0.18s ease;
+      opacity: 0;
+    }
+
+    .sidebar nav ul li a:hover::after {
+      transform: translateY(-50%) scaleY(1);
+      opacity: 1;
+    }
+
+    /* h2 hover underline effect */
+    .main-content h2 {
+      position: relative;
+      cursor: default;
+    }
+
+    .main-content h2::after {
+      content: '';
+      position: absolute;
+      left: 0; bottom: -2px;
+      width: 0;
+      height: 2px;
+      background: var(--accent);
+      transition: width 0.3s ease;
+      border-radius: 2px;
+    }
+
+    .main-content h2:hover::after {
+      width: 3rem;
+    }
+
+    /* Link hover lift */
+    .main-content a {
+      transition: color 0.15s, text-underline-offset 0.15s;
+    }
+
+    .main-content a:hover {
+      text-underline-offset: 4px;
+    }
+
+    /* Table row hover */
+    .main-content tbody tr {
+      transition: background 0.15s, transform 0.12s;
+    }
+
+    .main-content tbody tr:hover {
+      background: #f0ece6;
+    }
+
+    /* ── Degree block ────────────────────────────────── */
     .degree-block {
       display: flex;
       flex-direction: column;
@@ -86,192 +461,159 @@
     .degree-row {
       display: flex;
       align-items: center;
-      gap: 1.2rem;
+      gap: 1.25rem;
     }
 
     .degree-logo {
-      height: 34px;
+      height: 32px;
       width: auto;
       object-fit: contain;
       flex-shrink: 0;
-      filter: brightness(0) invert(1);
-      opacity: 0.8;
+      opacity: 0.85;
     }
 
     .degree-text { text-align: right; flex: 1; }
 
     .degree-text strong {
       display: block;
+      font-family: var(--serif);
       font-size: 0.92rem;
-      color: #f0ece4;
       font-weight: 600;
-      line-height: 1.35;
+      color: var(--ink);
+      line-height: 1.4;
     }
 
     .degree-text span {
       display: block;
       font-size: 0.8rem;
-      color: #777;
-      margin-top: 0.2rem;
+      color: var(--muted);
+      margin-top: 0.15rem;
     }
 
-    /* ── Main content ── */
-    .main-content {
-      flex: 1;
-      padding: 2.5rem 3rem;
-      max-width: 900px;
-      overflow-x: hidden;
-    }
-
-    .main-content h1 {
-      font-size: 1.7rem;
-      font-weight: 700;
-      color: #f0ece4;
+    /* ── Page intro strip ────────────────────────────── */
+    .page-intro {
+      padding-bottom: 1.75rem;
       margin-bottom: 0.5rem;
-      letter-spacing: -0.02em;
+      border-bottom: 1px solid var(--rule);
     }
 
-    .main-content h2 {
-      font-size: 1.2rem;
-      font-weight: 600;
-      color: #d4af7a;
-      margin: 2rem 0 0.75rem;
-      padding-bottom: 0.35rem;
-      border-bottom: 1px solid #2a2a2a;
+    .page-intro p {
+      color: var(--muted);
+      font-size: 0.95rem;
     }
 
-    .main-content h3 {
-      font-size: 1rem;
-      font-weight: 600;
-      color: #ccc;
-      margin: 1.25rem 0 0.4rem;
-    }
-
-    .main-content p {
-      line-height: 1.7;
-      color: #bbb;
-      margin-bottom: 0.75rem;
-      font-size: 0.92rem;
-    }
-
-    .main-content hr {
-      border: none;
-      border-top: 1px solid #2a2a2a;
-      margin: 1.5rem 0;
-    }
-
-    /* Tables */
-    .main-content table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 0.75rem 0 1rem;
-      font-size: 0.88rem;
-    }
-
-    .main-content th {
-      text-align: left;
-      padding: 0.4rem 0.75rem;
-      background: #1e1e1e;
-      color: #888;
-      font-weight: 600;
+    /* ── Footer ──────────────────────────────────────── */
+    footer {
+      grid-column: 2;
+      background: var(--paper);
+      border-top: 1px solid var(--rule);
+      padding: 1.25rem 4rem;
       font-size: 0.78rem;
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
-      border-bottom: 1px solid #2a2a2a;
+      color: var(--muted);
     }
 
-    .main-content td {
-      padding: 0.45rem 0.75rem;
-      border-bottom: 1px solid #222;
-      color: #ccc;
-      vertical-align: top;
-    }
+    footer a { color: var(--muted); }
+    footer a:hover { color: var(--accent); }
 
-    .main-content tr:last-child td { border-bottom: none; }
-    .main-content tr:hover td { background: #1c1c1c; }
+    /* ── Responsive ──────────────────────────────────── */
+    @media (max-width: 768px) {
+      .site-wrap {
+        grid-template-columns: 1fr;
+      }
 
-    /* Details / Accordion */
-    .main-content details {
-      margin: 0.4rem 0;
-      border: 1px solid #252525;
-      border-radius: 4px;
-      overflow: hidden;
-    }
+      .sidebar {
+        position: static;
+        height: auto;
+        grid-row: auto;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: center;
+        padding: 1.25rem 1.5rem;
+        gap: 1rem;
+      }
 
-    .main-content summary {
-      cursor: pointer;
-      padding: 0.6rem 0.9rem;
-      background: #1a1a1a;
-      font-size: 0.9rem;
-      color: #d0d0d0;
-      list-style: none;
-      user-select: none;
-      transition: background 0.15s;
-    }
+      .sidebar-contact { margin-top: 0; }
 
-    .main-content summary::-webkit-details-marker { display: none; }
+      .main-content {
+        padding: 2rem 1.5rem;
+      }
 
-    .main-content summary::after {
-      content: '+';
-      float: right;
-      color: #555;
-      font-size: 1rem;
-      font-weight: 300;
-    }
-
-    .main-content details[open] summary::after { content: '−'; }
-    .main-content details[open] summary { background: #1e1e1e; color: #f0ece4; }
-    .main-content details > *:not(summary) { padding: 0.75rem 1rem; background: #161616; }
-
-    /* Animations */
-    @keyframes fadeUp {
-      from { opacity: 0; transform: translateY(14px); }
-      to   { opacity: 1; transform: translateY(0); }
-    }
-
-    .main-content > * { animation: fadeUp 0.4s ease both; }
-    .main-content > *:nth-child(1) { animation-delay: 0.05s; }
-    .main-content > *:nth-child(2) { animation-delay: 0.10s; }
-    .main-content > *:nth-child(3) { animation-delay: 0.15s; }
-    .main-content > *:nth-child(4) { animation-delay: 0.20s; }
-    .main-content > *:nth-child(5) { animation-delay: 0.25s; }
-
-    /* Responsive */
-    @media (max-width: 700px) {
-      body { flex-direction: column; }
-      .sidebar { width: 100%; height: auto; position: static; padding: 1rem; border-right: none; border-bottom: 1px solid #2a2a2a; }
-      .main-content { padding: 1.5rem; }
+      footer { grid-column: 1; padding: 1rem 1.5rem; }
     }
   </style>
 </head>
 <body>
+  <div class="site-wrap">
 
-  <nav class="sidebar">
-    <div class="sidebar-name">
-      <a href="/">Shaoxiong (Steven) Yuan</a>
-    </div>
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <div>
+        <div class="sidebar-name">
+          <a href="{{ '/' | relative_url }}" style="color: inherit; text-decoration: none;">Shaoxiong (Steven) Yuan's Personal Website</a>
+          <span>UCLA MFE 2025 ·</span>
+          <span>USC Class of 2024</span>
+        </div>
+      </div>
 
-    <div class="nav-group">
-      <div class="nav-group-label">USC Courses</div>
-      <a class="nav-link" href="/#usc-coursework">Mathematics</a>
-      <a class="nav-link" href="/#for-cs">Computer Science</a>
-    </div>
+      <hr class="sidebar-divider" />
 
-    <div class="nav-group">
-      <div class="nav-group-label">UCLA Courses</div>
-      <a class="nav-link" href="/#ucla-coursework">Financial Engineering</a>
-    </div>
+      <div>
+        <div class="sidebar-section-label">USC Courses</div>
+        <nav id="usc-nav">
+          <ul>
+            <li><a href="{{ '/' | relative_url }}#for-math">Mathematics</a></li>
+            <li><a href="{{ '/' | relative_url }}#for-cs">Computer Science</a></li>
+          </ul>
+        </nav>
+      </div>
 
-    <div class="nav-group">
-      <div class="nav-group-label">More</div>
-      <a class="nav-link" href="/movie-reviews">Movie Reviews</a>
-      <a class="nav-link" href="/#personal-projects">Personal Projects</a>
-    </div>
-  </nav>
+      <div>
+        <div class="sidebar-section-label">UCLA Courses</div>
+        <nav id="ucla-nav">
+          <ul>
+            <li><a href="{{ '/' | relative_url }}#ucla-coursework">Financial Engineering</a></li>
+          </ul>
+        </nav>
+      </div>
 
-  <main class="main-content">
-    {{ content }}
-  </main>
+      <div>
+        <div class="sidebar-section-label">More</div>
+        <nav id="more-nav">
+          <ul>
+            <li><a href="{{ '/movie-reviews' | relative_url }}">Movie Reviews</a></li>
+            <li><a href="{{ '/' | relative_url }}#personal-projects">Personal Projects</a></li>
+          </ul>
+        </nav>
+      </div>
 
-</body>
-</html>
+      <div class="sidebar-contact">
+        <a href="mailto:ysxstevenpp123@gmail.com">ysxstevenpp123@gmail.com</a>
+      </div>
+    </aside>
+
+    <!-- Main -->
+    <main class="main-content">
+      {{ content }}
+    </main>
+
+    <!-- Footer -->
+    <footer>
+      Shaoxiong (Steven) Yuan
+    </footer>
+
+  </div>
+
+  <script>
+    // ── Scroll-reveal ─────────────────────────────────────
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          observer.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.08 });
+
+    // Auto-apply scroll-reveal to main content sections
+    document.querySelectorAll('.main-content h2, .main-content h3, .main-content p, .main-content details, .main-content blockquote, .main-content table').forEach(el => {
+      el.classList.add('scroll-r
