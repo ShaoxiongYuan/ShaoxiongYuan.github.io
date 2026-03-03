@@ -20,7 +20,7 @@ Welcome! This site hosts my coursework, personal projects, and movie reviews.
 
 ### For Math: {#for-math}
 
-<details>
+<details markdown="1">
 <summary><b>MATH 408 — Mathematical Statistics</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. J. Bartroff · Fall 2021</span></summary>
 
 Course Textbook: Mathematical Statistics and Data Analysis by John A. Rice
@@ -50,7 +50,7 @@ Course Textbook: Mathematical Statistics and Data Analysis by John A. Rice
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>MATH 407 — Probability Theory</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. J. Fulman · Spring 2021</span></summary>
 
 There are 38 lecture notes, but the final only covers 1 through 19. There are some practice problems after lecture 19.
@@ -69,7 +69,7 @@ Course Textbook: A First Course in Probability (9th edition)
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>MATH 430 — Number Theory</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. P. Tokorcheck · Spring 2021</span></summary>
 
 Professor Paul Tokorcheck taught this class in a very good fashion. Although "Number Theory" sounds intimidating, it is not. The course content, though abstract, was greatly demonstrated and proved by the instructor. He was also kind enough to write a recommendation letter for the Continuing Students Scholarship.
@@ -92,7 +92,7 @@ Note: This class has no official lecture notes, but one good way to refer to the
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>MATH 225 — Linear Algebra and Differential Equations</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. S. Kamienny · Fall 2020</span></summary>
 
 Course Textbook: Differential Equations and Linear Algebra by Stephen W. Goode
@@ -111,7 +111,7 @@ Course Textbook: Differential Equations and Linear Algebra by Stephen W. Goode
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>MATH 226 — Calculus III (Multivariable Calculus)</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. N. Bottman · Fall 2020</span></summary>
 
 Course Textbook: Essential Calculus by James Stewart
@@ -159,7 +159,7 @@ Useful Resources: <a href="https://www.symbolab.com/" target="_blank">Symbolab</
 
 ### For CS: {#for-cs}
 
-<details>
+<details markdown="1">
 <summary><b>CSCI 360 — Introduction to Artificial Intelligence</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. B. Dilkina · Spring 2022</span></summary>
 
 Course Textbook: Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig (4th edition)
@@ -184,7 +184,7 @@ Course Textbook: Artificial Intelligence: A Modern Approach by Stuart Russell an
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>CSCI 201 — Principles of Software Development</b> &nbsp;<span style="font-weight:300;font-size:0.9em;"><a href="https://viterbi-web.usc.edu/~adamchik/" target="_blank">Prof. V. Adamchik</a> · Fall 2021</span></summary>
 
 Course Textbook: Introduction to Java Programming and Data Structures by Y. Daniel Liang (12th edition)
@@ -204,7 +204,7 @@ My solution to the first two programming assignments can be found <a href="https
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>CSCI 270 — Introduction to Algorithms</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. S. Dughmi · Fall 2021</span></summary>
 
 Please refer to the <a href="https://viterbi-web.usc.edu/~shaddin/cs270fa21/index.html" target="_blank">course website</a> for more information including course syllabus and assignments!
@@ -215,7 +215,7 @@ A Useful Course on Coursera: <a href="https://www.coursera.org/specializations/d
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>CSCI 104 — Data Structures and Object Oriented Programming</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. M. Redekopp · Summer 2021</span></summary>
 
 Please refer to the <a href="https://bytes.usc.edu/cs104/" target="_blank">course website</a> for more information!
@@ -224,7 +224,7 @@ My solution to the six programming assignments can be found at this <a href="htt
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>CSCI 170 — Discrete Methods in Computer Science</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. S. Batista · Spring 2021</span></summary>
 
 Course Textbook: Essential Discrete Mathematics for Computer Science, by Harry Lewis and Rachel Zax
@@ -244,7 +244,7 @@ Course Textbook: Essential Discrete Mathematics for Computer Science, by Harry L
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>ITP 168 — Introduction to Matlab</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. R. Kim · Fall 2020</span></summary>
 
 Course Textbook: Not Available
@@ -288,7 +288,7 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 
 ## Personal Projects {#personal-projects}
 
-<details>
+<details markdown="1">
 <summary><b>Pioneer Academics — Continued Fractions Research</b></summary>
 
 Official Website: <a href="https://pioneeracademics.com/" target="_blank">https://pioneeracademics.com/</a>
@@ -307,7 +307,7 @@ Link to my entry in <a href="https://oeis.org/" target="_blank">Online Encyclope
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>Micro Blog Site — Python / Flask</b></summary>
 
 Note: I followed Corey Schafer (<a href="https://www.youtube.com/c/Coreyms" target="_blank">His YouTube Channel</a>) to write this project.
@@ -316,14 +316,14 @@ The source code can be found <a href="https://ShaoxiongYuan.github.io/Files/Proj
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>Comment System with Waterfall Loading — Flask</b></summary>
 
 The source code can be found <a href="https://ShaoxiongYuan.github.io/Files/Projects/comment.zip" target="_blank">here</a>.
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>Online Shopping Website — Django + Nginx</b></summary>
 
 The source code can be found <a href="https://ShaoxiongYuan.github.io/Files/Projects/dadashop/dadashop12.zip" target="_blank">here</a>.
@@ -332,7 +332,7 @@ This project also uses Nginx to handle static requests such as HTML templates, C
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>GPT-2 (Generative "Python" Transformer) Implementation</b></summary>
 
 This project trained the GPT model from scratch to allow the computer to predict what my next line of Python code is. The complete tutorial is taught by <a href="https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ" target="_blank">sentdex</a> in <a href="https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ" target="_blank">Generating Python code with GPT</a>. The trained model using 80G of python files can be found at <a href="https://huggingface.co/Sentdex/GPyT" target="_blank">this link</a>.
@@ -341,7 +341,7 @@ The source code can be found <a href="https://ShaoxiongYuan.github.io/Files/Proj
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><b>Download All Microsoft Templates — Scrapy</b></summary>
 
 The source code can be found <a href="https://ShaoxiongYuan.github.io/Files/Projects/Microsoft.zip" target="_blank">here</a>.
