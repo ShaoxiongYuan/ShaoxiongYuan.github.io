@@ -283,6 +283,7 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 | ---- | -------- | ------ |
 | <a href="/reviews/eternity" target="_blank">*Eternity*</a> | David Freyne | ★★★½ |
 | <a href="/reviews/good-luck" target="_blank">*Good Luck, Have Fun, Don't Die*</a> | Gore Verbinski | ★★★★ |
+| <a href="/reviews/how-to-make-a-killing" target="_blank">*How to Make a Killing*</a> | John Patton Ford | ★★★ |
 
 ---
 
