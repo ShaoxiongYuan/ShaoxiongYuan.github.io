@@ -296,27 +296,190 @@
     /* ── Details/Summary ─────────────────────────────── */
     .main-content details {
       margin: 0.5rem 0;
+      border-left: 2px solid var(--rule);
+      padding-left: 0.75rem;
+      transition: border-color 0.2s;
+    }
+
+    .main-content details[open] {
+      border-color: var(--accent2);
     }
 
     .main-content summary {
       cursor: pointer;
-      padding: 0.4rem 0;
+      padding: 0.45rem 0;
       color: var(--accent2);
       font-weight: 500;
       list-style: none;
       display: flex;
       align-items: center;
       gap: 0.5rem;
+      user-select: none;
     }
+
+    .main-content summary::-webkit-details-marker { display: none; }
 
     .main-content summary::before {
       content: '▶';
       font-size: 0.65rem;
-      transition: transform 0.2s;
+      transition: transform 0.25s ease;
+      flex-shrink: 0;
     }
 
-    .main-content details[open] summary::before {
+    .main-content details[open] > summary::before {
       transform: rotate(90deg);
+    }
+
+    /* Animate details open */
+    .main-content details[open] > *:not(summary) {
+      animation: detailsFadeIn 0.25s ease;
+    }
+
+    @keyframes detailsFadeIn {
+      from { opacity: 0; transform: translateY(-6px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Fix nested content inside details */
+    .main-content details p,
+    .main-content details li,
+    .main-content details ol,
+    .main-content details ul {
+      margin-top: 0.25rem;
+    }
+
+    .main-content details > *:not(summary) {
+      padding-top: 0.4rem;
+    }
+
+    /* ── Animations ──────────────────────────────────── */
+
+    /* Hero fade-in on load */
+    @keyframes heroFadeUp {
+      from { opacity: 0; transform: translateY(18px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .page-intro {
+      animation: heroFadeUp 0.65s ease both;
+    }
+
+    /* Sidebar name entrance */
+    .sidebar-name {
+      animation: heroFadeUp 0.5s ease both;
+    }
+
+    /* Scroll-triggered fade-in */
+    .scroll-reveal {
+      opacity: 0;
+      transform: translateY(22px);
+      transition: opacity 0.55s ease, transform 0.55s ease;
+    }
+
+    .scroll-reveal.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    /* Staggered reveal delays */
+    .scroll-reveal:nth-child(2) { transition-delay: 0.08s; }
+    .scroll-reveal:nth-child(3) { transition-delay: 0.16s; }
+    .scroll-reveal:nth-child(4) { transition-delay: 0.24s; }
+    .scroll-reveal:nth-child(5) { transition-delay: 0.32s; }
+
+    /* Sidebar nav hover — slide-right bar */
+    .sidebar nav ul li a {
+      position: relative;
+      overflow: hidden;
+    }
+
+    .sidebar nav ul li a::after {
+      content: '';
+      position: absolute;
+      left: 0; top: 50%;
+      transform: translateY(-50%) scaleY(0);
+      width: 2px;
+      height: 60%;
+      background: var(--accent);
+      border-radius: 2px;
+      transition: transform 0.18s ease, opacity 0.18s ease;
+      opacity: 0;
+    }
+
+    .sidebar nav ul li a:hover::after {
+      transform: translateY(-50%) scaleY(1);
+      opacity: 1;
+    }
+
+    /* Collapsible sidebar section */
+    .sidebar-toggle {
+      background: none;
+      border: none;
+      color: inherit;
+      cursor: pointer;
+      width: 100%;
+      text-align: left;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0;
+    }
+
+    .sidebar-toggle-icon {
+      font-size: 0.55rem;
+      color: #5a5248;
+      transition: transform 0.22s ease;
+    }
+
+    .sidebar-collapsible {
+      overflow: hidden;
+      max-height: 200px;
+      transition: max-height 0.3s ease, opacity 0.25s ease;
+      opacity: 1;
+    }
+
+    .sidebar-collapsible.collapsed {
+      max-height: 0;
+      opacity: 0;
+    }
+
+    /* h2 hover underline effect */
+    .main-content h2 {
+      position: relative;
+      cursor: default;
+    }
+
+    .main-content h2::after {
+      content: '';
+      position: absolute;
+      left: 0; bottom: -2px;
+      width: 0;
+      height: 2px;
+      background: var(--accent);
+      transition: width 0.3s ease;
+      border-radius: 2px;
+    }
+
+    .main-content h2:hover::after {
+      width: 3rem;
+    }
+
+    /* Link hover lift */
+    .main-content a {
+      transition: color 0.15s, text-underline-offset 0.15s;
+    }
+
+    .main-content a:hover {
+      text-underline-offset: 4px;
+    }
+
+    /* Table row hover */
+    .main-content tbody tr {
+      transition: background 0.15s, transform 0.12s;
+    }
+
+    .main-content tbody tr:hover {
+      background: #f0ece6;
     }
 
     /* ── Page intro strip ────────────────────────────── */
@@ -386,8 +549,12 @@
       <hr class="sidebar-divider" />
 
       <div>
-        <div class="sidebar-section-label">USC Courses</div>
-        <nav>
+        <div class="sidebar-section-label">
+          <button class="sidebar-toggle" data-target="usc-nav" aria-expanded="true">
+            USC Courses <span class="sidebar-toggle-icon">▼</span>
+          </button>
+        </div>
+        <nav class="sidebar-collapsible" id="usc-nav">
           <ul>
             <li><a href="{{ '/' | relative_url }}#for-math">Mathematics</a></li>
             <li><a href="{{ '/' | relative_url }}#for-cs">Computer Science</a></li>
@@ -396,8 +563,12 @@
       </div>
 
       <div>
-        <div class="sidebar-section-label">UCLA Courses</div>
-        <nav>
+        <div class="sidebar-section-label">
+          <button class="sidebar-toggle" data-target="ucla-nav" aria-expanded="true">
+            UCLA Courses <span class="sidebar-toggle-icon">▼</span>
+          </button>
+        </div>
+        <nav class="sidebar-collapsible" id="ucla-nav">
           <ul>
             <li><a href="{{ '/' | relative_url }}#ucla-coursework">Financial Engineering</a></li>
           </ul>
@@ -405,8 +576,12 @@
       </div>
 
       <div>
-        <div class="sidebar-section-label">More</div>
-        <nav>
+        <div class="sidebar-section-label">
+          <button class="sidebar-toggle" data-target="more-nav" aria-expanded="true">
+            More <span class="sidebar-toggle-icon">▼</span>
+          </button>
+        </div>
+        <nav class="sidebar-collapsible" id="more-nav">
           <ul>
             <li><a href="{{ '/movie-reviews' | relative_url }}">Movie Reviews</a></li>
             <li><a href="{{ '/' | relative_url }}#personal-projects">Personal Projects</a></li>
@@ -415,7 +590,7 @@
       </div>
 
       <div class="sidebar-contact">
-        <a href="mailto:ysxstevenpp123@gmail.com">ysxstevenpp123@gmail.com</a>
+        <a href="/cdn-cgi/l/email-protection#750c060d06011003101b0505444746351218141c195b161a18"><span class="__cf_email__" data-cfemail="047d777c77706172616a7474353637446369656d682a676b69">[email&#160;protected]</span></a>
       </div>
     </aside>
 
@@ -430,5 +605,42 @@
     </footer>
 
   </div>
+
+  <script>
+    // ── Collapsible sidebar sections ─────────────────────
+    document.querySelectorAll('.sidebar-toggle').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const targetId = btn.dataset.target;
+        const nav = document.getElementById(targetId);
+        const icon = btn.querySelector('.sidebar-toggle-icon');
+        const isOpen = btn.getAttribute('aria-expanded') === 'true';
+
+        nav.classList.toggle('collapsed', isOpen);
+        btn.setAttribute('aria-expanded', String(!isOpen));
+        icon.style.transform = isOpen ? 'rotate(-90deg)' : 'rotate(0deg)';
+      });
+    });
+
+    // ── Scroll-reveal ─────────────────────────────────────
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          observer.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.08 });
+
+    // Auto-apply scroll-reveal to main content sections
+    document.querySelectorAll('.main-content h2, .main-content h3, .main-content p, .main-content details, .main-content blockquote, .main-content table').forEach(el => {
+      el.classList.add('scroll-reveal');
+      observer.observe(el);
+    });
+
+    // Page intro is already animated via CSS, mark it visible immediately
+    document.querySelectorAll('.page-intro').forEach(el => {
+      el.classList.add('visible');
+    });
+  </script>
 </body>
 </html>
