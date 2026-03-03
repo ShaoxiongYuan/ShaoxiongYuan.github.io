@@ -7,7 +7,7 @@ year: 2025
 genre: "Romance · Fantasy · Comedy"
 rating: "★★★½"
 tagline: "Not paradise. Just their life, continued."
-poster: "http://www.impawards.com/2025/posters/eternity.jpg"
+poster: "/images/poster-eternity.jpg"
 ---
 
 What a quietly radical thing it is to make a romantic comedy that never once raises its voice. David Freyne's *Eternity*, a 2025 A24 release starring Elizabeth Olsen, Miles Teller, and Callum Turner, follows Larry and Joan — an argumentative elderly couple married for 65 years, quietly keeping Joan's terminal cancer diagnosis to themselves. When Larry chokes to death on a pretzel (his wife had always warned him to slow down), he wakes in the afterlife as his younger self, navigating a bureaucratic waystation called the Junction, where the recently deceased must choose an "eternity" to inhabit — forever, with no going back. Joan soon follows, and their reunion is warm and immediate, until the crowd parts to reveal Luke (Callum Turner), Joan's first husband who died in the Korean War, having worked as a bartender in the Junction for 67 years, waiting for her. Joan is given one week to decide which man she will spend eternity with.

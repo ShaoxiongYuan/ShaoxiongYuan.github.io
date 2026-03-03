@@ -7,7 +7,7 @@ year: 2025
 genre: "Sci-Fi · Dark Comedy · Action"
 rating: "★★★★"
 tagline: "The only way to beat a god that runs on human dependency is to make humans physically incapable of connecting."
-poster: "http://www.impawards.com/2025/posters/good_luck_have_fun_dont_die.jpg"
+poster: "/images/poster-good-luck.jpg"
 ---
 
 Gore Verbinski's long-awaited return is a chaotic, ideas-drunk sci-fi dark comedy that genuinely earns its runtime — not because every piece fits, but because you're never quite sure which character is going to die next or which absurdist satirical turn will hit you right in the gut. It's messy in the best way, like someone crammed three *Black Mirror* episodes into an action movie and let Sam Rockwell run wild through all of it.

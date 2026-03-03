@@ -2,12 +2,23 @@
 
 Welcome! This site hosts my coursework, personal projects, and movie reviews.
 
-<p style="text-align:right;"><b>Master of Financial Engineering</b></p>
-<p style="text-align:right;">UCLA Anderson School of Management — Class of 2025</p>
-<p style="text-align:right;">&nbsp;</p>
-<p style="text-align:right;"><b>B.A. in Applied and Computational Mathematics &</b></p>
-<p style="text-align:right;"><b>B.S. in Computer Science and Business Administration</b></p>
-<p style="text-align:right;">University of Southern California — Class of 2024</p>
+<div class="degree-block">
+  <div class="degree-row">
+    <img class="degree-logo" src="/images/ucla-anderson-logo.svg" alt="UCLA Anderson">
+    <div class="degree-text">
+      <strong>Master of Financial Engineering</strong>
+      <span>UCLA Anderson School of Management — Class of 2025</span>
+    </div>
+  </div>
+  <div class="degree-row">
+    <img class="degree-logo" src="/images/usc-logo.png" alt="USC">
+    <div class="degree-text">
+      <strong>B.A. in Applied and Computational Mathematics<br>B.S. in Computer Science and Business Administration</strong>
+      <span>University of Southern California — Class of 2024</span>
+    </div>
+  </div>
+</div>
+
 <p style="text-align:right;"><a href="mailto:ysxstevenpp123@gmail.com">ysxstevenpp123@gmail.com</a></p>
 
 ---
