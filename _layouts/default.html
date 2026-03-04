@@ -151,10 +151,10 @@
     /* ── Orion Alpha block ───────────────────────────── */
     .orion-block {
       display: flex;
-      align-items: center;
+      align-items: flex-start;
       gap: 2rem;
       margin: 1.25rem 0 1.5rem;
-      padding: 1.25rem 1.5rem;
+      padding: 1.5rem 1.75rem;
       background: #f5f0e8;
       border-left: 3px solid var(--accent2);
       border-radius: 0 6px 6px 0;
@@ -163,7 +163,7 @@
     .orion-logo-link { flex-shrink: 0; }
 
     .orion-logo {
-      height: 48px;
+      height: 52px;
       width: auto;
       object-fit: contain;
       display: block;
@@ -173,7 +173,18 @@
 
     .orion-logo-link:hover .orion-logo { opacity: 1; }
 
-    .orion-block p { margin: 0; font-size: 0.95rem; color: #2e2a26; }
+    .orion-text { flex: 1; }
+
+    .orion-tagline {
+      font-family: var(--serif);
+      font-style: italic;
+      font-size: 1.05rem;
+      color: var(--ink);
+      margin-bottom: 0.75rem !important;
+      font-weight: 600;
+    }
+
+    .orion-block p { margin: 0 0 0.5rem; font-size: 0.95rem; color: #2e2a26; }
 
     /* ── Main ────────────────────────────────────────── */
     .main-content {
@@ -605,20 +616,12 @@
       <hr class="sidebar-divider" />
 
       <div>
-        <div class="sidebar-section-label">USC Courses</div>
-        <nav id="usc-nav">
+        <div class="sidebar-section-label">Course Materials</div>
+        <nav id="courses-nav">
           <ul>
-            <li><a href="{{ '/' | relative_url }}#for-math">Mathematics</a></li>
-            <li><a href="{{ '/' | relative_url }}#for-cs">Computer Science</a></li>
-          </ul>
-        </nav>
-      </div>
-
-      <div>
-        <div class="sidebar-section-label">UCLA Courses</div>
-        <nav id="ucla-nav">
-          <ul>
-            <li><a href="{{ '/' | relative_url }}#ucla-coursework">Financial Engineering</a></li>
+            <li><a href="{{ '/' | relative_url }}#for-math">USC — Mathematics</a></li>
+            <li><a href="{{ '/' | relative_url }}#for-cs">USC — Computer Science</a></li>
+            <li><a href="{{ '/' | relative_url }}#ucla-coursework">UCLA — Financial Engineering</a></li>
           </ul>
         </nav>
       </div>
@@ -627,15 +630,15 @@
         <div class="sidebar-section-label">More</div>
         <nav id="more-nav">
           <ul>
-            <li><a href="{{ '/movie-reviews' | relative_url }}">Movie Reviews</a></li>
             <li><a href="{{ '/' | relative_url }}#orion-alpha">Orion Alpha AM</a></li>
+            <li><a href="{{ '/movie-reviews' | relative_url }}">Movie Reviews</a></li>
             <li><a href="{{ '/' | relative_url }}#personal-projects">Personal Projects</a></li>
           </ul>
         </nav>
       </div>
 
       <div class="sidebar-social">
-        <a href="mailto:ysxstevenpp123@gmail.com" class="social-link" title="Email">
+        <a href="/cdn-cgi/l/email-protection#a5dcd6ddd6d1c0d3c0cbd5d5949796e5c2c8c4ccc98bc6cac8" class="social-link" title="Email">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m2 7 8.5 6a2.5 2.5 0 0 0 3 0L22 7"/></svg>
           <span>Email</span>
         </a>
@@ -662,15 +665,8 @@
 
   </div>
 
-  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
     // ── Scroll-reveal ─────────────────────────────────────
     const observer = new IntersectionObserver((entries) => {
       entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          entry.target.classList.add('visible');
-          observer.unobserve(entry.target);
-        }
-      });
-    }, { threshold: 0.08 });
-
-    // 
+        if (entry.isIntersectin
