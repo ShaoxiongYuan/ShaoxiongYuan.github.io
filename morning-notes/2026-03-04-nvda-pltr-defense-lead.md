@@ -72,6 +72,8 @@ Q4 FY2026 numbers: Revenue $68.1B (+73% YoY). Data Center $62.3B (+75% YoY). FQ1
 
 ## Pre-Market Company Movers
 
+<div class="movers" markdown="1">
+
 **PLTR +PT to $200** — Rosenblatt raises from $150 to $200 (Buy). Defense-AI crossover re-rating fast. AIP and Maven Smart System are in live production during 'Operation Epic Fury.' Q4 2025 revenue $1.41B (+70% YoY); FY2026 guide $7.2B. Government AI mandate shift away from competitors creates structural demand.
 
 **LMT +7% | Record $692** — 52-week high after Iran strikes. $194B backlog — unprecedented. F-35, PAC-3, THAAD demand at Cold War levels. JPMorgan upgraded to Buy. Hold / add on any dip to $670.
@@ -85,6 +87,8 @@ Q4 FY2026 numbers: Revenue $68.1B (+73% YoY). Data Center $62.3B (+75% YoY). FQ1
 **GTLB −9%** — FY27 revenue guide $1.099–1.118B and EPS 76–80c missed on both lines. GitHub/Microsoft structural competitive pressure is worsening. HF net exposure to software is at a 5-year low. Pre-market −9% is not the trough; sell-side downgrades to follow at the open.
 
 **ANF −2%** — Q1 EPS guide $1.20–1.30 below Street. Discretionary spending pressure + tariff cost input squeeze. Avoid.
+
+</div>
 
 ## Berkshire Hathaway 13F — Q4 2025 (Filed Feb 17, 2026)
 
@@ -113,6 +117,7 @@ Catalyst: Congressional budget revision + quarterly earnings. Record $194B backl
 *Risk: Surprise ceasefire; cost overruns on legacy programs.*
 
 ### SHORT — GTLB | SELL | PT: $44 | Stop-loss: $58
+{:data-short=""}
 FY27 guide missed on both revenue and EPS. GitHub/Microsoft competitive dynamic is structural and worsening: GitHub has developer mindshare, Microsoft has the Azure/Visual Studio distribution moat. HF net exposure to software at a 5-year low — macro and micro deterioration together.
 *Risk: Strategic acquirer bid; dramatic guide raise next quarter.*
 
