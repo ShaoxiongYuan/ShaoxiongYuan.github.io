@@ -100,13 +100,21 @@ Other notable moves: CB (Chubb) +15.9% — insurance premium cycle benefits from
 
 ## Trade Ideas — Four Actionable Setups
 
-**LONG NVDA | BUY | PT: $263 | Catalyst: Q1 FY2027 results in ~90 days.** The $78B guide resets every AI infrastructure model. The $4B optical interconnect investment extends the data center moat. Any dip from earnings-day volatility is a buying opportunity. *Risk: Geopolitical de-escalation; China ASIC alternatives gain ground faster than expected.*
+### LONG — NVDA | BUY | PT: $263
+Catalyst: Q1 FY2027 results in ~90 days. The $78B guide resets every AI infrastructure model. The $4B optical interconnect investment extends the data center moat. Any dip from earnings-day volatility is a buying opportunity.
+*Risk: Geopolitical de-escalation; China ASIC alternatives gain ground faster than expected.*
 
-**LONG PLTR | BUY | PT: $200 (Rosenblatt) | Catalyst: Q1 2026 earnings + contract announcements.** The only pure-play Defense-AI software at scale. AIP and Maven are validated in production. $7.2B FY2026 revenue guide (+61% growth) is tracking ahead. At ~$145, off late-2025 highs but with fresh narrative catalyst. *Risk: Rapid conflict resolution removes near-term catalyst; budget sequestration.*
+### LONG — PLTR | BUY | PT: $200 (Rosenblatt)
+Catalyst: Q1 2026 earnings + contract announcements. The only pure-play Defense-AI software at scale. AIP and Maven are validated in production. $7.2B FY2026 revenue guide (+61% growth) is tracking ahead. At ~$145, off late-2025 highs but with fresh narrative catalyst.
+*Risk: Rapid conflict resolution removes near-term catalyst; budget sequestration.*
 
-**LONG LMT | BUY | PT: $780 | Catalyst: Congressional budget revision + quarterly earnings.** Record $194B backlog + conflict-driven procurement urgency = best revenue visibility in industrials. F-35, PAC-3, THAAD at demand levels not seen since the Cold War. JPMorgan Buy upgrade confirms the institutional view. Hold through the conflict; trim on ceasefire headline. *Risk: Surprise ceasefire; cost overruns on legacy programs.*
+### LONG — LMT | BUY | PT: $780
+Catalyst: Congressional budget revision + quarterly earnings. Record $194B backlog + conflict-driven procurement urgency = best revenue visibility in industrials. F-35, PAC-3, THAAD at demand levels not seen since the Cold War. JPMorgan Buy upgrade confirms the institutional view. Hold through the conflict; trim on ceasefire headline.
+*Risk: Surprise ceasefire; cost overruns on legacy programs.*
 
-**SHORT GTLB | SELL | PT: $44 | Stop-loss: $58 (close above pre-conflict levels).** FY27 guide missed on both revenue and EPS. GitHub/Microsoft competitive dynamic is structural and worsening: GitHub has developer mindshare, Microsoft has the Azure/Visual Studio distribution moat. HF net exposure to software at a 5-year low — macro and micro deterioration together. *Risk: Strategic acquirer bid; dramatic guide raise next quarter.*
+### SHORT — GTLB | SELL | PT: $44 | Stop-loss: $58
+FY27 guide missed on both revenue and EPS. GitHub/Microsoft competitive dynamic is structural and worsening: GitHub has developer mindshare, Microsoft has the Azure/Visual Studio distribution moat. HF net exposure to software at a 5-year low — macro and micro deterioration together.
+*Risk: Strategic acquirer bid; dramatic guide raise next quarter.*
 
 ## Sector Positioning Heat Map
 
@@ -120,7 +128,7 @@ Other notable moves: CB (Chubb) +15.9% — insurance premium cycle benefits from
 
 **8:15 AM ✅ RELEASED — ADP Private Payrolls (Feb): +63K** — Beat vs. ~43K consensus and well above the revised Jan figure of 11K (revised down from 22K). Best hiring since July 2025, led by construction and education/health services. However, gains remain concentrated — ADP notes the pay premium for job-changers hit a record low, signaling no broad labor market acceleration. Context for Friday's NFP: constructive but not definitive. Jan's sharp downward revision is a red flag to carry into the BLS print.
 
-**10:00 AM ✅ RELEASED — ISM Services PMI (Feb): 56.1** — Significant beat vs. Jan 53.8; highest reading since July 2022 and 20th consecutive month of expansion. Business Activity surged to 59.9 (+2.5pts), New Orders jumped to 58.6 (+5.5pts). Prices Index eased to 63.0 from 66.6 — modest disinflation in services, which is exactly what the Fed wants to see. This print complicates the rate-cut narrative: a resilient services economy alongside geopolitical inflation = Fed stays on hold. **Note: JOLTS (Jan Job Openings) is not released today — scheduled for March 13.**
+**10:00 AM ✅ RELEASED — ISM Services PMI (Feb): 56.1** — Significant beat vs. Jan 53.8; highest reading since July 2022 and 20th consecutive month of expansion. Business Activity surged to 59.9 (+2.5pts), New Orders jumped to 58.6 (+5.5pts). Prices Index eased to 63.0 from 66.6 — modest disinflation in services, which is exactly what the Fed wants to see. This print complicates the rate-cut narrative: a resilient services economy alongside geopolitical inflation = Fed stays on hold.
 
 **2:00 PM ⏳ UPCOMING — Fed Beige Book** — First release since Iran escalation. Energy inflation commentary will drive rates immediately. Watch for anecdotal evidence of supply chain disruption, freight cost pressures, and any mention of geopolitical demand impacts on business sentiment. A hawkish read = yields spike, risk-off deepens.
 
