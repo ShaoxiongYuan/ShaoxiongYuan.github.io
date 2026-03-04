@@ -23,9 +23,6 @@ Welcome! This site hosts my coursework, personal projects, and movie reviews.
 
 ---
 
-**Quick Navigation:** [USC Courses](#usc-coursework) | [UCLA Courses](#ucla-coursework) | <a href="/movie-reviews">Movie Reviews</a> | [Personal Projects](#personal-projects)
-
----
 
 ## USC Coursework {#usc-coursework}
 
@@ -295,6 +292,19 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 | <a href="/reviews/eternity" target="_blank">*Eternity*</a> | David Freyne | ★★★½ |
 | <a href="/reviews/good-luck" target="_blank">*Good Luck, Have Fun, Don't Die*</a> | Gore Verbinski | ★★★★ |
 | <a href="/reviews/how-to-make-a-killing" target="_blank">*How to Make a Killing*</a> | John Patton Ford | ★★★ |
+
+---
+
+## Orion Alpha Asset Management {#orion-alpha}
+
+<div class="orion-block">
+  <a href="https://www.oa-am.com/" target="_blank" class="orion-logo-link">
+    <img src="/images/orion-alpha-logo.png" alt="Orion Alpha Asset Management" class="orion-logo">
+  </a>
+  <p>
+    I am a co-founder of <a href="https://www.oa-am.com/" target="_blank"><strong>Orion Alpha Asset Management</strong></a>, a quantitative asset management firm focused on systematic investment strategies. Visit our website to learn more about our approach and work.
+  </p>
+</div>
 
 ---
 
