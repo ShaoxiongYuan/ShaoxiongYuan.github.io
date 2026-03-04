@@ -1,3 +1,8 @@
+---
+layout: default
+title: Movie Reviews
+---
+
 # 🎬 Movie Reviews — Shaoxiong (Steven) Yuan
 
 Personal film reviews. More analytical than plot summary — I write about movies when they're worth thinking about beyond the credits.
@@ -5,13 +10,12 @@ Personal film reviews. More analytical than plot summary — I write about movie
 <a href="/">← Back to Home</a>
 
 ---
-permalink: /movie-reviews/
 
 ## Review Index
 
 | Film | Director | Rating | Year |
 | ---- | -------- | ------ | ---- |
-| <a href="/reviews/eternity" target="_blank">*Eternity*</a> | David Freyne | ★★★½ | 2025 |
-| <a href="/reviews/good-luck" target="_blank">*Good Luck, Have Fun, Don't Die*</a> | Gore Verbinski | ★★★★ | 2025 |
-| <a href="/reviews/how-to-make-a-killing" target="_blank">*How to Make a Killing*</a> | John Patton Ford | ★★★ | 2026 |
 | <a href="/reviews/anaconda" target="_blank">*Anaconda*</a> | Tom Gormican | ★★½ | 2025 |
+| <a href="/reviews/how-to-make-a-killing" target="_blank">*How to Make a Killing*</a> | John Patton Ford | ★★★ | 2026 |
+| <a href="/reviews/good-luck" target="_blank">*Good Luck, Have Fun, Don't Die*</a> | Gore Verbinski | ★★★★ | 2025 |
+| <a href="/reviews/eternity" target="_blank">*Eternity*</a> | David Freyne | ★★★½ | 2025 |
