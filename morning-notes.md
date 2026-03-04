@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Morning Notes
+permalink: /morning-notes/
 ---
 
 # 📊 Morning Notes — Orion Alpha AM
