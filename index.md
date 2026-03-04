@@ -27,7 +27,7 @@ Welcome! This site hosts my coursework, personal projects, and movie reviews.
 
 <div class="orion-block">
   <a href="https://www.oa-am.com/" target="_blank" class="orion-logo-link">
-    <img src="/images/orion-alpha-logo.svg" alt="Orion Alpha Asset Management" class="orion-logo">
+    <img src="/images/orion-alpha-logo.png" alt="Orion Alpha Asset Management" class="orion-logo">
   </a>
   <div class="orion-text">
     <p class="orion-tagline">Where Fundamental Conviction Meets Quantitative Discipline.</p>

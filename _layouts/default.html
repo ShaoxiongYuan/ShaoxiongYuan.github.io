@@ -114,6 +114,21 @@
       color: #fff;
     }
 
+    .sidebar nav ul li.sub-item a {
+      padding-left: 1.2rem;
+      font-size: 0.8rem;
+      color: #8a8078;
+    }
+
+    .sidebar nav ul li.sub-item a:hover {
+      color: #c8c0b8;
+      background: #252220;
+    }
+
+    .sidebar nav ul li.sub-item::before {
+      content: none;
+    }
+
     .sidebar-social {
       margin-top: auto;
       display: flex;
@@ -619,9 +634,11 @@
         <nav id="main-nav">
           <ul>
             <li><a href="{{ '/' | relative_url }}#orion-alpha">Orion Alpha AM</a></li>
-            <li><a href="{{ '/morning-notes' | relative_url }}">Morning Notes</a></li>
+            <li class="sub-item"><a href="{{ '/morning-notes' | relative_url }}">Daily Notes</a></li>
             <li><a href="{{ '/movie-reviews' | relative_url }}">Movie Reviews</a></li>
             <li><a href="{{ '/' | relative_url }}#coursework">Course Materials</a></li>
+            <li class="sub-item"><a href="{{ '/' | relative_url }}#usc-coursework">USC Coursework</a></li>
+            <li class="sub-item"><a href="{{ '/' | relative_url }}#ucla-coursework">UCLA Coursework</a></li>
             <li><a href="{{ '/' | relative_url }}#personal-projects">Personal Projects</a></li>
           </ul>
         </nav>
