@@ -74,7 +74,7 @@ Q4 FY2026 numbers: Revenue $68.1B (+73% YoY). Data Center $62.3B (+75% YoY). FQ1
 
 **PLTR +PT to $200** — Rosenblatt raises from $150 to $200 (Buy). Defense-AI crossover re-rating fast. AIP and Maven Smart System are in live production during 'Operation Epic Fury.' Q4 2025 revenue $1.41B (+70% YoY); FY2026 guide $7.2B. Government AI mandate shift away from competitors creates structural demand.
 
-**LMT +7% | Record $692** — 52-week high after Iran strikes. $194B backlog — unprecedented. F-35, PAC-3, THAAD demand at Cold War levels. JPMorgan upgraded to Buy. Hold / add on any dip to $670.
+**LMT +7% — Record $692** — 52-week high after Iran strikes. $194B backlog — unprecedented. F-35, PAC-3, THAAD demand at Cold War levels. JPMorgan upgraded to Buy. Hold / add on any dip to $670.
 
 **MRNA +11%** — Settled patent lawsuit with Biopharma Corp. & Genevant Sciences for up to $2.25B over COVID vaccine IP. Removes the largest known liability overhang. Settlement certainty is bullish; watch pipeline catalysts (flu, RSV mRNA) for the next leg.
 
