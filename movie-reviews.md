@@ -15,6 +15,7 @@ Personal film reviews. More analytical than plot summary — I write about movie
 
 | Film | Director | Rating | Year |
 | ---- | -------- | ------ | ---- |
+| <a href="/reviews/housemaid" target="_blank">*The Housemaid*</a> | Paul Feig | ★★★ | 2025 |
 | <a href="/reviews/anaconda" target="_blank">*Anaconda*</a> | Tom Gormican | ★★½ | 2025 |
 | <a href="/reviews/how-to-make-a-killing" target="_blank">*How to Make a Killing*</a> | John Patton Ford | ★★★ | 2026 |
 | <a href="/reviews/good-luck" target="_blank">*Good Luck, Have Fun, Don't Die*</a> | Gore Verbinski | ★★★★ | 2025 |
