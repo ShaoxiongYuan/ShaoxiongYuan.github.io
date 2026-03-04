@@ -212,29 +212,6 @@
       padding-bottom: 0.5rem;
       border-bottom: 1px solid var(--rule);
     }
-    .note-article h3 {
-      font-family: var(--mono);
-      font-size: 0.72rem;
-      font-weight: 600;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-      color: #fff;
-      background: var(--navy);
-      display: inline-block;
-      padding: 0.28rem 0.7rem;
-      margin: 1.6rem 0 0.55rem;
-      border-radius: 2px;
-    }
-    /* SHORT trade ideas get a red badge */
-    .note-article h3:has(+ p > em:first-child),
-    .note-article h3[data-short] { background: var(--red); }
-
-    /* Mover paragraphs — subtle left rule for ticker entries */
-    .note-article .movers p {
-      border-left: 3px solid var(--rule-2);
-      padding-left: 0.85rem;
-      margin-left: 0;
-    }
     .note-article p {
       font-size: 1rem;
       line-height: 1.82;

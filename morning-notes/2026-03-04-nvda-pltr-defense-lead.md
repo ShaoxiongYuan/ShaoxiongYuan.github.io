@@ -72,8 +72,6 @@ Q4 FY2026 numbers: Revenue $68.1B (+73% YoY). Data Center $62.3B (+75% YoY). FQ1
 
 ## Pre-Market Company Movers
 
-<div class="movers" markdown="1">
-
 **PLTR +PT to $200** — Rosenblatt raises from $150 to $200 (Buy). Defense-AI crossover re-rating fast. AIP and Maven Smart System are in live production during 'Operation Epic Fury.' Q4 2025 revenue $1.41B (+70% YoY); FY2026 guide $7.2B. Government AI mandate shift away from competitors creates structural demand.
 
 **LMT +7% | Record $692** — 52-week high after Iran strikes. $194B backlog — unprecedented. F-35, PAC-3, THAAD demand at Cold War levels. JPMorgan upgraded to Buy. Hold / add on any dip to $670.
@@ -87,8 +85,6 @@ Q4 FY2026 numbers: Revenue $68.1B (+73% YoY). Data Center $62.3B (+75% YoY). FQ1
 **GTLB −9%** — FY27 revenue guide $1.099–1.118B and EPS 76–80c missed on both lines. GitHub/Microsoft structural competitive pressure is worsening. HF net exposure to software is at a 5-year low. Pre-market −9% is not the trough; sell-side downgrades to follow at the open.
 
 **ANF −2%** — Q1 EPS guide $1.20–1.30 below Street. Discretionary spending pressure + tariff cost input squeeze. Avoid.
-
-</div>
 
 ## Berkshire Hathaway 13F — Q4 2025 (Filed Feb 17, 2026)
 
@@ -104,22 +100,13 @@ Other notable moves: CB (Chubb) +15.9% — insurance premium cycle benefits from
 
 ## Trade Ideas — Four Actionable Setups
 
-### LONG — NVDA | BUY | PT: $263
-Catalyst: Q1 FY2027 results in ~90 days. The $78B guide resets every AI infrastructure model. The $4B optical interconnect investment extends the data center moat. Any dip from earnings-day volatility is a buying opportunity.
-*Risk: Geopolitical de-escalation; China ASIC alternatives gain ground faster than expected.*
+<span style="color:#1a7a45;font-weight:700;">LONG — NVDA | BUY | PT: $263</span> — Catalyst: Q1 FY2027 results in ~90 days. The $78B guide resets every AI infrastructure model. The $4B optical interconnect investment extends the data center moat. Any dip from earnings-day volatility is a buying opportunity. *Risk: Geopolitical de-escalation; China ASIC alternatives gain ground faster than expected.*
 
-### LONG — PLTR | BUY | PT: $200 (Rosenblatt)
-Catalyst: Q1 2026 earnings + contract announcements. The only pure-play Defense-AI software at scale. AIP and Maven are validated in production. $7.2B FY2026 revenue guide (+61% growth) is tracking ahead. At ~$145, off late-2025 highs but with fresh narrative catalyst.
-*Risk: Rapid conflict resolution removes near-term catalyst; budget sequestration.*
+<span style="color:#1a7a45;font-weight:700;">LONG — PLTR | BUY | PT: $200 (Rosenblatt)</span> — Catalyst: Q1 2026 earnings + contract announcements. The only pure-play Defense-AI software at scale. AIP and Maven are validated in production. $7.2B FY2026 revenue guide (+61% growth) is tracking ahead. At ~$145, off late-2025 highs but with fresh narrative catalyst. *Risk: Rapid conflict resolution removes near-term catalyst; budget sequestration.*
 
-### LONG — LMT | BUY | PT: $780
-Catalyst: Congressional budget revision + quarterly earnings. Record $194B backlog + conflict-driven procurement urgency = best revenue visibility in industrials. F-35, PAC-3, THAAD at demand levels not seen since the Cold War. JPMorgan Buy upgrade confirms the institutional view. Hold through the conflict; trim on ceasefire headline.
-*Risk: Surprise ceasefire; cost overruns on legacy programs.*
+<span style="color:#1a7a45;font-weight:700;">LONG — LMT | BUY | PT: $780</span> — Catalyst: Congressional budget revision + quarterly earnings. Record $194B backlog + conflict-driven procurement urgency = best revenue visibility in industrials. F-35, PAC-3, THAAD at demand levels not seen since the Cold War. JPMorgan Buy upgrade confirms the institutional view. Hold through the conflict; trim on ceasefire headline. *Risk: Surprise ceasefire; cost overruns on legacy programs.*
 
-### SHORT — GTLB | SELL | PT: $44 | Stop-loss: $58
-{:data-short=""}
-FY27 guide missed on both revenue and EPS. GitHub/Microsoft competitive dynamic is structural and worsening: GitHub has developer mindshare, Microsoft has the Azure/Visual Studio distribution moat. HF net exposure to software at a 5-year low — macro and micro deterioration together.
-*Risk: Strategic acquirer bid; dramatic guide raise next quarter.*
+<span style="color:#c0392b;font-weight:700;">SHORT — GTLB | SELL | PT: $44 | Stop-loss: $58</span> — FY27 guide missed on both revenue and EPS. GitHub/Microsoft competitive dynamic is structural and worsening: GitHub has developer mindshare, Microsoft has the Azure/Visual Studio distribution moat. HF net exposure to software at a 5-year low — macro and micro deterioration together. *Risk: Strategic acquirer bid; dramatic guide raise next quarter.*
 
 ## Sector Positioning Heat Map
 
