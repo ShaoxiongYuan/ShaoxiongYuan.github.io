@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.date | date: "%b %-d, %Y" }} — {{ page.headline }} | Orion Alpha AM</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #f9f9f8;
+      --surface:   #ffffff;
+      --ink:       #111111;
+      --ink-2:     #3a3a3a;
+      --ink-3:     #6b6b6b;
+      --rule:      #e4e4e0;
+      --rule-2:    #d0d0cb;
+      --navy:      #0f2044;
+      --green:     #1a7a45;
+      --red:       #c0392b;
+      --sans:      'Inter', system-ui, sans-serif;
+      --serif:     'Libre Baskerville', Georgia, serif;
+      --mono:      'IBM Plex Mono', monospace;
+    }
+
+    html { font-size: 16px; }
+
+    body {
+      background: var(--bg);
+      color: var(--ink);
+      font-family: var(--sans);
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* ── TOP NAV ──────────────────────────────── */
+    .topbar {
+      background: var(--navy);
+      padding: 0 3rem;
+      height: 44px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .topbar-brand {
+      font-family: var(--mono);
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      color: rgba(255,255,255,0.5);
+    }
+    .topbar-brand strong { color: #fff; font-weight: 500; }
+
+    .topbar-nav { display: flex; gap: 1.75rem; }
+    .topbar-nav a {
+      font-family: var(--mono);
+      font-size: 0.68rem;
+      font-weight: 500;
+      letter-spacing: 0.1em;
+      color: rgba(255,255,255,0.45);
+      text-decoration: none;
+      text-transform: uppercase;
+      transition: color 0.15s;
+    }
+    .topbar-nav a:hover { color: #fff; }
+
+    /* ── COVER IMAGE ──────────────────────────── */
+    .cover {
+      width: 100%;
+      height: 360px;
+      overflow: hidden;
+      position: relative;
+      background: #1a1e28;
+    }
+    .cover img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center;
+      display: block;
+      opacity: 0.78;
+    }
+    .cover-overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to bottom, transparent 30%, rgba(15,32,68,0.65) 100%);
+    }
+    .cover-stamp {
+      position: absolute;
+      bottom: 1.6rem;
+      left: 3rem;
+      font-family: var(--mono);
+      font-size: 0.68rem;
+      font-weight: 500;
+      letter-spacing: 0.18em;
+      color: rgba(255,255,255,0.65);
+      text-transform: uppercase;
+    }
+
+    /* ── NOTE HEADER ──────────────────────────── */
+    .note-header {
+      background: var(--surface);
+      border-bottom: 2px solid var(--navy);
+      padding: 2rem 3rem 1.75rem;
+    }
+    .note-kicker {
+      display: flex;
+      align-items: center;
+      gap: 0.65rem;
+      font-family: var(--mono);
+      font-size: 0.65rem;
+      font-weight: 500;
+      letter-spacing: 0.2em;
+      color: var(--ink-3);
+      text-transform: uppercase;
+      margin-bottom: 0.85rem;
+    }
+    .note-kicker::before {
+      content: '';
+      display: block;
+      width: 16px;
+      height: 2px;
+      background: var(--navy);
+      flex-shrink: 0;
+    }
+    .note-headline {
+      font-family: var(--serif);
+      font-size: clamp(1.5rem, 2.8vw, 2.1rem);
+      font-weight: 700;
+      line-height: 1.28;
+      color: var(--ink);
+      max-width: 68ch;
+      margin-bottom: 1.1rem;
+    }
+    .note-meta {
+      display: flex;
+      align-items: center;
+      gap: 1.25rem;
+      flex-wrap: wrap;
+    }
+    .meta-item {
+      font-family: var(--mono);
+      font-size: 0.67rem;
+      color: var(--ink-3);
+      letter-spacing: 0.06em;
+    }
+    .meta-sep { width: 1px; height: 11px; background: var(--rule-2); }
+
+    /* ── DATA BAND ────────────────────────────── */
+    .data-band {
+      background: var(--navy);
+      padding: 0.7rem 3rem;
+      display: flex;
+      gap: 0;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    .data-band::-webkit-scrollbar { display: none; }
+    .data-cell {
+      display: flex;
+      flex-direction: column;
+      gap: 0.12rem;
+      padding-right: 2rem;
+      margin-right: 2rem;
+      border-right: 1px solid rgba(255,255,255,0.07);
+      flex-shrink: 0;
+    }
+    .data-cell:last-child { border-right: none; padding-right: 0; margin-right: 0; }
+    .data-label {
+      font-family: var(--mono);
+      font-size: 0.58rem;
+      font-weight: 500;
+      letter-spacing: 0.18em;
+      color: rgba(255,255,255,0.32);
+      text-transform: uppercase;
+    }
+    .data-value {
+      font-family: var(--mono);
+      font-size: 0.88rem;
+      font-weight: 500;
+      color: #fff;
+      letter-spacing: 0.03em;
+    }
+    .data-value.up   { color: #52d68a; }
+    .data-value.down { color: #f07070; }
+
+    /* ── PAGE GRID ────────────────────────────── */
+    .page-wrap {
+      max-width: 1120px;
+      margin: 0 auto;
+      padding: 0 3rem;
+      display: grid;
+      grid-template-columns: 1fr 248px;
+      gap: 4rem;
+      align-items: start;
+    }
+
+    /* ── ARTICLE ──────────────────────────────── */
+    .note-article {
+      padding: 2.6rem 0 5rem;
+    }
+    .note-article h2 {
+      font-family: var(--mono);
+      font-size: 0.62rem;
+      font-weight: 600;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--navy);
+      margin: 2.75rem 0 1rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid var(--rule);
+    }
+    .note-article p {
+      font-size: 1rem;
+      line-height: 1.82;
+      color: var(--ink-2);
+      margin-bottom: 1.2rem;
+    }
+    .note-article strong { color: var(--ink); font-weight: 600; }
+    .note-article em { font-style: italic; }
+    .note-article hr {
+      border: none;
+      border-top: 1px solid var(--rule);
+      margin: 2.25rem 0;
+    }
+    .note-article hr + p {
+      font-size: 0.93rem;
+      color: var(--ink-3);
+      font-style: italic;
+      background: #f3f1ed;
+      border-left: 3px solid var(--navy);
+      padding: 0.8rem 1.2rem;
+      line-height: 1.7;
+      margin-bottom: 0;
+    }
+
+    /* ── SIDEBAR ──────────────────────────────── */
+    .note-sidebar {
+      padding: 2.6rem 0 3rem;
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+      position: sticky;
+      top: 1.5rem;
+    }
+    .widget-label {
+      font-family: var(--mono);
+      font-size: 0.58rem;
+      font-weight: 600;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--ink-3);
+      margin-bottom: 0.7rem;
+      padding-bottom: 0.45rem;
+      border-bottom: 1px solid var(--rule);
+    }
+
+    /* Key levels */
+    .level-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      padding: 0.42rem 0;
+      border-bottom: 1px solid var(--rule);
+    }
+    .level-row:last-child { border-bottom: none; }
+    .level-name { font-size: 0.78rem; color: var(--ink-3); }
+    .level-val  { font-family: var(--mono); font-size: 0.78rem; font-weight: 500; color: var(--ink); }
+    .level-val.up   { color: var(--green); }
+    .level-val.down { color: var(--red); }
+
+    /* Sentiment */
+    .sentiment-item { margin-bottom: 0.8rem; }
+    .sentiment-item:last-child { margin-bottom: 0; }
+    .sentiment-top { display: flex; justify-content: space-between; margin-bottom: 0.28rem; }
+    .sentiment-name { font-size: 0.77rem; color: var(--ink-2); }
+    .sentiment-pct  { font-family: var(--mono); font-size: 0.7rem; color: var(--ink-3); }
+    .bar-track { height: 3px; background: var(--rule); border-radius: 2px; overflow: hidden; }
+    .bar-fill { height: 100%; border-radius: 2px; background: var(--navy); }
+    .bar-fill.bearish { background: var(--red); }
+    .bar-fill.neutral { background: var(--ink-3); }
+    .bar-fill.bullish { background: var(--green); }
+
+    /* Tags */
+    .tag-grid { display: flex; flex-wrap: wrap; gap: 0.35rem; }
+    .tag {
+      font-family: var(--mono);
+      font-size: 0.6rem;
+      font-weight: 500;
+      letter-spacing: 0.07em;
+      color: var(--ink-3);
+      background: var(--bg);
+      border: 1px solid var(--rule-2);
+      padding: 0.2rem 0.55rem;
+      border-radius: 2px;
+    }
+
+    /* ── FOOTER ───────────────────────────────── */
+    .note-footer {
+      border-top: 1px solid var(--rule);
+      padding: 1.4rem 3rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .note-footer a {
+      font-family: var(--mono);
+      font-size: 0.65rem;
+      font-weight: 500;
+      letter-spacing: 0.1em;
+      color: var(--ink-3);
+      text-decoration: none;
+      text-transform: uppercase;
+      transition: color 0.15s;
+    }
+    .note-footer a:hover { color: var(--navy); }
+    .footer-brand {
+      font-family: var(--mono);
+      font-size: 0.62rem;
+      color: var(--rule-2);
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+
+    /* ── RESPONSIVE ───────────────────────────── */
+    @media (max-width: 840px) {
+      .topbar, .note-header, .data-band, .note-footer { padding-left: 1.5rem; padding-right: 1.5rem; }
+      .cover { height: 220px; }
+      .cover-stamp { left: 1.5rem; }
+      .page-wrap { grid-template-columns: 1fr; gap: 0; padding: 0 1.5rem; }
+      .note-sidebar { position: static; padding-top: 0; border-top: 1px solid var(--rule); }
+    }
+  </style>
+</head>
+<body>
+
+  <nav class="topbar">
+    <span class="topbar-brand"><strong>Orion Alpha</strong> &nbsp;·&nbsp; Asset Management</span>
+    <div class="topbar-nav">
+      <a href="https://www.oa-am.com/" target="_blank">oa-am.com</a>
+      <a href="/morning-notes">All Notes</a>
+      <a href="/">Home</a>
+    </div>
+  </nav>
+
+  {% if page.image %}
+  <div class="cover">
+    <img src="{{ page.image }}" alt="{{ page.headline }}">
+    <div class="cover-overlay"></div>
+    <span class="cover-stamp">{{ page.date | date: "%A, %B %-d, %Y" }} &nbsp;·&nbsp; End-of-Day Recap</span>
+  </div>
+  {% endif %}
+
+  <header class="note-header">
+    <div class="note-kicker">Morning Note &nbsp;·&nbsp; Equity Research</div>
+    <h1 class="note-headline">{{ page.headline }}</h1>
+    <div class="note-meta">
+      <span class="meta-item">{{ page.date | date: "%B %-d, %Y" }}</span>
+      <div class="meta-sep"></div>
+      <span class="meta-item">Orion Alpha AM &nbsp;·&nbsp; Fund X</span>
+      {% if page.author %}<div class="meta-sep"></div><span class="meta-item">{{ page.author }}</span>{% endif %}
+    </div>
+  </header>
+
+  {% if page.snapshot %}
+  <div class="data-band">
+    {% for item in page.snapshot %}
+    <div class="data-cell">
+      <span class="data-label">{{ item.label }}</span>
+      <span class="data-value {{ item.dir }}">{{ item.value }}</span>
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  <div class="page-wrap">
+    <article class="note-article">
+      {{ content }}
+    </article>
+
+    <aside class="note-sidebar">
+      {% if page.levels %}
+      <div>
+        <div class="widget-label">Key Levels</div>
+        {% for l in page.levels %}
+        <div class="level-row">
+          <span class="level-name">{{ l.name }}</span>
+          <span class="level-val {{ l.dir }}">{{ l.value }}</span>
+        </div>
+        {% endfor %}
+      </div>
+      {% endif %}
+
+      {% if page.sentiment %}
+      <div>
+        <div class="widget-label">Sentiment</div>
+        {% for s in page.sentiment %}
+        <div class="sentiment-item">
+          <div class="sentiment-top">
+            <span class="sentiment-name">{{ s.label }}</span>
+            <span class="sentiment-pct">{{ s.pct }}%</span>
+          </div>
+          <div class="bar-track">
+            <div class="bar-fill {{ s.tone }}" style="width:{{ s.pct }}%"></div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      {% endif %}
+
+      {% if page.tags %}
+      <div>
+        <div class="widget-label">Themes</div>
+        <div class="tag-grid">
+          {% for tag in page.tags %}
+          <span class="tag">{{ tag }}</span>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+    </aside>
+  </div>
+
+  <footer class="note-footer">
+    <a href="/morning-notes">← All Morning Notes</a>
+    <span class="footer-brand">Orion Alpha Asset Management</span>
+    <a href="/">stevenyuan.github.io</a>
+  </footer>
+
+</body>
+</html>

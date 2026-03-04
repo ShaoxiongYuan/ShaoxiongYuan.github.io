@@ -27,7 +27,7 @@ Welcome! This site hosts my coursework, personal projects, and movie reviews.
 
 <div class="orion-block">
   <a href="https://www.oa-am.com/" target="_blank" class="orion-logo-link">
-    <img src="/images/orion-alpha-logo.png" alt="Orion Alpha Asset Management" class="orion-logo">
+    <img src="/images/orion-alpha-logo.svg" alt="Orion Alpha Asset Management" class="orion-logo">
   </a>
   <div class="orion-text">
     <p class="orion-tagline">Where Fundamental Conviction Meets Quantitative Discipline.</p>
@@ -35,6 +35,16 @@ Welcome! This site hosts my coursework, personal projects, and movie reviews.
     <p><a href="https://www.oa-am.com/" target="_blank">Visit oa-am.com →</a></p>
   </div>
 </div>
+
+### Morning Notes
+
+Daily equity research notes on market structure, macro, and trade ideas.
+
+**<a href="/morning-notes">→ View All Morning Notes</a>**
+
+| Date | Headline |
+| ---- | -------- |
+| <a href="/morning-notes/2026-03-03-iran-war-day-4" target="_blank">Mar 3, 2026</a> | *Iran War Enters Day 4. Markets Flinch, Then Half-Recover.* |
 
 ---
 
@@ -49,70 +59,6 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 | <a href="/reviews/eternity" target="_blank">*Eternity*</a> | David Freyne | ★★★½ |
 | <a href="/reviews/good-luck" target="_blank">*Good Luck, Have Fun, Don't Die*</a> | Gore Verbinski | ★★★★ |
 | <a href="/reviews/how-to-make-a-killing" target="_blank">*How to Make a Killing*</a> | John Patton Ford | ★★★ |
-
----
-
-## Personal Projects {#personal-projects}
-
-<details markdown="1">
-<summary><b>Pioneer Academics — Continued Fractions Research</b></summary>
-
-Official Website: <a href="https://pioneeracademics.com/" target="_blank">https://pioneeracademics.com/</a>
-
-In this program, I learned several fascinating identities about the Fibonacci sequence as well as other sequences such as Lucas numbers.
-
-At the end of the Pioneer Academics, I undertook an independent research project with Prof. Dresden of Washington and Lee University, writing a paper on continued fraction, an iterative process of number patterns.
-
-Professor Gregory Dresden's Homepage: <a href="https://dresden.academic.wlu.edu/" target="_blank">https://dresden.academic.wlu.edu/</a>
-
-Link to my final paper on continued fractions: <a href="https://arxiv.org/abs/1907.12459" target="_blank">Final Paper</a>
-
-Program Textbook: <a href="https://ShaoxiongYuan.github.io/Files/Projects/Pioneer/textbook.pdf" target="_blank">Proofs That Really Count</a>
-
-Link to my entry in <a href="https://oeis.org/" target="_blank">Online Encyclopedia of Integer Sequences</a>: <a href="https://oeis.org/A049669" target="_blank">https://oeis.org/A049669</a>
-
-</details>
-
-<details markdown="1">
-<summary><b>Micro Blog Site — Python / Flask</b></summary>
-
-Note: I followed Corey Schafer (<a href="https://www.youtube.com/c/Coreyms" target="_blank">His YouTube Channel</a>) to write this project.
-
-The source code can be found <a href="https://ShaoxiongYuan.github.io/Files/Projects/Flask_Blog.zip" target="_blank">here</a>.
-
-</details>
-
-<details markdown="1">
-<summary><b>Comment System with Waterfall Loading — Flask</b></summary>
-
-The source code can be found <a href="https://ShaoxiongYuan.github.io/Files/Projects/comment.zip" target="_blank">here</a>.
-
-</details>
-
-<details markdown="1">
-<summary><b>Online Shopping Website — Django + Nginx</b></summary>
-
-The source code can be found <a href="https://ShaoxiongYuan.github.io/Files/Projects/dadashop/dadashop12.zip" target="_blank">here</a>.
-
-This project also uses Nginx to handle static requests such as HTML templates, CSS files, and JS files. To download nginx, visit <a href="http://nginx.org/en/download.html" target="_blank">this link</a>. The configuration file can be found <a href="https://ShaoxiongYuan.github.io/Files/Projects/dadashop/nginx.conf" target="_blank">here</a>. The static files can be found <a href="https://ShaoxiongYuan.github.io/Files/Projects/dadashop/dadashop.zip" target="_blank">here</a>.
-
-</details>
-
-<details markdown="1">
-<summary><b>GPT-2 (Generative "Python" Transformer) Implementation</b></summary>
-
-This project trained the GPT model from scratch to allow the computer to predict what my next line of Python code is. The complete tutorial is taught by <a href="https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ" target="_blank">sentdex</a> in <a href="https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ" target="_blank">Generating Python code with GPT</a>. The trained model using 80G of python files can be found at <a href="https://huggingface.co/Sentdex/GPyT" target="_blank">this link</a>.
-
-The source code can be found <a href="https://ShaoxiongYuan.github.io/Files/Projects/gpt-2.zip" target="_blank">here</a>.
-
-</details>
-
-<details markdown="1">
-<summary><b>Download All Microsoft Templates — Scrapy</b></summary>
-
-The source code can be found <a href="https://ShaoxiongYuan.github.io/Files/Projects/Microsoft.zip" target="_blank">here</a>.
-
-</details>
 
 ---
 
@@ -372,3 +318,67 @@ Course Textbook: Not Available
 ### UCLA Coursework {#ucla-coursework}
 
 *Files coming soon.*
+
+---
+
+## Personal Projects {#personal-projects}
+
+<details markdown="1">
+<summary><b>Pioneer Academics — Continued Fractions Research</b></summary>
+
+Official Website: <a href="https://pioneeracademics.com/" target="_blank">https://pioneeracademics.com/</a>
+
+In this program, I learned several fascinating identities about the Fibonacci sequence as well as other sequences such as Lucas numbers.
+
+At the end of the Pioneer Academics, I undertook an independent research project with Prof. Dresden of Washington and Lee University, writing a paper on continued fraction, an iterative process of number patterns.
+
+Professor Gregory Dresden's Homepage: <a href="https://dresden.academic.wlu.edu/" target="_blank">https://dresden.academic.wlu.edu/</a>
+
+Link to my final paper on continued fractions: <a href="https://arxiv.org/abs/1907.12459" target="_blank">Final Paper</a>
+
+Program Textbook: <a href="https://ShaoxiongYuan.github.io/Files/Projects/Pioneer/textbook.pdf" target="_blank">Proofs That Really Count</a>
+
+Link to my entry in <a href="https://oeis.org/" target="_blank">Online Encyclopedia of Integer Sequences</a>: <a href="https://oeis.org/A049669" target="_blank">https://oeis.org/A049669</a>
+
+</details>
+
+<details markdown="1">
+<summary><b>Micro Blog Site — Python / Flask</b></summary>
+
+Note: I followed Corey Schafer (<a href="https://www.youtube.com/c/Coreyms" target="_blank">His YouTube Channel</a>) to write this project.
+
+The source code can be found <a href="https://ShaoxiongYuan.github.io/Files/Projects/Flask_Blog.zip" target="_blank">here</a>.
+
+</details>
+
+<details markdown="1">
+<summary><b>Comment System with Waterfall Loading — Flask</b></summary>
+
+The source code can be found <a href="https://ShaoxiongYuan.github.io/Files/Projects/comment.zip" target="_blank">here</a>.
+
+</details>
+
+<details markdown="1">
+<summary><b>Online Shopping Website — Django + Nginx</b></summary>
+
+The source code can be found <a href="https://ShaoxiongYuan.github.io/Files/Projects/dadashop/dadashop12.zip" target="_blank">here</a>.
+
+This project also uses Nginx to handle static requests such as HTML templates, CSS files, and JS files. To download nginx, visit <a href="http://nginx.org/en/download.html" target="_blank">this link</a>. The configuration file can be found <a href="https://ShaoxiongYuan.github.io/Files/Projects/dadashop/nginx.conf" target="_blank">here</a>. The static files can be found <a href="https://ShaoxiongYuan.github.io/Files/Projects/dadashop/dadashop.zip" target="_blank">here</a>.
+
+</details>
+
+<details markdown="1">
+<summary><b>GPT-2 (Generative "Python" Transformer) Implementation</b></summary>
+
+This project trained the GPT model from scratch to allow the computer to predict what my next line of Python code is. The complete tutorial is taught by <a href="https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ" target="_blank">sentdex</a> in <a href="https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ" target="_blank">Generating Python code with GPT</a>. The trained model using 80G of python files can be found at <a href="https://huggingface.co/Sentdex/GPyT" target="_blank">this link</a>.
+
+The source code can be found <a href="https://ShaoxiongYuan.github.io/Files/Projects/gpt-2.zip" target="_blank">here</a>.
+
+</details>
+
+<details markdown="1">
+<summary><b>Download All Microsoft Templates — Scrapy</b></summary>
+
+The source code can be found <a href="https://ShaoxiongYuan.github.io/Files/Projects/Microsoft.zip" target="_blank">here</a>.
+
+</details>
