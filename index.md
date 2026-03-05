@@ -318,7 +318,48 @@ Course Textbook: Not Available
 
 ### UCLA Coursework {#ucla-coursework}
 
-*Files coming soon.*
+<details markdown="1">
+<summary><b>Trading, Market Frictions and FinTech</b></summary>
+
+**Final Project: Golden Cross & Death Cross EMA Trading Strategy**
+
+A group project implementing a momentum-based trading strategy using 8-period and 25-period Exponential Moving Averages (EMAs) on the S&P 500 Energy Sector. The strategy uses Golden Cross signals (8EMA crossing above 25EMA) to trigger buys and Death Cross signals to trigger sells, achieving a 17% annual return vs. 10% buy-and-hold, with a Sharpe Ratio of 0.68 vs. 0.37 for the benchmark.
+
+| Files | Links |
+| ----- | ----- |
+| Presentation | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/Trading/Group_8_Section_1.pdf" target="_blank"><strong>Presentation PDF</strong></a> |
+| Jupyter Notebook | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/Trading/Trading_Final_Project_ac.ipynb" target="_blank"><strong>Code Notebook</strong></a> |
+
+</details>
+
+<details markdown="1">
+<summary><b>Financial Data Analytics and Machine Learning</b></summary>
+
+**Final Project: Stock Return Predictability with XGBoost and Random Forest**
+
+A group project examining whether combining momentum and fundamental factors can produce a strategy that captures momentum gains while remaining effective long-term. Using CRSP/Compustat data (2012–2024), the study trains XGBoost and Random Forest models to forecast next-month stock returns, evaluated against a Fama-French 3-Factor benchmark via decile portfolios and a Winner-Minus-Loser (WML) long-short portfolio. XGBoost achieved a 26.11% WML return and Sharpe of 0.96 in the test period (2022–2024).
+
+| Files | Links |
+| ----- | ----- |
+| Paper | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/ML/ML_Final_Project_Part1.pdf" target="_blank"><strong>Research Paper</strong></a> |
+| Jupyter Notebook | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/ML/final_project_code.ipynb" target="_blank"><strong>Code Notebook</strong></a> |
+
+</details>
+
+<details markdown="1">
+<summary><b>Quantitative Asset Management</b></summary>
+
+**Final Project: Regime-Based Factor Investing Strategy**
+
+A group project developing a novel regime-aware long-short factor investing strategy using CRSP data (1990–2023). Market regimes are identified along two dimensions — macroeconomic regime (Bull/Bear/Sideways via term spread between the 10-year Treasury and 3-month T-Bill) and market concentration regime (Narrow/Normal/Broad via Gini coefficient and HHI) — forming a 3×3 matrix of nine distinct regimes. For each regime, an optimal combination of six factor signals (momentum, growth, quality, volatility, value, profitability) is selected, and stocks are ranked by composite Z-score into top/bottom quintile long-short portfolios rebalanced monthly. The strategy generates statistically significant CAPM and FF3 alpha, outperforms the market across all major bear market episodes (151.51% during the GFC), and achieves a maximum drawdown of −45.32% vs. the market's −50.31%.
+
+| Files | Links |
+| ----- | ----- |
+| Paper | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/QAM/QAM_FinalProject.pdf" target="_blank"><strong>Research Paper</strong></a> |
+| Presentation | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/QAM/QAM_FinalProject_pre.pdf" target="_blank"><strong>Presentation PDF</strong></a> |
+| Jupyter Notebook | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/QAM/FinalProject_KM3.ipynb" target="_blank"><strong>Code Notebook</strong></a> |
+
+</details>
 
 ---
 
