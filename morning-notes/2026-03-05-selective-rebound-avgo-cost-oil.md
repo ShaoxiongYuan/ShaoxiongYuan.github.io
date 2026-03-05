@@ -83,23 +83,23 @@ The DXY is at ~104.5 (+0.95%): haven demand persists and oil-driven inflation is
 
 ## Notable Earnings — AVGO, COST, AEO, CRDO, TTD
 
-**AVGO — $19.31B vs. $19.21BE | EPS $2.05 vs. $2.02E | BEAT**
+**AVGO — $19.31B vs. $19.21BE & EPS $2.05 vs. $2.02E -> BEAT**
 
 AI revenue of $8.4B grew 106% year-over-year, driven by custom AI accelerators (XPUs) for Google, Meta, and ByteDance, plus AI networking (Tomahawk/Jericho switch chips). Q2 guide of $22B vs. $20.68B consensus is a 6.4% beat on guidance alone. CEO Hock Tan stated AI chip revenue will exceed $100B in 2027 — the biggest forward signal of the morning, implying a total addressable market for custom AI silicon that analysts have not yet fully modeled. Software segment growth slowed (VMware integration normalizing) but this is known and priced. AVGO is the second-best way to own AI infrastructure after NVDA.
 
-**COST — $67.31B vs. $65.8BE | EPS $4.50 vs. $4.28E | BEAT**
+**COST — $67.31B vs. $65.8BE & EPS $4.50 vs. $4.28E -> BEAT**
 
 Comparable sales +6.4%, digital +20.5%, net income rose from $1.798B to $2.001B year-over-year. Membership renewal rates remain above 90%. This is not just a Costco story — it is a signal about the US consumer. In a geopolitical conflict + tariff environment, COST's membership model insulates revenue in a way traditional retailers cannot replicate. The cleanest defensive consumer long available. Add on any initial post-earnings softness.
 
-**CRDO — $404–408M | EPS Beat | BEAT (reported Mar 2)**
+**CRDO — $404–408M & EPS Beat -> BEAT (reported Mar 2)**
 
 +272% YoY revenue growth driven by a fifth hyperscaler AEC win. The stock sold off 14–15% on Q4 gross margin guide compression (64–66% vs. 68.6% prior) — a deliberate product-mix trade-off, not a cost problem. Rebounding today as fundamental buyers step in. Mean analyst PT $208.69 (14/15 Buy). NVDA GTC demo of a full AEC rack is upcoming in March. The broader lesson: in high-growth semis, sell-the-guide patterns often present the best risk-adjusted entry points.
 
-**AEO — Light EPS vs. Est. | MISS**
+**AEO — Light EPS vs. Est. -> MISS**
 
 Tariff impact warning: ~$60M H1 hit. Consumer apparel has the highest import cost exposure of any retail sub-sector and the least pricing power in a value-conscious consumer environment. AEO is down 4.5% pre-market. This is not the trough — guidance season across apparel will accelerate the rotation out of the space. ANF gave a similar warning two days ago.
 
-**TTD — $847M vs. $841ME | EPS Beat | MIXED**
+**TTD — $847M vs. $841ME & EPS Beat -> MIXED**
 
 Q4 beat but Q1 guide was soft — stock −16% extended. Ad market caution persists. Software at a 5-year low in HF net exposure. Avoid.
 
