@@ -348,7 +348,7 @@ A group project examining whether combining momentum and fundamental factors can
 | Files | Links |
 | ----- | ----- |
 | Course Syllabus | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/ML/syllabus.pdf" target="_blank"><strong>Course Syllabus</strong></a> |
-| Paper | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/ML/ML_Final_Project_Part1.pdf" target="_blank"><strong>Research Paper</strong></a> |
+| Presentation | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/ML/ML_Final_Project_Part1.pdf" target="_blank"><strong>Research Paper</strong></a> |
 | Jupyter Notebook | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/ML/final_project_code.ipynb" target="_blank"><strong>Code Notebook</strong></a> |
 
 </details>
