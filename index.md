@@ -1,6 +1,13 @@
+<div class="intro-header">
+  <img src="/images/professional_photo.jpg" alt="Shaoxiong (Steven) Yuan" class="headshot">
+  <div class="intro-header-text">
+
 # Shaoxiong (Steven) Yuan
 
 Welcome! This site hosts my coursework, personal projects, and movie reviews.
+
+  </div>
+</div>
 
 <div class="degree-block">
   <div class="degree-row">
@@ -18,8 +25,6 @@ Welcome! This site hosts my coursework, personal projects, and movie reviews.
     </div>
   </div>
 </div>
-
-<p style="text-align:right;"><a href="mailto:ysxstevenpp123@gmail.com">ysxstevenpp123@gmail.com</a></p>
 
 ---
 
@@ -319,7 +324,7 @@ Course Textbook: Not Available
 ### UCLA Coursework {#ucla-coursework}
 
 <details markdown="1">
-<summary><b>Trading, Market Frictions and FinTech</b></summary>
+<summary><b>MFE 412 — Trading, Market Frictions and FinTech</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. J. Zhang</span></summary>
 
 **Final Project: Golden Cross & Death Cross EMA Trading Strategy**
 
@@ -327,13 +332,14 @@ A group project implementing a momentum-based trading strategy using 8-period an
 
 | Files | Links |
 | ----- | ----- |
+| Course Syllabus | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/Trading/syllabus.pdf" target="_blank"><strong>Course Syllabus</strong></a> |
 | Presentation | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/Trading/Group_8_Section_1.pdf" target="_blank"><strong>Presentation PDF</strong></a> |
 | Jupyter Notebook | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/Trading/Trading_Final_Project_ac.ipynb" target="_blank"><strong>Code Notebook</strong></a> |
 
 </details>
 
 <details markdown="1">
-<summary><b>Financial Data Analytics and Machine Learning</b></summary>
+<summary><b>MFE 413 — Financial Data Analytics and Machine Learning</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. L. Lochstoer</span></summary>
 
 **Final Project: Stock Return Predictability with XGBoost and Random Forest**
 
@@ -341,13 +347,14 @@ A group project examining whether combining momentum and fundamental factors can
 
 | Files | Links |
 | ----- | ----- |
+| Course Syllabus | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/ML/syllabus.pdf" target="_blank"><strong>Course Syllabus</strong></a> |
 | Paper | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/ML/ML_Final_Project_Part1.pdf" target="_blank"><strong>Research Paper</strong></a> |
 | Jupyter Notebook | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/ML/final_project_code.ipynb" target="_blank"><strong>Code Notebook</strong></a> |
 
 </details>
 
 <details markdown="1">
-<summary><b>Quantitative Asset Management</b></summary>
+<summary><b>MFE 431 — Quantitative Asset Management</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. B. Herskovic</span></summary>
 
 **Final Project: Regime-Based Factor Investing Strategy**
 
@@ -355,6 +362,7 @@ A group project developing a novel regime-aware long-short factor investing stra
 
 | Files | Links |
 | ----- | ----- |
+| Course Syllabus | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/QAM/syllabus.pdf" target="_blank"><strong>Course Syllabus</strong></a> |
 | Paper | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/QAM/QAM_FinalProject.pdf" target="_blank"><strong>Research Paper</strong></a> |
 | Presentation | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/QAM/QAM_FinalProject_pre.pdf" target="_blank"><strong>Presentation PDF</strong></a> |
 | Jupyter Notebook | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/QAM/FinalProject_KM3.ipynb" target="_blank"><strong>Code Notebook</strong></a> |
