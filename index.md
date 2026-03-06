@@ -59,9 +59,9 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 
 | Film | Director | Rating |
 | ---- | -------- | ------ |
+| <a href="/reviews/marty-supreme" target="_blank">*Marty Supreme*</a> | Josh Safdie | ★★★½ |
 | <a href="/reviews/housemaid" target="_blank">*The Housemaid*</a> | Paul Feig | ★★★ |
 | <a href="/reviews/anaconda" target="_blank">*Anaconda*</a> | Tom Gormican | ★★½ |
-| <a href="/reviews/how-to-make-a-killing" target="_blank">*How to Make a Killing*</a> | John Patton Ford | ★★★ |
 
 ---
 
