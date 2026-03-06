@@ -2,7 +2,7 @@
   <img src="/images/professional_photo.jpg" alt="Shaoxiong (Steven) Yuan" class="headshot">
   <div class="intro-header-text">
     <h1>Shaoxiong (Steven) Yuan</h1>
-    <p>Welcome! This site hosts my coursework, personal projects, and movie reviews.</p>
+    <p>UCLA MFE '25 &nbsp;·&nbsp; USC '24 &nbsp;·&nbsp; Orion Alpha Asset Management</p>
   </div>
 </div>
 
@@ -22,6 +22,16 @@
     </div>
   </div>
 </div>
+
+---
+
+## About {#about}
+
+I'm a quantitative researcher and co-founder of **Orion Alpha Asset Management**, where I serve as Fund X Managing Partner. My work sits at the intersection of fundamental equity research, derivatives modelling, and machine learning-driven portfolio construction — Fund X has returned 26% over 8 months with a 3.43 Sharpe ratio and 4.6% maximum drawdown.
+
+I hold a Master of Financial Engineering from UCLA Anderson and dual degrees in Applied and Computational Mathematics (AMCM) and Computer Science & Business Administration (CSBA) from USC. My professional background spans capital markets and M&A in Beijing, Shanghai, and New York, including roles at China Reform Securities, Yongxing Securities, and M+A Squared.
+
+Outside of markets, I write film reviews for movies worth thinking about beyond the credits — and occasionally build tools that sit at the edge of finance and software.
 
 ---
 
