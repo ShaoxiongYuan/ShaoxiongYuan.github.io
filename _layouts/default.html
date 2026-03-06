@@ -191,14 +191,16 @@
       font-weight: 400;
       line-height: 1.05;
       letter-spacing: -0.02em;
-      color: var(--ink);
+      color: #ffffff;
+      text-shadow: 0 2px 40px rgba(0,0,0,0.5);
       opacity: 0;
       animation: fadeUpIn 0.9s 0.5s ease forwards;
     }
 
     .landing-name em {
       font-style: italic;
-      color: var(--gold);
+      color: #e8c98a;
+      text-shadow: 0 0 30px rgba(232,201,138,0.4);
     }
 
     .landing-tagline {
@@ -543,8 +545,8 @@
 
     .main-content h2 {
       font-family: var(--sans);
-      font-size: 0.72rem;
-      font-weight: 700;
+      font-size: 0.78rem;
+      font-weight: 800;
       letter-spacing: 0.22em;
       text-transform: uppercase;
       color: var(--cyan);
@@ -569,7 +571,7 @@
 
     .main-content h3 {
       font-family: var(--serif);
-      font-size: 1.05rem;
+      font-size: 1.25rem;
       font-style: italic;
       color: var(--gold);
       margin-top: 2rem;
@@ -578,9 +580,9 @@
 
     .main-content h4 {
       font-family: var(--mono);
-      font-size: 0.68rem;
-      font-weight: 400;
-      letter-spacing: 0.14em;
+      font-size: 0.75rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
       text-transform: uppercase;
       color: var(--main-ink-3);
       margin-top: 1.25rem;
@@ -732,7 +734,7 @@
       color: var(--cyan);
       font-family: var(--sans);
       font-weight: 600;
-      font-size: 0.85rem;
+      font-size: 1.0rem;
       list-style: none;
       display: flex;
       align-items: center;
@@ -790,7 +792,7 @@
 
     .intro-header-text h1 {
       font-family: var(--serif);
-      font-size: 2rem;
+      font-size: 2.2rem;
       font-style: italic;
       margin-bottom: 0.3rem;
     }
@@ -1204,23 +1206,43 @@
 
     /* Experience items */
     .exp-item {
-      padding: 0.5rem 0.6rem;
+      padding: 0.55rem 0.7rem;
       border-radius: 6px;
       background: #ffffff;
       border: 1px solid rgba(26,95,160,0.10);
       margin-bottom: 0.4rem;
-      transition: background 0.15s;
+      transition: background 0.2s, border-color 0.2s, box-shadow 0.2s;
+      cursor: default;
+      position: relative;
     }
 
-    .exp-item:hover { background: rgba(26,95,160,0.05); }
+    .exp-item:hover {
+      background: rgba(26,95,160,0.04);
+      border-color: rgba(26,95,160,0.22);
+      box-shadow: 0 2px 12px rgba(26,95,160,0.07);
+    }
+
+    .exp-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 0.12rem;
+    }
 
     .exp-role {
-      display: block;
       font-family: var(--sans);
       font-size: 0.72rem;
       font-weight: 600;
       color: var(--main-ink-2);
-      margin-bottom: 0.15rem;
+    }
+
+    .exp-date {
+      font-family: var(--mono);
+      font-size: 0.56rem;
+      color: var(--main-ink-3);
+      letter-spacing: 0.04em;
+      flex-shrink: 0;
+      margin-left: 0.4rem;
     }
 
     .exp-desc {
@@ -1228,7 +1250,51 @@
       font-family: var(--mono);
       font-size: 0.6rem;
       color: var(--main-ink-3);
-      letter-spacing: 0.04em;
+      letter-spacing: 0.03em;
+      margin-bottom: 0;
+    }
+
+    .exp-bullets {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.35s ease, opacity 0.3s ease, margin-top 0.25s ease;
+      opacity: 0;
+      margin-top: 0;
+    }
+
+    .exp-item:hover .exp-bullets {
+      max-height: 200px;
+      opacity: 1;
+      margin-top: 0.5rem;
+    }
+
+    .exp-bullets ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      border-top: 1px solid rgba(26,95,160,0.10);
+      padding-top: 0.45rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.3rem;
+    }
+
+    .exp-bullets li {
+      font-family: var(--mono);
+      font-size: 0.58rem;
+      color: var(--main-ink-2);
+      line-height: 1.5;
+      padding-left: 0.85rem;
+      position: relative;
+    }
+
+    .exp-bullets li::before {
+      content: "▸";
+      position: absolute;
+      left: 0;
+      color: var(--cyan);
+      font-size: 0.5rem;
+      top: 0.05rem;
     }
 
     /* Status indicator */
@@ -1515,7 +1581,6 @@
         <div class="panel-section-label">About Me</div>
 
         <div class="about-card">
-          <img src="/images/professional_photo.jpg" alt="Steven Yuan" class="about-avatar" />
           <div class="about-name">Steven Yuan</div>
           <div class="about-role">MFE · Fund X Managing Partner · Quant Researcher</div>
           <p class="about-bio">
@@ -1553,26 +1618,61 @@
               <span class="stat-label">Positions</span>
             </div>
           </div>
+          <div class="status-indicator" style="margin-top:0.75rem;">
+            <div class="status-dot"></div>
+            <span class="status-text">Fund X — Active</span>
+          </div>
         </div>
 
         <div>
           <div class="panel-section-label">Experience</div>
           <div class="quick-links">
             <div class="exp-item">
-              <span class="exp-role">Orion Alpha AM</span>
+              <div class="exp-header">
+                <span class="exp-role">Orion Alpha AM</span>
+                <span class="exp-date">2025–present</span>
+              </div>
               <span class="exp-desc">Fund X Managing Partner &amp; Co-Founder</span>
+              <div class="exp-bullets"><ul>
+                <li>26% cumulative return, 3.43 avg Sharpe, 4.6% max drawdown over 8 months</li>
+                <li>Quantamental strategy fusing fundamental conviction with Bayesian data validation</li>
+                <li>Daily equity research notes covering macro, options, and trade ideas</li>
+              </ul></div>
             </div>
             <div class="exp-item">
-              <span class="exp-role">China Reform Securities</span>
-              <span class="exp-desc">Strategic &amp; Capital Markets Intern</span>
+              <div class="exp-header">
+                <span class="exp-role">China Reform Securities</span>
+                <span class="exp-date">Jul–Aug 2024</span>
+              </div>
+              <span class="exp-desc">Strategic &amp; Capital Markets Intern · Beijing</span>
+              <div class="exp-bullets"><ul>
+                <li>Led industry analysis of China's dye market; due diligence on Penglai Jiaxin Dye Group</li>
+                <li>Synthesized fixed-income data from Wind to rank high-potential acquisition targets</li>
+                <li>Contributed to IPO planning on BSE and delivered Panda Bond proposal to Zespri</li>
+              </ul></div>
             </div>
             <div class="exp-item">
-              <span class="exp-role">Yongxing Securities</span>
-              <span class="exp-desc">Research Analyst (Securities)</span>
+              <div class="exp-header">
+                <span class="exp-role">Yongxing Securities</span>
+                <span class="exp-date">Jul–Aug 2023</span>
+              </div>
+              <span class="exp-desc">Research Analyst (Securities) · Shanghai</span>
+              <div class="exp-bullets"><ul>
+                <li>Researched regulatory frameworks across Chinese stock exchanges for equity research desk</li>
+                <li>Built classification model for legislative documents, streamlining sorting workflow</li>
+                <li>Presented regulatory environment analysis and model implications across sectors</li>
+              </ul></div>
             </div>
             <div class="exp-item">
-              <span class="exp-role">M+A Squared</span>
-              <span class="exp-desc">Investment Banking Analyst (M&amp;A)</span>
+              <div class="exp-header">
+                <span class="exp-role">M+A Squared</span>
+                <span class="exp-date">Jun–Aug 2022</span>
+              </div>
+              <span class="exp-desc">Investment Banking Analyst (M&amp;A) · New York</span>
+              <div class="exp-bullets"><ul>
+                <li>Deal-sourced 5 strategic and 2 financial acquirers in PitchBook based on synergy criteria</li>
+                <li>Generated 28-page report on Human Capital mgmt industry, market competitors &amp; KPIs</li>
+              </ul></div>
             </div>
           </div>
         </div>
@@ -1580,7 +1680,7 @@
         <div>
           <div class="panel-section-label">Quick Links</div>
           <div class="quick-links">
-            <a href="{{ '/morning-notes' | relative_url }}" class="quick-link">
+            <a href="{{ '/morning-notes/2026-03-06-nfp-mrvl-brent85' | relative_url }}" class="quick-link">
               <span class="quick-link-dot"></span>Latest Morning Note
             </a>
             <a href="{{ '/' | relative_url }}#orion-alpha" class="quick-link">
@@ -1589,22 +1689,12 @@
             <a href="{{ '/movie-reviews' | relative_url }}" class="quick-link">
               <span class="quick-link-dot"></span>Film Reviews
             </a>
-            <a href="{{ '/' | relative_url }}#ucla-coursework" class="quick-link">
-              <span class="quick-link-dot"></span>UCLA MFE Work
-            </a>
-            <a href="{{ '/' | relative_url }}#personal-projects" class="quick-link">
-              <span class="quick-link-dot"></span>Research Projects
-            </a>
             <a href="https://www.oa-am.com/" target="_blank" class="quick-link">
               <span class="quick-link-dot"></span>oa-am.com ↗
             </a>
           </div>
         </div>
 
-        <div class="status-indicator">
-          <div class="status-dot"></div>
-          <span class="status-text">Fund X — Active</span>
-        </div>
 
       </aside>
 
