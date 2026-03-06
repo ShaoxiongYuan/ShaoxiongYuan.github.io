@@ -8,14 +8,14 @@
 
 <div class="degree-block">
   <div class="degree-row">
-    <img class="degree-logo" src="/images/ucla-anderson-logo.svg" alt="UCLA Anderson">
+    <div class="degree-logo-wrap"><img class="degree-logo" src="/images/ucla-anderson-logo.svg" alt="UCLA Anderson"></div>
     <div class="degree-text">
       <strong>Master of Financial Engineering</strong>
       <span>UCLA Anderson School of Management — Class of 2025</span>
     </div>
   </div>
   <div class="degree-row">
-    <img class="degree-logo" src="/images/usc-logo.png" alt="USC">
+    <div class="degree-logo-wrap"><img class="degree-logo" src="/images/usc-logo.png" alt="USC"></div>
     <div class="degree-text">
       <strong>B.A. in Applied and Computational Mathematics<br>B.S. in Computer Science and Business Administration</strong>
       <span>University of Southern California — Class of 2024</span>
