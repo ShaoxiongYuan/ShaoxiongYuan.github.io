@@ -59,9 +59,9 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 
 | Film | Director | Rating |
 | ---- | -------- | ------ |
+| <a href="/reviews/pegasus-3" target="_blank">*Pegasus 3*</a> | Han Han | ★★★ |
+| <a href="/reviews/pegasus-2" target="_blank">*Pegasus 2*</a> | Han Han | ★★★ |
 | <a href="/reviews/marty-supreme" target="_blank">*Marty Supreme*</a> | Josh Safdie | ★★★½ |
-| <a href="/reviews/housemaid" target="_blank">*The Housemaid*</a> | Paul Feig | ★★★ |
-| <a href="/reviews/anaconda" target="_blank">*Anaconda*</a> | Tom Gormican | ★★½ |
 
 ---
 
@@ -72,7 +72,7 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 #### For Math: {#for-math}
 
 <details markdown="1">
-<summary><b>MATH 408 — Mathematical Statistics</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. J. Bartroff · Fall 2021</span></summary>
+<summary><b>MATH 408 — Mathematical Statistics</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. J. Bartroff</span></summary>
 
 Course Textbook: Mathematical Statistics and Data Analysis by John A. Rice
 
@@ -102,7 +102,7 @@ Course Textbook: Mathematical Statistics and Data Analysis by John A. Rice
 </details>
 
 <details markdown="1">
-<summary><b>MATH 407 — Probability Theory</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. J. Fulman · Spring 2021</span></summary>
+<summary><b>MATH 407 — Probability Theory</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. J. Fulman</span></summary>
 
 There are 38 lecture notes, but the final only covers 1 through 19. There are some practice problems after lecture 19.
 
@@ -121,7 +121,7 @@ Course Textbook: A First Course in Probability (9th edition)
 </details>
 
 <details markdown="1">
-<summary><b>MATH 430 — Number Theory</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. P. Tokorcheck · Spring 2021</span></summary>
+<summary><b>MATH 430 — Number Theory</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. P. Tokorcheck</span></summary>
 
 Professor Paul Tokorcheck taught this class in a very good fashion. Although "Number Theory" sounds intimidating, it is not. The course content, though abstract, was greatly demonstrated and proved by the instructor. He was also kind enough to write a recommendation letter for the Continuing Students Scholarship.
 
@@ -144,7 +144,7 @@ Note: This class has no official lecture notes, but one good way to refer to the
 </details>
 
 <details markdown="1">
-<summary><b>MATH 225 — Linear Algebra and Differential Equations</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. S. Kamienny · Fall 2020</span></summary>
+<summary><b>MATH 225 — Linear Algebra and Differential Equations</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. S. Kamienny</span></summary>
 
 Course Textbook: Differential Equations and Linear Algebra by Stephen W. Goode
 
@@ -163,7 +163,7 @@ Course Textbook: Differential Equations and Linear Algebra by Stephen W. Goode
 </details>
 
 <details markdown="1">
-<summary><b>MATH 226 — Calculus III (Multivariable Calculus)</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. N. Bottman · Fall 2020</span></summary>
+<summary><b>MATH 226 — Calculus III (Multivariable Calculus)</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. N. Bottman</span></summary>
 
 Course Textbook: Essential Calculus by James Stewart
 
@@ -211,7 +211,7 @@ Useful Resources: <a href="https://www.symbolab.com/" target="_blank">Symbolab</
 #### For CS: {#for-cs}
 
 <details markdown="1">
-<summary><b>CSCI 360 — Introduction to Artificial Intelligence</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. B. Dilkina · Spring 2022</span></summary>
+<summary><b>CSCI 360 — Introduction to Artificial Intelligence</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. B. Dilkina</span></summary>
 
 Course Textbook: Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig (4th edition)
 
@@ -236,7 +236,7 @@ Course Textbook: Artificial Intelligence: A Modern Approach by Stuart Russell an
 </details>
 
 <details markdown="1">
-<summary><b>CSCI 201 — Principles of Software Development</b> &nbsp;<span style="font-weight:300;font-size:0.9em;"><a href="https://viterbi-web.usc.edu/~adamchik/" target="_blank">Prof. V. Adamchik</a> · Fall 2021</span></summary>
+<summary><b>CSCI 201 — Principles of Software Development</b> &nbsp;<span style="font-weight:300;font-size:0.9em;"><a href="https://viterbi-web.usc.edu/~adamchik/" target="_blank">Prof. V. Adamchik</a></span></summary>
 
 Course Textbook: Introduction to Java Programming and Data Structures by Y. Daniel Liang (12th edition)
 
@@ -256,7 +256,7 @@ My solution to the first two programming assignments can be found <a href="https
 </details>
 
 <details markdown="1">
-<summary><b>CSCI 270 — Introduction to Algorithms</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. S. Dughmi · Fall 2021</span></summary>
+<summary><b>CSCI 270 — Introduction to Algorithms</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. S. Dughmi</span></summary>
 
 Please refer to the <a href="https://viterbi-web.usc.edu/~shaddin/cs270fa21/index.html" target="_blank">course website</a> for more information including course syllabus and assignments!
 
@@ -267,7 +267,7 @@ A Useful Course on Coursera: <a href="https://www.coursera.org/specializations/d
 </details>
 
 <details markdown="1">
-<summary><b>CSCI 104 — Data Structures and Object Oriented Programming</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. M. Redekopp · Summer 2021</span></summary>
+<summary><b>CSCI 104 — Data Structures and Object Oriented Programming</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. M. Redekopp</span></summary>
 
 Please refer to the <a href="https://bytes.usc.edu/cs104/" target="_blank">course website</a> for more information!
 
@@ -276,7 +276,7 @@ My solution to the six programming assignments can be found at this <a href="htt
 </details>
 
 <details markdown="1">
-<summary><b>CSCI 170 — Discrete Methods in Computer Science</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. S. Batista · Spring 2021</span></summary>
+<summary><b>CSCI 170 — Discrete Methods in Computer Science</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. S. Batista</span></summary>
 
 Course Textbook: Essential Discrete Mathematics for Computer Science, by Harry Lewis and Rachel Zax
 
@@ -296,7 +296,7 @@ Course Textbook: Essential Discrete Mathematics for Computer Science, by Harry L
 </details>
 
 <details markdown="1">
-<summary><b>ITP 168 — Introduction to Matlab</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. R. Kim · Fall 2020</span></summary>
+<summary><b>ITP 168 — Introduction to Matlab</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. R. Kim</span></summary>
 
 Course Textbook: Not Available
 
@@ -319,6 +319,8 @@ Course Textbook: Not Available
 ---
 
 ### UCLA Coursework {#ucla-coursework}
+
+The <a href="https://www.anderson.ucla.edu/degrees/master-of-financial-engineering" target="_blank">UCLA Anderson Master of Financial Engineering (MFE)</a> is a STEM-designated, full-time program combining rigorous quantitative finance, machine learning, and asset management. The curriculum spans financial engineering, derivatives pricing, risk management, and data-driven investing — full details available at the <a href="https://www.anderson.ucla.edu/degrees/master-of-financial-engineering/mfe-admit-central/curriculum-and-academics" target="_blank">curriculum page</a>. Course materials from my cohort are shared below.
 
 <details markdown="1">
 <summary><b>MFE 412 — Trading, Market Frictions and FinTech</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. J. Zhang</span></summary>
