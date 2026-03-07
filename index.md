@@ -80,7 +80,7 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 
 ### USC Coursework {#usc-coursework}
 
-The <a href="https://dornsife.usc.edu/mathematics/applied-and-computational-mathematics/" target="_blank">B.A. in Applied and Computational Mathematics (AMCM)</a> at USC Dornsife is designed for students interested in the mathematical foundations underlying real-world computation, data analysis, and modelling. The curriculum blends rigorous pure mathematics — probability, statistics, linear algebra, analysis — with applied coursework in numerical methods and scientific computing, preparing graduates for quantitative roles in finance, technology, and research.
+The <a href="https://catalogue.usc.edu/preview_program.php?catoid=12&poid=12767" target="_blank">B.A. in Applied and Computational Mathematics (AMCM)</a> at USC Dornsife is designed for students interested in the mathematical foundations underlying real-world computation, data analysis, and modelling. The curriculum blends rigorous pure mathematics — probability, statistics, linear algebra, analysis — with applied coursework in numerical methods and scientific computing, preparing graduates for quantitative roles in finance, technology, and research.
 
 #### For Math: {#for-math}
 
@@ -222,7 +222,7 @@ Useful Resources: <a href="https://www.symbolab.com/" target="_blank">Symbolab</
 
 ---
 
-The <a href="https://viterbi.usc.edu/academics/undergraduate/programs/bs-computer-science-business-administration.html" target="_blank">B.S. in Computer Science and Business Administration (CSBA)</a> is a joint degree offered by the USC Viterbi School of Engineering and the USC Marshall School of Business. It combines a full CS core — algorithms, data structures, software development, AI — with a comprehensive business foundation in accounting, finance, and management, producing graduates equally fluent in technical implementation and business strategy.
+The <a href="https://www.cs.usc.edu/academic-programs/undergrad/computer-science-business-administration/" target="_blank">B.S. in Computer Science and Business Administration (CSBA)</a> is a joint degree offered by the USC Viterbi School of Engineering and the USC Marshall School of Business. It combines a full CS core — algorithms, data structures, software development, AI — with a comprehensive business foundation in accounting, finance, and management, producing graduates equally fluent in technical implementation and business strategy.
 
 #### For CS: {#for-cs}
 
