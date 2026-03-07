@@ -414,62 +414,91 @@ A group project developing a novel regime-aware long-short factor investing stra
 
 ## Personal Projects {#personal-projects}
 
-<details markdown="1">
-<summary><b>Pioneer Academics — Continued Fractions Research</b></summary>
+<div class="project-grid">
 
-Official Website: <a href="https://pioneeracademics.com/" target="_blank">https://pioneeracademics.com/</a>
+  <div class="project-card">
+    <div class="project-card-header">
+      <span class="project-card-title">Pioneer Academics — Continued Fractions Research</span>
+      <span class="project-card-tag">Math</span>
+    </div>
+    <div class="project-card-body">
+      Independent research project with Prof. Gregory Dresden (Washington &amp; Lee University) on continued fractions and integer sequences. Explored Fibonacci identities, Lucas numbers, and iterative number patterns, resulting in a published paper on ArXiv and an entry in the Online Encyclopedia of Integer Sequences (OEIS).
+    </div>
+    <div class="project-card-links">
+      <a href="https://arxiv.org/abs/1907.12459" target="_blank" class="project-link">Final Paper ↗</a>
+      <a href="https://oeis.org/A049669" target="_blank" class="project-link">OEIS Entry ↗</a>
+      <a href="https://ShaoxiongYuan.github.io/Files/Projects/Pioneer/textbook.pdf" target="_blank" class="project-link">Textbook</a>
+      <a href="https://pioneeracademics.com/" target="_blank" class="project-link">Program ↗</a>
+    </div>
+  </div>
 
-In this program, I learned several fascinating identities about the Fibonacci sequence as well as other sequences such as Lucas numbers.
+  <div class="project-card">
+    <div class="project-card-header">
+      <span class="project-card-title">GPT-2 — Generative Python Transformer</span>
+      <span class="project-card-tag">ML / NLP</span>
+    </div>
+    <div class="project-card-body">
+      Trained a GPT-2 model from scratch to predict next lines of Python code. Built on sentdex's tutorial using 80GB of Python source files. The trained model is hosted on Hugging Face as GPyT.
+    </div>
+    <div class="project-card-links">
+      <a href="https://huggingface.co/Sentdex/GPyT" target="_blank" class="project-link">Hugging Face ↗</a>
+      <a href="https://ShaoxiongYuan.github.io/Files/Projects/gpt-2.zip" target="_blank" class="project-link">Source Code</a>
+    </div>
+  </div>
 
-At the end of the Pioneer Academics, I undertook an independent research project with Prof. Dresden of Washington and Lee University, writing a paper on continued fraction, an iterative process of number patterns.
+  <div class="project-card">
+    <div class="project-card-header">
+      <span class="project-card-title">Online Shopping Website — Django + Nginx</span>
+      <span class="project-card-tag">Web / Backend</span>
+    </div>
+    <div class="project-card-body">
+      Full-stack e-commerce site built with Django and served via Nginx for static file handling (HTML, CSS, JS). Implements product listings, cart, and order management.
+    </div>
+    <div class="project-card-links">
+      <a href="https://ShaoxiongYuan.github.io/Files/Projects/dadashop/dadashop12.zip" target="_blank" class="project-link">Source Code</a>
+      <a href="https://ShaoxiongYuan.github.io/Files/Projects/dadashop/nginx.conf" target="_blank" class="project-link">Nginx Config</a>
+      <a href="https://ShaoxiongYuan.github.io/Files/Projects/dadashop/dadashop.zip" target="_blank" class="project-link">Static Files</a>
+    </div>
+  </div>
 
-Professor Gregory Dresden's Homepage: <a href="https://dresden.academic.wlu.edu/" target="_blank">https://dresden.academic.wlu.edu/</a>
+  <div class="project-card">
+    <div class="project-card-header">
+      <span class="project-card-title">Micro Blog Site — Python / Flask</span>
+      <span class="project-card-tag">Web / Flask</span>
+    </div>
+    <div class="project-card-body">
+      A fully-featured microblogging platform built with Flask, implementing user authentication, post creation, and feed rendering. Follows Corey Schafer's Flask tutorial series.
+    </div>
+    <div class="project-card-links">
+      <a href="https://ShaoxiongYuan.github.io/Files/Projects/Flask_Blog.zip" target="_blank" class="project-link">Source Code</a>
+      <a href="https://www.youtube.com/c/Coreyms" target="_blank" class="project-link">Tutorial ↗</a>
+    </div>
+  </div>
 
-Link to my final paper on continued fractions: <a href="https://arxiv.org/abs/1907.12459" target="_blank">Final Paper</a>
+  <div class="project-card">
+    <div class="project-card-header">
+      <span class="project-card-title">Comment System with Waterfall Loading — Flask</span>
+      <span class="project-card-tag">Web / Flask</span>
+    </div>
+    <div class="project-card-body">
+      A dynamic comment system featuring infinite scroll / waterfall loading built with Flask. Demonstrates lazy-loading patterns and real-time content rendering without page reloads.
+    </div>
+    <div class="project-card-links">
+      <a href="https://ShaoxiongYuan.github.io/Files/Projects/comment.zip" target="_blank" class="project-link">Source Code</a>
+    </div>
+  </div>
 
-Program Textbook: <a href="https://ShaoxiongYuan.github.io/Files/Projects/Pioneer/textbook.pdf" target="_blank">Proofs That Really Count</a>
+  <div class="project-card">
+    <div class="project-card-header">
+      <span class="project-card-title">Download All Microsoft Templates — Scrapy</span>
+      <span class="project-card-tag">Web Scraping</span>
+    </div>
+    <div class="project-card-body">
+      A Scrapy spider that bulk-downloads Microsoft Office templates from the official template gallery, automating the crawl, extraction, and file-saving pipeline.
+    </div>
+    <div class="project-card-links">
+      <a href="https://ShaoxiongYuan.github.io/Files/Projects/Microsoft.zip" target="_blank" class="project-link">Source Code</a>
+    </div>
+  </div>
 
-Link to my entry in <a href="https://oeis.org/" target="_blank">Online Encyclopedia of Integer Sequences</a>: <a href="https://oeis.org/A049669" target="_blank">https://oeis.org/A049669</a>
-
-</details>
-
-<details markdown="1">
-<summary><b>Micro Blog Site — Python / Flask</b></summary>
-
-Note: I followed Corey Schafer (<a href="https://www.youtube.com/c/Coreyms" target="_blank">His YouTube Channel</a>) to write this project.
-
-The source code can be found <a href="https://ShaoxiongYuan.github.io/Files/Projects/Flask_Blog.zip" target="_blank">here</a>.
-
-</details>
-
-<details markdown="1">
-<summary><b>Comment System with Waterfall Loading — Flask</b></summary>
-
-The source code can be found <a href="https://ShaoxiongYuan.github.io/Files/Projects/comment.zip" target="_blank">here</a>.
-
-</details>
-
-<details markdown="1">
-<summary><b>Online Shopping Website — Django + Nginx</b></summary>
-
-The source code can be found <a href="https://ShaoxiongYuan.github.io/Files/Projects/dadashop/dadashop12.zip" target="_blank">here</a>.
-
-This project also uses Nginx to handle static requests such as HTML templates, CSS files, and JS files. To download nginx, visit <a href="http://nginx.org/en/download.html" target="_blank">this link</a>. The configuration file can be found <a href="https://ShaoxiongYuan.github.io/Files/Projects/dadashop/nginx.conf" target="_blank">here</a>. The static files can be found <a href="https://ShaoxiongYuan.github.io/Files/Projects/dadashop/dadashop.zip" target="_blank">here</a>.
-
-</details>
-
-<details markdown="1">
-<summary><b>GPT-2 (Generative "Python" Transformer) Implementation</b></summary>
-
-This project trained the GPT model from scratch to allow the computer to predict what my next line of Python code is. The complete tutorial is taught by <a href="https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ" target="_blank">sentdex</a> in <a href="https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ" target="_blank">Generating Python code with GPT</a>. The trained model using 80G of python files can be found at <a href="https://huggingface.co/Sentdex/GPyT" target="_blank">this link</a>.
-
-The source code can be found <a href="https://ShaoxiongYuan.github.io/Files/Projects/gpt-2.zip" target="_blank">here</a>.
-
-</details>
-
-<details markdown="1">
-<summary><b>Download All Microsoft Templates — Scrapy</b></summary>
-
-The source code can be found <a href="https://ShaoxiongYuan.github.io/Files/Projects/Microsoft.zip" target="_blank">here</a>.
-
-</details>
+</div>
