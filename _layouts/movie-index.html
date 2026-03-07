@@ -444,11 +444,16 @@
 
     <!-- Reviews Grid -->
     <section class="reviews-grid">
-      {% assign reviews = site.pages | where: "layout", "review" | sort: "year" | reverse %}
-      {% for review in reviews %}
+      {% assign all_reviews = site.pages | where: "layout", "review" %}
+      {% assign reviews = all_reviews | sort: "year" | reverse %}
+      {% for review in reviews %}{% if review.year %}
       <a href="{{ review.url }}" class="review-card" target="_blank">
         <div class="card-poster">
+          {% if review.poster %}
           <img src="{{ review.poster }}" alt="{{ review.film_title }} poster" loading="lazy">
+          {% else %}
+          <div style="width:100%;height:100%;background:var(--card);display:flex;align-items:center;justify-content:center;font-size:2.5rem;">🎬</div>
+          {% endif %}
         </div>
         <div class="card-info">
           <div class="card-rating">{{ review.rating }}</div>
@@ -461,7 +466,7 @@
           <div class="card-tagline">{{ review.tagline }}</div>
         </div>
       </a>
-      {% endfor %}
+      {% endif %}{% endfor %}
     </section>
 
     <!-- Footer -->
