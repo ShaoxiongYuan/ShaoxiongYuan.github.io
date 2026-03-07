@@ -418,6 +418,42 @@ A group project developing a novel regime-aware long-short factor investing stra
 
   <div class="project-card">
     <div class="project-card-header">
+      <span class="project-card-title">PE Investments Exits Prediction — MUFG Americas</span>
+      <span class="project-card-tag">AFP / ML</span>
+    </div>
+    <div class="project-card-body">
+      UCLA MFE Applied Finance Project (Jun–Dec 2025). Developed an ML model to predict exit timing and type (IPO, M&amp;A, secondary sale) for PE-backed firms using historical, macroeconomic, and deal-level data to optimize holding periods and inform liquidity planning. Identified key exit drivers — fund vintage, company performance, industry trends, market cycles — via Python-based statistical and ML methods to enhance portfolio valuation and capital commitment pacing.
+    </div>
+    <div class="project-card-links">
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-card-header">
+      <span class="project-card-title">Market Behavior Prediction — Monte Carlo Simulation</span>
+      <span class="project-card-tag">Quant / MATLAB</span>
+    </div>
+    <div class="project-card-body">
+      Used MATLAB to model complex stochastic processes via Monte Carlo simulation, predicting market behaviors and improving probabilistic risk assessment. Applied advanced MATLAB toolboxes to translate theoretical finance models into practical scenario analysis.
+    </div>
+    <div class="project-card-links">
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-card-header">
+      <span class="project-card-title">Lung Cancer Image Classification — GANs</span>
+      <span class="project-card-tag">ML / CV</span>
+    </div>
+    <div class="project-card-body">
+      Explored Generative Adversarial Networks (GANs) in Python to classify lung cancer images. Developed algorithms for processing and interpreting large-scale medical imaging datasets, enhancing data analysis capabilities in a clinical context.
+    </div>
+    <div class="project-card-links">
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-card-header">
       <span class="project-card-title">Pioneer Academics — Continued Fractions Research</span>
       <span class="project-card-tag">Math</span>
     </div>
