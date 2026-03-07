@@ -27,15 +27,21 @@
 
 ## About {#about}
 
+<div class="content-section">
+
 I'm a quantitative researcher and co-founder of **Orion Alpha Asset Management**, where I serve as Fund X Managing Partner. My work sits at the intersection of fundamental equity research, derivatives modelling, and machine learning-driven portfolio construction — Fund X has returned 26% over 8 months with a 3.43 Sharpe ratio and 4.6% maximum drawdown.
 
 I hold a Master of Financial Engineering from UCLA Anderson and dual degrees in Applied and Computational Mathematics (AMCM) and Computer Science & Business Administration (CSBA) from USC. My professional background spans capital markets and M&A in Beijing, Shanghai, and New York, including roles at China Reform Securities, Yongxing Securities, and M+A Squared.
 
 Outside of markets, I write film reviews for movies worth thinking about beyond the credits — and occasionally build tools that sit at the edge of finance and software.
 
+</div>
+
 ---
 
 ## Orion Alpha Asset Management {#orion-alpha}
+
+<div class="content-section">
 
 <div class="orion-block">
   <a href="https://www.oa-am.com/" target="_blank" class="orion-logo-link">
@@ -60,9 +66,13 @@ Daily equity research notes on market structure, macro, and trade ideas.
 | <a href="/morning-notes/2026-03-05-selective-rebound-avgo-cost-oil" target="_blank">Mar 5, 2026</a> | *Selective Rebound, Not Broad Recovery — AVGO & COST Beat, Oil Surges to 13-Month High* |
 | <a href="/morning-notes/2026-03-04-nvda-pltr-defense-lead" target="_blank">Mar 4, 2026</a> | *Semis & Defense Lead — NVDA Resets the Supercycle, PLTR Is the New Defense OS* |
 
+</div>
+
 ---
 
 ## Movie Reviews {#movie-reviews}
+
+<div class="content-section">
 
 I write occasional film reviews when a movie is worth thinking about beyond the credits — more analytical than plot summary.
 
@@ -74,9 +84,98 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 | <a href="/reviews/pegasus-2" target="_blank">*Pegasus 2*</a> | Han Han | ★★★ |
 | <a href="/reviews/marty-supreme" target="_blank">*Marty Supreme*</a> | Josh Safdie | ★★★½ |
 
+</div>
+
 ---
 
 ## University Course Materials {#coursework}
+
+<div class="content-section">
+
+### UCLA Coursework {#ucla-coursework}
+
+The <a href="https://www.anderson.ucla.edu/degrees/master-of-financial-engineering" target="_blank">UCLA Anderson Master of Financial Engineering (MFE)</a> is a STEM-designated, full-time program combining rigorous quantitative finance, machine learning, and asset management. The curriculum spans financial engineering, derivatives pricing, risk management, and data-driven investing — full details available at the <a href="https://www.anderson.ucla.edu/degrees/master-of-financial-engineering/mfe-admit-central/curriculum-and-academics" target="_blank">curriculum page</a>. Course materials from my cohort are shared below.
+
+<details markdown="1">
+<summary><b>MFE 412 — Trading, Market Frictions and FinTech</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. J. Zhang</span></summary>
+
+**Final Project: Golden Cross & Death Cross EMA Trading Strategy**
+
+A group project implementing a momentum-based trading strategy using 8-period and 25-period Exponential Moving Averages (EMAs) on the S&P 500 Energy Sector. The strategy uses Golden Cross signals (8EMA crossing above 25EMA) to trigger buys and Death Cross signals to trigger sells, achieving a 17% annual return vs. 10% buy-and-hold, with a Sharpe Ratio of 0.68 vs. 0.37 for the benchmark.
+
+| Files | Links |
+| ----- | ----- |
+| Course Syllabus | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/Trading/syllabus.pdf" target="_blank"><strong>Course Syllabus</strong></a> |
+| Presentation | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/Trading/Group_8_Section_1.pdf" target="_blank"><strong>Presentation PDF</strong></a> |
+| Jupyter Notebook | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/Trading/Trading_Final_Project_ac.ipynb" target="_blank"><strong>Code Notebook</strong></a> |
+
+</details>
+
+<details markdown="1">
+<summary><b>MFE 413 — Financial Data Analytics and Machine Learning</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. L. Lochstoer</span></summary>
+
+**Final Project: Stock Return Predictability with XGBoost and Random Forest**
+
+A group project examining whether combining momentum and fundamental factors can produce a strategy that captures momentum gains while remaining effective long-term. Using CRSP/Compustat data (2012–2024), the study trains XGBoost and Random Forest models to forecast next-month stock returns, evaluated against a Fama-French 3-Factor benchmark via decile portfolios and a Winner-Minus-Loser (WML) long-short portfolio. XGBoost achieved a 26.11% WML return and Sharpe of 0.96 in the test period (2022–2024).
+
+| Files | Links |
+| ----- | ----- |
+| Course Syllabus | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/ML/syllabus.pdf" target="_blank"><strong>Course Syllabus</strong></a> |
+| Paper | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/ML/ML_Final_Project_Part1.pdf" target="_blank"><strong>Research Paper</strong></a> |
+| Jupyter Notebook | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/ML/final_project_code.ipynb" target="_blank"><strong>Code Notebook</strong></a> |
+
+</details>
+
+<details markdown="1">
+<summary><b>MFE 431 — Advanced Financial Data Analytics and Applications of AI</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. L. Lochstoer</span></summary>
+
+**Final Project: Adaptive Q&A Assistant Using LLM and Neural SSM**
+
+A group project (with Taosheng Yin, Shiwen Zou, and Yechao Chen) building a context-aware chatbot that dynamically switches between Explainer, Tutor, and Concise response modes. Traditional stateless chatbots fail when user intent is implicit or evolves across turns — the system addresses this by coupling a Neural State-Space Model (SSM) that maintains a latent conversation state hₜ with a DistilBERT-based regime classifier and explicit intent overrides. The SSM update rule hₜ = fθ(hₜ₋₁, xₜ, zₜ) enables the controller to learn smooth dialog phase transitions. Evaluated on a synthetic multi-turn dataset, the SSM regime model achieved 96.50% test accuracy versus 56.37% for the text-only baseline, with markedly improved stability across conversation turns.
+
+| Files | Links |
+| ----- | ----- |
+| Course Syllabus | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/AI/syllabus.pdf" target="_blank"><strong>Course Syllabus</strong></a> |
+| Presentation | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/AI/AI_Final_Project.pdf" target="_blank"><strong>Presentation PDF</strong></a> |
+| Python Code | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/AI/ai_final_project.py" target="_blank"><strong>Source Code</strong></a> |
+
+</details>
+
+<details markdown="1">
+<summary><b>MFE 431 — Statistical Arbitrage</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. M. Chernov</span></summary>
+
+**Final Project: Statistical Arbitrage Pair Trading Using Cointegration, Mean Reversion, and Bayesian Optimization**
+
+A group project (with Hiu Chun Chan, Saurabh Kulkarni, and Weiyi Wang) implementing a complete end-to-end stat-arb pipeline on S&P 500 equities. The universe is constructed from constituents that remain in the index continuously over 2016–2020, narrowed to the top 50 by market cap, generating 1,225 candidate pairs. Each pair is screened via Engle-Granger cointegration test, ADF stationarity test, and correlation filter. Spread dynamics are modeled using an Ornstein-Uhlenbeck process (dXₜ = κ(μ − Xₜ)dt + σdWₜ), with the half-life t½ = ln2/κ used to discipline maximum holding periods. The Backtrader-based engine trades on z-score entry/exit signals with dollar-neutral sizing and stop-losses, while Bayesian optimization (via `skopt`) tunes lookback window, entry threshold, stop-loss factor, and holding-time factor to maximize the Sharpe ratio in-sample (2016–2020). Out-of-sample evaluation (2021–2025) on the primary COST–NEE pair yields a Sharpe of 1.69, 6.28% total return, and 64.9% win rate; the best alternative pair ACN–TXN achieves a 16.5% return, Sharpe of 1.66, 90% win rate, and only 8% max drawdown.
+
+| Files | Links |
+| ----- | ----- |
+| Course Syllabus | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/StatArb/syllabus.pdf" target="_blank"><strong>Course Syllabus</strong></a> |
+| Paper | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/StatArb/Statistical_Arbitrage_Group_3.pdf" target="_blank"><strong>Research Paper</strong></a> |
+| Presentation | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/StatArb/stats.pdf" target="_blank"><strong>Presentation PDF</strong></a> |
+| Jupyter Notebook | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/StatArb/main.ipynb" target="_blank"><strong>Code Notebook</strong></a> |
+
+</details>
+
+<details markdown="1">
+<summary><b>MFE 431 — Quantitative Asset Management</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. B. Herskovic</span></summary>
+
+**Final Project: Regime-Based Factor Investing Strategy**
+
+A group project developing a novel regime-aware long-short factor investing strategy using CRSP data (1990–2023). Market regimes are identified along two dimensions — macroeconomic regime (Bull/Bear/Sideways via term spread between the 10-year Treasury and 3-month T-Bill) and market concentration regime (Narrow/Normal/Broad via Gini coefficient and HHI) — forming a 3×3 matrix of nine distinct regimes. For each regime, an optimal combination of six factor signals (momentum, growth, quality, volatility, value, profitability) is selected, and stocks are ranked by composite Z-score into top/bottom quintile long-short portfolios rebalanced monthly. The strategy generates statistically significant CAPM and FF3 alpha, outperforms the market across all major bear market episodes (151.51% during the GFC), and achieves a maximum drawdown of −45.32% vs. the market's −50.31%.
+
+| Files | Links |
+| ----- | ----- |
+| Course Syllabus | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/QAM/syllabus.pdf" target="_blank"><strong>Course Syllabus</strong></a> |
+| Paper | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/QAM/QAM_FinalProject.pdf" target="_blank"><strong>Research Paper</strong></a> |
+| Presentation | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/QAM/QAM_FinalProject_pre.pdf" target="_blank"><strong>Presentation PDF</strong></a> |
+| Jupyter Notebook | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/QAM/FinalProject_KM3.ipynb" target="_blank"><strong>Code Notebook</strong></a> |
+
+</details>
+
+</div>
+
+<div class="content-section">
 
 ### USC Coursework {#usc-coursework}
 
@@ -332,92 +431,11 @@ Course Textbook: Not Available
 
 </details>
 
----
-
-### UCLA Coursework {#ucla-coursework}
-
-The <a href="https://www.anderson.ucla.edu/degrees/master-of-financial-engineering" target="_blank">UCLA Anderson Master of Financial Engineering (MFE)</a> is a STEM-designated, full-time program combining rigorous quantitative finance, machine learning, and asset management. The curriculum spans financial engineering, derivatives pricing, risk management, and data-driven investing — full details available at the <a href="https://www.anderson.ucla.edu/degrees/master-of-financial-engineering/mfe-admit-central/curriculum-and-academics" target="_blank">curriculum page</a>. Course materials from my cohort are shared below.
-
-<details markdown="1">
-<summary><b>MFE 412 — Trading, Market Frictions and FinTech</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. J. Zhang</span></summary>
-
-**Final Project: Golden Cross & Death Cross EMA Trading Strategy**
-
-A group project implementing a momentum-based trading strategy using 8-period and 25-period Exponential Moving Averages (EMAs) on the S&P 500 Energy Sector. The strategy uses Golden Cross signals (8EMA crossing above 25EMA) to trigger buys and Death Cross signals to trigger sells, achieving a 17% annual return vs. 10% buy-and-hold, with a Sharpe Ratio of 0.68 vs. 0.37 for the benchmark.
-
-| Files | Links |
-| ----- | ----- |
-| Course Syllabus | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/Trading/syllabus.pdf" target="_blank"><strong>Course Syllabus</strong></a> |
-| Presentation | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/Trading/Group_8_Section_1.pdf" target="_blank"><strong>Presentation PDF</strong></a> |
-| Jupyter Notebook | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/Trading/Trading_Final_Project_ac.ipynb" target="_blank"><strong>Code Notebook</strong></a> |
-
-</details>
-
-<details markdown="1">
-<summary><b>MFE 413 — Financial Data Analytics and Machine Learning</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. L. Lochstoer</span></summary>
-
-**Final Project: Stock Return Predictability with XGBoost and Random Forest**
-
-A group project examining whether combining momentum and fundamental factors can produce a strategy that captures momentum gains while remaining effective long-term. Using CRSP/Compustat data (2012–2024), the study trains XGBoost and Random Forest models to forecast next-month stock returns, evaluated against a Fama-French 3-Factor benchmark via decile portfolios and a Winner-Minus-Loser (WML) long-short portfolio. XGBoost achieved a 26.11% WML return and Sharpe of 0.96 in the test period (2022–2024).
-
-| Files | Links |
-| ----- | ----- |
-| Course Syllabus | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/ML/syllabus.pdf" target="_blank"><strong>Course Syllabus</strong></a> |
-| Paper | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/ML/ML_Final_Project_Part1.pdf" target="_blank"><strong>Research Paper</strong></a> |
-| Jupyter Notebook | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/ML/final_project_code.ipynb" target="_blank"><strong>Code Notebook</strong></a> |
-
-</details>
-
-<details markdown="1">
-<summary><b>MFE 431 — Advanced Financial Data Analytics and Applications of AI</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. L. Lochstoer</span></summary>
-
-**Final Project: Adaptive Q&A Assistant Using LLM and Neural SSM**
-
-A group project (with Taosheng Yin, Shiwen Zou, and Yechao Chen) building a context-aware chatbot that dynamically switches between Explainer, Tutor, and Concise response modes. Traditional stateless chatbots fail when user intent is implicit or evolves across turns — the system addresses this by coupling a Neural State-Space Model (SSM) that maintains a latent conversation state hₜ with a DistilBERT-based regime classifier and explicit intent overrides. The SSM update rule hₜ = fθ(hₜ₋₁, xₜ, zₜ) enables the controller to learn smooth dialog phase transitions. Evaluated on a synthetic multi-turn dataset, the SSM regime model achieved 96.50% test accuracy versus 56.37% for the text-only baseline, with markedly improved stability across conversation turns.
-
-| Files | Links |
-| ----- | ----- |
-| Course Syllabus | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/AI/syllabus.pdf" target="_blank"><strong>Course Syllabus</strong></a> |
-| Presentation | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/AI/AI_Final_Project.pdf" target="_blank"><strong>Presentation PDF</strong></a> |
-| Python Code | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/AI/ai_final_project.py" target="_blank"><strong>Source Code</strong></a> |
-
-</details>
-
-<details markdown="1">
-<summary><b>MFE 431 — Statistical Arbitrage</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. M. Chernov</span></summary>
-
-**Final Project: Statistical Arbitrage Pair Trading Using Cointegration, Mean Reversion, and Bayesian Optimization**
-
-A group project (with Hiu Chun Chan, Saurabh Kulkarni, and Weiyi Wang) implementing a complete end-to-end stat-arb pipeline on S&P 500 equities. The universe is constructed from constituents that remain in the index continuously over 2016–2020, narrowed to the top 50 by market cap, generating 1,225 candidate pairs. Each pair is screened via Engle-Granger cointegration test, ADF stationarity test, and correlation filter. Spread dynamics are modeled using an Ornstein-Uhlenbeck process (dXₜ = κ(μ − Xₜ)dt + σdWₜ), with the half-life t½ = ln2/κ used to discipline maximum holding periods. The Backtrader-based engine trades on z-score entry/exit signals with dollar-neutral sizing and stop-losses, while Bayesian optimization (via `skopt`) tunes lookback window, entry threshold, stop-loss factor, and holding-time factor to maximize the Sharpe ratio in-sample (2016–2020). Out-of-sample evaluation (2021–2025) on the primary COST–NEE pair yields a Sharpe of 1.69, 6.28% total return, and 64.9% win rate; the best alternative pair ACN–TXN achieves a 16.5% return, Sharpe of 1.66, 90% win rate, and only 8% max drawdown.
-
-| Files | Links |
-| ----- | ----- |
-| Course Syllabus | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/StatArb/syllabus.pdf" target="_blank"><strong>Course Syllabus</strong></a> |
-| Paper | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/StatArb/Statistical_Arbitrage_Group_3.pdf" target="_blank"><strong>Research Paper</strong></a> |
-| Presentation | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/StatArb/stats.pdf" target="_blank"><strong>Presentation PDF</strong></a> |
-| Jupyter Notebook | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/StatArb/main.ipynb" target="_blank"><strong>Code Notebook</strong></a> |
-
-</details>
-
-<details markdown="1">
-<summary><b>MFE 431 — Quantitative Asset Management</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. B. Herskovic</span></summary>
-
-**Final Project: Regime-Based Factor Investing Strategy**
-
-A group project developing a novel regime-aware long-short factor investing strategy using CRSP data (1990–2023). Market regimes are identified along two dimensions — macroeconomic regime (Bull/Bear/Sideways via term spread between the 10-year Treasury and 3-month T-Bill) and market concentration regime (Narrow/Normal/Broad via Gini coefficient and HHI) — forming a 3×3 matrix of nine distinct regimes. For each regime, an optimal combination of six factor signals (momentum, growth, quality, volatility, value, profitability) is selected, and stocks are ranked by composite Z-score into top/bottom quintile long-short portfolios rebalanced monthly. The strategy generates statistically significant CAPM and FF3 alpha, outperforms the market across all major bear market episodes (151.51% during the GFC), and achieves a maximum drawdown of −45.32% vs. the market's −50.31%.
-
-| Files | Links |
-| ----- | ----- |
-| Course Syllabus | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/QAM/syllabus.pdf" target="_blank"><strong>Course Syllabus</strong></a> |
-| Paper | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/QAM/QAM_FinalProject.pdf" target="_blank"><strong>Research Paper</strong></a> |
-| Presentation | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/QAM/QAM_FinalProject_pre.pdf" target="_blank"><strong>Presentation PDF</strong></a> |
-| Jupyter Notebook | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/QAM/FinalProject_KM3.ipynb" target="_blank"><strong>Code Notebook</strong></a> |
-
-</details>
-
----
+</div>
 
 ## Personal Projects {#personal-projects}
+
+<div class="content-section">
 
 <div class="project-grid">
 
@@ -541,5 +559,7 @@ A group project developing a novel regime-aware long-short factor investing stra
       <a href="https://ShaoxiongYuan.github.io/Files/Projects/Microsoft.zip" target="_blank" class="project-link">Source Code</a>
     </div>
   </div>
+
+</div>
 
 </div>
