@@ -58,13 +58,13 @@ Outside of markets, I write film reviews for movies worth thinking about beyond 
 
 Daily equity research notes on market structure, macro, and trade ideas.
 
-**<a href="/morning-notes">→ View All Morning Notes</a>**
+[**→ View All Morning Notes**](/morning-notes)
 
 | Date | Headline |
 | ---- | -------- |
-| <a href="/morning-notes/2026-03-06-nfp-mrvl-brent85" target="_blank">Mar 6, 2026</a> | *All Eyes on NFP — Marvell Completes the AI Semi Hat-Trick, Brent Breaks $85* |
-| <a href="/morning-notes/2026-03-05-selective-rebound-avgo-cost-oil" target="_blank">Mar 5, 2026</a> | *Selective Rebound, Not Broad Recovery — AVGO & COST Beat, Oil Surges to 13-Month High* |
-| <a href="/morning-notes/2026-03-04-nvda-pltr-defense-lead" target="_blank">Mar 4, 2026</a> | *Semis & Defense Lead — NVDA Resets the Supercycle, PLTR Is the New Defense OS* |
+| [Mar 6, 2026](/morning-notes/2026-03-06-nfp-mrvl-brent85){:target="_blank"} | *All Eyes on NFP — Marvell Completes the AI Semi Hat-Trick, Brent Breaks $85* |
+| [Mar 5, 2026](/morning-notes/2026-03-05-selective-rebound-avgo-cost-oil){:target="_blank"} | *Selective Rebound, Not Broad Recovery — AVGO & COST Beat, Oil Surges to 13-Month High* |
+| [Mar 4, 2026](/morning-notes/2026-03-04-nvda-pltr-defense-lead){:target="_blank"} | *Semis & Defense Lead — NVDA Resets the Supercycle, PLTR Is the New Defense OS* |
 
 </div>
 
@@ -76,13 +76,13 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 I write occasional film reviews when a movie is worth thinking about beyond the credits — more analytical than plot summary.
 
-**<a href="/movie-reviews">→ View All Movie Reviews</a>**
+[**→ View All Movie Reviews**](/movie-reviews)
 
 | Film | Director | Rating |
 | ---- | -------- | ------ |
-| <a href="/reviews/pegasus-3" target="_blank">*Pegasus 3*</a> | Han Han | ★★★ |
-| <a href="/reviews/pegasus-2" target="_blank">*Pegasus 2*</a> | Han Han | ★★★ |
-| <a href="/reviews/marty-supreme" target="_blank">*Marty Supreme*</a> | Josh Safdie | ★★★½ |
+| [*Pegasus 3*](/reviews/pegasus-3){:target="_blank"} | Han Han | ★★★ |
+| [*Pegasus 2*](/reviews/pegasus-2){:target="_blank"} | Han Han | ★★★ |
+| [*Marty Supreme*](/reviews/marty-supreme){:target="_blank"} | Josh Safdie | ★★★½ |
 
 </div>
 
@@ -92,10 +92,10 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 
 ## University Course Materials — UCLA {#ucla-coursework}
 
-The <a href="https://www.anderson.ucla.edu/degrees/master-of-financial-engineering" target="_blank">UCLA Anderson Master of Financial Engineering (MFE)</a> is a STEM-designated, full-time program combining rigorous quantitative finance, machine learning, and asset management. The curriculum spans financial engineering, derivatives pricing, risk management, and data-driven investing — full details available at the <a href="https://www.anderson.ucla.edu/degrees/master-of-financial-engineering/mfe-admit-central/curriculum-and-academics" target="_blank">curriculum page</a>. Course materials from my cohort are shared below.
+The [UCLA Anderson Master of Financial Engineering (MFE)](https://www.anderson.ucla.edu/degrees/master-of-financial-engineering){:target="_blank"} is a STEM-designated, full-time program combining rigorous quantitative finance, machine learning, and asset management. The curriculum spans financial engineering, derivatives pricing, risk management, and data-driven investing — full details available at the [curriculum page](https://www.anderson.ucla.edu/degrees/master-of-financial-engineering/mfe-admit-central/curriculum-and-academics){:target="_blank"}. Course materials from my cohort are shared below.
 
 <details markdown="1">
-<summary><b>MFE 412 — Trading, Market Frictions and FinTech</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. J. Zhang</span></summary>
+<summary><b>MFE 412 — Trading, Market Frictions and FinTech</b> &nbsp;<span>Prof. J. Zhang</span></summary>
 
 **Final Project: Golden Cross & Death Cross EMA Trading Strategy**
 
@@ -103,14 +103,14 @@ A group project implementing a momentum-based trading strategy using 8-period an
 
 | Files | Links |
 | ----- | ----- |
-| Course Syllabus | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/Trading/syllabus.pdf" target="_blank"><strong>Course Syllabus</strong></a> |
-| Presentation | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/Trading/Group_8_Section_1.pdf" target="_blank"><strong>Presentation PDF</strong></a> |
-| Jupyter Notebook | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/Trading/Trading_Final_Project_ac.ipynb" target="_blank"><strong>Code Notebook</strong></a> |
+| Course Syllabus | [**Course Syllabus**](https://ShaoxiongYuan.github.io/Files/UCLA/Trading/syllabus.pdf){:target="_blank"} |
+| Presentation | [**Presentation PDF**](https://ShaoxiongYuan.github.io/Files/UCLA/Trading/Group_8_Section_1.pdf){:target="_blank"} |
+| Jupyter Notebook | [**Code Notebook**](https://ShaoxiongYuan.github.io/Files/UCLA/Trading/Trading_Final_Project_ac.ipynb){:target="_blank"} |
 
 </details>
 
 <details markdown="1">
-<summary><b>MFE 413 — Financial Data Analytics and Machine Learning</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. L. Lochstoer</span></summary>
+<summary><b>MFE 413 — Financial Data Analytics and Machine Learning</b> &nbsp;<span>Prof. L. Lochstoer</span></summary>
 
 **Final Project: Stock Return Predictability with XGBoost and Random Forest**
 
@@ -118,14 +118,14 @@ A group project examining whether combining momentum and fundamental factors can
 
 | Files | Links |
 | ----- | ----- |
-| Course Syllabus | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/ML/syllabus.pdf" target="_blank"><strong>Course Syllabus</strong></a> |
-| Paper | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/ML/ML_Final_Project_Part1.pdf" target="_blank"><strong>Research Paper</strong></a> |
-| Jupyter Notebook | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/ML/final_project_code.ipynb" target="_blank"><strong>Code Notebook</strong></a> |
+| Course Syllabus | [**Course Syllabus**](https://ShaoxiongYuan.github.io/Files/UCLA/ML/syllabus.pdf){:target="_blank"} |
+| Paper | [**Research Paper**](https://ShaoxiongYuan.github.io/Files/UCLA/ML/ML_Final_Project_Part1.pdf){:target="_blank"} |
+| Jupyter Notebook | [**Code Notebook**](https://ShaoxiongYuan.github.io/Files/UCLA/ML/final_project_code.ipynb){:target="_blank"} |
 
 </details>
 
 <details markdown="1">
-<summary><b>MFE 431 — Advanced Financial Data Analytics and Applications of AI</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. L. Lochstoer</span></summary>
+<summary><b>MFE 431 — Advanced Financial Data Analytics and Applications of AI</b> &nbsp;<span>Prof. L. Lochstoer</span></summary>
 
 **Final Project: Adaptive Q&A Assistant Using LLM and Neural SSM**
 
@@ -133,14 +133,14 @@ A group project (with Taosheng Yin, Shiwen Zou, and Yechao Chen) building a cont
 
 | Files | Links |
 | ----- | ----- |
-| Course Syllabus | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/AI/syllabus.pdf" target="_blank"><strong>Course Syllabus</strong></a> |
-| Presentation | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/AI/AI_Final_Project.pdf" target="_blank"><strong>Presentation PDF</strong></a> |
-| Python Code | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/AI/ai_final_project.py" target="_blank"><strong>Source Code</strong></a> |
+| Course Syllabus | [**Course Syllabus**](https://ShaoxiongYuan.github.io/Files/UCLA/AI/syllabus.pdf){:target="_blank"} |
+| Presentation | [**Presentation PDF**](https://ShaoxiongYuan.github.io/Files/UCLA/AI/AI_Final_Project.pdf){:target="_blank"} |
+| Python Code | [**Source Code**](https://ShaoxiongYuan.github.io/Files/UCLA/AI/ai_final_project.py){:target="_blank"} |
 
 </details>
 
 <details markdown="1">
-<summary><b>MFE 431 — Statistical Arbitrage</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. M. Chernov</span></summary>
+<summary><b>MFE 431 — Statistical Arbitrage</b> &nbsp;<span>Prof. M. Chernov</span></summary>
 
 **Final Project: Statistical Arbitrage Pair Trading Using Cointegration, Mean Reversion, and Bayesian Optimization**
 
@@ -148,15 +148,15 @@ A group project (with Hiu Chun Chan, Saurabh Kulkarni, and Weiyi Wang) implement
 
 | Files | Links |
 | ----- | ----- |
-| Course Syllabus | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/StatArb/syllabus.pdf" target="_blank"><strong>Course Syllabus</strong></a> |
-| Paper | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/StatArb/Statistical_Arbitrage_Group_3.pdf" target="_blank"><strong>Research Paper</strong></a> |
-| Presentation | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/StatArb/stats.pdf" target="_blank"><strong>Presentation PDF</strong></a> |
-| Jupyter Notebook | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/StatArb/main.ipynb" target="_blank"><strong>Code Notebook</strong></a> |
+| Course Syllabus | [**Course Syllabus**](https://ShaoxiongYuan.github.io/Files/UCLA/StatArb/syllabus.pdf){:target="_blank"} |
+| Paper | [**Research Paper**](https://ShaoxiongYuan.github.io/Files/UCLA/StatArb/Statistical_Arbitrage_Group_3.pdf){:target="_blank"} |
+| Presentation | [**Presentation PDF**](https://ShaoxiongYuan.github.io/Files/UCLA/StatArb/stats.pdf){:target="_blank"} |
+| Jupyter Notebook | [**Code Notebook**](https://ShaoxiongYuan.github.io/Files/UCLA/StatArb/main.ipynb){:target="_blank"} |
 
 </details>
 
 <details markdown="1">
-<summary><b>MFE 431 — Quantitative Asset Management</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. B. Herskovic</span></summary>
+<summary><b>MFE 431 — Quantitative Asset Management</b> &nbsp;<span>Prof. B. Herskovic</span></summary>
 
 **Final Project: Regime-Based Factor Investing Strategy**
 
@@ -164,10 +164,10 @@ A group project developing a novel regime-aware long-short factor investing stra
 
 | Files | Links |
 | ----- | ----- |
-| Course Syllabus | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/QAM/syllabus.pdf" target="_blank"><strong>Course Syllabus</strong></a> |
-| Paper | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/QAM/QAM_FinalProject.pdf" target="_blank"><strong>Research Paper</strong></a> |
-| Presentation | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/QAM/QAM_FinalProject_pre.pdf" target="_blank"><strong>Presentation PDF</strong></a> |
-| Jupyter Notebook | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/QAM/FinalProject_KM3.ipynb" target="_blank"><strong>Code Notebook</strong></a> |
+| Course Syllabus | [**Course Syllabus**](https://ShaoxiongYuan.github.io/Files/UCLA/QAM/syllabus.pdf){:target="_blank"} |
+| Paper | [**Research Paper**](https://ShaoxiongYuan.github.io/Files/UCLA/QAM/QAM_FinalProject.pdf){:target="_blank"} |
+| Presentation | [**Presentation PDF**](https://ShaoxiongYuan.github.io/Files/UCLA/QAM/QAM_FinalProject_pre.pdf){:target="_blank"} |
+| Jupyter Notebook | [**Code Notebook**](https://ShaoxiongYuan.github.io/Files/UCLA/QAM/FinalProject_KM3.ipynb){:target="_blank"} |
 
 </details>
 
@@ -177,238 +177,238 @@ A group project developing a novel regime-aware long-short factor investing stra
 
 ## University Course Materials — USC {#usc-coursework}
 
-The <a href="https://catalogue.usc.edu/preview_program.php?catoid=12&poid=12767" target="_blank">B.A. in Applied and Computational Mathematics (AMCM)</a> at USC Dornsife is designed for students interested in the mathematical foundations underlying real-world computation, data analysis, and modelling. The curriculum blends rigorous pure mathematics — probability, statistics, linear algebra, analysis — with applied coursework in numerical methods and scientific computing, preparing graduates for quantitative roles in finance, technology, and research.
+The [B.A. in Applied and Computational Mathematics (AMCM)](https://catalogue.usc.edu/preview_program.php?catoid=12&poid=12767){:target="_blank"} at USC Dornsife is designed for students interested in the mathematical foundations underlying real-world computation, data analysis, and modelling. The curriculum blends rigorous pure mathematics — probability, statistics, linear algebra, analysis — with applied coursework in numerical methods and scientific computing, preparing graduates for quantitative roles in finance, technology, and research.
 
 #### For Math: {#for-math}
 
 <details markdown="1">
-<summary><b>MATH 408 — Mathematical Statistics</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. J. Bartroff</span></summary>
+<summary><b>MATH 408 — Mathematical Statistics</b> &nbsp;<span>Prof. J. Bartroff</span></summary>
 
 Course Textbook: Mathematical Statistics and Data Analysis by John A. Rice
 
-<a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/MATH_408/syllabus.pdf" target="_blank"><strong>Course Syllabus</strong></a>
+[**Course Syllabus**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/MATH_408/syllabus.pdf){:target="_blank"}
 
 **Midterm Exam 1**
 
 | Files | Links |
 | ----- | ----- |
-| Practice Midterm 1 | <a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/MATH_408/mtI2021F_prac.pdf" target="_blank"><strong>Practice Midterm</strong></a> |
-| Practice Midterm 1 Solutions | <a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/MATH_408/mtI2021F_prac_soln.pdf" target="_blank"><strong>Practice Midterm Solutions</strong></a> |
+| Practice Midterm 1 | [**Practice Midterm**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/MATH_408/mtI2021F_prac.pdf){:target="_blank"} |
+| Practice Midterm 1 Solutions | [**Practice Midterm Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/MATH_408/mtI2021F_prac_soln.pdf){:target="_blank"} |
 
 **Midterm Exam 2**
 
 | Files | Links |
 | ----- | ----- |
-| Practice Midterm 2 | <a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/MATH_408/mtII2021F_prac.pdf" target="_blank"><strong>Practice Midterm</strong></a> |
-| Practice Midterm 2 Solutions | <a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/MATH_408/mtII2021F_prac_soln.pdf" target="_blank"><strong>Practice Midterm Solutions</strong></a> |
+| Practice Midterm 2 | [**Practice Midterm**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/MATH_408/mtII2021F_prac.pdf){:target="_blank"} |
+| Practice Midterm 2 Solutions | [**Practice Midterm Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/MATH_408/mtII2021F_prac_soln.pdf){:target="_blank"} |
 
 **Final**
 
 | Files | Links |
 | ----- | ----- |
-| Practice Final | <a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/MATH_408/final2021F_prac.pdf" target="_blank"><strong>Practice Final</strong></a> |
-| Practice Final Solutions | <a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/MATH_408/final2021F_prac_soln.pdf" target="_blank"><strong>Practice Final Solutions</strong></a> |
+| Practice Final | [**Practice Final**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/MATH_408/final2021F_prac.pdf){:target="_blank"} |
+| Practice Final Solutions | [**Practice Final Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/MATH_408/final2021F_prac_soln.pdf){:target="_blank"} |
 
 </details>
 
 <details markdown="1">
-<summary><b>MATH 407 — Probability Theory</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. J. Fulman</span></summary>
+<summary><b>MATH 407 — Probability Theory</b> &nbsp;<span>Prof. J. Fulman</span></summary>
 
 There are 38 lecture notes, but the final only covers 1 through 19. There are some practice problems after lecture 19.
 
 Course Textbook: A First Course in Probability (9th edition)
 
-<a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_407/MATH_407_Notes.pdf" target="_blank"><strong>All Lecture Notes</strong></a>
+[**All Lecture Notes**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_407/MATH_407_Notes.pdf){:target="_blank"}
 
-<a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_407/407Quiz1.pdf" target="_blank"><strong>Quiz 1</strong></a>
+[**Quiz 1**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_407/407Quiz1.pdf){:target="_blank"}
 
-<a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_407/407Quiz2.pdf" target="_blank"><strong>Quiz 2</strong></a>
+[**Quiz 2**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_407/407Quiz2.pdf){:target="_blank"}
 
-<a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_407/407Midterm1.pdf" target="_blank"><strong>Midterm Exam</strong></a>
+[**Midterm Exam**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_407/407Midterm1.pdf){:target="_blank"}
 
-<a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_407/407Final.pdf" target="_blank"><strong>Final Exam with Solution</strong></a>
+[**Final Exam with Solution**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_407/407Final.pdf){:target="_blank"}
 
 </details>
 
 <details markdown="1">
-<summary><b>MATH 430 — Number Theory</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. P. Tokorcheck</span></summary>
+<summary><b>MATH 430 — Number Theory</b> &nbsp;<span>Prof. P. Tokorcheck</span></summary>
 
 Professor Paul Tokorcheck taught this class in a very good fashion. Although "Number Theory" sounds intimidating, it is not. The course content, though abstract, was greatly demonstrated and proved by the instructor. He was also kind enough to write a recommendation letter for the Continuing Students Scholarship.
 
 Course Textbook: Elementary Number Theory by David M. Burton
 
-Additional Useful Reference: <a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_430/Book_of_Proof.pdf" target="_blank"><strong>Book of Proof</strong></a>
+Additional Useful Reference: [**Book of Proof**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_430/Book_of_Proof.pdf){:target="_blank"}
 
 Note: This class has no official lecture notes, but one good way to refer to the content is through the textbook.
 
-<a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_430/21Spring_Math430_Syllabus.pdf" target="_blank"><strong>Course Syllabus</strong></a>
+[**Course Syllabus**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_430/21Spring_Math430_Syllabus.pdf){:target="_blank"}
 
-<a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_430/Math430_ExerciseList.pdf" target="_blank"><strong>Exercise List</strong></a>
+[**Exercise List**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_430/Math430_ExerciseList.pdf){:target="_blank"}
 
-<a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_430/21Spring_430_Exam1.pdf" target="_blank"><strong>Midterm Exam 1</strong></a>
+[**Midterm Exam 1**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_430/21Spring_430_Exam1.pdf){:target="_blank"}
 
-<a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_430/21Spring_430_Exam2.pdf" target="_blank"><strong>Midterm Exam 2</strong></a>
+[**Midterm Exam 2**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_430/21Spring_430_Exam2.pdf){:target="_blank"}
 
-<a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_430/21Spring_430_Exam3.pdf" target="_blank"><strong>Final Exam</strong></a>
+[**Final Exam**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/MATH_430/21Spring_430_Exam3.pdf){:target="_blank"}
 
 </details>
 
 <details markdown="1">
-<summary><b>MATH 225 — Linear Algebra and Differential Equations</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. S. Kamienny</span></summary>
+<summary><b>MATH 225 — Linear Algebra and Differential Equations</b> &nbsp;<span>Prof. S. Kamienny</span></summary>
 
 Course Textbook: Differential Equations and Linear Algebra by Stephen W. Goode
 
-<a href="https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_225/MATH_225_Notes.pdf" target="_blank"><strong>All Lecture Notes</strong></a>
+[**All Lecture Notes**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_225/MATH_225_Notes.pdf){:target="_blank"}
 
-<a href="https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_225/MATH_225_Quizzes.pdf" target="_blank"><strong>Weekly Quizzes</strong></a>
+[**Weekly Quizzes**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_225/MATH_225_Quizzes.pdf){:target="_blank"}
 
-<a href="https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_225/practice_mid.pdf" target="_blank"><strong>Practice Midterm</strong></a>
+[**Practice Midterm**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_225/practice_mid.pdf){:target="_blank"}
 
-<a href="https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_225/practice_final.pdf" target="_blank"><strong>Practice Final</strong></a>
+[**Practice Final**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_225/practice_final.pdf){:target="_blank"}
 
-<a href="https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_225/Math_225_Midterm.pdf" target="_blank"><strong>Midterm Exam</strong></a>
+[**Midterm Exam**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_225/Math_225_Midterm.pdf){:target="_blank"}
 
-<a href="https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_225/MATH_225_final.pdf" target="_blank"><strong>Final Exam</strong></a>
+[**Final Exam**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_225/MATH_225_final.pdf){:target="_blank"}
 
 </details>
 
 <details markdown="1">
-<summary><b>MATH 226 — Calculus III (Multivariable Calculus)</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. N. Bottman</span></summary>
+<summary><b>MATH 226 — Calculus III (Multivariable Calculus)</b> &nbsp;<span>Prof. N. Bottman</span></summary>
 
 Course Textbook: Essential Calculus by James Stewart
 
-Useful Resources: <a href="https://www.symbolab.com/" target="_blank">Symbolab</a> | <a href="https://www.wolframalpha.com/" target="_blank">Wolfram\|Alpha</a> | <a href="https://software.usc.edu/mathematica/" target="_blank">Mathematica Free Download for USC</a>
+Useful Resources: [Symbolab](https://www.symbolab.com/){:target="_blank"} | [Wolfram\|Alpha](https://www.wolframalpha.com/){:target="_blank"} | [Mathematica Free Download for USC](https://software.usc.edu/mathematica/){:target="_blank"}
 
 **Lecture Notes**
 
 | Lecture Notes by Months | Links |
 | ----------------------- | ----- |
-| August Lectures | <a href="https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/Notes_Aug.pdf" target="_blank"><strong>August</strong></a> |
-| September Lectures | <a href="https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/Notes_Sep.pdf" target="_blank"><strong>September</strong></a> |
-| October Lectures | <a href="https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/Notes_Oct.pdf" target="_blank"><strong>October</strong></a> |
-| November Lectures | <a href="https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/Notes_Nov.pdf" target="_blank"><strong>November</strong></a> |
+| August Lectures | [**August**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/Notes_Aug.pdf){:target="_blank"} |
+| September Lectures | [**September**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/Notes_Sep.pdf){:target="_blank"} |
+| October Lectures | [**October**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/Notes_Oct.pdf){:target="_blank"} |
+| November Lectures | [**November**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/Notes_Nov.pdf){:target="_blank"} |
 
-<a href="https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/exercise_list.pdf" target="_blank"><strong>Exercise List</strong></a>
+[**Exercise List**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/exercise_list.pdf){:target="_blank"}
 
 **Midterm Exam 1**
 
 | Files | Links |
 | ----- | ----- |
-| Practice Midterm 1 | <a href="https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/practice_midterm_1.pdf" target="_blank"><strong>Practice Midterm</strong></a> |
-| Practice Midterm 1 Solutions | <a href="https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/practice_solutions.pdf" target="_blank"><strong>Practice Midterm Solutions</strong></a> |
-| Midterm 1 | <a href="https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/midterm_1.pdf" target="_blank"><strong>Midterm</strong></a> |
-| Midterm 1 Solutions | <a href="https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/midterm_1_solutions.pdf" target="_blank"><strong>Midterm Solutions</strong></a> |
+| Practice Midterm 1 | [**Practice Midterm**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/practice_midterm_1.pdf){:target="_blank"} |
+| Practice Midterm 1 Solutions | [**Practice Midterm Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/practice_solutions.pdf){:target="_blank"} |
+| Midterm 1 | [**Midterm**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/midterm_1.pdf){:target="_blank"} |
+| Midterm 1 Solutions | [**Midterm Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/midterm_1_solutions.pdf){:target="_blank"} |
 
 **Midterm Exam 2**
 
 | Files | Links |
 | ----- | ----- |
-| Practice Midterm 2 | <a href="https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/practice_midterm_2.pdf" target="_blank"><strong>Practice Midterm</strong></a> |
-| Practice Midterm 2 Solutions | <a href="https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/practice_midterm_2_solutions.pdf" target="_blank"><strong>Practice Midterm Solutions</strong></a> |
-| Midterm 2 | <a href="https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/midterm_2.pdf" target="_blank"><strong>Midterm</strong></a> |
-| Midterm 2 Solutions | <a href="https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/midterm_2_solutions.pdf" target="_blank"><strong>Midterm Solutions</strong></a> |
+| Practice Midterm 2 | [**Practice Midterm**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/practice_midterm_2.pdf){:target="_blank"} |
+| Practice Midterm 2 Solutions | [**Practice Midterm Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/practice_midterm_2_solutions.pdf){:target="_blank"} |
+| Midterm 2 | [**Midterm**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/midterm_2.pdf){:target="_blank"} |
+| Midterm 2 Solutions | [**Midterm Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/midterm_2_solutions.pdf){:target="_blank"} |
 
-<a href="https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/final_review.pdf" target="_blank"><strong>Final Review</strong></a>
+[**Final Review**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/final_review.pdf){:target="_blank"}
 
-<a href="https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/final_review_sol.pdf" target="_blank"><strong>Final Review Solutions</strong></a>
+[**Final Review Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/final_review_sol.pdf){:target="_blank"}
 
-<a href="https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/226_final.pdf" target="_blank"><strong>Final Exam</strong></a>
+[**Final Exam**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/MATH_226/226_final.pdf){:target="_blank"}
 
 </details>
 
 <div class="subsection-divider"></div>
 
-The <a href="https://www.cs.usc.edu/academic-programs/undergrad/computer-science-business-administration/" target="_blank">B.S. in Computer Science and Business Administration (CSBA)</a> is a joint degree offered by the USC Viterbi School of Engineering and the USC Marshall School of Business. It combines a full CS core — algorithms, data structures, software development, AI — with a comprehensive business foundation in accounting, finance, and management, producing graduates equally fluent in technical implementation and business strategy.
+The [B.S. in Computer Science and Business Administration (CSBA)](https://www.cs.usc.edu/academic-programs/undergrad/computer-science-business-administration/){:target="_blank"} is a joint degree offered by the USC Viterbi School of Engineering and the USC Marshall School of Business. It combines a full CS core — algorithms, data structures, software development, AI — with a comprehensive business foundation in accounting, finance, and management, producing graduates equally fluent in technical implementation and business strategy.
 
 #### For CS: {#for-cs}
 
 <details markdown="1">
-<summary><b>CSCI 360 — Introduction to Artificial Intelligence</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. B. Dilkina</span></summary>
+<summary><b>CSCI 360 — Introduction to Artificial Intelligence</b> &nbsp;<span>Prof. B. Dilkina</span></summary>
 
 Course Textbook: Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig (4th edition)
 
-<a href="https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/syllabus.pdf" target="_blank"><strong>Course Syllabus</strong></a>
+[**Course Syllabus**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/syllabus.pdf){:target="_blank"}
 
 **Projects**
 
 | Files | Links | Solutions |
 | ----- | ----- | --------- |
-| Project 1 | <a href="https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_1.pdf" target="_blank"><strong>PA1</strong></a> | <a href="https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_1.zip" target="_blank"><strong>Solution</strong></a> |
-| Project 2 | <a href="https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_2.pdf" target="_blank"><strong>PA2</strong></a> | <a href="https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_2.zip" target="_blank"><strong>Solution</strong></a> |
-| Project 3 | <a href="https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_3.pdf" target="_blank"><strong>PA3</strong></a> | <a href="https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_3.zip" target="_blank"><strong>Solution</strong></a> |
-| Project 4 | <a href="https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_4.pdf" target="_blank"><strong>PA4</strong></a> | <a href="https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_4.zip" target="_blank"><strong>Solution</strong></a> |
+| Project 1 | [**PA1**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_1.pdf){:target="_blank"} | [**Solution**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_1.zip){:target="_blank"} |
+| Project 2 | [**PA2**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_2.pdf){:target="_blank"} | [**Solution**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_2.zip){:target="_blank"} |
+| Project 3 | [**PA3**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_3.pdf){:target="_blank"} | [**Solution**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_3.zip){:target="_blank"} |
+| Project 4 | [**PA4**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_4.pdf){:target="_blank"} | [**Solution**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/project_4.zip){:target="_blank"} |
 
 **Homework**
 
 | Files | Links | Solutions |
 | ----- | ----- | --------- |
-| Homework 1 | <a href="https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/hw1.pdf" target="_blank"><strong>HW1</strong></a> | <a href="https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/hw1_sol.pdf" target="_blank"><strong>Solution</strong></a> |
-| Homework 2 | <a href="https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/hw2.pdf" target="_blank"><strong>HW2</strong></a> | <a href="https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/hw2_sol.pdf" target="_blank"><strong>Solution</strong></a> |
+| Homework 1 | [**HW1**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/hw1.pdf){:target="_blank"} | [**Solution**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/hw1_sol.pdf){:target="_blank"} |
+| Homework 2 | [**HW2**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/hw2.pdf){:target="_blank"} | [**Solution**](https://ShaoxiongYuan.github.io/Files/USC/2022_Spring/CSCI_360/hw2_sol.pdf){:target="_blank"} |
 
 </details>
 
 <details markdown="1">
-<summary><b>CSCI 201 — Principles of Software Development</b> &nbsp;<span style="font-weight:300;font-size:0.9em;"><a href="https://viterbi-web.usc.edu/~adamchik/" target="_blank">Prof. V. Adamchik</a></span></summary>
+<summary><b>CSCI 201 — Principles of Software Development</b> &nbsp;<span><a href="https://viterbi-web.usc.edu/~adamchik/" target="_blank">Prof. V. Adamchik</a></span></summary>
 
 Course Textbook: Introduction to Java Programming and Data Structures by Y. Daniel Liang (12th edition)
 
-<a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/CSCI_201/syllabus.pdf" target="_blank"><strong>Course Syllabus</strong></a>
+[**Course Syllabus**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/CSCI_201/syllabus.pdf){:target="_blank"}
 
 **Programming Assignments**
 
 | Files | Links |
 | ----- | ----- |
-| Programming Assignment 1 | <a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/CSCI_201/PA1.pdf" target="_blank"><strong>PA1</strong></a> |
-| Programming Assignment 2 | <a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/CSCI_201/PA2.pdf" target="_blank"><strong>PA2</strong></a> |
-| Programming Assignment 3 | <a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/CSCI_201/PA3.pdf" target="_blank"><strong>PA3</strong></a> |
-| Programming Assignment 4 | <a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/CSCI_201/PA4.pdf" target="_blank"><strong>PA4</strong></a> |
+| Programming Assignment 1 | [**PA1**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/CSCI_201/PA1.pdf){:target="_blank"} |
+| Programming Assignment 2 | [**PA2**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/CSCI_201/PA2.pdf){:target="_blank"} |
+| Programming Assignment 3 | [**PA3**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/CSCI_201/PA3.pdf){:target="_blank"} |
+| Programming Assignment 4 | [**PA4**](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/CSCI_201/PA4.pdf){:target="_blank"} |
 
-My solution to the first two programming assignments can be found <a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/CSCI_201/CSCI_201.zip" target="_blank">here</a>.
+My solution to the first two programming assignments can be found [here](https://ShaoxiongYuan.github.io/Files/USC/2021_Fall/CSCI_201/CSCI_201.zip){:target="_blank"}.
 
 </details>
 
 <details markdown="1">
-<summary><b>CSCI 270 — Introduction to Algorithms</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. S. Dughmi</span></summary>
+<summary><b>CSCI 270 — Introduction to Algorithms</b> &nbsp;<span>Prof. S. Dughmi</span></summary>
 
-Please refer to the <a href="https://viterbi-web.usc.edu/~shaddin/cs270fa21/index.html" target="_blank">course website</a> for more information including course syllabus and assignments!
+Please refer to the [course website](https://viterbi-web.usc.edu/~shaddin/cs270fa21/index.html){:target="_blank"} for more information including course syllabus and assignments!
 
 Course Textbook: Algorithm Design by Jon Kleinberg and Eva Tardos
 
-A Useful Course on Coursera: <a href="https://www.coursera.org/specializations/data-structures-algorithms" target="_blank">Data Structures and Algorithms Specialization</a>
+A Useful Course on Coursera: [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms){:target="_blank"}
 
 </details>
 
 <details markdown="1">
-<summary><b>CSCI 104 — Data Structures and Object Oriented Programming</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. M. Redekopp</span></summary>
+<summary><b>CSCI 104 — Data Structures and Object Oriented Programming</b> &nbsp;<span>Prof. M. Redekopp</span></summary>
 
-Please refer to the <a href="https://bytes.usc.edu/cs104/" target="_blank">course website</a> for more information!
+Please refer to the [course website](https://bytes.usc.edu/cs104/){:target="_blank"} for more information!
 
-My solution to the six programming assignments can be found at this <a href="https://github.com/ShaoxiongYuan/csci104-homework" target="_blank">GitHub repository</a>.
+My solution to the six programming assignments can be found at this [GitHub repository](https://github.com/ShaoxiongYuan/csci104-homework){:target="_blank"}.
 
 </details>
 
 <details markdown="1">
-<summary><b>CSCI 170 — Discrete Methods in Computer Science</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. S. Batista</span></summary>
+<summary><b>CSCI 170 — Discrete Methods in Computer Science</b> &nbsp;<span>Prof. S. Batista</span></summary>
 
 Course Textbook: Essential Discrete Mathematics for Computer Science, by Harry Lewis and Rachel Zax
 
-<a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/CSCI_170/syllabus170_sp2021.pdf" target="_blank"><strong>Course Syllabus</strong></a>
+[**Course Syllabus**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/CSCI_170/syllabus170_sp2021.pdf){:target="_blank"}
 
 **Midterm**
 
 | Files | Links |
 | ----- | ----- |
-| Practice Midterm | <a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/CSCI_170/practice_midterm.pdf" target="_blank"><strong>Practice Midterm</strong></a> |
-| Practice Midterm Solutions | <a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/CSCI_170/practice_sol.pdf" target="_blank"><strong>Practice Midterm Solutions</strong></a> |
-| Midterm | <a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/CSCI_170/midterm.pdf" target="_blank"><strong>Midterm Exam</strong></a> |
-| Midterm Solutions | <a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/CSCI_170/midterm_sol.pdf" target="_blank"><strong>Midterm Solutions</strong></a> |
+| Practice Midterm | [**Practice Midterm**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/CSCI_170/practice_midterm.pdf){:target="_blank"} |
+| Practice Midterm Solutions | [**Practice Midterm Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/CSCI_170/practice_sol.pdf){:target="_blank"} |
+| Midterm | [**Midterm Exam**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/CSCI_170/midterm.pdf){:target="_blank"} |
+| Midterm Solutions | [**Midterm Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/CSCI_170/midterm_sol.pdf){:target="_blank"} |
 
-<a href="https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/CSCI_170/final.pdf" target="_blank"><strong>Final Exam</strong></a>
+[**Final Exam**](https://ShaoxiongYuan.github.io/Files/USC/2021_Spring/CSCI_170/final.pdf){:target="_blank"}
 
 </details>
 
 <details markdown="1">
-<summary><b>ITP 168 — Introduction to Matlab</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. R. Kim</span></summary>
+<summary><b>ITP 168 — Introduction to Matlab</b> &nbsp;<span>Prof. R. Kim</span></summary>
 
 Course Textbook: Not Available
 
@@ -416,15 +416,15 @@ Course Textbook: Not Available
 
 | Files | Links |
 | ----- | ----- |
-| Practice Midterm | <a href="https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/ITP_168/midterm_practice.pdf" target="_blank"><strong>Practice Midterm</strong></a> |
-| Practice Midterm Solutions | <a href="https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/ITP_168/mp_ans.pdf" target="_blank"><strong>Practice Midterm Solutions</strong></a> |
+| Practice Midterm | [**Practice Midterm**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/ITP_168/midterm_practice.pdf){:target="_blank"} |
+| Practice Midterm Solutions | [**Practice Midterm Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/ITP_168/mp_ans.pdf){:target="_blank"} |
 
 **Final**
 
 | Files | Links |
 | ----- | ----- |
-| Practice Final | <a href="https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/ITP_168/final_practice.pdf" target="_blank"><strong>Practice Final</strong></a> |
-| Practice Final Solutions | <a href="https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/ITP_168/fp_ans.pdf" target="_blank"><strong>Practice Final Solutions</strong></a> |
+| Practice Final | [**Practice Final**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/ITP_168/final_practice.pdf){:target="_blank"} |
+| Practice Final Solutions | [**Practice Final Solutions**](https://ShaoxiongYuan.github.io/Files/USC/2020_Fall/ITP_168/fp_ans.pdf){:target="_blank"} |
 
 </details>
 
