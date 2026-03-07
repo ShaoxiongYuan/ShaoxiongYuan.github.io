@@ -8,14 +8,14 @@
 
 <div class="degree-block">
   <div class="degree-row">
-    <div class="degree-logo-wrap"><img class="degree-logo" src="/images/ucla-anderson-logo.svg" alt="UCLA Anderson"></div>
+    <img class="degree-logo" src="/images/ucla-anderson-logo.svg" alt="UCLA Anderson">
     <div class="degree-text">
       <strong>Master of Financial Engineering</strong>
       <span>UCLA Anderson School of Management — Class of 2025</span>
     </div>
   </div>
   <div class="degree-row">
-    <div class="degree-logo-wrap"><img class="degree-logo" src="/images/usc-logo.png" alt="USC"></div>
+    <img class="degree-logo" src="/images/usc-logo.png" alt="USC">
     <div class="degree-text">
       <strong>B.A. in Applied and Computational Mathematics<br>B.S. in Computer Science and Business Administration</strong>
       <span>University of Southern California — Class of 2024</span>
@@ -360,6 +360,37 @@ A group project examining whether combining momentum and fundamental factors can
 | Course Syllabus | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/ML/syllabus.pdf" target="_blank"><strong>Course Syllabus</strong></a> |
 | Paper | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/ML/ML_Final_Project_Part1.pdf" target="_blank"><strong>Research Paper</strong></a> |
 | Jupyter Notebook | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/ML/final_project_code.ipynb" target="_blank"><strong>Code Notebook</strong></a> |
+
+</details>
+
+<details markdown="1">
+<summary><b>MFE 431 — Advanced Financial Data Analytics and Applications of AI</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. L. Lochstoer</span></summary>
+
+**Final Project: Adaptive Q&A Assistant Using LLM and Neural SSM**
+
+A group project (with Taosheng Yin, Shiwen Zou, and Yechao Chen) building a context-aware chatbot that dynamically switches between Explainer, Tutor, and Concise response modes. Traditional stateless chatbots fail when user intent is implicit or evolves across turns — the system addresses this by coupling a Neural State-Space Model (SSM) that maintains a latent conversation state hₜ with a DistilBERT-based regime classifier and explicit intent overrides. The SSM update rule hₜ = fθ(hₜ₋₁, xₜ, zₜ) enables the controller to learn smooth dialog phase transitions. Evaluated on a synthetic multi-turn dataset, the SSM regime model achieved 96.50% test accuracy versus 56.37% for the text-only baseline, with markedly improved stability across conversation turns.
+
+| Files | Links |
+| ----- | ----- |
+| Course Syllabus | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/AI/syllabus.pdf" target="_blank"><strong>Course Syllabus</strong></a> |
+| Presentation | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/AI/AI_Final_Project.pdf" target="_blank"><strong>Presentation PDF</strong></a> |
+| Python Code | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/AI/ai_final_project.py" target="_blank"><strong>Source Code</strong></a> |
+
+</details>
+
+<details markdown="1">
+<summary><b>MFE 431 — Statistical Arbitrage</b> &nbsp;<span style="font-weight:300;font-size:0.9em;">Prof. M. Chernov</span></summary>
+
+**Final Project: Statistical Arbitrage Pair Trading Using Cointegration, Mean Reversion, and Bayesian Optimization**
+
+A group project (with Hiu Chun Chan, Saurabh Kulkarni, and Weiyi Wang) implementing a complete end-to-end stat-arb pipeline on S&P 500 equities. The universe is constructed from constituents that remain in the index continuously over 2016–2020, narrowed to the top 50 by market cap, generating 1,225 candidate pairs. Each pair is screened via Engle-Granger cointegration test, ADF stationarity test, and correlation filter. Spread dynamics are modeled using an Ornstein-Uhlenbeck process (dXₜ = κ(μ − Xₜ)dt + σdWₜ), with the half-life t½ = ln2/κ used to discipline maximum holding periods. The Backtrader-based engine trades on z-score entry/exit signals with dollar-neutral sizing and stop-losses, while Bayesian optimization (via `skopt`) tunes lookback window, entry threshold, stop-loss factor, and holding-time factor to maximize the Sharpe ratio in-sample (2016–2020). Out-of-sample evaluation (2021–2025) on the primary COST–NEE pair yields a Sharpe of 1.69, 6.28% total return, and 64.9% win rate; the best alternative pair ACN–TXN achieves a 16.5% return, Sharpe of 1.66, 90% win rate, and only 8% max drawdown.
+
+| Files | Links |
+| ----- | ----- |
+| Course Syllabus | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/StatArb/syllabus.pdf" target="_blank"><strong>Course Syllabus</strong></a> |
+| Paper | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/StatArb/Statistical_Arbitrage_Group_3.pdf" target="_blank"><strong>Research Paper</strong></a> |
+| Presentation | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/StatArb/stats.pdf" target="_blank"><strong>Presentation PDF</strong></a> |
+| Jupyter Notebook | <a href="https://ShaoxiongYuan.github.io/Files/UCLA/StatArb/main.ipynb" target="_blank"><strong>Code Notebook</strong></a> |
 
 </details>
 

@@ -827,23 +827,19 @@
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      background: #1a2540;
-      border-radius: 6px;
-      padding: 5px 10px;
       flex-shrink: 0;
-      transition: background 0.2s;
     }
-
-    .degree-row:hover .degree-logo-wrap { background: #243050; }
 
     .degree-logo {
-      height: 26px;
+      height: 28px;
       width: auto;
       object-fit: contain;
-      filter: brightness(0) invert(1);
-      opacity: 0.92;
+      opacity: 0.9;
       display: block;
+      transition: opacity 0.2s;
     }
+
+    .degree-row:hover .degree-logo { opacity: 1; }
 
     .degree-text { text-align: right; flex: 1; }
 
@@ -1541,28 +1537,6 @@
           </nav>
         </div>
 
-        <div>
-          <div class="sidebar-section-label">Skills</div>
-          <div class="sidebar-ticker">
-            <div class="sidebar-ticker-row">
-              <span class="sidebar-ticker-name">Python</span>
-              <span class="sidebar-ticker-chg up-badge">Quant / ML</span>
-            </div>
-            <div class="sidebar-ticker-row">
-              <span class="sidebar-ticker-name">C / C++</span>
-              <span class="sidebar-ticker-chg up-badge">Systems</span>
-            </div>
-            <div class="sidebar-ticker-row">
-              <span class="sidebar-ticker-name">MATLAB</span>
-              <span class="sidebar-ticker-chg up-badge">Simulation</span>
-            </div>
-            <div class="sidebar-ticker-row">
-              <span class="sidebar-ticker-name">SQL / JS</span>
-              <span class="sidebar-ticker-chg up-badge">Data / Web</span>
-            </div>
-          </div>
-        </div>
-
         <div class="sidebar-social">
           <a href="/cdn-cgi/l/email-protection#a5dcd6ddd6d1c0d3c0cbd5d5949796e5c2c8c4ccc98bc6cac8" class="social-link" title="Email">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m2 7 8.5 6a2.5 2.5 0 0 0 3 0L22 7"/></svg>
@@ -1587,14 +1561,6 @@
 
       <!-- RIGHT PANEL -->
       <aside class="right-panel">
-
-        <div class="panel-section-label">About Me</div>
-
-        <div class="about-card">
-          <p class="about-bio">
-            Quantitative researcher and co-founder of Orion Alpha Asset Management. Fund X: 26% return over 8 months, Sharpe 3.43, 4.6% max drawdown. Background spans PE exit modelling, securities research, M&amp;A deal sourcing, and capital markets in Beijing, Shanghai, and New York.
-          </p>
-        </div>
 
         <div>
           <div class="panel-section-label">Fund X Stats</div>
