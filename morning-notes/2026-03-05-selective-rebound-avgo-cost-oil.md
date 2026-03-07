@@ -105,23 +105,23 @@ Q4 beat but Q1 guide was soft — stock −16% extended. Ad market caution persi
 
 ## Trade Ideas — Five Setups
 
-<span style="color:#1a7a45;font-weight:700;">LONG — AVGO | BUY | PT: $265 | Catalyst: Q2 FY2026 earnings in June</span>
+<span class="trade-long">LONG — AVGO | BUY | PT: $265 | Catalyst: Q2 FY2026 earnings in June</span>
 
 Q1 FY2026 beat on revenue and EPS, with AI segment up 106% YoY. Q2 guide of $22B is 6.4% above the Street — expect upward estimate revisions today from every major sell-side desk. CEO's >$100B 2027 AI chip revenue statement will headline every morning note on the Street. AVGO is the cleaner, lower-volatility AI infrastructure play vs. NVDA for accounts that want exposure without concentration risk. Buy any open-day gap fill below last night's post-earnings level. *Risk: VMware software segment decelerates faster than expected; hyperscaler ASIC consolidation.*
 
-<span style="color:#1a7a45;font-weight:700;">LONG — COST | BUY | PT: $1,020 | Catalyst: Monthly comp sales data; Q2 FY2026 earnings</span>
+<span class="trade-long">LONG — COST | BUY | PT: $1,020 | Catalyst: Monthly comp sales data; Q2 FY2026 earnings</span>
 
 Q1 EPS beat $4.50 vs. $4.28E; comp sales +6.4%; digital +20.5%. Membership model insulates revenue from macro shocks — renewal rates >90%. In a world of geopolitical stress + tariff uncertainty + consumer caution, Costco's treasure-hunt value model makes it a two-sided bet: downturn brings trade-down tailwind, upturn brings increased discretionary spending within the warehouse. Add on any initial post-earnings softness. *Risk: Consumer confidence collapse sharper than modeled; membership growth stalls.*
 
-<span style="color:#1a7a45;font-weight:700;">LONG — XOM / CVX | BUY | XOM PT: $140 | CVX PT: $185 | Catalyst: Weekly EIA inventory data</span>
+<span class="trade-long">LONG — XOM / CVX | BUY | XOM PT: $140 | CVX PT: $185 | Catalyst: Weekly EIA inventory data</span>
 
 WTI at a 13.5-month high with Hormuz still closed. Integrated majors capture upstream production gains, downstream refining margin expansion, and LNG re-routing premiums simultaneously. Berkshire added +7% to CVX in Q4 2025 before the conflict — now the best-timed institutional trade of the year. Energy is the only sector with a fundamental tailwind from a prolonged conflict. *Risk: Rapid Hormuz re-opening; coordinated IEA strategic reserve release; OPEC+ surprise output increase.*
 
-<span style="color:#1a7a45;font-weight:700;">LONG — NVDA | BUY on dips | PT: $263 | Covered call: 30-day ATM to harvest IV premium</span>
+<span class="trade-long">LONG — NVDA | BUY on dips | PT: $263 | Covered call: 30-day ATM to harvest IV premium</span>
 
 The $78B FQ1 2027 guide confirmed the AI infrastructure supercycle. AVGO's $22B Q2 guide independently validates hyperscaler capex trajectory. Do not chase the open — let the post-AVGO excitement fade and buy any intraday pullback below yesterday's close. Sell covered calls at the 30-day ATM strike to harvest elevated implied vol (VIX still 21, NVDA vol premium even richer). *Risk: China ASIC alternatives gain market share; export restrictions tighten; hyperscaler capex pause.*
 
-<span style="color:#c0392b;font-weight:700;">SHORT — AEO | SELL | PT: $12 | Catalyst: Q1 FY2026 earnings in May</span>
+<span class="trade-short">SHORT — AEO | SELL | PT: $12 | Catalyst: Q1 FY2026 earnings in May</span>
 
 Q1 tariff impact warning of ~$60M in H1 2026 is a direct margin hit with no offsetting revenue catalyst. Consumer apparel has the highest import cost exposure of any retail sub-sector and the least pricing power. AEO down 4.5% pre-market is not the trough — guidance season across apparel will accelerate the rotation out of the space. *Risk: Consumer spending accelerates faster than tariff hit materializes; supply chain re-shoring faster than expected.*
 

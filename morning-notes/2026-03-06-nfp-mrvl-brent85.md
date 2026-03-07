@@ -130,23 +130,23 @@ Light EPS vs. estimate. Tariff warning: ~$60M H1 impact. Consumer apparel has th
 
 ## Trade Ideas — Five Setups for the Close
 
-<span style="color:#1a7a45;font-weight:700;">LONG — MRVL | BUY | PT: $120 | Catalyst: Q1 FY2027 earnings + hyperscaler XPU ramp</span>
+<span class="trade-long">LONG — MRVL | BUY | PT: $120 | Catalyst: Q1 FY2027 earnings + hyperscaler XPU ramp</span>
 
 +11.6% AH on a clean beat-and-raise. Q1 guide of $2.4B is 5.3% above consensus. Custom AI accelerator (XPU) business scaling ahead of internal targets. Expect 8–12 PT revisions today lifting AMD, CRDO, and the SOX complex. Buy on the open or any intraday fade below the AH level. *Risk: Hyperscaler ASIC consolidation; XPU ramp slower than guided.*
 
-<span style="color:#1a7a45;font-weight:700;">LONG — NVDA | BUY on dips | PT: $263 | Covered call: 30-day ATM to harvest IV</span>
+<span class="trade-long">LONG — NVDA | BUY on dips | PT: $263 | Covered call: 30-day ATM to harvest IV</span>
 
 MRVL's Q1 guide independently validates the $78B FQ1 guide from NVDA. The AI semi hat-trick this week is the strongest multi-company confirmation of hyperscaler capex since the 2023 ChatGPT supercycle began. Do not chase the open — buy any intraday pullback below Thursday's close. Sell 30-day ATM covered calls to harvest elevated implied vol. *Risk: China ASIC alternatives; export restriction tightening; hyperscaler capex pause.*
 
-<span style="color:#1a7a45;font-weight:700;">LONG — XOM / CVX | BUY | XOM PT: $140 | CVX PT: $185 | Catalyst: EIA data + weekly Hormuz updates</span>
+<span class="trade-long">LONG — XOM / CVX | BUY | XOM PT: $140 | CVX PT: $185 | Catalyst: EIA data + weekly Hormuz updates</span>
 
 Brent has broken $85 — the line flagged all week. Hormuz closure is now active (tanker strike Thursday), not passive. Integrated majors capture upstream production gains, downstream refining margin expansion, and LNG re-routing premiums simultaneously. Energy is the only sector with a fundamental tailwind from prolonged conflict. *Risk: Rapid diplomatic resolution; coordinated IEA reserve release; OPEC+ surprise output increase.*
 
-<span style="color:#1a7a45;font-weight:700;">LONG — AVGO | BUY | PT: $265 | Catalyst: Q2 FY2026 earnings in June</span>
+<span class="trade-long">LONG — AVGO | BUY | PT: $265 | Catalyst: Q2 FY2026 earnings in June</span>
 
 MRVL's beat overnight independently validates AVGO's $22B Q2 guide and CEO's >$100B 2027 AI chip revenue statement. AVGO is the second-best way to own AI infrastructure after NVDA — lower volatility, broader revenue base (networking + custom silicon + VMware). Buy any open-day gap fill. *Risk: VMware software deceleration; hyperscaler ASIC consolidation.*
 
-<span style="color:#c0392b;font-weight:700;">SHORT — AAL / DAL | SELL | Catalyst: Oil at $85+ + demand destruction</span>
+<span class="trade-short">SHORT — AAL / DAL | SELL | Catalyst: Oil at $85+ + demand destruction</span>
 
 Airlines are the cleanest short in this tape. UAL and DAL both −5%+ Thursday; AAL, WN, JBLU all −4%+. Fuel represents 20–25% of airline operating costs and forward hedging is limited at current spot prices. Demand destruction from consumer uncertainty compounds the cost shock. Any bounce driven by a momentary NFP relief rally is a better entry point for the short. *Risk: Sudden Hormuz re-opening and oil reversal; surprise demand surge.*
 
