@@ -62,9 +62,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [Mar 7, 2026](/morning-notes/2026-03-07-stagflation-confirmed-week-review){:target="_blank"} | *Week-in-Review \| Stagflation Confirmed — The Worst Week of 2026 Just Reset Every Narrative* |
 | [Mar 6, 2026](/morning-notes/2026-03-06-nfp-mrvl-brent85){:target="_blank"} | *All Eyes on NFP — Marvell Completes the AI Semi Hat-Trick, Brent Breaks $85* |
 | [Mar 5, 2026](/morning-notes/2026-03-05-selective-rebound-avgo-cost-oil){:target="_blank"} | *Selective Rebound, Not Broad Recovery — AVGO & COST Beat, Oil Surges to 13-Month High* |
-| [Mar 4, 2026](/morning-notes/2026-03-04-nvda-pltr-defense-lead){:target="_blank"} | *Semis & Defense Lead — NVDA Resets the Supercycle, PLTR Is the New Defense OS* |
 
 </div>
 
