@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | Orion Alpha AM</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Fira+Code:wght@300;400;500;600&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #f4f5f7;
+      --surface:   #ffffff;
+      --ink:       #111111;
+      --ink-2:     #3a3a3a;
+      --ink-3:     #6b6b6b;
+      --ink-4:     #9ba3b0;
+      --rule:      #e4e4e0;
+      --rule-2:    #d0d0cb;
+      --navy:      #0f2044;
+      --navy-2:    #162b58;
+      --navy-3:    #1c376e;
+      --green:     #1a7a45;
+      --green-bg:  rgba(26,122,69,0.06);
+      --red:       #c0392b;
+      --red-bg:    rgba(192,57,43,0.06);
+      --accent:    #2563eb;
+      --accent-bg: rgba(37,99,235,0.05);
+      --teal:      #0d9488;
+      --teal-bg:   rgba(13,148,136,0.06);
+      --amber:     #d97706;
+      --amber-bg:  rgba(217,119,6,0.06);
+      --sans:      'Inter', system-ui, sans-serif;
+      --serif:     'Lora', Georgia, serif;
+      --mono:      'Fira Code', monospace;
+    }
+
+    html { font-size: 16px; scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      color: var(--ink);
+      font-family: var(--sans);
+      -webkit-font-smoothing: antialiased;
+      min-height: 100vh;
+    }
+
+    a { color: inherit; text-decoration: none; }
+
+    /* ── TOP NAV ──────────────────────────────── */
+    .topbar {
+      background: var(--navy);
+      padding: 0 3rem;
+      height: 44px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .topbar-brand {
+      font-family: var(--mono);
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      color: rgba(255,255,255,0.5);
+    }
+    .topbar-brand strong { color: #fff; font-weight: 500; }
+    .topbar-nav { display: flex; gap: 1.75rem; }
+    .topbar-nav a {
+      font-family: var(--mono);
+      font-size: 0.68rem;
+      font-weight: 500;
+      letter-spacing: 0.1em;
+      color: rgba(255,255,255,0.45);
+      text-decoration: none;
+      text-transform: uppercase;
+      transition: color 0.15s;
+    }
+    .topbar-nav a:hover { color: #fff; }
+
+    /* ── HERO ─────────────────────────────────── */
+    .hero {
+      background: var(--navy);
+      padding: 3.5rem 3rem 3rem;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background:
+        radial-gradient(ellipse 50% 60% at 10% 90%, rgba(13,148,136,0.15), transparent),
+        radial-gradient(ellipse 60% 50% at 90% 10%, rgba(37,99,235,0.10), transparent);
+      pointer-events: none;
+    }
+    .hero::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background:
+        repeating-linear-gradient(90deg, rgba(255,255,255,0.015) 0px, rgba(255,255,255,0.015) 1px, transparent 1px, transparent 80px),
+        repeating-linear-gradient(0deg, rgba(255,255,255,0.015) 0px, rgba(255,255,255,0.015) 1px, transparent 1px, transparent 80px);
+      pointer-events: none;
+    }
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      position: relative;
+      z-index: 1;
+    }
+    .hero-kicker {
+      font-family: var(--mono);
+      font-size: 0.62rem;
+      font-weight: 500;
+      letter-spacing: 0.28em;
+      color: var(--teal);
+      text-transform: uppercase;
+      margin-bottom: 1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.8rem;
+    }
+    .hero-kicker::before {
+      content: '';
+      width: 24px;
+      height: 1px;
+      background: var(--teal);
+      opacity: 0.5;
+    }
+    .hero-title {
+      font-family: var(--serif);
+      font-size: clamp(1.6rem, 3vw, 2.4rem);
+      font-weight: 700;
+      color: #fff;
+      line-height: 1.2;
+      margin-bottom: 0.75rem;
+    }
+    .hero-sub {
+      font-family: var(--sans);
+      font-size: 0.88rem;
+      font-weight: 300;
+      color: rgba(255,255,255,0.5);
+      max-width: 660px;
+      line-height: 1.6;
+    }
+    .hero-badges {
+      display: flex;
+      gap: 0.6rem;
+      margin-top: 2rem;
+      flex-wrap: wrap;
+    }
+    .hero-badge {
+      font-family: var(--mono);
+      font-size: 0.58rem;
+      font-weight: 500;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 0.35rem 0.85rem;
+      border-radius: 3px;
+      border: 1px solid rgba(255,255,255,0.1);
+      color: rgba(255,255,255,0.5);
+      background: rgba(255,255,255,0.04);
+    }
+    .hero-badge.active {
+      border-color: var(--teal);
+      color: var(--teal);
+      background: rgba(13,148,136,0.08);
+    }
+
+    /* ── MAIN CONTAINER ─────────────────────── */
+    .main-wrap {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2.5rem 3rem 4rem;
+    }
+
+    /* ── SECTION HEADERS ─────────────────────── */
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 0.8rem;
+      margin-bottom: 1.5rem;
+      margin-top: 2.5rem;
+    }
+    .section-header:first-child { margin-top: 0; }
+    .section-label {
+      font-family: var(--mono);
+      font-size: 0.62rem;
+      font-weight: 600;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--ink-3);
+    }
+    .section-line {
+      flex: 1;
+      height: 1px;
+      background: var(--rule);
+    }
+
+    /* ── SECTOR CARDS GRID ───────────────────── */
+    .sector-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 1.25rem;
+    }
+
+    .sector-card {
+      background: var(--surface);
+      border: 1px solid var(--rule);
+      border-radius: 8px;
+      padding: 1.5rem 1.6rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+      transition: border-color 0.2s, box-shadow 0.2s, transform 0.2s;
+      position: relative;
+      overflow: hidden;
+    }
+    .sector-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: var(--navy);
+      opacity: 0;
+      transition: opacity 0.2s;
+    }
+    .sector-card:hover {
+      border-color: var(--navy);
+      box-shadow: 0 4px 20px rgba(15,32,68,0.08);
+      transform: translateY(-2px);
+    }
+    .sector-card:hover::before { opacity: 1; }
+
+    .sector-card-icon {
+      width: 36px;
+      height: 36px;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1rem;
+      flex-shrink: 0;
+    }
+    .sector-card-icon.tech     { background: var(--accent-bg); color: var(--accent); }
+    .sector-card-icon.energy   { background: var(--amber-bg);  color: var(--amber);  }
+    .sector-card-icon.health   { background: var(--green-bg);  color: var(--green);  }
+    .sector-card-icon.finance  { background: var(--teal-bg);   color: var(--teal);   }
+    .sector-card-icon.defense  { background: var(--red-bg);    color: var(--red);    }
+    .sector-card-icon.consumer { background: rgba(139,92,246,0.06); color: #7c3aed; }
+    .sector-card-icon.industrial { background: rgba(107,114,128,0.08); color: #4b5563; }
+    .sector-card-icon.realestate { background: rgba(234,179,8,0.08); color: #b45309; }
+
+    .sector-card-header {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.85rem;
+    }
+
+    .sector-card-title {
+      font-family: var(--serif);
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--ink);
+      line-height: 1.3;
+    }
+
+    .sector-card-desc {
+      font-family: var(--sans);
+      font-size: 0.82rem;
+      font-weight: 400;
+      color: var(--ink-3);
+      line-height: 1.55;
+    }
+
+    .sector-card-meta {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-top: auto;
+      padding-top: 0.75rem;
+      border-top: 1px solid var(--rule);
+    }
+    .sector-meta-item {
+      font-family: var(--mono);
+      font-size: 0.58rem;
+      font-weight: 500;
+      letter-spacing: 0.06em;
+      color: var(--ink-4);
+      display: flex;
+      align-items: center;
+      gap: 0.35rem;
+    }
+    .sector-meta-dot {
+      width: 5px;
+      height: 5px;
+      border-radius: 50%;
+      background: var(--rule-2);
+    }
+
+    /* ── PLACEHOLDER STATE ───────────────────── */
+    .placeholder-block {
+      background: var(--surface);
+      border: 1px dashed var(--rule-2);
+      border-radius: 8px;
+      padding: 3rem 2rem;
+      text-align: center;
+      margin-top: 1.5rem;
+    }
+    .placeholder-icon {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+      opacity: 0.4;
+    }
+    .placeholder-title {
+      font-family: var(--serif);
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--ink-2);
+      margin-bottom: 0.5rem;
+    }
+    .placeholder-text {
+      font-family: var(--sans);
+      font-size: 0.85rem;
+      color: var(--ink-4);
+      max-width: 420px;
+      margin: 0 auto;
+      line-height: 1.6;
+    }
+
+    /* ── QUICK LINKS BAR ─────────────────────── */
+    .quick-links {
+      display: flex;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+      margin-top: 1.5rem;
+    }
+    .quick-link {
+      font-family: var(--mono);
+      font-size: 0.65rem;
+      font-weight: 500;
+      letter-spacing: 0.06em;
+      color: var(--ink-3);
+      text-decoration: none;
+      padding: 0.45rem 1rem;
+      border: 1px solid var(--rule);
+      border-radius: 4px;
+      background: var(--surface);
+      transition: border-color 0.15s, color 0.15s, background 0.15s;
+    }
+    .quick-link:hover {
+      border-color: var(--navy);
+      color: var(--navy);
+      background: rgba(15,32,68,0.03);
+    }
+
+    /* ── FOOTER ───────────────────────────────── */
+    .page-footer {
+      border-top: 1px solid var(--rule);
+      padding: 1.4rem 3rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    .page-footer a {
+      font-family: var(--mono);
+      font-size: 0.65rem;
+      font-weight: 500;
+      letter-spacing: 0.1em;
+      color: var(--ink-3);
+      text-decoration: none;
+      text-transform: uppercase;
+      transition: color 0.15s;
+    }
+    .page-footer a:hover { color: var(--navy); }
+    .footer-brand {
+      font-family: var(--mono);
+      font-size: 0.62rem;
+      color: var(--rule-2);
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+
+    /* ── RESPONSIVE ───────────────────────────── */
+    @media (max-width: 768px) {
+      .topbar, .hero { padding-left: 1.5rem; padding-right: 1.5rem; }
+      .main-wrap { padding: 1.5rem 1.5rem 3rem; }
+      .sector-grid { grid-template-columns: 1fr; }
+      .hero-title { font-size: 1.4rem; }
+      .hero-badges { gap: 0.4rem; }
+      .page-footer { padding: 1.4rem 1.5rem; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ── NAV ──────────────────────────────────── -->
+  <nav class="topbar">
+    <span class="topbar-brand"><strong>Orion Alpha</strong> &nbsp;·&nbsp; Asset Management</span>
+    <div class="topbar-nav">
+      <a href="https://www.oa-am.com/" target="_blank">oa-am.com</a>
+      <a href="/morning-notes">Daily Notes</a>
+      <a href="/industry-analysis">Industry Analysis</a>
+      <a href="/">Home</a>
+    </div>
+  </nav>
+
+  <!-- ── HERO ─────────────────────────────────── -->
+  <section class="hero">
+    <div class="hero-inner">
+      <div class="hero-kicker">Sector Research &middot; Thematic Coverage</div>
+      <h1 class="hero-title">Industry Analysis</h1>
+      <p class="hero-sub">Sector-level deep dives covering market structure, competitive dynamics, supply chain mapping, and thematic trends from the Orion Alpha AM research desk.</p>
+      <div class="hero-badges">
+        <span class="hero-badge active">Technology</span>
+        <span class="hero-badge">Energy</span>
+        <span class="hero-badge">Healthcare</span>
+        <span class="hero-badge">Financials</span>
+        <span class="hero-badge">Defense</span>
+        <span class="hero-badge">Consumer</span>
+        <span class="hero-badge">Industrials</span>
+        <span class="hero-badge">Real Estate</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── MAIN ─────────────────────────────────── -->
+  <div class="main-wrap">
+
+    <!-- ── SECTOR COVERAGE ─────────────────────── -->
+    <div class="section-header">
+      <span class="section-label">Sector Coverage</span>
+      <div class="section-line"></div>
+    </div>
+
+    <div class="sector-grid">
+
+      <div class="sector-card">
+        <div class="sector-card-header">
+          <div class="sector-card-icon tech">⚡</div>
+          <div>
+            <div class="sector-card-title">Technology &amp; AI</div>
+          </div>
+        </div>
+        <div class="sector-card-desc">Semiconductors, cloud infrastructure, AI compute supply chains, and platform economics.</div>
+        <div class="sector-card-meta">
+          <span class="sector-meta-item">Coming Soon</span>
+        </div>
+      </div>
+
+      <div class="sector-card">
+        <div class="sector-card-header">
+          <div class="sector-card-icon energy">🛢</div>
+          <div>
+            <div class="sector-card-title">Energy &amp; Commodities</div>
+          </div>
+        </div>
+        <div class="sector-card-desc">Crude oil market structure, OPEC+ dynamics, natural gas, and energy transition themes.</div>
+        <div class="sector-card-meta">
+          <span class="sector-meta-item">Coming Soon</span>
+        </div>
+      </div>
+
+      <div class="sector-card">
+        <div class="sector-card-header">
+          <div class="sector-card-icon health">🧬</div>
+          <div>
+            <div class="sector-card-title">Healthcare &amp; Biotech</div>
+          </div>
+        </div>
+        <div class="sector-card-desc">Pharmaceutical pipelines, biotech catalysts, medtech innovation, and regulatory analysis.</div>
+        <div class="sector-card-meta">
+          <span class="sector-meta-item">Coming Soon</span>
+        </div>
+      </div>
+
+      <div class="sector-card">
+        <div class="sector-card-header">
+          <div class="sector-card-icon finance">🏦</div>
+          <div>
+            <div class="sector-card-title">Financials</div>
+          </div>
+        </div>
+        <div class="sector-card-desc">Banking, insurance, fintech, capital markets structure, and credit cycle analysis.</div>
+        <div class="sector-card-meta">
+          <span class="sector-meta-item">Coming Soon</span>
+        </div>
+      </div>
+
+      <div class="sector-card">
+        <div class="sector-card-header">
+          <div class="sector-card-icon defense">🛡</div>
+          <div>
+            <div class="sector-card-title">Defense &amp; Aerospace</div>
+          </div>
+        </div>
+        <div class="sector-card-desc">Defense spending cycles, geopolitical catalysts, space economy, and government contracting.</div>
+        <div class="sector-card-meta">
+          <span class="sector-meta-item">Coming Soon</span>
+        </div>
+      </div>
+
+      <div class="sector-card">
+        <div class="sector-card-header">
+          <div class="sector-card-icon consumer">🛒</div>
+          <div>
+            <div class="sector-card-title">Consumer &amp; Retail</div>
+          </div>
+        </div>
+        <div class="sector-card-desc">Consumer sentiment, retail trends, brand dynamics, and discretionary vs. staples analysis.</div>
+        <div class="sector-card-meta">
+          <span class="sector-meta-item">Coming Soon</span>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ── PLACEHOLDER ─────────────────────────── -->
+    <div class="placeholder-block">
+      <div class="placeholder-icon">📊</div>
+      <div class="placeholder-title">Analysis Coming Soon</div>
+      <div class="placeholder-text">
+        Industry analysis reports will be published here as they are completed.
+        Check back for sector deep dives, competitive landscape mapping, and thematic investment research.
+      </div>
+    </div>
+
+    <!-- ── QUICK LINKS ─────────────────────────── -->
+    <div class="section-header">
+      <span class="section-label">Quick Links</span>
+      <div class="section-line"></div>
+    </div>
+
+    <div class="quick-links">
+      <a class="quick-link" href="/morning-notes">← Daily Notes</a>
+      <a class="quick-link" href="https://www.oa-am.com/" target="_blank">Orion Alpha AM →</a>
+      <a class="quick-link" href="/">Home</a>
+    </div>
+
+  </div>
+
+  <!-- ── FOOTER ───────────────────────────────── -->
+  <footer class="page-footer">
+    <a href="/">← Home</a>
+    <span class="footer-brand">Orion Alpha Asset Management</span>
+    <a href="/morning-notes">Daily Notes →</a>
+  </footer>
+
+</body>
+</html>

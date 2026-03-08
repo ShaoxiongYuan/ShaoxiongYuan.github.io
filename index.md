@@ -66,6 +66,12 @@ Daily equity research notes on market structure, macro, and trade ideas.
 | [Mar 6, 2026](/morning-notes/2026-03-06-nfp-mrvl-brent85){:target="_blank"} | *All Eyes on NFP — Marvell Completes the AI Semi Hat-Trick, Brent Breaks $85* |
 | [Mar 5, 2026](/morning-notes/2026-03-05-selective-rebound-avgo-cost-oil){:target="_blank"} | *Selective Rebound, Not Broad Recovery — AVGO & COST Beat, Oil Surges to 13-Month High* |
 
+### Industry Analysis
+
+Sector-level deep dives covering market structure, competitive dynamics, and thematic trends.
+
+[**→ View Industry Analysis**](/industry-analysis)
+
 </div>
 
 ---
