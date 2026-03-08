@@ -612,7 +612,7 @@
             {% endcase %}
             {{ y }}
           </h2>
-          <span class="cal-month-count">{{ note_count }} note{{ note_count | minus: 1 | at_least: 1 | at_most: 99 | prepend: '' }}{% if note_count != 1 %}s{% endif %}</span>
+          <span class="cal-month-count">{{ note_count }} note{% if note_count != 1 %}s{% endif %}</span>
         </div>
 
         <div class="cal-grid">
