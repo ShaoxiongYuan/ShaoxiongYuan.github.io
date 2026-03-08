@@ -68,7 +68,7 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 ### Industry Analysis
 
-Sector-level deep dives covering market structure, competitive dynamics, and thematic trends.
+Sector-level deep dives covering market structure, competitive dynamics, and thematic trends — coming soon.
 
 [**→ View Industry Analysis**](/industry-analysis)
 
