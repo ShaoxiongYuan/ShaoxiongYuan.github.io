@@ -1,9 +1,9 @@
 ---
 layout: review
-title: "The Bride (2025) — Review"
+title: "The Bride (2026) — Review"
 film_title: "The Bride"
 director: "Maggie Gyllenhaal"
-year: 2025
+year: 2026
 genre: "Horror · Drama"
 rating: "★★½"
 tagline: "Good bones need a film built around them. This one mostly wanders."
@@ -20,7 +20,7 @@ What follows is the bride and Frankenstein running from the law, committing a ha
 
 ## The Performances
 
-And to the film's credit, the leads are extraordinary. Jesse Buckley and Christian Bale are doing genuinely committed, technically impressive work here, and in isolated scenes they elevate material that doesn't deserve them. Buckley in particular wrestles with a role that asks her to convey fractured identity across multiple registers. The film is clearly trying to dramatise the bride's shifting sense of self following reanimation, the idea that she contains multitudes she didn't choose. It's an interesting concept. It just never translates cleanly to the screen. The layered identity theme remains more legible as intention than as experience, and that gap between what the director is reaching for and what actually lands is where the film loses itself.
+And to the film's credit, the leads are extraordinary. Jessie Buckley and Christian Bale are doing genuinely committed, technically impressive work here, and in isolated scenes they elevate material that doesn't deserve them. Buckley in particular wrestles with a role that asks her to convey fractured identity across multiple registers. The film is clearly trying to dramatise the bride's shifting sense of self following reanimation, the idea that she contains multitudes she didn't choose. It's an interesting concept. It just never translates cleanly to the screen. The layered identity theme remains more legible as intention than as experience, and that gap between what the director is reaching for and what actually lands is where the film loses itself.
 
 ## The Supporting Architecture
 
