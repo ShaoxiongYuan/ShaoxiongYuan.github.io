@@ -238,6 +238,39 @@
       margin-bottom: 0;
     }
 
+    /* ── TABLES ──────────────────────────────── */
+    .note-article table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.2rem 0 1.8rem;
+      font-size: 0.82rem;
+      line-height: 1.5;
+    }
+    .note-article thead th {
+      font-family: var(--mono);
+      font-size: 0.68rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.85);
+      background: var(--navy);
+      padding: 0.55rem 0.75rem;
+      text-align: left;
+      border: 1px solid rgba(255,255,255,0.08);
+    }
+    .note-article tbody td {
+      padding: 0.5rem 0.75rem;
+      border: 1px solid var(--rule);
+      color: var(--ink-2);
+      vertical-align: top;
+    }
+    .note-article tbody tr:nth-child(even) {
+      background: #f8f8f6;
+    }
+    .note-article tbody tr:hover {
+      background: #f0f3f9;
+    }
+
     /* ── SIDEBAR ──────────────────────────────── */
     .note-sidebar {
       padding: 2.6rem 0 3rem;

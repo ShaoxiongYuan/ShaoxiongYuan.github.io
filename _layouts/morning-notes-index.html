@@ -192,13 +192,13 @@
       background: var(--surface);
       border: 1px solid var(--rule);
       border-radius: 6px;
-      overflow: hidden;
       box-shadow: 0 1px 3px rgba(0,0,0,0.04), 0 6px 16px rgba(0,0,0,0.02);
     }
     .cal-header {
       display: grid;
       grid-template-columns: repeat(7, 1fr);
       background: var(--navy);
+      border-radius: 5px 5px 0 0;
     }
     .cal-dow {
       font-family: var(--mono);
@@ -334,6 +334,17 @@
       border-top-color: transparent;
       border-bottom-color: var(--navy);
     }
+    /* Align popover to the right for cells near the right edge */
+    .cal-body .cal-cell.has-note.pop-right .cal-popover {
+      left: auto;
+      right: 0;
+      transform: none;
+    }
+    .cal-body .cal-cell.has-note.pop-right .cal-popover::after {
+      left: auto;
+      right: 24px;
+      transform: none;
+    }
     .pop-date {
       font-family: var(--mono);
       font-size: 0.58rem;
@@ -368,6 +379,7 @@
     }
     .pop-sentiment {
       display: flex;
+      flex-wrap: wrap;
       gap: 0.7rem;
       margin-top: 0.55rem;
       padding-top: 0.55rem;
@@ -729,12 +741,13 @@
         var isWeekend = (dow === 0 || dow === 6);
         var rowIdx = Math.floor(i / 7);
         var popBelow = (rowIdx < 2);
+        var popRight = (dow >= 5);
 
         var cls = 'cal-cell';
         if (isOutside) cls += ' outside';
         if (isToday && !isOutside) cls += ' today';
         if (isWeekend && !isOutside) cls += ' weekend';
-        if (note) cls += ' has-note' + (popBelow ? ' pop-below' : '');
+        if (note) cls += ' has-note' + (popBelow ? ' pop-below' : '') + (popRight ? ' pop-right' : '');
 
         html += '<div class="' + cls + '">';
 
