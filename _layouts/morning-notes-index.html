@@ -1,0 +1,783 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | Orion Alpha AM</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@300;400;500;600&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #f4f5f7;
+      --surface:   #ffffff;
+      --ink:       #111111;
+      --ink-2:     #3a3a3a;
+      --ink-3:     #6b6b6b;
+      --ink-4:     #9ba3b0;
+      --rule:      #e4e4e0;
+      --rule-2:    #d0d0cb;
+      --navy:      #0f2044;
+      --navy-2:    #162b58;
+      --navy-3:    #1c376e;
+      --green:     #1a7a45;
+      --green-bg:  rgba(26,122,69,0.06);
+      --red:       #c0392b;
+      --red-bg:    rgba(192,57,43,0.06);
+      --accent:    #2563eb;
+      --accent-bg: rgba(37,99,235,0.05);
+      --sans:      'Inter', system-ui, sans-serif;
+      --serif:     'Libre Baskerville', Georgia, serif;
+      --mono:      'IBM Plex Mono', monospace;
+    }
+
+    html { font-size: 16px; scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      color: var(--ink);
+      font-family: var(--sans);
+      -webkit-font-smoothing: antialiased;
+      min-height: 100vh;
+    }
+
+    /* ── TOP NAV ──────────────────────────────── */
+    .topbar {
+      background: var(--navy);
+      padding: 0 3rem;
+      height: 44px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .topbar-brand {
+      font-family: var(--mono);
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      color: rgba(255,255,255,0.5);
+    }
+    .topbar-brand strong { color: #fff; font-weight: 500; }
+    .topbar-nav { display: flex; gap: 1.75rem; }
+    .topbar-nav a {
+      font-family: var(--mono);
+      font-size: 0.68rem;
+      font-weight: 500;
+      letter-spacing: 0.1em;
+      color: rgba(255,255,255,0.45);
+      text-decoration: none;
+      text-transform: uppercase;
+      transition: color 0.15s;
+    }
+    .topbar-nav a:hover { color: #fff; }
+
+    /* ── HERO ─────────────────────────────────── */
+    .hero {
+      background: var(--navy);
+      padding: 3.5rem 3rem 3rem;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background:
+        radial-gradient(ellipse 60% 50% at 15% 80%, rgba(37,99,235,0.12), transparent),
+        radial-gradient(ellipse 50% 60% at 85% 20%, rgba(26,122,69,0.08), transparent);
+      pointer-events: none;
+    }
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      position: relative;
+    }
+    .hero-kicker {
+      font-family: var(--mono);
+      font-size: 0.62rem;
+      font-weight: 500;
+      letter-spacing: 0.28em;
+      color: rgba(255,255,255,0.35);
+      text-transform: uppercase;
+      margin-bottom: 1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.8rem;
+    }
+    .hero-kicker::before {
+      content: '';
+      width: 24px;
+      height: 1px;
+      background: rgba(255,255,255,0.2);
+    }
+    .hero-title {
+      font-family: var(--serif);
+      font-size: clamp(1.6rem, 3vw, 2.4rem);
+      font-weight: 700;
+      color: #fff;
+      line-height: 1.2;
+      margin-bottom: 0.75rem;
+    }
+    .hero-sub {
+      font-family: var(--sans);
+      font-size: 0.88rem;
+      font-weight: 300;
+      color: rgba(255,255,255,0.5);
+      max-width: 600px;
+      line-height: 1.6;
+    }
+    .hero-stats {
+      display: flex;
+      gap: 2.5rem;
+      margin-top: 2rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid rgba(255,255,255,0.08);
+    }
+    .hero-stat-num {
+      font-family: var(--mono);
+      font-size: 1.6rem;
+      font-weight: 600;
+      color: #fff;
+      line-height: 1;
+    }
+    .hero-stat-label {
+      font-family: var(--mono);
+      font-size: 0.58rem;
+      font-weight: 500;
+      letter-spacing: 0.2em;
+      color: rgba(255,255,255,0.3);
+      text-transform: uppercase;
+      margin-top: 0.3rem;
+    }
+
+    /* ── MAIN CONTAINER ──────────────────────── */
+    .main-wrap {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2.5rem 3rem 4rem;
+    }
+
+    /* ── CALENDAR SECTION ────────────────────── */
+    .cal-section {
+      margin-bottom: 3rem;
+    }
+    .cal-month-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 1rem;
+    }
+    .cal-month-title {
+      font-family: var(--serif);
+      font-size: 1.35rem;
+      font-weight: 700;
+      color: var(--navy);
+    }
+    .cal-month-count {
+      font-family: var(--mono);
+      font-size: 0.65rem;
+      font-weight: 500;
+      letter-spacing: 0.15em;
+      color: var(--ink-4);
+      text-transform: uppercase;
+      background: var(--surface);
+      border: 1px solid var(--rule);
+      padding: 0.25rem 0.75rem;
+      border-radius: 3px;
+    }
+
+    /* ── CALENDAR GRID ───────────────────────── */
+    .cal-grid {
+      background: var(--surface);
+      border: 1px solid var(--rule);
+      border-radius: 6px;
+      overflow: hidden;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.04), 0 6px 16px rgba(0,0,0,0.02);
+    }
+    .cal-header {
+      display: grid;
+      grid-template-columns: repeat(7, 1fr);
+      background: var(--navy);
+    }
+    .cal-dow {
+      font-family: var(--mono);
+      font-size: 0.6rem;
+      font-weight: 600;
+      letter-spacing: 0.22em;
+      color: rgba(255,255,255,0.5);
+      text-transform: uppercase;
+      text-align: center;
+      padding: 0.65rem 0;
+    }
+    .cal-body {
+      display: grid;
+      grid-template-columns: repeat(7, 1fr);
+    }
+    .cal-cell {
+      position: relative;
+      min-height: 90px;
+      border-right: 1px solid var(--rule);
+      border-bottom: 1px solid var(--rule);
+      padding: 0.5rem;
+      transition: background 0.15s;
+    }
+    .cal-cell:nth-child(7n) { border-right: none; }
+    .cal-body .cal-cell:nth-last-child(-n+7) { border-bottom: none; }
+    .cal-cell.empty {
+      background: #fafafa;
+    }
+    .cal-cell.outside {
+      background: #f8f8f8;
+    }
+    .cal-day-num {
+      font-family: var(--mono);
+      font-size: 0.72rem;
+      font-weight: 500;
+      color: var(--ink-4);
+      line-height: 1;
+    }
+    .cal-cell.outside .cal-day-num { color: #d0d4dc; }
+    .cal-cell.today {
+      background: var(--accent-bg);
+    }
+    .cal-cell.today .cal-day-num {
+      background: var(--accent);
+      color: #fff;
+      border-radius: 50%;
+      width: 22px;
+      height: 22px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.65rem;
+    }
+    .cal-cell.weekend .cal-day-num { color: var(--ink-4); }
+
+    /* ── NOTE INDICATOR ──────────────────────── */
+    .cal-cell.has-note {
+      cursor: pointer;
+      background: #fff;
+    }
+    .cal-cell.has-note:hover {
+      background: #f0f3f9;
+    }
+    .cal-cell.has-note .cal-day-num {
+      color: var(--navy);
+      font-weight: 600;
+    }
+    .cal-note-pip {
+      display: block;
+      margin-top: 0.45rem;
+    }
+    .cal-note-bar {
+      display: block;
+      width: 100%;
+      height: 3px;
+      border-radius: 2px;
+      background: var(--navy);
+      margin-bottom: 0.4rem;
+    }
+    .cal-note-title {
+      font-family: var(--sans);
+      font-size: 0.62rem;
+      font-weight: 500;
+      color: var(--ink-2);
+      line-height: 1.35;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .cal-cell.has-note:hover .cal-note-title {
+      color: var(--navy);
+    }
+    .cal-note-link {
+      position: absolute;
+      inset: 0;
+      z-index: 2;
+    }
+
+    /* ── NOTE DETAIL POPOVER ─────────────────── */
+    .cal-cell.has-note .cal-popover {
+      display: none;
+      position: absolute;
+      bottom: calc(100% + 8px);
+      left: 50%;
+      transform: translateX(-50%);
+      width: 300px;
+      background: var(--navy);
+      border-radius: 6px;
+      padding: 1rem 1.15rem;
+      z-index: 100;
+      box-shadow: 0 8px 30px rgba(15,32,68,0.35);
+      pointer-events: none;
+    }
+    .cal-cell.has-note .cal-popover::after {
+      content: '';
+      position: absolute;
+      top: 100%;
+      left: 50%;
+      transform: translateX(-50%);
+      border: 6px solid transparent;
+      border-top-color: var(--navy);
+    }
+    .cal-cell.has-note:hover .cal-popover { display: block; }
+    /* Flip popover below for cells in the first two rows */
+    .cal-body .cal-cell.has-note.pop-below .cal-popover {
+      bottom: auto;
+      top: calc(100% + 8px);
+    }
+    .cal-body .cal-cell.has-note.pop-below .cal-popover::after {
+      top: auto;
+      bottom: 100%;
+      border-top-color: transparent;
+      border-bottom-color: var(--navy);
+    }
+    .pop-date {
+      font-family: var(--mono);
+      font-size: 0.58rem;
+      font-weight: 500;
+      letter-spacing: 0.18em;
+      color: rgba(255,255,255,0.4);
+      text-transform: uppercase;
+      margin-bottom: 0.5rem;
+    }
+    .pop-headline {
+      font-family: var(--serif);
+      font-size: 0.85rem;
+      font-weight: 400;
+      color: #fff;
+      line-height: 1.4;
+      margin-bottom: 0.6rem;
+    }
+    .pop-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.25rem;
+    }
+    .pop-tag {
+      font-family: var(--mono);
+      font-size: 0.52rem;
+      font-weight: 500;
+      letter-spacing: 0.05em;
+      color: rgba(255,255,255,0.55);
+      background: rgba(255,255,255,0.08);
+      padding: 0.15rem 0.45rem;
+      border-radius: 2px;
+    }
+    .pop-sentiment {
+      display: flex;
+      gap: 0.7rem;
+      margin-top: 0.55rem;
+      padding-top: 0.55rem;
+      border-top: 1px solid rgba(255,255,255,0.08);
+    }
+    .pop-sent-item {
+      font-family: var(--mono);
+      font-size: 0.55rem;
+      font-weight: 500;
+      letter-spacing: 0.04em;
+    }
+    .pop-sent-item.bullish { color: #52d68a; }
+    .pop-sent-item.bearish { color: #f07070; }
+
+    /* ── RECENT NOTES LIST ───────────────────── */
+    .recent-section {
+      margin-top: 1.5rem;
+    }
+    .recent-header {
+      display: flex;
+      align-items: center;
+      gap: 0.8rem;
+      margin-bottom: 1.25rem;
+    }
+    .recent-label {
+      font-family: var(--mono);
+      font-size: 0.62rem;
+      font-weight: 600;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--ink-3);
+    }
+    .recent-line {
+      flex: 1;
+      height: 1px;
+      background: var(--rule);
+    }
+    .recent-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 1rem;
+    }
+    .note-card {
+      background: var(--surface);
+      border: 1px solid var(--rule);
+      border-radius: 6px;
+      padding: 1.25rem 1.4rem;
+      text-decoration: none;
+      display: block;
+      transition: border-color 0.2s, box-shadow 0.2s, transform 0.2s;
+      position: relative;
+    }
+    .note-card:hover {
+      border-color: var(--navy);
+      box-shadow: 0 4px 16px rgba(15,32,68,0.08);
+      transform: translateY(-2px);
+    }
+    .note-card-date {
+      font-family: var(--mono);
+      font-size: 0.6rem;
+      font-weight: 500;
+      letter-spacing: 0.18em;
+      color: var(--ink-4);
+      text-transform: uppercase;
+      margin-bottom: 0.55rem;
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+    }
+    .note-card-date::before {
+      content: '';
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: var(--navy);
+      flex-shrink: 0;
+    }
+    .note-card-title {
+      font-family: var(--serif);
+      font-size: 0.92rem;
+      font-weight: 400;
+      color: var(--ink);
+      line-height: 1.4;
+      margin-bottom: 0.65rem;
+    }
+    .note-card:hover .note-card-title { color: var(--navy); }
+    .note-card-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.3rem;
+    }
+    .note-card-tag {
+      font-family: var(--mono);
+      font-size: 0.55rem;
+      font-weight: 500;
+      letter-spacing: 0.06em;
+      color: var(--ink-4);
+      background: var(--bg);
+      border: 1px solid var(--rule);
+      padding: 0.15rem 0.5rem;
+      border-radius: 2px;
+    }
+
+    /* ── FOOTER ───────────────────────────────── */
+    .page-footer {
+      border-top: 1px solid var(--rule);
+      padding: 1.4rem 3rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    .page-footer a {
+      font-family: var(--mono);
+      font-size: 0.65rem;
+      font-weight: 500;
+      letter-spacing: 0.1em;
+      color: var(--ink-3);
+      text-decoration: none;
+      text-transform: uppercase;
+      transition: color 0.15s;
+    }
+    .page-footer a:hover { color: var(--navy); }
+    .footer-brand {
+      font-family: var(--mono);
+      font-size: 0.62rem;
+      color: var(--rule-2);
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+
+    /* ── RESPONSIVE ───────────────────────────── */
+    @media (max-width: 960px) {
+      .cal-cell { min-height: 72px; }
+      .cal-note-title { display: none; }
+      .cal-cell.has-note .cal-popover { width: 250px; }
+      .hero-stats { gap: 1.5rem; }
+    }
+    @media (max-width: 768px) {
+      .topbar, .hero { padding-left: 1.5rem; padding-right: 1.5rem; }
+      .main-wrap { padding: 1.5rem 1.5rem 3rem; }
+      .cal-cell { min-height: 56px; padding: 0.35rem; }
+      .cal-day-num { font-size: 0.62rem; }
+      .cal-note-bar { height: 2px; margin-bottom: 0; }
+      .cal-note-title { display: none; }
+      .cal-dow { font-size: 0.5rem; letter-spacing: 0.1em; padding: 0.5rem 0; }
+      .cal-cell.has-note .cal-popover { display: none !important; }
+      .hero-title { font-size: 1.4rem; }
+      .hero-stats { gap: 1rem; flex-wrap: wrap; }
+      .recent-grid { grid-template-columns: 1fr; }
+      .page-footer { padding: 1.4rem 1.5rem; }
+    }
+    @media (max-width: 480px) {
+      .cal-cell { min-height: 42px; padding: 0.25rem; }
+      .cal-day-num { font-size: 0.55rem; }
+      .cal-note-bar { height: 2px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ── NAV ──────────────────────────────────── -->
+  <nav class="topbar">
+    <span class="topbar-brand"><strong>Orion Alpha</strong> &nbsp;·&nbsp; Asset Management</span>
+    <div class="topbar-nav">
+      <a href="https://www.oa-am.com/" target="_blank">oa-am.com</a>
+      <a href="/morning-notes">All Notes</a>
+      <a href="/">Home</a>
+    </div>
+  </nav>
+
+  <!-- ── Gather note data ────────────────────── -->
+  {% assign all_notes = site.pages | where: "layout", "morning-note" | sort: "date" | reverse %}
+
+  <!-- ── HERO ─────────────────────────────────── -->
+  <section class="hero">
+    <div class="hero-inner">
+      <div class="hero-kicker">Equity Research &middot; Daily Coverage</div>
+      <h1 class="hero-title">Morning Notes</h1>
+      <p class="hero-sub">Daily equity research notes covering market structure, macro developments, and trade ideas from the Orion Alpha AM desk.</p>
+      <div class="hero-stats">
+        <div>
+          <div class="hero-stat-num">{{ all_notes.size }}</div>
+          <div class="hero-stat-label">Total Notes</div>
+        </div>
+        {% if all_notes.size > 0 %}
+        <div>
+          <div class="hero-stat-num">{{ all_notes.first.date | date: "%b %Y" }}</div>
+          <div class="hero-stat-label">Latest Note</div>
+        </div>
+        {% endif %}
+        <div>
+          <div class="hero-stat-num">{{ all_notes.last.date | date: "%b %Y" }}</div>
+          <div class="hero-stat-label">Since</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── MAIN ─────────────────────────────────── -->
+  <div class="main-wrap">
+
+    {% comment %}
+      Build a list of unique year-month combos from notes.
+      Liquid doesn't have native date math, so we generate
+      full calendar grids using note data + inline JS.
+    {% endcomment %}
+
+    {% assign month_groups = "" %}
+    {% for note in all_notes %}
+      {% assign ym = note.date | date: "%Y-%m" %}
+      {% unless month_groups contains ym %}
+        {% if month_groups != "" %}{% assign month_groups = month_groups | append: "," %}{% endif %}
+        {% assign month_groups = month_groups | append: ym %}
+      {% endunless %}
+    {% endfor %}
+    {% assign months = month_groups | split: "," %}
+
+    {% for ym in months %}
+      {% assign y = ym | split: "-" | first | plus: 0 %}
+      {% assign m = ym | split: "-" | last | plus: 0 %}
+      {% assign month_name = ym | append: "-01" %}
+
+      {% assign notes_this_month = "" %}
+      {% assign note_count = 0 %}
+      {% for note in all_notes %}
+        {% assign n_ym = note.date | date: "%Y-%m" %}
+        {% if n_ym == ym %}
+          {% assign note_count = note_count | plus: 1 %}
+        {% endif %}
+      {% endfor %}
+
+      <div class="cal-section">
+        <div class="cal-month-bar">
+          <h2 class="cal-month-title">
+            {% case m %}
+              {% when 1 %}January{% when 2 %}February{% when 3 %}March
+              {% when 4 %}April{% when 5 %}May{% when 6 %}June
+              {% when 7 %}July{% when 8 %}August{% when 9 %}September
+              {% when 10 %}October{% when 11 %}November{% when 12 %}December
+            {% endcase %}
+            {{ y }}
+          </h2>
+          <span class="cal-month-count">{{ note_count }} note{{ note_count | minus: 1 | at_least: 1 | at_most: 99 | prepend: '' }}{% if note_count != 1 %}s{% endif %}</span>
+        </div>
+
+        <div class="cal-grid">
+          <div class="cal-header">
+            <span class="cal-dow">Sun</span>
+            <span class="cal-dow">Mon</span>
+            <span class="cal-dow">Tue</span>
+            <span class="cal-dow">Wed</span>
+            <span class="cal-dow">Thu</span>
+            <span class="cal-dow">Fri</span>
+            <span class="cal-dow">Sat</span>
+          </div>
+          <div class="cal-body" id="cal-{{ ym }}">
+            <!-- Filled by JS below -->
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+
+    <!-- ── RECENT NOTES LIST ───────────────────── -->
+    <div class="recent-section">
+      <div class="recent-header">
+        <span class="recent-label">All Notes</span>
+        <div class="recent-line"></div>
+      </div>
+      <div class="recent-grid">
+        {% for note in all_notes %}
+        <a class="note-card" href="{{ note.url }}">
+          <div class="note-card-date">{{ note.date | date: "%b %-d, %Y" }}</div>
+          <div class="note-card-title">{{ note.headline | default: note.title }}</div>
+          {% if note.tags %}
+          <div class="note-card-tags">
+            {% for tag in note.tags limit:4 %}
+            <span class="note-card-tag">{{ tag }}</span>
+            {% endfor %}
+          </div>
+          {% endif %}
+        </a>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+
+  <!-- ── FOOTER ───────────────────────────────── -->
+  <footer class="page-footer">
+    <a href="/">← Home</a>
+    <span class="footer-brand">Orion Alpha Asset Management</span>
+    <a href="/">stevenyuan.github.io</a>
+  </footer>
+
+  <!-- ── Calendar rendering JS ────────────────── -->
+  <script>
+  (function() {
+    /* Build note lookup from Liquid data */
+    var notes = [
+      {% for note in all_notes %}
+      {
+        date: "{{ note.date | date: '%Y-%m-%d' }}",
+        day: {{ note.date | date: "%-d" }},
+        month: {{ note.date | date: "%-m" }},
+        year: {{ note.date | date: "%Y" }},
+        url: "{{ note.url }}",
+        headline: {{ note.headline | default: note.title | jsonify }},
+        tags: {{ note.tags | default: "" | jsonify }},
+        sentiment: [
+          {% if note.sentiment %}{% for s in note.sentiment limit:3 %}
+          { label: {{ s.label | jsonify }}, tone: "{{ s.tone }}", pct: {{ s.pct }} }{% unless forloop.last %},{% endunless %}
+          {% endfor %}{% endif %}
+        ]
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ];
+
+    /* Index notes by date string */
+    var noteMap = {};
+    notes.forEach(function(n) { noteMap[n.date] = n; });
+
+    /* Calendar months to render (from Liquid) */
+    var months = [
+      {% for ym in months %}
+      "{{ ym }}"{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ];
+
+    var today = new Date();
+    var todayStr = today.getFullYear() + '-' +
+      String(today.getMonth()+1).padStart(2,'0') + '-' +
+      String(today.getDate()).padStart(2,'0');
+
+    months.forEach(function(ym) {
+      var parts = ym.split('-');
+      var year = parseInt(parts[0], 10);
+      var month = parseInt(parts[1], 10); /* 1-based */
+
+      var firstDay = new Date(year, month - 1, 1);
+      var startDow = firstDay.getDay(); /* 0=Sun */
+      var daysInMonth = new Date(year, month, 0).getDate();
+
+      var container = document.getElementById('cal-' + ym);
+      if (!container) return;
+
+      var totalCells = startDow + daysInMonth;
+      var rows = Math.ceil(totalCells / 7);
+      var gridCells = rows * 7;
+
+      var html = '';
+      for (var i = 0; i < gridCells; i++) {
+        var dayNum = i - startDow + 1;
+        var isOutside = (dayNum < 1 || dayNum > daysInMonth);
+        var dateStr = year + '-' + String(month).padStart(2,'0') + '-' + String(dayNum).padStart(2,'0');
+        var note = noteMap[dateStr];
+        var isToday = (dateStr === todayStr);
+        var dow = i % 7;
+        var isWeekend = (dow === 0 || dow === 6);
+        var rowIdx = Math.floor(i / 7);
+        var popBelow = (rowIdx < 2);
+
+        var cls = 'cal-cell';
+        if (isOutside) cls += ' outside';
+        if (isToday && !isOutside) cls += ' today';
+        if (isWeekend && !isOutside) cls += ' weekend';
+        if (note) cls += ' has-note' + (popBelow ? ' pop-below' : '');
+
+        html += '<div class="' + cls + '">';
+
+        if (!isOutside) {
+          html += '<span class="cal-day-num">' + dayNum + '</span>';
+
+          if (note) {
+            html += '<a class="cal-note-link" href="' + note.url + '" aria-label="Read note: ' + note.headline.replace(/"/g, '&quot;') + '"></a>';
+            html += '<div class="cal-note-pip">';
+            html += '<span class="cal-note-bar"></span>';
+            html += '<span class="cal-note-title">' + note.headline + '</span>';
+            html += '</div>';
+
+            /* Popover */
+            html += '<div class="cal-popover">';
+            html += '<div class="pop-date">' + note.date + '</div>';
+            html += '<div class="pop-headline">' + note.headline + '</div>';
+            if (note.tags && note.tags.length) {
+              html += '<div class="pop-tags">';
+              var maxTags = Math.min(note.tags.length, 5);
+              for (var t = 0; t < maxTags; t++) {
+                html += '<span class="pop-tag">' + note.tags[t] + '</span>';
+              }
+              html += '</div>';
+            }
+            if (note.sentiment && note.sentiment.length) {
+              html += '<div class="pop-sentiment">';
+              note.sentiment.forEach(function(s) {
+                html += '<span class="pop-sent-item ' + s.tone + '">' + s.label + ' ' + s.pct + '%</span>';
+              });
+              html += '</div>';
+            }
+            html += '</div>'; /* end popover */
+          }
+        }
+
+        html += '</div>';
+      }
+
+      container.innerHTML = html;
+    });
+  })();
+  </script>
+
+</body>
+</html>
