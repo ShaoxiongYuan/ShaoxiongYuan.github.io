@@ -280,4 +280,4 @@ Past performance does not guarantee future results. Investments in technology an
 
 ---
 
-*This analysis is produced by the Orion Alpha AM research desk. For further information, visit [oa-am.com](https://www.oa-am.com/){:target="_blank"}.*
+*This analysis is produced for informational and research purposes only. For further information, visit [stevenyuan.github.io](https://shaoxiongyuan.github.io/){:target="_blank"}.*
