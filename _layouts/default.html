@@ -6,7 +6,7 @@
   <title>{{ page.title | default: site.title }}</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@300;400;500;600;700;800&family=Fira+Code:wght@300;400;500&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@300;400;500;600;700;800&family=IBM+Plex+Mono:wght@300;400;500&display=swap" rel="stylesheet" />
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -36,7 +36,7 @@
       --green:   #26a69a;
       --serif:   'Lora', Georgia, serif;
       --sans:    'Inter', system-ui, sans-serif;
-      --mono:    'Fira Code', monospace;
+      --mono:    'IBM Plex Mono', monospace;
     }
 
     html { scroll-behavior: smooth; font-size: 16px; }
@@ -636,7 +636,7 @@
       border-collapse: collapse;
       font-size: 0.82rem;
       margin: 1.25rem 0 1.75rem;
-      font-family: var(--mono);
+      font-family: var(--sans);
     }
 
     .main-content thead tr {
@@ -647,7 +647,7 @@
     .main-content thead th {
       padding: 0.55rem 0.85rem;
       text-align: left;
-      font-family: var(--mono);
+      font-family: var(--sans);
       font-weight: 500;
       font-size: 0.65rem;
       letter-spacing: 0.14em;
@@ -1761,31 +1761,7 @@
 
     <div class="landing-ticker">
       <div class="landing-ticker-inner" id="ticker">
-        <span class="landing-ticker-item">S&amp;P 500 <span>6,830.71 −0.56%</span></span>
-        <span class="landing-ticker-item">NVDA <span>+2.3%</span></span>
-        <span class="landing-ticker-item">AVGO <span>+3.5%</span></span>
-        <span class="landing-ticker-item down">BRENT <span>$85.41 +5.0%</span></span>
-        <span class="landing-ticker-item">BTC <span>$70,400 +2%</span></span>
-        <span class="landing-ticker-item down">VIX <span>22.5 +6%</span></span>
-        <span class="landing-ticker-item">PLTR <span>+1.8%</span></span>
-        <span class="landing-ticker-item">LMT <span>+7.2%</span></span>
-        <span class="landing-ticker-item down">GTLB <span>−9.1%</span></span>
-        <span class="landing-ticker-item">MRVL <span>+11.6%</span></span>
-        <span class="landing-ticker-item">10Y <span>4.15%</span></span>
-        <span class="landing-ticker-item">GOLD <span>$4,980</span></span>
-        <!-- duplicate for seamless loop -->
-        <span class="landing-ticker-item">S&amp;P 500 <span>6,830.71 −0.56%</span></span>
-        <span class="landing-ticker-item">NVDA <span>+2.3%</span></span>
-        <span class="landing-ticker-item">AVGO <span>+3.5%</span></span>
-        <span class="landing-ticker-item down">BRENT <span>$85.41 +5.0%</span></span>
-        <span class="landing-ticker-item">BTC <span>$70,400 +2%</span></span>
-        <span class="landing-ticker-item down">VIX <span>22.5 +6%</span></span>
-        <span class="landing-ticker-item">PLTR <span>+1.8%</span></span>
-        <span class="landing-ticker-item">LMT <span>+7.2%</span></span>
-        <span class="landing-ticker-item down">GTLB <span>−9.1%</span></span>
-        <span class="landing-ticker-item">MRVL <span>+11.6%</span></span>
-        <span class="landing-ticker-item">10Y <span>4.15%</span></span>
-        <span class="landing-ticker-item">GOLD <span>$4,980</span></span>
+        <span class="landing-ticker-item">Loading market data…</span>
       </div>
     </div>
 
@@ -2025,6 +2001,89 @@
     landing.addEventListener('keydown', e => {
       if (e.key === 'Enter' || e.key === ' ') enterSite();
     });
+
+    // ── Live ticker data ─────────────────────────────────
+    (function() {
+      var SYMBOLS = [
+        { symbol: '^GSPC',   label: 'S&P 500' },
+        { symbol: 'NVDA',    label: 'NVDA' },
+        { symbol: 'AVGO',    label: 'AVGO' },
+        { symbol: 'BZ=F',    label: 'BRENT' },
+        { symbol: 'BTC-USD', label: 'BTC' },
+        { symbol: '^VIX',    label: 'VIX' },
+        { symbol: 'PLTR',    label: 'PLTR' },
+        { symbol: 'LMT',     label: 'LMT' },
+        { symbol: 'GTLB',    label: 'GTLB' },
+        { symbol: 'MRVL',    label: 'MRVL' },
+        { symbol: '^TNX',    label: '10Y' },
+        { symbol: 'GC=F',    label: 'GOLD' }
+      ];
+
+      var FALLBACK = [
+        { label: 'S&P 500', price: '5,900', pct: -0.56 },
+        { label: 'NVDA',    price: '',      pct: 2.3 },
+        { label: 'AVGO',    price: '',      pct: 3.5 },
+        { label: 'BRENT',   price: '$85',   pct: 5.0 },
+        { label: 'BTC',     price: '$70,400', pct: 2.0 },
+        { label: 'VIX',     price: '22.5',  pct: 6.0 },
+        { label: 'PLTR',    price: '',      pct: 1.8 },
+        { label: 'LMT',     price: '',      pct: 7.2 },
+        { label: 'GTLB',    price: '',      pct: -9.1 },
+        { label: 'MRVL',    price: '',      pct: 11.6 },
+        { label: '10Y',     price: '4.15%', pct: 0 },
+        { label: 'GOLD',    price: '$4,980', pct: 0 }
+      ];
+
+      function renderTicker(items) {
+        var html = '';
+        items.forEach(function(d) {
+          var neg = d.pct < 0;
+          var cls = neg ? ' down' : '';
+          var pctStr = (neg ? '' : '+') + d.pct.toFixed(1) + '%';
+          var val = d.price ? d.price + ' ' + pctStr : pctStr;
+          html += '<span class="landing-ticker-item' + cls + '">' + d.label + ' <span>' + val + '</span></span>';
+        });
+        // duplicate for seamless loop
+        html += html;
+        var ticker = document.getElementById('ticker');
+        if (ticker) ticker.innerHTML = html;
+      }
+
+      function fetchLiveTicker() {
+        var syms = SYMBOLS.map(function(s) { return s.symbol; }).join(',');
+        var url = 'https://query1.finance.yahoo.com/v7/finance/quote?symbols=' + encodeURIComponent(syms) + '&fields=symbol,regularMarketPrice,regularMarketChangePercent';
+
+        fetch(url)
+          .then(function(r) { return r.json(); })
+          .then(function(data) {
+            if (!data.quoteResponse || !data.quoteResponse.result) throw new Error('bad response');
+            var quotes = data.quoteResponse.result;
+            var lookup = {};
+            quotes.forEach(function(q) { lookup[q.symbol] = q; });
+
+            var items = SYMBOLS.map(function(s, i) {
+              var q = lookup[s.symbol];
+              if (!q) return FALLBACK[i];
+              var price = q.regularMarketPrice;
+              var pct   = q.regularMarketChangePercent || 0;
+              var priceStr = '';
+              if (s.label === 'S&P 500') priceStr = price.toLocaleString(undefined, {maximumFractionDigits:0});
+              else if (s.label === 'BTC') priceStr = '$' + price.toLocaleString(undefined, {maximumFractionDigits:0});
+              else if (s.label === 'BRENT') priceStr = '$' + price.toFixed(2);
+              else if (s.label === 'GOLD') priceStr = '$' + price.toLocaleString(undefined, {maximumFractionDigits:0});
+              else if (s.label === '10Y') priceStr = price.toFixed(2) + '%';
+              else if (s.label === 'VIX') priceStr = price.toFixed(1);
+              return { label: s.label, price: priceStr, pct: pct };
+            });
+            renderTicker(items);
+          })
+          .catch(function() {
+            renderTicker(FALLBACK);
+          });
+      }
+
+      fetchLiveTicker();
+    })();
 
     // ── Scroll-reveal ─────────────────────────────────────
     const observer = new IntersectionObserver((entries) => {

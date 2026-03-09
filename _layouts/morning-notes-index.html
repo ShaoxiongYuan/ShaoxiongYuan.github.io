@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }} | Orion Alpha AM</title>
+  <title>{{ page.title }}</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@300;400;500;600&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
   <style>
@@ -377,22 +377,6 @@
       padding: 0.15rem 0.45rem;
       border-radius: 2px;
     }
-    .pop-sentiment {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.7rem;
-      margin-top: 0.55rem;
-      padding-top: 0.55rem;
-      border-top: 1px solid rgba(255,255,255,0.08);
-    }
-    .pop-sent-item {
-      font-family: var(--mono);
-      font-size: 0.55rem;
-      font-weight: 500;
-      letter-spacing: 0.04em;
-    }
-    .pop-sent-item.bullish { color: #52d68a; }
-    .pop-sent-item.bearish { color: #f07070; }
 
     /* ── RECENT NOTES LIST ───────────────────── */
     .recent-section {
@@ -544,9 +528,8 @@
 
   <!-- ── NAV ──────────────────────────────────── -->
   <nav class="topbar">
-    <span class="topbar-brand"><strong>Orion Alpha</strong> &nbsp;·&nbsp; Asset Management</span>
+    <span class="topbar-brand"><strong>Steven Yuan</strong> &nbsp;·&nbsp; Equity Research</span>
     <div class="topbar-nav">
-      <a href="https://www.oa-am.com/" target="_blank">oa-am.com</a>
       <a href="/morning-notes">All Notes</a>
       <a href="/industry-analysis">Industry Analysis</a>
       <a href="/">Home</a>
@@ -561,7 +544,7 @@
     <div class="hero-inner">
       <div class="hero-kicker">Equity Research &middot; Daily Coverage</div>
       <h1 class="hero-title">Morning Notes</h1>
-      <p class="hero-sub">Daily equity research notes covering market structure, macro developments, and trade ideas from the Orion Alpha AM desk.</p>
+      <p class="hero-sub">Daily equity research notes covering market structure, macro developments, and trade ideas.</p>
       <div class="hero-stats">
         <div>
           <div class="hero-stat-num">{{ all_notes.size }}</div>
@@ -569,12 +552,12 @@
         </div>
         {% if all_notes.size > 0 %}
         <div>
-          <div class="hero-stat-num">{{ all_notes.first.date | date: "%b %Y" }}</div>
+          <div class="hero-stat-num">{{ all_notes.first.date | date: "%b %-d, %Y" }}</div>
           <div class="hero-stat-label">Latest Note</div>
         </div>
         {% endif %}
         <div>
-          <div class="hero-stat-num">{{ all_notes.last.date | date: "%b %Y" }}</div>
+          <div class="hero-stat-num">{{ all_notes.last.date | date: "%b %-d, %Y" }}</div>
           <div class="hero-stat-label">Since</div>
         </div>
       </div>
@@ -672,7 +655,7 @@
   <!-- ── FOOTER ───────────────────────────────── -->
   <footer class="page-footer">
     <a href="/">← Home</a>
-    <span class="footer-brand">Orion Alpha Asset Management</span>
+    <span class="footer-brand">Steven Yuan · Equity Research</span>
     <a href="/">stevenyuan.github.io</a>
   </footer>
 
@@ -772,13 +755,6 @@
               for (var t = 0; t < maxTags; t++) {
                 html += '<span class="pop-tag">' + note.tags[t] + '</span>';
               }
-              html += '</div>';
-            }
-            if (note.sentiment && note.sentiment.length) {
-              html += '<div class="pop-sentiment">';
-              note.sentiment.forEach(function(s) {
-                html += '<span class="pop-sent-item ' + s.tone + '">' + s.label + ' ' + s.pct + '%</span>';
-              });
               html += '</div>';
             }
             html += '</div>'; /* end popover */
