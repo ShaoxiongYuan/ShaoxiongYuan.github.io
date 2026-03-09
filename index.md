@@ -29,11 +29,11 @@
 
 ## About {#about}
 
-I'm a quantitative researcher and co-founder of **Orion Alpha Asset Management**, where I serve as Fund X Managing Partner. My work sits at the intersection of fundamental equity research, derivatives modelling, and machine learning-driven portfolio construction — Fund X has returned 26% over 8 months with a 3.43 Sharpe ratio and 4.6% maximum drawdown.
+I'm a quantitative researcher and co-founder of **Orion Alpha Asset Management**, where I serve as Fund X Managing Partner. My work sits at the intersection of fundamental equity research, derivatives modelling, and machine learning-driven portfolio construction. Fund X has returned 26% over 8 months with a 3.43 Sharpe ratio and 4.6% maximum drawdown.
 
 I hold a Master of Financial Engineering from UCLA Anderson and dual degrees in Applied and Computational Mathematics (AMCM) and Computer Science & Business Administration (CSBA) from USC. My professional background spans capital markets and M&A in Beijing, Shanghai, and New York, including roles at China Reform Securities, Yongxing Securities, and M+A Squared.
 
-Outside of markets, I write film reviews for movies worth thinking about beyond the credits — and occasionally build tools that sit at the edge of finance and software.
+Outside of markets, I write film reviews for movies worth thinking about beyond the credits, and occasionally build tools that sit at the edge of finance and software.
 
 </div>
 
@@ -80,7 +80,7 @@ Sector-level deep dives covering market structure, competitive dynamics, and the
 
 ## Movie Reviews {#movie-reviews}
 
-I write occasional film reviews when a movie is worth thinking about beyond the credits — more analytical than plot summary.
+I write occasional film reviews when a movie is worth thinking about beyond the credits, more analytical than plot summary.
 
 [**→ View All Movie Reviews**](/movie-reviews)
 
@@ -98,7 +98,7 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 
 ## University Course Materials — UCLA {#ucla-coursework}
 
-The [UCLA Anderson Master of Financial Engineering (MFE)](https://www.anderson.ucla.edu/degrees/master-of-financial-engineering){:target="_blank"} is a STEM-designated, full-time program combining rigorous quantitative finance, machine learning, and asset management. The curriculum spans financial engineering, derivatives pricing, risk management, and data-driven investing — full details available at the [curriculum page](https://www.anderson.ucla.edu/degrees/master-of-financial-engineering/mfe-admit-central/curriculum-and-academics){:target="_blank"}. Course materials from my cohort are shared below.
+The [UCLA Anderson Master of Financial Engineering (MFE)](https://www.anderson.ucla.edu/degrees/master-of-financial-engineering){:target="_blank"} is a STEM-designated, full-time program combining rigorous quantitative finance, machine learning, and asset management. The curriculum spans financial engineering, derivatives pricing, risk management, and data-driven investing. Full details available at the [curriculum page](https://www.anderson.ucla.edu/degrees/master-of-financial-engineering/mfe-admit-central/curriculum-and-academics){:target="_blank"}. Course materials from my cohort are shared below.
 
 <details markdown="1">
 <summary><b>MFE 412 — Trading, Market Frictions and FinTech</b> &nbsp;<span>Prof. J. Zhang</span></summary>
@@ -166,7 +166,7 @@ A group project (with Hiu Chun Chan, Saurabh Kulkarni, and Weiyi Wang) implement
 
 **Final Project: Regime-Based Factor Investing Strategy**
 
-A group project developing a novel regime-aware long-short factor investing strategy using CRSP data (1990–2023). Market regimes are identified along two dimensions — macroeconomic regime (Bull/Bear/Sideways via term spread between the 10-year Treasury and 3-month T-Bill) and market concentration regime (Narrow/Normal/Broad via Gini coefficient and HHI) — forming a 3×3 matrix of nine distinct regimes. For each regime, an optimal combination of six factor signals (momentum, growth, quality, volatility, value, profitability) is selected, and stocks are ranked by composite Z-score into top/bottom quintile long-short portfolios rebalanced monthly. The strategy generates statistically significant CAPM and FF3 alpha, outperforms the market across all major bear market episodes (151.51% during the GFC), and achieves a maximum drawdown of −45.32% vs. the market's −50.31%.
+A group project developing a novel regime-aware long-short factor investing strategy using CRSP data (1990–2023). Market regimes are identified along two dimensions, macroeconomic regime (Bull/Bear/Sideways via term spread between the 10-year Treasury and 3-month T-Bill) and market concentration regime (Narrow/Normal/Broad via Gini coefficient and HHI), forming a 3×3 matrix of nine distinct regimes. For each regime, an optimal combination of six factor signals (momentum, growth, quality, volatility, value, profitability) is selected, and stocks are ranked by composite Z-score into top/bottom quintile long-short portfolios rebalanced monthly. The strategy generates statistically significant CAPM and FF3 alpha, outperforms the market across all major bear market episodes (151.51% during the GFC), and achieves a maximum drawdown of −45.32% vs. the market's −50.31%.
 
 | Files | Links |
 | ----- | ----- |
@@ -183,7 +183,7 @@ A group project developing a novel regime-aware long-short factor investing stra
 
 ## University Course Materials — USC {#usc-coursework}
 
-The [B.A. in Applied and Computational Mathematics (AMCM)](https://catalogue.usc.edu/preview_program.php?catoid=12&poid=12767){:target="_blank"} at USC Dornsife is designed for students interested in the mathematical foundations underlying real-world computation, data analysis, and modelling. The curriculum blends rigorous pure mathematics — probability, statistics, linear algebra, analysis — with applied coursework in numerical methods and scientific computing, preparing graduates for quantitative roles in finance, technology, and research.
+The [B.A. in Applied and Computational Mathematics (AMCM)](https://catalogue.usc.edu/preview_program.php?catoid=12&poid=12767){:target="_blank"} at USC Dornsife is designed for students interested in the mathematical foundations underlying real-world computation, data analysis, and modelling. The curriculum blends rigorous pure mathematics, probability, statistics, linear algebra, analysis, with applied coursework in numerical methods and scientific computing, preparing graduates for quantitative roles in finance, technology, and research.
 
 #### For Math: {#for-math}
 
@@ -448,7 +448,7 @@ Course Textbook: Not Available
       <span class="project-card-tag">AFP / ML</span>
     </div>
     <div class="project-card-body">
-      UCLA MFE Applied Finance Project (Jun–Dec 2025). Developed an ML model to predict exit timing and type (IPO, M&amp;A, secondary sale) for PE-backed firms using historical, macroeconomic, and deal-level data to optimize holding periods and inform liquidity planning. Identified key exit drivers — fund vintage, company performance, industry trends, market cycles — via Python-based statistical and ML methods to enhance portfolio valuation and capital commitment pacing.
+      UCLA MFE Applied Finance Project (Jun–Dec 2025). Developed an ML model to predict exit timing and type (IPO, M&amp;A, secondary sale) for PE-backed firms using historical, macroeconomic, and deal-level data to optimize holding periods and inform liquidity planning. Identified key exit drivers such as fund vintage, company performance, industry trends, and market cycles via Python-based statistical and ML methods to enhance portfolio valuation and capital commitment pacing.
     </div>
     <div class="project-card-links">
     </div>

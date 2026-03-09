@@ -20,7 +20,7 @@ Which means the outcome is never in doubt. We know Zhang Chi wins. The film know
 
 ## Outside the Cockpit
 
-Beyond the racing, *Pegasus 2* is thinner. The villain is functional rather than memorable — a schemer whose machinations exist primarily to give Zhang Chi something to overcome rather than to generate genuine dramatic tension. The supporting cast orbits the lead without leaving much impression. The emotional beats between races follow a familiar rhythm: setback, resolve, setback, resolve, breakthrough. If you've watched enough sports films, you can set a timer to each beat.
+Beyond the racing, *Pegasus 2* is thinner. The villain is functional rather than memorable。 He is a schemer whose machinations exist primarily to give Zhang Chi something to overcome rather than to generate genuine dramatic tension. The supporting cast orbits the lead without leaving much impression. The emotional beats between races follow a familiar rhythm: setback, resolve, setback, resolve, breakthrough. If you've watched enough sports films, you can set a timer to each beat.
 
 But here's the thing about sports films that follow the formula faithfully. The formula exists because it works. The satisfaction of watching a man who was written off claw his way back to the top, beat the people who rigged the game against him, and deliver for his team is a reliable pleasure, and *Pegasus 2* administers that pleasure competently and at times genuinely thrillingly.
 
