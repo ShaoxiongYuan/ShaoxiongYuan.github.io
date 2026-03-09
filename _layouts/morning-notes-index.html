@@ -377,22 +377,6 @@
       padding: 0.15rem 0.45rem;
       border-radius: 2px;
     }
-    .pop-sentiment {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.7rem;
-      margin-top: 0.55rem;
-      padding-top: 0.55rem;
-      border-top: 1px solid rgba(255,255,255,0.08);
-    }
-    .pop-sent-item {
-      font-family: var(--mono);
-      font-size: 0.55rem;
-      font-weight: 500;
-      letter-spacing: 0.04em;
-    }
-    .pop-sent-item.bullish { color: #52d68a; }
-    .pop-sent-item.bearish { color: #f07070; }
 
     /* ── RECENT NOTES LIST ───────────────────── */
     .recent-section {
@@ -771,13 +755,6 @@
               for (var t = 0; t < maxTags; t++) {
                 html += '<span class="pop-tag">' + note.tags[t] + '</span>';
               }
-              html += '</div>';
-            }
-            if (note.sentiment && note.sentiment.length) {
-              html += '<div class="pop-sentiment">';
-              note.sentiment.forEach(function(s) {
-                html += '<span class="pop-sent-item ' + s.tone + '">' + s.label + ' ' + s.pct + '%</span>';
-              });
               html += '</div>';
             }
             html += '</div>'; /* end popover */
