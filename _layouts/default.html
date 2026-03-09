@@ -2073,7 +2073,7 @@
               else if (s.label === 'GOLD') priceStr = '$' + price.toLocaleString(undefined, {maximumFractionDigits:0});
               else if (s.label === '10Y') priceStr = price.toFixed(2) + '%';
               else if (s.label === 'VIX') priceStr = price.toFixed(1);
-              return { label: s.label, price: priceStr, pct: Math.round(pct * 10) / 10 };
+              return { label: s.label, price: priceStr, pct: pct };
             });
             renderTicker(items);
           })
