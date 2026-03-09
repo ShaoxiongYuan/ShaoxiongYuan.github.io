@@ -280,4 +280,4 @@ Past performance does not guarantee future results. Investments in technology an
 
 ---
 
-*This analysis is produced for informational and research purposes only. For further information, visit [stevenyuan.github.io](https://shaoxiongyuan.github.io/){:target="_blank"}.*
+*This analysis is produced for informational and research purposes only. For further information, visit [shaoxiongyuan.github.io](https://shaoxiongyuan.github.io/){:target="_blank"}.*
