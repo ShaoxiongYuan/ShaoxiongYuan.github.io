@@ -438,6 +438,8 @@ Course Textbook: Not Available
 
 </div>
 
+---
+
 <div class="content-section">
 
 <h2 id="personal-projects"><em>Personal Projects</em></h2>
