@@ -438,7 +438,7 @@ Course Textbook: Not Available
 
 </div>
 
-<hr class="section-divider">
+---
 
 <div class="content-section">
 
