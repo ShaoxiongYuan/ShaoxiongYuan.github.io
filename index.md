@@ -29,7 +29,7 @@
 
 <div class="content-section" markdown="1">
 
-## About {#about}
+## *About* {#about}
 
 I'm a quantitative researcher and co-founder of **Orion Alpha Asset Management**, where I serve as Fund X Managing Partner. My work sits at the intersection of fundamental equity research, derivatives modelling, and machine learning-driven portfolio construction. Fund X has returned 26% over 8 months with a 3.43 Sharpe ratio and 4.6% maximum drawdown.
 
@@ -43,7 +43,7 @@ Outside of markets, I write film reviews for movies worth thinking about beyond 
 
 <div class="content-section" markdown="1">
 
-## Orion Alpha Asset Management {#orion-alpha}
+## *Orion Alpha Asset Management* {#orion-alpha}
 
 <div class="orion-block">
   <a href="https://www.oa-am.com/" target="_blank" class="orion-logo-link">
@@ -80,7 +80,7 @@ Sector-level deep dives covering market structure, competitive dynamics, and the
 
 <div class="content-section" markdown="1">
 
-## Movie Reviews {#movie-reviews}
+## *Movie Reviews* {#movie-reviews}
 
 I write occasional film reviews when a movie is worth thinking about beyond the credits, more analytical than plot summary.
 
@@ -98,7 +98,7 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 
 <div class="content-section" markdown="1">
 
-## University Course Materials — UCLA {#ucla-coursework}
+## *University Course Materials — UCLA* {#ucla-coursework}
 
 The [UCLA Anderson Master of Financial Engineering (MFE)](https://www.anderson.ucla.edu/degrees/master-of-financial-engineering){:target="_blank"} is a STEM-designated, full-time program combining rigorous quantitative finance, machine learning, and asset management. The curriculum spans financial engineering, derivatives pricing, risk management, and data-driven investing. Full details available at the [curriculum page](https://www.anderson.ucla.edu/degrees/master-of-financial-engineering/mfe-admit-central/curriculum-and-academics){:target="_blank"}. Course materials from my cohort are shared below.
 
@@ -183,7 +183,7 @@ A group project developing a novel regime-aware long-short factor investing stra
 
 <div class="content-section" markdown="1">
 
-## University Course Materials — USC {#usc-coursework}
+## *University Course Materials — USC* {#usc-coursework}
 
 The [B.A. in Applied and Computational Mathematics (AMCM)](https://catalogue.usc.edu/preview_program.php?catoid=12&poid=12767){:target="_blank"} at USC Dornsife is designed for students interested in the mathematical foundations underlying real-world computation, data analysis, and modelling. The curriculum blends rigorous pure mathematics, probability, statistics, linear algebra, analysis, with applied coursework in numerical methods and scientific computing, preparing graduates for quantitative roles in finance, technology, and research.
 
@@ -440,7 +440,7 @@ Course Textbook: Not Available
 
 <div class="content-section">
 
-<h2 id="personal-projects">Personal Projects</h2>
+<h2 id="personal-projects"><em>Personal Projects</em></h2>
 
 <div class="project-grid">
 
