@@ -4,6 +4,7 @@ title: "The Housemaid (2025) — Review"
 film_title: "The Housemaid"
 director: "Paul Feig"
 year: 2025
+date: 2025-03-18
 genre: "Thriller · Mystery"
 rating: "★★★"
 tagline: "The house was always hers. We just didn't know it yet."

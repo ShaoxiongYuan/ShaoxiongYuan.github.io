@@ -4,6 +4,7 @@ title: "The Bride (2026) — Review"
 film_title: "The Bride"
 director: "Maggie Gyllenhaal"
 year: 2026
+date: 2026-02-15
 genre: "Horror · Drama"
 rating: "★★½"
 tagline: "Good bones need a film built around them. This one mostly wanders."

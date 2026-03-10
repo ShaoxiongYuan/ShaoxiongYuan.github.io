@@ -4,6 +4,7 @@ title: "Good Luck, Have Fun, Don't Die (2025) — Review"
 film_title: "Good Luck, Have Fun, Don't Die"
 director: "Gore Verbinski"
 year: 2025
+date: 2025-03-25
 genre: "Sci-Fi · Dark Comedy · Action"
 rating: "★★★★"
 tagline: "The only way to beat a god that runs on human dependency is to make humans physically incapable of connecting."

@@ -4,6 +4,7 @@ title: "Marty Supreme (2025) — Review"
 film_title: "Marty Supreme"
 director: "Josh Safdie"
 year: 2025
+date: 2025-02-20
 genre: "Sports · Comedy-Drama"
 rating: "★★★½"
 tagline: "He put everything on the line. The world didn't notice. He didn't care."

@@ -4,6 +4,7 @@ title: "Pegasus 2 (2024) — Review"
 film_title: "Pegasus 2"
 director: "Han Han"
 year: 2024
+date: 2025-01-15
 genre: "Sports · Comedy-Drama"
 rating: "★★★"
 tagline: "You already know he wins. You watch anyway. That's the whole trick."

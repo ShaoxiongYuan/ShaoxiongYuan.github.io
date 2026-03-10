@@ -1,3 +1,5 @@
+---
+---
 <div class="intro-header">
   <img src="/images/professional_photo.jpg" alt="Shaoxiong (Steven) Yuan" class="headshot">
   <div class="intro-header-text">
@@ -86,9 +88,9 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 
 | Film | Director | Rating |
 | ---- | -------- | ------ |
-| [*Pegasus 3*](/reviews/pegasus-3){:target="_blank"} | Han Han | ★★★ |
-| [*Pegasus 2*](/reviews/pegasus-2){:target="_blank"} | Han Han | ★★★ |
-| [*Marty Supreme*](/reviews/marty-supreme){:target="_blank"} | Josh Safdie | ★★★½ |
+| [*GOAT*](/reviews/goat){:target="_blank"} | Chris Miller | ★★★½ |
+| [*How to Make a Killing*](/reviews/how-to-make-a-killing){:target="_blank"} | John Patton Ford | ★★★ |
+| [*The Bride*](/reviews/the-bride){:target="_blank"} | Maggie Gyllenhaal | ★★½ |
 
 </div>
 
