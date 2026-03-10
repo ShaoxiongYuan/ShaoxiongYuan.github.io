@@ -4,6 +4,7 @@ title: "Eternity (2025) — Review"
 film_title: "Eternity"
 director: "David Freyne"
 year: 2025
+date: 2025-03-01
 genre: "Romance · Fantasy · Comedy"
 rating: "★★★½"
 tagline: "Not paradise. Just their life, continued."

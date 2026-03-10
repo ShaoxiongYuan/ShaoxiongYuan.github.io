@@ -4,6 +4,7 @@ title: "Anaconda (2025) — Review"
 film_title: "Anaconda"
 director: "Tom Gormican"
 year: 2025
+date: 2025-03-10
 genre: "Comedy · Adventure"
 rating: "★★½"
 tagline: "A midlife crisis, a giant snake, and a comedy that almost works."

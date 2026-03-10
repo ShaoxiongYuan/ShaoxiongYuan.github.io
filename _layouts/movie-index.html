@@ -490,7 +490,7 @@
     <!-- Reviews Grid -->
     <section class="reviews-grid">
       {% assign all_reviews = site.pages | where: "layout", "review" %}
-      {% assign reviews = all_reviews | sort: "year" | reverse %}
+      {% assign reviews = all_reviews | sort: "date" | reverse %}
       {% for review in reviews %}{% if review.year %}
       <a href="{{ review.url }}" class="review-card" target="_blank">
         <div class="card-poster">

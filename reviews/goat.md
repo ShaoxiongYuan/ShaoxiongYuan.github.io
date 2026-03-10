@@ -1,9 +1,10 @@
 ---
 layout: review
-title: "GOAT (2025) — Review"
+title: "GOAT (2026) — Review"
 film_title: "GOAT"
 director: "Chris Miller"
-year: 2025
+year: 2026
+date: 2026-03-10
 genre: "Animation · Sports · Comedy"
 rating: "★★★½"
 tagline: "Small frame. Bigger heart. The oldest story, told exactly right."

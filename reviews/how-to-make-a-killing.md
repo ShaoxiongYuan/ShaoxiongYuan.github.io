@@ -4,6 +4,7 @@ title: "How to Make a Killing (2026) — Review"
 film_title: "How to Make a Killing"
 director: "John Patton Ford"
 year: 2026
+date: 2026-02-28
 genre: "Black Comedy · Thriller"
 rating: "★★★"
 tagline: "It wanted to be wicked. It only made it to clever."

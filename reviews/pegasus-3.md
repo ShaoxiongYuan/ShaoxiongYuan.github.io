@@ -4,6 +4,7 @@ title: "Pegasus 3 (2026) — Review"
 film_title: "Pegasus 3"
 director: "Han Han"
 year: 2026
+date: 2025-02-10
 genre: "Sports · Comedy-Drama"
 rating: "★★★"
 tagline: "Third lap. Same track. Still works."
