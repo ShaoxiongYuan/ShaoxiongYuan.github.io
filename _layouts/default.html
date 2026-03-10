@@ -2018,7 +2018,7 @@
             {% assign sorted_reviews = all_reviews | sort: "year" | reverse %}
             {% assign count = 0 %}
             {% for review in sorted_reviews %}{% if review.year and count < 3 %}
-            <a href="{{ review.url }}" class="recent-film-card" target="_blank">
+            <a href="{{ review.url }}" class="recent-film-card" target="_blank" rel="noopener noreferrer">
               {% if review.poster %}
               <img src="{{ review.poster }}" alt="{{ review.film_title }}" class="recent-film-poster" loading="lazy">
               {% endif %}

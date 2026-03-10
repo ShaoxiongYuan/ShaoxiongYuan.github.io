@@ -543,8 +543,12 @@
           card.style.display = (i >= start && i < end) ? '' : 'none';
         });
         document.getElementById('page-info').textContent = 'Page ' + page + ' of ' + totalPages;
-        document.getElementById('prev-btn').disabled = (page <= 1);
-        document.getElementById('next-btn').disabled = (page >= totalPages);
+        var prevBtn = document.getElementById('prev-btn');
+        var nextBtn = document.getElementById('next-btn');
+        prevBtn.disabled = (page <= 1);
+        nextBtn.disabled = (page >= totalPages);
+        prevBtn.setAttribute('aria-disabled', page <= 1);
+        nextBtn.setAttribute('aria-disabled', page >= totalPages);
       }
 
       window.changePage = function(dir) {
@@ -556,7 +560,9 @@
       };
 
       if (cards.length <= PER_PAGE) {
-        document.getElementById('pagination').style.display = 'none';
+        var pag = document.getElementById('pagination');
+        pag.style.display = 'none';
+        pag.setAttribute('aria-hidden', 'true');
       }
 
       showPage(1);
