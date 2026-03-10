@@ -1216,6 +1216,72 @@
 
     .quick-link:hover .quick-link-dot { background: var(--cyan); color: var(--main-ink-3); }
 
+    /* Recent film reviews mini-cards */
+    .recent-films {
+      display: flex;
+      flex-direction: column;
+      gap: 0.4rem;
+    }
+
+    .recent-film-card {
+      display: flex;
+      align-items: center;
+      gap: 0.7rem;
+      padding: 0.5rem 0.6rem;
+      background: #ffffff;
+      border: 1px solid rgba(26,95,160,0.10);
+      border-radius: 8px;
+      text-decoration: none;
+      color: inherit;
+      transition: background 0.2s, border-color 0.2s, box-shadow 0.2s;
+    }
+
+    .recent-film-card:hover {
+      background: rgba(26,95,160,0.04);
+      border-color: rgba(26,95,160,0.2);
+      box-shadow: 0 2px 8px rgba(26,95,160,0.06);
+    }
+
+    .recent-film-poster {
+      width: 36px;
+      height: 54px;
+      border-radius: 4px;
+      object-fit: cover;
+      flex-shrink: 0;
+      background: var(--main-bg);
+    }
+
+    .recent-film-info {
+      display: flex;
+      flex-direction: column;
+      gap: 0.15rem;
+      min-width: 0;
+    }
+
+    .recent-film-title {
+      font-family: var(--sans);
+      font-size: 0.68rem;
+      font-weight: 600;
+      color: var(--main-ink-1);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .recent-film-rating {
+      font-size: 0.6rem;
+      color: #c9a84c;
+      letter-spacing: 0.05em;
+      line-height: 1;
+    }
+
+    .recent-film-meta {
+      font-family: var(--mono);
+      font-size: 0.55rem;
+      color: var(--main-ink-3);
+      letter-spacing: 0.04em;
+    }
+
     /* Experience items */
     .exp-item {
       padding: 0.55rem 0.7rem;
@@ -1942,6 +2008,28 @@
                 <li>Studied key business drivers, economic factors, and market shares to produce valuation hypotheses</li>
               </ul></div>
             </div>
+          </div>
+        </div>
+
+        <div>
+          <div class="panel-section-label">Recent Film Reviews</div>
+          <div class="recent-films">
+            {% assign all_reviews = site.pages | where: "layout", "review" %}
+            {% assign sorted_reviews = all_reviews | sort: "year" | reverse %}
+            {% assign count = 0 %}
+            {% for review in sorted_reviews %}{% if review.year and count < 3 %}
+            <a href="{{ review.url }}" class="recent-film-card" target="_blank">
+              {% if review.poster %}
+              <img src="{{ review.poster }}" alt="{{ review.film_title }}" class="recent-film-poster" loading="lazy">
+              {% endif %}
+              <div class="recent-film-info">
+                <span class="recent-film-title">{{ review.film_title }}</span>
+                <span class="recent-film-rating">{{ review.rating }}</span>
+                <span class="recent-film-meta">{{ review.director }} · {{ review.year }}</span>
+              </div>
+            </a>
+            {% assign count = count | plus: 1 %}
+            {% endif %}{% endfor %}
           </div>
         </div>
 

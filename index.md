@@ -1,3 +1,5 @@
+---
+---
 <div class="intro-header">
   <img src="/images/professional_photo.jpg" alt="Shaoxiong (Steven) Yuan" class="headshot">
   <div class="intro-header-text">
