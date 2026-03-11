@@ -88,9 +88,9 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 
 | Film | Director | Rating |
 | ---- | -------- | ------ |
+| [*Hoppers*](/reviews/hoppers){:target="_blank"} | Jon Negroni | ★★★★ |
 | [*Hamnet*](/reviews/hamnet){:target="_blank"} | Chloé Zhao | ★★★ |
 | [*GOAT*](/reviews/goat){:target="_blank"} | Chris Miller | ★★★½ |
-| [*How to Make a Killing*](/reviews/how-to-make-a-killing){:target="_blank"} | John Patton Ford | ★★★ |
 
 </div>
 

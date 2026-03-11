@@ -1,9 +1,9 @@
 ---
 layout: review
-title: "Hamnet (2026) — Review"
+title: "Hamnet (2025) — Review"
 film_title: "Hamnet"
 director: "Chloé Zhao"
-year: 2026
+year: 2025
 date: 2026-03-11
 genre: "Drama · Historical · Literary Adaptation"
 rating: "★★★"
@@ -11,7 +11,7 @@ tagline: "The grief is real. The journey to it is slow."
 poster: "/images/poster-hamnet.jpg"
 ---
 
-**Hamnet** ★★★ 2026
+**Hamnet** ★★★ 2025
 
 *The grief is real. The journey to it is slow.*
 
