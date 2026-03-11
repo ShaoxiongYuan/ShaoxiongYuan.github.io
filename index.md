@@ -98,6 +98,22 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 
 <div class="content-section" markdown="1">
 
+## *Tech Tidbits / Stay with the Trend* {#tech-tidbits}
+
+Occasional reports and opinions on the hottest things happening in the market — emerging tech, viral projects, and the tools reshaping how we work.
+
+[**→ View All Tech Tidbits**](/tech-tidbits)
+
+| Post | Category | Date |
+| ---- | -------- | ---- |
+| [*OpenClaw — The Autonomous AI Agent Redefining How We Work*](/tech-tidbits/openclaw){:target="_blank"} | AI Agents | Mar 2026 |
+
+</div>
+
+---
+
+<div class="content-section" markdown="1">
+
 ## *University Course Materials — UCLA* {#ucla-coursework}
 
 The [UCLA Anderson Master of Financial Engineering (MFE)](https://www.anderson.ucla.edu/degrees/master-of-financial-engineering){:target="_blank"} is a STEM-designated, full-time program combining rigorous quantitative finance, machine learning, and asset management. The curriculum spans financial engineering, derivatives pricing, risk management, and data-driven investing. Full details available at the [curriculum page](https://www.anderson.ucla.edu/degrees/master-of-financial-engineering/mfe-admit-central/curriculum-and-academics){:target="_blank"}. Course materials from my cohort are shared below.
