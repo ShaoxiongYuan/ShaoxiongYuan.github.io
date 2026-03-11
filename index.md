@@ -64,9 +64,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [Mar 10, 2026](/morning-notes/2026-03-10-trump-rally-orcl-cpi){:target="_blank"} | *One Tweet, +1,500 Dow Points. Don't Trust the Rally.* |
+| [Mar 9, 2026](/morning-notes/2026-03-09-oil-shock-week2-violent-monday){:target="_blank"} | *Oil Shock Enters Week 2 — Brace for a Violent Monday Open* |
 | [Mar 7, 2026](/morning-notes/2026-03-07-stagflation-confirmed-week-review){:target="_blank"} | *Week-in-Review \| Stagflation Confirmed — The Worst Week of 2026 Just Reset Every Narrative* |
-| [Mar 6, 2026](/morning-notes/2026-03-06-nfp-mrvl-brent85){:target="_blank"} | *All Eyes on NFP — Marvell Completes the AI Semi Hat-Trick, Brent Breaks $85* |
-| [Mar 5, 2026](/morning-notes/2026-03-05-selective-rebound-avgo-cost-oil){:target="_blank"} | *Selective Rebound, Not Broad Recovery — AVGO & COST Beat, Oil Surges to 13-Month High* |
 
 ### Industry Analysis
 
@@ -88,9 +88,9 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 
 | Film | Director | Rating |
 | ---- | -------- | ------ |
+| [*Hoppers*](/reviews/hoppers){:target="_blank"} | Jon Negroni | ★★★★ |
+| [*Hamnet*](/reviews/hamnet){:target="_blank"} | Chloé Zhao | ★★★ |
 | [*GOAT*](/reviews/goat){:target="_blank"} | Chris Miller | ★★★½ |
-| [*How to Make a Killing*](/reviews/how-to-make-a-killing){:target="_blank"} | John Patton Ford | ★★★ |
-| [*The Bride*](/reviews/the-bride){:target="_blank"} | Maggie Gyllenhaal | ★★½ |
 
 </div>
 
