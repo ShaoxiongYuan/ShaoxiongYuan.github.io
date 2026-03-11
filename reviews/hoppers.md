@@ -1,9 +1,9 @@
 ---
 layout: review
-title: "Hoppers (2025) — Review"
+title: "Hoppers (2026) — Review"
 film_title: "Hoppers"
 director: "Jon Negroni"
-year: 2025
+year: 2026
 date: 2026-03-11
 genre: "Animation · Family · Adventure"
 rating: "★★★★"
@@ -11,9 +11,6 @@ tagline: "What if the best way to save the world is to become part of it?"
 poster: "/images/poster-hoppers.jpg"
 ---
 
-**Hoppers** ★★★★
-
-*What if the best way to save the world is to become part of it?*
 
 Among the best animations I have seen in recent memory, *Hoppers* belongs in the same conversation as *The Wild Robot*, films that earn their emotional moments rather than manufacturing them, and carry a meaning that feels genuinely relevant to the world outside the theatre. Pixar has had an uneven stretch in recent years, but this is a full, confident return to form.
 

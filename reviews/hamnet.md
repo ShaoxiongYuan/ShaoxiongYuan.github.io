@@ -11,9 +11,6 @@ tagline: "The grief is real. The journey to it is slow."
 poster: "/images/poster-hamnet.jpg"
 ---
 
-**Hamnet** ★★★ 2025
-
-*The grief is real. The journey to it is slow.*
 
 There is a version of *Hamnet* that feels like one of the great films about loss. The final scene is evidence of that version existing, briefly and fully, before the credits roll. Agnes sits in the theatre watching her dead son's father perform his grief on stage, encoded in the play that will outlive all of them. Her face moves through puzzlement, anger, relief and finally something that opens into a smile, and the emotional architecture of that progression, the realisation that Will was never cold or absent but simply grieving sideways, through art and metaphor rather than tears and words, is genuinely devastating. The moment where Hamnet reaches out his hand and everyone holds it carries the kind of quiet weight that reminds you what cinema can do when everything aligns.
 
