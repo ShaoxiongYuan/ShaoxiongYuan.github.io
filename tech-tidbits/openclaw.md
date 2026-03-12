@@ -7,13 +7,8 @@ category: "AI Agents"
 date: 2026-03-11
 read_time: "18 min read"
 summary: "OpenClaw is the fastest-growing open-source AI project in recorded history, amassing over 214,000 GitHub stars in under four months. This report covers what it is, why it went viral, and what it means for the future of autonomous AI."
-head_image: "/images/tech-openclaw.svg"
+head_image: "/images/tech-openclaw.jpg"
 permalink: /tech-tidbits/openclaw/
-badges:
-  - { label: "Open Source", active: true }
-  - { label: "AI Agents", active: true }
-  - { label: "Autonomous Systems", active: false }
-  - { label: "Security Risks", active: false }
 ---
 
 ## Executive Summary
@@ -46,7 +41,7 @@ The project launched in November 2025 as "Clawdbot", a pun on Anthropic's Claude
 
 The numbers tell a remarkable story. Within 24 hours of launching, the GitHub repository had accumulated 9,000 stars. By the time the project went viral in late January 2026, it had 60,000 stars within 72 hours of that peak moment. At the time of this report, it surpassed 214,000 stars — a growth trajectory faster than any major open-source infrastructure project in history.
 
-![OpenClaw GitHub Star Growth](https://github.com/user-attachments/assets/a2378433-267e-4181-85ea-3b6f3d87df28)
+![OpenClaw GitHub Star Growth](/images/openclaw-star-growth.png)
 
 *Figure 1: OpenClaw GitHub star accumulation, Nov 2025 – Mar 2026. Viral inflection point in late January 2026 was triggered by the Moltbook project going viral simultaneously.*
 
@@ -58,7 +53,7 @@ The February 14 announcement that Steinberger would join OpenAI and that OpenAI 
 
 ### 3.1 Feature Comparison
 
-![Feature Radar](https://github.com/user-attachments/assets/aafd3a5d-d78b-48e9-a1c9-b540665d8e5e)
+![Feature Radar](/images/openclaw-feature-radar.png)
 
 *Figure 2: Feature radar comparing OpenClaw against major AI assistants. OpenClaw leads on autonomy, privacy, persistent memory, and extensibility; it trails on ease of initial setup.*
 
@@ -86,7 +81,7 @@ Two features embody this shift most powerfully:
 
 The following section covers the most significant use cases being actively run by the OpenClaw community. These are not theoretical demonstrations. Instead, they are production workflows running around the clock on hardware ranging from Mac Minis to Hetzner cloud servers.
 
-![Use Case Adoption](https://github.com/user-attachments/assets/fed384b9-e160-4920-89f3-eba3e4901dd0)
+![Use Case Adoption](/images/openclaw-use-cases.png)
 
 *Figure 3: OpenClaw use case adoption rates from a February 2026 community survey of 100+ active users. Email management and morning briefings dominate early adoption.*
 
@@ -165,7 +160,7 @@ For regulated industries (financial services, healthcare, legal), OpenClaw in it
 
 ## 7. Timeline
 
-![Timeline](https://github.com/user-attachments/assets/3ca0542a-413a-40df-b468-b0f00d04669d)
+![Timeline](/images/openclaw-timeline.png)
 
 *Figure 4: Key milestones in OpenClaw's development from November 2025 to March 2026.*
 
