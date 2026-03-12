@@ -88,9 +88,9 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 
 | Film | Director | Rating |
 | ---- | -------- | ------ |
+| [*KPop Demon Hunters*](/reviews/kpop-demon-hunters){:target="_blank"} | Chris Appelhans | ★★★½ |
 | [*Hoppers*](/reviews/hoppers){:target="_blank"} | Jon Negroni | ★★★★ |
 | [*Hamnet*](/reviews/hamnet){:target="_blank"} | Chloé Zhao | ★★★ |
-| [*GOAT*](/reviews/goat){:target="_blank"} | Chris Miller | ★★★½ |
 
 </div>
 
