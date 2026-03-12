@@ -67,7 +67,7 @@ Wednesday delivered the market's third consecutive daily loss. Brent closed at $
 | Asset | Level | Day Chg | WTD Chg | Note |
 |---|---|---|---|---|
 | WTI Crude | **$95.73** | **+9.7%** | **+40%** | Tanker attacks o/n pushing toward $100 again |
-| Brent Crude | **$100.46** | **+9.2%** | **+45%** | First close >$100 since Aug 2022; supply shock |
+| Brent Crude | **$100.46** | **+9.2%** | **+45%** | First close >$100 since August 2022; supply shock |
 | VIX | **27.40** | **+1.2pt** | **+83%*** | *vs pre-conflict; fear gauge re-elevated |
 | Gold | **$3,208** | **+0.4%** | **+3.2%** | New ATH territory; safe-haven bid holding firm |
 | 10-Yr Yield | **4.21%** | **+4 bps** | **+14 bps** | Rates rising on inflation fear not growth |
