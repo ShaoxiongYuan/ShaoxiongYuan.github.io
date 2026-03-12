@@ -64,9 +64,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [Mar 11, 2026](/morning-notes/2026-03-11-orcl-delivers-cpi-fog-of-peace){:target="_blank"} | *ORCL Delivers. CPI Is a One-Month Pass. The Fog of Peace Remains.* |
 | [Mar 10, 2026](/morning-notes/2026-03-10-trump-rally-orcl-cpi){:target="_blank"} | *One Tweet, +1,500 Dow Points. Don't Trust the Rally.* |
 | [Mar 9, 2026](/morning-notes/2026-03-09-oil-shock-week2-violent-monday){:target="_blank"} | *Oil Shock Enters Week 2 — Brace for a Violent Monday Open* |
-| [Mar 7, 2026](/morning-notes/2026-03-07-stagflation-confirmed-week-review){:target="_blank"} | *Week-in-Review \| Stagflation Confirmed — The Worst Week of 2026 Just Reset Every Narrative* |
 
 ### Industry Analysis
 
