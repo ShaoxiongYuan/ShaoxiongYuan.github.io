@@ -21,7 +21,7 @@ This report covers: what OpenClaw is and how it works, why it achieved viral ado
 
 ## 1. What Is OpenClaw?
 
-OpenClaw is a self-hosted, open-source AI agent runtime. You install it on your own machine — a Mac Mini, a VPS, a Raspberry Pi, or any Linux system — and it runs as a persistent background process. Unlike a chatbot that resets after every conversation, OpenClaw maintains memory across sessions and continues working on tasks while you are doing something else.
+OpenClaw is a self-hosted, open-source AI agent runtime. You install it on your own machine, a Mac Mini, a VPS, a Raspberry Pi, or any Linux system, and it runs as a persistent background process. Unlike a chatbot that resets after every conversation, OpenClaw maintains memory across sessions and continues working on tasks while you are doing something else.
 
 Steinberger himself describes it as "the AI that actually does things." You can tell it to clear your inbox of spam and summarize urgent messages, deploy the latest commit to staging, or schedule test drives with car dealerships, and it handles the execution end-to-end.
 
@@ -29,13 +29,13 @@ Steinberger himself describes it as "the AI that actually does things." You can 
 
 OpenClaw runs as a single Node.js process on your machine called the Gateway. The Gateway is the central control plane, managing every messaging platform connection simultaneously. When a message arrives from WhatsApp, Telegram, Slack, Discord, or any other supported channel, the Gateway routes it to the appropriate agent session, waits for a response, and returns it through the correct channel.
 
-By default, the Gateway binds only to localhost (127.0.0.1:18789), meaning nothing outside your machine can reach it — a deliberate security choice. Remote access requires explicitly configuring SSH tunnels or Tailscale.
+By default, the Gateway binds only to localhost (127.0.0.1:18789), meaning nothing outside your machine can reach it, which is a deliberate security choice. Remote access requires explicitly configuring SSH tunnels or Tailscale.
 
 OpenClaw is model-agnostic: it integrates with Claude, GPT-4o, Gemini, DeepSeek, and local models via Ollama. The LLM is the "brain"; OpenClaw is the hands, memory, and connective tissue linking that brain to the outside world.
 
 ### 1.2 The Name History
 
-The project launched in November 2025 as "Clawdbot", a pun on Anthropic's Claude. Anthropic's legal team sent a trademark complaint, leading to a 5am Discord community brainstorm that produced "Moltbot" (lobsters molt their shells to grow). Three days later, after Moltbot "never quite rolled off the tongue," a trademark search confirmed OpenClaw was clear, and the name stuck. The mascot — a lobster — remains throughout.
+The project launched in November 2025 as "Clawdbot", a pun on Anthropic's Claude. Anthropic's legal team sent a trademark complaint, leading to a 5am Discord community brainstorm that produced "Moltbot" (lobsters molt their shells to grow). Three days later, after Moltbot "never quite rolled off the tongue," a trademark search confirmed OpenClaw was clear, and the name stuck. The mascot, a lobster, remains throughout.
 
 ## 2. Growth & Viral Adoption
 
@@ -45,7 +45,7 @@ The numbers tell a remarkable story. Within 24 hours of launching, the GitHub re
 
 *Figure 1: OpenClaw GitHub star accumulation, Nov 2025 – Mar 2026. Viral inflection point in late January 2026 was triggered by the Moltbook project going viral simultaneously.*
 
-The user base estimates range from 300,000 to 400,000 active users as of February 2026, with security researchers at Bitsight observing over 30,000 internet-exposed instances between January 27 and February 8, 2026 alone — which is just a fraction of the total deployments, since most are correctly configured to remain localhost-only.
+The user base estimates range from 300,000 to 400,000 active users as of February 2026, with security researchers at Bitsight observing over 30,000 internet-exposed instances between January 27 and February 8, 2026 alone, which is just a fraction of the total deployments, since most are correctly configured to remain localhost-only.
 
 The February 14 announcement that Steinberger would join OpenAI and that OpenAI would back the project's open-source foundation validated the concept at the highest level and accelerated adoption further.
 
@@ -75,7 +75,7 @@ The key distinction is not feature parity. It is the fundamental mode of operati
 Two features embody this shift most powerfully:
 
 - **Cron Jobs:** Scheduled tasks you define once and never think about again. "Every night at 1am, scan today's new Twitter followers, identify those with a business in their bio, research them on LinkedIn, draft a personalized DM, and send it." It runs on a timer whether you remember or not.
-- **Heartbeats:** Every 30 minutes (or at any interval), OpenClaw wakes itself up, runs through a defined checklist, and decides whether anything requires your immediate attention — using the full context of your conversation history. No prompt from you required.
+- **Heartbeats:** Every 30 minutes (or at any interval), OpenClaw wakes itself up, runs through a defined checklist, and decides whether anything requires your immediate attention, using the full context of your conversation history. No prompt from you required.
 
 ## 4. Real-World Use Cases & Examples
 
@@ -89,7 +89,7 @@ The following section covers the most significant use cases being actively run b
 
 The most popular entry-point use case. Typically scheduled at 7–8 AM, the agent queries calendars, weather services, email inboxes, RSS feeds, GitHub trending repos, and Hacker News. It synthesizes all of this and delivers a single formatted message to Telegram or WhatsApp. The briefing adapts dynamically: a light schedule produces a short summary; a packed day produces detailed prep notes for each meeting.
 
-One widely shared community example delivers: weather, weekly objectives, health stats (from Whoop), meeting schedule, trending topics in the user's industry, recommended reading based on current goals, and a quote from a book in their library — all before the user opens their laptop.
+One widely shared community example delivers: weather, weekly objectives, health stats (from Whoop), meeting schedule, trending topics in the user's industry, recommended reading based on current goals, and a quote from a book in their library, which are all before the user opens their laptop.
 
 ### 4.2 Email Management Agent
 
@@ -144,11 +144,11 @@ OpenClaw's extensibility is one of its greatest strengths. The "skills" system a
 
 Notable skill categories include: productivity integrations (Notion, Obsidian, Things 3, Todoist), communication platforms (all major messaging apps), developer tools (GitHub, Sentry, Linear, Jira), financial data (stock APIs, crypto exchanges, prediction markets), smart home (Home Assistant, Philips Hue, Sonos), health (Whoop, Apple Health, Garmin), content (social media schedulers, RSS aggregators, SEO tools), and security (Dashlane credential manager, quantum-resistant encryption via CIFER SDK).
 
-OpenClaw also partnered with VirusTotal to provide automated security scanning of community-contributed skills — a response to Cisco's discovery of a malicious skill performing data exfiltration without user awareness.
+OpenClaw also partnered with VirusTotal to provide automated security scanning of community-contributed skills, a response to Cisco's discovery of a malicious skill performing data exfiltration without user awareness.
 
 ## 6. Security Risks & Criticisms
 
-OpenClaw's power comes with significant security surface area. The same broad access that makes it useful — email accounts, calendars, terminal commands, API keys, messaging platforms — makes misconfigured or exposed instances extremely dangerous. The key risk vectors are:
+OpenClaw's power comes with significant security surface area. The same broad access that makes it useful, email accounts, calendars, terminal commands, API keys, messaging platforms, makes misconfigured or exposed instances extremely dangerous. The key risk vectors are:
 
 - **Exposed Instances:** Bitsight observed over 30,000 internet-exposed OpenClaw instances between January 27 and February 8, 2026. Many users inadvertently exposed their Gateway to the public internet. Since OpenClaw has access to credentials and can execute arbitrary commands, a publicly accessible instance is equivalent to giving an attacker a fully authenticated desktop session.
 - **Prompt Injection Attacks:** Because OpenClaw processes untrusted external content (emails, web pages, documents), malicious instructions can be embedded in that content to hijack the agent's behavior. Cisco's AI security research team called this OpenClaw's most systemic vulnerability.
@@ -170,7 +170,7 @@ OpenClaw's trajectory points toward several near-term developments:
 
 - **OpenAI Integration:** With Steinberger joining OpenAI to lead personal agents, OpenClaw's architecture will likely inform future OpenAI products. The open-source foundation model mirrors Google's Chromium strategy — maintaining community momentum while enabling commercial development on top.
 - **Institutional-Grade Security:** The current security gap is a known problem with active community investment. ClawAudit (automated security auditing) and improved VirusTotal integration are in active development.
-- **Government & Policy Interest:** On March 8, 2026, the AI Bureau of Shenzhen, China released a draft policy for public comment proposing support measures specifically for OpenClaw deployment — an indication that autonomous agent frameworks are entering formal regulatory consideration globally.
+- **Government & Policy Interest:** On March 8, 2026, the AI Bureau of Shenzhen, China released a draft policy for public comment proposing support measures specifically for OpenClaw deployment, an indication that autonomous agent frameworks are entering formal regulatory consideration globally.
 - **Multi-Agent Standardization:** The ad-hoc multi-agent patterns the community has built are converging toward standardized "agent team" templates, reducing setup friction for new users.
 - **Enterprise Forks:** The open-source nature of OpenClaw means enterprise-grade forks with proper compliance tooling are inevitable. NEAR AI has already launched a Trusted Execution Environment hosting product for OpenClaw targeting security-conscious users.
 
