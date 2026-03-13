@@ -49,7 +49,7 @@ tags:
   - Trade Ideas
 ---
 
-Wednesday delivered the market's third consecutive daily loss. Brent closed at $100.46, back above $100 for the first time since August 2022, after Iranian forces attacked commercial vessels in the Strait of Hormuz and Iran's new Supreme Leader said the Strait "should remain closed as a tool to pressure the enemy." Tuesday's Trump-driven relief rally is fully unwound. Goldman raised its Hormuz disruption assumption from 10 to 21 days and revised three macro forecasts: faster inflation, slower growth, higher unemployment. Tech is slipping as growth multiples compress under stagflation. ADBE reports tonight — the last major tech earnings of the week. Watch it as a read on AI software monetisation in this environment.
+Wednesday delivered the market's third consecutive daily loss. Brent closed at $100.46, back above $100 for the first time since August 2022, after Iranian forces attacked commercial vessels in the Strait of Hormuz and Iran's new Supreme Leader said the Strait "should remain closed as a tool to pressure the enemy." Tuesday's Trump-driven relief rally is fully unwound. Goldman raised its Hormuz disruption assumption from 10 to 21 days and revised three macro forecasts: faster inflation, slower growth, higher unemployment. Tech is slipping as growth multiples compress under stagflation. ADBE reports tonight, which is the last major tech earnings of the week. Watch it as a read on AI software monetization in this environment.
 
 ## Market Snapshot | Wed Close + Thursday Pre-Market ~06:45 ET
 
@@ -73,23 +73,23 @@ Wednesday delivered the market's third consecutive daily loss. Brent closed at $
 | 10-Yr Yield | **4.21%** | **+4 bps** | **+14 bps** | Rates rising on inflation fear not growth |
 | USD Index | **104.8** | **+0.3%** | **+1.1%** | Dollar bid as flight-to-safety dominates |
 
-## War Implications: Oil Back at $100 — What Changed Overnight
+## War Implications: Oil Back at $100. What Changed Overnight
 
 ⚠️ **ESCALATION** Iran Attacks Shipping + New Supreme Leader Hardens Hormuz Stance
 
-Wednesday's oil surge was driven by two events: (1) Iranian forces attacked several commercial tankers near the Strait of Hormuz, the first direct strikes on civilian shipping since the conflict began; (2) Iran's new Supreme Leader Mojtaba Khamenei stated the Hormuz closure is "a tool to pressure the enemy" — ruling out any near-term reopening. This completely reverses Tuesday's peace narrative. The Geneva backchannel talks are now effectively moot.
+Wednesday's oil surge was driven by two events: (1) Iranian forces attacked several commercial tankers near the Strait of Hormuz, the first direct strikes on civilian shipping since the conflict began; (2) Iran's new Supreme Leader Mojtaba Khamenei stated the Hormuz closure is "a tool to pressure the enemy", ruling out any near-term reopening. This completely reverses Tuesday's peace narrative. The Geneva backchannel talks are now effectively moot.
 
 🏦 **GOLDMAN SACHS** Raises Hormuz Disruption Assumption to 21 Days; Three Macro Downgrades
 
-Goldman Sachs revised its oil forecast (Q4 Brent to $71 from $66; Q4 WTI to $67 from $62) and updated three macro forecasts: (1) Faster inflation — March CPI now tracking 3.3-3.5%; (2) Slower growth — Q2 US GDP cut to 0.8% from 1.4%; (3) Higher unemployment — Q4 UE rate revised to 4.7% from 4.5%. The bank now models 21 days of minimal Hormuz flow (10% of normal) followed by a 30-day gradual recovery. Commodity futures market is pricing stabilisation no earlier than August 2027.
+Goldman Sachs revised its oil forecast (Q4 Brent to $71 from $66; Q4 WTI to $67 from $62) and updated three macro forecasts: (1) Faster inflation: March CPI now tracking 3.3-3.5%; (2) Slower growth: Q2 US GDP cut to 0.8% from 1.4%; (3) Higher unemployment: Q4 UE rate revised to 4.7% from 4.5%. The bank now models 21 days of minimal Hormuz flow (10% of normal) followed by a 30-day gradual recovery. Commodity futures market is pricing stabilisation no earlier than August 2027.
 
-- **IEA emergency reserve release:** The IEA announced a coordinated strategic petroleum reserve release from member nations on Wednesday. Initial market reaction was muted — tanker attack news outweighed the supply relief signal within hours.
+- **IEA emergency reserve release:** The IEA announced a coordinated strategic petroleum reserve release from member nations on Wednesday. Initial market reaction was muted. Tanker attack news outweighed the supply relief signal within hours.
 - **Stagflation arithmetic is worsening.** WTI +40% WTD. Every $10 move in oil = ~50bps annualised inflation headwind. At current levels, we estimate the oil shock alone adds 1.8-2.0 percentage points to headline CPI by April. Combined with the February 2.4% base, we could see March CPI at 3.8-4.2%.
-- **Policy paralysis intensifies.** The Fed cannot hike into collapsing labour demand. It cannot cut into $100 oil. The 10-yr yield at 4.21% reflects the market's confusion — rates are rising on inflation fear, not on growth. That is a toxic combination for equity multiples.
+- **Policy paralysis intensifies.** The Fed cannot hike into collapsing labour demand. It cannot cut into $100 oil. The 10-yr yield at 4.21% reflects the market's confusion. Rates are rising on inflation fear, not on growth. That is a toxic combination for equity multiples.
 
 ## Tech Slippage — The Slow Bleed Accelerates
 
-The ORCL +10% post-earnings bounce on Tuesday provided a temporary halo for tech, but it faded by Wednesday close. The Nasdaq's +0.08% print is misleading — under the surface, software and semiconductor names are rolling over as the market re-prices the growth multiple in a stagflation environment. High-multiple SaaS and cloud names are particularly vulnerable: if rates stay elevated and growth slows, the discount rate goes up and terminal values compress simultaneously.
+The ORCL +10% post-earnings bounce on Tuesday provided a temporary halo for tech, but it faded by Wednesday close. The Nasdaq's +0.08% print is misleading. Under the surface, software and semiconductor names are rolling over as the market re-prices the growth multiple in a stagflation environment. High-multiple SaaS and cloud names are particularly vulnerable: if rates stay elevated and growth slows, the discount rate goes up and terminal values compress simultaneously.
 
 | Name | WTD Move | Segment | Driver of Weakness |
 |---|---|---|---|
@@ -153,7 +153,7 @@ The pattern emerging this week: AI infrastructure names (NVDA, MRVL, AVGO) are h
 ### ▲ HOLD / ADD ON DIPS — XOM / CVX — Integrated Energy
 {: .trade-long}
 
-Brent at $100.46 and WTI back toward $100 makes integrated energy the only sector with positive earnings revisions in the market right now. XOM and CVX have balance sheet strength, dividend cover, and direct Brent/WTI upside. Sector has more room: XOP (E&P) still has exploration upside. Trim if a genuine Hormuz reopening headline breaks — that's the stop signal.
+Brent at $100.46 and WTI back toward $100 makes integrated energy the only sector with positive earnings revisions in the market right now. XOM and CVX have balance sheet strength, dividend cover, and direct Brent/WTI upside. Sector has more room: XOP (E&P) still has exploration upside. Trim if a genuine Hormuz reopening headline breaks. That's the stop signal.
 
 *Risk: Ceasefire + Hormuz reopening collapses oil $15-20 in a session. Maintain trailing stops.*
 
