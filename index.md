@@ -64,9 +64,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [Mar 13, 2026](/morning-notes/2026-03-13-new-2026-lows-103-brent-adbe-ceo-exit){:target="_blank"} | *New 2026 Lows. $103 Brent. ADBE −9% on CEO Exit. The Week Ends Worse Than It Started.* |
+| [Mar 12, 2026](/morning-notes/2026-03-12-oil-back-above-100-three-straight-losses){:target="_blank"} | *Oil Back Above $100. Three Straight Losses. Brent at $100.46. This Tape Has No Floor.* |
 | [Mar 11, 2026](/morning-notes/2026-03-11-orcl-delivers-cpi-fog-of-peace){:target="_blank"} | *ORCL Delivers. CPI Is a One-Month Pass. The Fog of Peace Remains.* |
-| [Mar 10, 2026](/morning-notes/2026-03-10-trump-rally-orcl-cpi){:target="_blank"} | *One Tweet, +1,500 Dow Points. Don't Trust the Rally.* |
-| [Mar 9, 2026](/morning-notes/2026-03-09-oil-shock-week2-violent-monday){:target="_blank"} | *Oil Shock Enters Week 2 — Brace for a Violent Monday Open* |
 
 ### Industry Analysis
 
