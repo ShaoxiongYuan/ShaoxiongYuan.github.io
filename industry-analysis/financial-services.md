@@ -260,3 +260,22 @@ The financial services sector's bifurcation between well-capitalized traditional
 |**Warehouse Line**|A revolving credit facility extended by a bank to a fund to finance loan origination before permanent placement. Creates direct bank exposure to private credit stress.|
 |**NAV (Net Asset Value)**|Reported book value of a BDC or private fund, determined by mark-to-model valuation of illiquid assets. Accuracy is a central debate during stress periods.|
 |**Redemption Gate**|A contractual provision that limits investor withdrawals (typically to 5–10% per quarter or 20–25% per year) when redemption requests exceed a threshold. Triggers signal fund-level stress.|
+
+### Sources & References
+
+- **McKinsey Global Banking Annual Review 2025:** mckinsey.com/industries/financial-services
+- **AIMA — Global Private Credit Market Reaches $3.5 Trillion:** aima.org press release
+- **Morgan Stanley Private Credit Outlook ($5T by 2029):** morganstanley.com/ideas/private-credit
+- **Federal Reserve Bank of Boston — Could Private Credit Pose Systemic Risk?:** bostonfed.org
+- **KBRA Private Credit Q3 2025 Middle Market Borrower Compendium:** kbra.com
+- **CNBC — Blue Owl / Private Credit Stress:** cnbc.com private credit stress
+- **Bloomberg — Blue Owl Redemption Halt Intensifies Private Credit Fears:** bloomberg.com
+- **FDIC 2025 Risk Review:** fdic.gov/analysis/2025-risk-review.pdf
+
+### Important Disclosures
+
+This report is prepared for informational and research purposes only and does not constitute investment advice or a solicitation. All market size figures, financial data, and estimates are sourced from publicly available materials as of March 2026. Estimates and projections are independent analysis and may differ materially from outcomes. Private credit risk analysis draws on publicly available regulatory and industry research. This is not legal, regulatory, or financial advice. Investors should conduct their own due diligence.
+
+---
+
+*This analysis is produced for informational and research purposes only. For further information, visit [shaoxiongyuan.github.io](https://shaoxiongyuan.github.io/){:target="_blank"}.*
