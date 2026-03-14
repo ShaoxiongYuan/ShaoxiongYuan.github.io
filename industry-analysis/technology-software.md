@@ -9,7 +9,7 @@ permalink: /industry-analysis/technology-software/
 badges:
   - { label: "Semiconductors", active: false }
   - { label: "Cloud & SaaS", active: false }
-  - { label: "AI Infrastructure", active: true }
+  - { label: "AI Infrastructure", active: false }
   - { label: "Platform Economics", active: false }
   - { label: "Cybersecurity", active: false }
 ---
