@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@300;400;500;600&family=DM+Sans:wght@300;400;500;600;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=DM+Sans:wght@300;400;500;600;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -29,7 +29,7 @@
       --accent-bg: rgba(37,99,235,0.05);
       --sans:      'Inter', system-ui, sans-serif;
       --serif:     'Libre Baskerville', Georgia, serif;
-      --mono:      'DM Sans', sans-serif;
+      --accent-sans:      'DM Sans', sans-serif;
     }
 
     html { font-size: 16px; scroll-behavior: smooth; }
@@ -52,7 +52,7 @@
       justify-content: space-between;
     }
     .topbar-brand {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.7rem;
       font-weight: 500;
       letter-spacing: 0.12em;
@@ -61,7 +61,7 @@
     .topbar-brand strong { color: #fff; font-weight: 500; }
     .topbar-nav { display: flex; gap: 1.75rem; }
     .topbar-nav a {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.68rem;
       font-weight: 500;
       letter-spacing: 0.1em;
@@ -94,7 +94,7 @@
       position: relative;
     }
     .hero-kicker {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.62rem;
       font-weight: 500;
       letter-spacing: 0.28em;
@@ -135,14 +135,14 @@
       border-top: 1px solid rgba(255,255,255,0.08);
     }
     .hero-stat-num {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 1.6rem;
       font-weight: 600;
       color: #fff;
       line-height: 1;
     }
     .hero-stat-label {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.58rem;
       font-weight: 500;
       letter-spacing: 0.2em;
@@ -175,7 +175,7 @@
       color: var(--navy);
     }
     .cal-month-count {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.65rem;
       font-weight: 500;
       letter-spacing: 0.15em;
@@ -201,7 +201,7 @@
       border-radius: 6px 6px 0 0;
     }
     .cal-dow {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.6rem;
       font-weight: 600;
       letter-spacing: 0.22em;
@@ -231,7 +231,7 @@
       background: #f8f8f8;
     }
     .cal-day-num {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.72rem;
       font-weight: 500;
       color: var(--ink-4);
@@ -346,7 +346,7 @@
       transform: none;
     }
     .pop-date {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.58rem;
       font-weight: 500;
       letter-spacing: 0.18em;
@@ -368,7 +368,7 @@
       gap: 0.25rem;
     }
     .pop-tag {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.52rem;
       font-weight: 500;
       letter-spacing: 0.05em;
@@ -389,7 +389,7 @@
       margin-bottom: 1.25rem;
     }
     .recent-label {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.62rem;
       font-weight: 600;
       letter-spacing: 0.22em;
@@ -422,7 +422,7 @@
       transform: translateY(-2px);
     }
     .note-card-date {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.6rem;
       font-weight: 500;
       letter-spacing: 0.18em;
@@ -456,7 +456,7 @@
       gap: 0.3rem;
     }
     .note-card-tag {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.55rem;
       font-weight: 500;
       letter-spacing: 0.06em;
@@ -478,7 +478,7 @@
       margin: 0 auto;
     }
     .page-footer a {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.65rem;
       font-weight: 500;
       letter-spacing: 0.1em;
@@ -489,7 +489,7 @@
     }
     .page-footer a:hover { color: var(--navy); }
     .footer-brand {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.62rem;
       color: var(--rule-2);
       letter-spacing: 0.1em;
