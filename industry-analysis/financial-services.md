@@ -8,16 +8,10 @@ summary: "Comprehensive analysis of the global financial services sector coverin
 permalink: /industry-analysis/financial-services/
 badges:
   - { label: "Banking & Lending", active: false }
-  - { label: "Private Credit", active: true }
+  - { label: "Private Credit", active: false }
   - { label: "Asset Management", active: false }
   - { label: "Insurance", active: false }
   - { label: "Payments & Fintech", active: false }
----
-
-|~$36T|$3.5T|**5.8%**|$593B|**2.1x**|$12B+|
-|-|-|-|-|-|-|
-|Global FS Market (2025)|Private Credit AUM|Private Credit Default Rate|2024 Deployment (Record)|Avg. Priv. Credit Coverage|BDC Maturities Due 2026|
-
 ---
 
 ## Executive Summary
