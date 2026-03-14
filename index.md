@@ -70,7 +70,12 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 ### Industry Analysis
 
-Sector-level deep dives covering market structure, competitive dynamics, and thematic trends — coming soon.
+Sector-level deep dives covering market structure, competitive dynamics, and thematic trends.
+
+| Sector | Focus |
+|-|-|
+| [Technology & Software](/industry-analysis/technology-software/) | Semiconductors, AI infrastructure, cloud, platform economics |
+| [Financial Services](/industry-analysis/financial-services/) | Banking, private credit risk, asset management, fintech |
 
 [**→ View Industry Analysis**](/industry-analysis)
 
