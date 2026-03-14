@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@300;400;500;600&family=DM+Sans:wght@300;400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=DM+Sans:wght@300;400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -33,7 +33,7 @@
       --amber-bg:  rgba(217,119,6,0.06);
       --sans:      'Inter', system-ui, sans-serif;
       --serif:     'Lora', Georgia, serif;
-      --mono:      'DM Sans', sans-serif;
+      --accent-sans:      'DM Sans', sans-serif;
     }
 
     html { font-size: 16px; scroll-behavior: smooth; }
@@ -58,7 +58,7 @@
       justify-content: space-between;
     }
     .topbar-brand {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.7rem;
       font-weight: 500;
       letter-spacing: 0.12em;
@@ -67,7 +67,7 @@
     .topbar-brand strong { color: #fff; font-weight: 500; }
     .topbar-nav { display: flex; gap: 1.75rem; }
     .topbar-nav a {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.68rem;
       font-weight: 500;
       letter-spacing: 0.1em;
@@ -110,7 +110,7 @@
       z-index: 1;
     }
     .hero-kicker {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.62rem;
       font-weight: 500;
       letter-spacing: 0.28em;
@@ -151,7 +151,7 @@
       flex-wrap: wrap;
     }
     .hero-badge {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.58rem;
       font-weight: 500;
       letter-spacing: 0.08em;
@@ -185,7 +185,7 @@
     }
     .section-header:first-child { margin-top: 0; }
     .section-label {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.62rem;
       font-weight: 600;
       letter-spacing: 0.22em;
@@ -268,7 +268,7 @@
       line-height: 1.5;
     }
     .analysis-article thead th {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.68rem;
       font-weight: 600;
       letter-spacing: 0.08em;
@@ -302,7 +302,7 @@
       margin-top: 1.5rem;
     }
     .quick-link {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.65rem;
       font-weight: 500;
       letter-spacing: 0.06em;
@@ -331,7 +331,7 @@
       margin: 0 auto;
     }
     .page-footer a {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.65rem;
       font-weight: 500;
       letter-spacing: 0.1em;
@@ -342,7 +342,7 @@
     }
     .page-footer a:hover { color: var(--navy); }
     .footer-brand {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.62rem;
       color: var(--rule-2);
       letter-spacing: 0.1em;

@@ -6,7 +6,7 @@
   <title>{{ page.title | default: site.title }}</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@300;400;500;600;700;800&family=IBM+Plex+Mono:wght@300;400;500&family=DM+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@300;400;500;600;700;800&family=DM+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -30,7 +30,7 @@
       --red:      #ef5350;
       --serif:    'Lora', Georgia, serif;
       --sans:     'Inter', system-ui, sans-serif;
-      --mono:     'DM Sans', sans-serif;
+      --accent-sans: 'DM Sans', sans-serif;
     }
 
     html { scroll-behavior: smooth; font-size: 16px; }
@@ -120,7 +120,7 @@
     }
 
     .landing-eyebrow {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.65rem;
       letter-spacing: 0.3em;
       text-transform: uppercase;
@@ -147,7 +147,7 @@
     }
 
     .landing-tagline {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.75rem;
       letter-spacing: 0.15em;
       color: #666666;
@@ -168,7 +168,7 @@
       display: flex;
       align-items: center;
       gap: 0.75rem;
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.7rem;
       letter-spacing: 0.2em;
       text-transform: uppercase;
@@ -262,7 +262,7 @@
     .nav-brand span {
       color: var(--ink-3);
       font-style: normal;
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.65rem;
       letter-spacing: 0.1em;
       text-transform: uppercase;
@@ -281,7 +281,7 @@
     }
 
     .nav-links a {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.8rem;
       letter-spacing: 0.06em;
       color: var(--ink-3);
@@ -410,7 +410,7 @@
     }
 
     .main-content h4 {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.65rem;
       font-weight: 500;
       letter-spacing: 0.12em;
@@ -479,7 +479,7 @@
     .main-content thead th {
       padding: 0.6rem 0.85rem;
       text-align: left;
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-weight: 400;
       font-size: 0.6rem;
       letter-spacing: 0.14em;
@@ -503,36 +503,6 @@
       font-weight: 300;
     }
 
-    /* ── Code ── */
-    .main-content code {
-      font-family: 'IBM Plex Mono', monospace;
-      font-size: 0.82em;
-      background: rgba(26,95,160,0.07);
-      padding: 0.15em 0.45em;
-      border-radius: 4px;
-      color: var(--cyan);
-      border: 1px solid rgba(26,95,160,0.15);
-    }
-
-    .main-content pre {
-      background: #e8ecf4;
-      border: 1px solid var(--border);
-      color: var(--ink-2);
-      padding: 1.25rem 1.5rem;
-      border-radius: 10px;
-      overflow-x: auto;
-      margin: 1.5rem 0;
-      font-family: 'IBM Plex Mono', monospace;
-      font-size: 0.82rem;
-      line-height: 1.7;
-    }
-
-    .main-content pre code {
-      background: none;
-      padding: 0;
-      border: none;
-      color: inherit;
-    }
 
     /* ── Blockquote ── */
     .main-content blockquote {
@@ -671,7 +641,7 @@
     .intro-header-text p {
       color: var(--ink-3);
       font-size: 0.8rem;
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       letter-spacing: 0.06em;
       margin: 0;
     }
@@ -722,7 +692,7 @@
 
     .degree-text span {
       display: block;
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.68rem;
       color: var(--ink-3);
       margin-top: 0.1rem;
@@ -890,7 +860,7 @@
     }
 
     .project-card-tag {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.56rem;
       font-weight: 500;
       letter-spacing: 0.1em;
@@ -922,7 +892,7 @@
     }
 
     .project-link {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.62rem;
       font-weight: 500;
       letter-spacing: 0.05em;
@@ -997,14 +967,14 @@
     }
 
     .footer-name {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.65rem;
       color: var(--ink-3);
       letter-spacing: 0.08em;
     }
 
     .footer-copy {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.6rem;
       color: var(--ink-3);
       letter-spacing: 0.06em;
@@ -1021,8 +991,142 @@
 
 
     /* ══════════════════════════════════════════
+       HAMBURGER MENU
+    ══════════════════════════════════════════ */
+
+    .nav-hamburger {
+      display: none;
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 0.5rem;
+      flex-direction: column;
+      gap: 5px;
+    }
+
+    .nav-hamburger span {
+      display: block;
+      width: 22px;
+      height: 2px;
+      background: var(--ink-2);
+      border-radius: 2px;
+      transition: transform 0.2s, opacity 0.2s;
+    }
+
+    /* ══════════════════════════════════════════
+       MOBILE NAV OVERLAY
+    ══════════════════════════════════════════ */
+
+    .mobile-nav-overlay {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(245,246,248,0.98);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+      z-index: 999;
+      flex-direction: column;
+      padding: 1.5rem;
+      opacity: 0;
+      transition: opacity 0.25s ease;
+    }
+
+    .mobile-nav-overlay.open {
+      display: flex;
+      opacity: 1;
+    }
+
+    .mobile-nav-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 2rem;
+    }
+
+    .mobile-nav-brand {
+      font-family: var(--serif);
+      font-style: italic;
+      font-size: 1.1rem;
+      color: var(--gold);
+    }
+
+    .mobile-nav-close {
+      background: none;
+      border: none;
+      font-size: 2rem;
+      color: var(--ink-2);
+      cursor: pointer;
+      padding: 0.25rem 0.5rem;
+      line-height: 1;
+    }
+
+    .mobile-nav-links {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 0.25rem;
+      flex: 1;
+    }
+
+    .mobile-nav-links li a {
+      display: block;
+      padding: 0.75rem 0.5rem;
+      font-family: var(--accent-sans);
+      font-size: 1rem;
+      color: var(--ink-2);
+      text-decoration: none;
+      border-radius: 8px;
+      transition: background 0.15s, color 0.15s;
+    }
+
+    .mobile-nav-links li a:hover {
+      color: var(--ink);
+      background: rgba(26,95,160,0.06);
+    }
+
+    .mobile-nav-sub a {
+      padding-left: 1.5rem !important;
+      font-size: 0.88rem !important;
+      color: var(--ink-3) !important;
+    }
+
+    .mobile-nav-social {
+      display: flex;
+      gap: 1.25rem;
+      padding: 1.5rem 0.5rem 0;
+      border-top: 1px solid var(--border);
+      margin-top: auto;
+    }
+
+    .mobile-nav-social a {
+      color: var(--ink-3);
+      transition: color 0.2s;
+      display: flex;
+    }
+
+    .mobile-nav-social a:hover { color: var(--gold); }
+
+    .mobile-nav-social svg { width: 20px; height: 20px; }
+
+
+    /* ══════════════════════════════════════════
        RESPONSIVE
     ══════════════════════════════════════════ */
+
+    @media (max-width: 900px) {
+      .nav-links > li:not(:first-child):not(:last-child) .nav-dropdown {
+        left: auto;
+        right: 0;
+      }
+
+      .nav-links a {
+        font-size: 0.72rem;
+        padding: 0.35rem 0.55rem;
+      }
+    }
 
     @media (max-width: 768px) {
       .top-nav {
@@ -1031,6 +1135,8 @@
       }
 
       .nav-links { display: none; }
+      .nav-social { display: none; }
+      .nav-hamburger { display: flex; }
 
       .main-content {
         padding: 2rem 1.25rem;
@@ -1082,6 +1188,12 @@
         font-size: 1.3rem;
       }
 
+      table {
+        display: block;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+      }
+
       footer {
         flex-direction: column;
         gap: 0.5rem;
@@ -1092,11 +1204,11 @@
 
     @media (max-width: 480px) {
       .main-content {
-        padding: 1.5rem 0.85rem;
+        padding: 1.5rem 0.75rem;
       }
 
       .content-section {
-        padding: 1rem 0.85rem;
+        padding: 1rem 0.75rem;
         border-radius: 6px;
         margin-bottom: 1rem;
       }
@@ -1105,6 +1217,15 @@
         font-size: clamp(2.5rem, 10vw, 4rem);
       }
 
+      .landing-eyebrow,
+      .landing-tagline,
+      .landing-cta {
+        font-size: 0.6rem;
+      }
+
+      .intro-header-text h1 { font-size: 1.35rem; }
+      .headshot { width: 70px; height: 70px; }
+
       table {
         font-size: 0.72rem;
       }
@@ -1112,6 +1233,12 @@
       table th, table td {
         padding: 0.3rem 0.5rem;
       }
+
+      .project-card {
+        padding: 1rem;
+      }
+
+      .orion-tagline { font-size: 1.2rem; }
     }
   </style>
 </head>
@@ -1163,6 +1290,7 @@
           </ul>
         </li>
         <li><a href="{{ '/movie-reviews' | relative_url }}">Film Reviews</a></li>
+        <li><a href="{{ '/tech-tidbits' | relative_url }}">Tech Tidbits</a></li>
         <li>
           <a href="{{ '/' | relative_url }}#ucla-coursework">Coursework</a>
           <ul class="nav-dropdown">
@@ -1172,6 +1300,9 @@
         </li>
         <li><a href="{{ '/' | relative_url }}#personal-projects">Projects</a></li>
       </ul>
+      <button class="nav-hamburger" aria-label="Open menu">
+        <span></span><span></span><span></span>
+      </button>
       <div class="nav-social">
         <a href="mailto:ysxstevenpp123@gmail.com" title="Email">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m2 7 8.5 6a2.5 2.5 0 0 0 3 0L22 7"/></svg>
@@ -1184,6 +1315,37 @@
         </a>
       </div>
     </nav>
+
+    <!-- MOBILE NAV OVERLAY -->
+    <div class="mobile-nav-overlay" id="mobileNav">
+      <div class="mobile-nav-header">
+        <span class="mobile-nav-brand">SY</span>
+        <button class="mobile-nav-close" aria-label="Close menu">&times;</button>
+      </div>
+      <ul class="mobile-nav-links">
+        <li><a href="{{ '/' | relative_url }}#about">About</a></li>
+        <li><a href="{{ '/' | relative_url }}#orion-alpha">Orion Alpha</a></li>
+        <li class="mobile-nav-sub"><a href="{{ '/morning-notes' | relative_url }}">Morning Notes</a></li>
+        <li class="mobile-nav-sub"><a href="{{ '/industry-analysis' | relative_url }}">Industry Analysis</a></li>
+        <li><a href="{{ '/movie-reviews' | relative_url }}">Film Reviews</a></li>
+        <li><a href="{{ '/tech-tidbits' | relative_url }}">Tech Tidbits</a></li>
+        <li><a href="{{ '/' | relative_url }}#ucla-coursework">Coursework</a></li>
+        <li class="mobile-nav-sub"><a href="{{ '/' | relative_url }}#ucla-coursework">UCLA MFE</a></li>
+        <li class="mobile-nav-sub"><a href="{{ '/' | relative_url }}#usc-coursework">USC</a></li>
+        <li><a href="{{ '/' | relative_url }}#personal-projects">Projects</a></li>
+      </ul>
+      <div class="mobile-nav-social">
+        <a href="mailto:ysxstevenpp123@gmail.com" title="Email">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m2 7 8.5 6a2.5 2.5 0 0 0 3 0L22 7"/></svg>
+        </a>
+        <a href="https://www.linkedin.com/in/shaoxiongyuan/" target="_blank" title="LinkedIn">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+        </a>
+        <a href="https://www.instagram.com/stevenpp0312/" target="_blank" title="Instagram">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+        </a>
+      </div>
+    </div>
 
     <!-- MAIN CONTENT -->
     <main class="main-content">
@@ -1253,32 +1415,26 @@
       landingEl.style.setProperty('--my', y + 'px');
     });
 
-    // ── Active nav highlight (rAF-throttled) ──────────────
-    const navLinks = document.querySelectorAll('.nav-links a');
-    const sections = document.querySelectorAll('[id]');
-    let scrollTicking = false;
+    // ── Mobile nav toggle ──────────────────────────────────
+    const hamburger = document.querySelector('.nav-hamburger');
+    const mobileNav = document.getElementById('mobileNav');
+    const mobileClose = document.querySelector('.mobile-nav-close');
 
-    window.addEventListener('scroll', () => {
-      if (!scrollTicking) {
-        requestAnimationFrame(() => {
-          let current = '';
-          sections.forEach(section => {
-            const sectionTop = section.offsetTop - 100;
-            if (window.scrollY >= sectionTop) {
-              current = section.getAttribute('id');
-            }
-          });
+    hamburger.addEventListener('click', () => {
+      mobileNav.classList.add('open');
+      document.body.style.overflow = 'hidden';
+    });
 
-          navLinks.forEach(link => {
-            link.style.color = '';
-            if (link.getAttribute('href').includes('#' + current)) {
-              link.style.color = 'var(--cyan)';
-            }
-          });
-          scrollTicking = false;
-        });
-        scrollTicking = true;
-      }
+    mobileClose.addEventListener('click', () => {
+      mobileNav.classList.remove('open');
+      document.body.style.overflow = '';
+    });
+
+    mobileNav.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', () => {
+        mobileNav.classList.remove('open');
+        document.body.style.overflow = '';
+      });
     });
   </script>
 </body>

@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.date | date: "%b %-d, %Y" }} — {{ page.headline }}</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&family=DM+Sans:wght@300;400;500;600;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=DM+Sans:wght@300;400;500;600;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -22,7 +22,7 @@
       --red:       #c0392b;
       --sans:      'Inter', system-ui, sans-serif;
       --serif:     'Libre Baskerville', Georgia, serif;
-      --mono:      'DM Sans', sans-serif;
+      --accent-sans:      'DM Sans', sans-serif;
     }
 
     html { font-size: 16px; }
@@ -45,7 +45,7 @@
     }
 
     .topbar-brand {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.7rem;
       font-weight: 500;
       letter-spacing: 0.12em;
@@ -55,7 +55,7 @@
 
     .topbar-nav { display: flex; gap: 1.75rem; }
     .topbar-nav a {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.68rem;
       font-weight: 500;
       letter-spacing: 0.1em;
@@ -91,7 +91,7 @@
       position: absolute;
       bottom: 1.6rem;
       left: 3rem;
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.68rem;
       font-weight: 500;
       letter-spacing: 0.18em;
@@ -109,7 +109,7 @@
       display: flex;
       align-items: center;
       gap: 0.65rem;
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.65rem;
       font-weight: 500;
       letter-spacing: 0.2em;
@@ -141,7 +141,7 @@
       flex-wrap: wrap;
     }
     .meta-item {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.67rem;
       color: var(--ink-3);
       letter-spacing: 0.06em;
@@ -169,7 +169,7 @@
     }
     .data-cell:last-child { border-right: none; padding-right: 0; margin-right: 0; }
     .data-label {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.58rem;
       font-weight: 500;
       letter-spacing: 0.18em;
@@ -177,7 +177,7 @@
       text-transform: uppercase;
     }
     .data-value {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.88rem;
       font-weight: 500;
       color: #fff;
@@ -202,7 +202,7 @@
       padding: 2.6rem 0 5rem;
     }
     .note-article h2 {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.85rem;
       font-weight: 600;
       letter-spacing: 0.22em;
@@ -247,7 +247,7 @@
       line-height: 1.5;
     }
     .note-article thead th {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.68rem;
       font-weight: 600;
       letter-spacing: 0.08em;
@@ -281,7 +281,7 @@
       top: 1.5rem;
     }
     .widget-label {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.58rem;
       font-weight: 600;
       letter-spacing: 0.22em;
@@ -302,7 +302,7 @@
     }
     .level-row:last-child { border-bottom: none; }
     .level-name { font-size: 0.78rem; color: var(--ink-3); }
-    .level-val  { font-family: var(--mono); font-size: 0.78rem; font-weight: 500; color: var(--ink); }
+    .level-val  { font-family: var(--accent-sans); font-size: 0.78rem; font-weight: 500; color: var(--ink); }
     .level-val.up   { color: var(--green); }
     .level-val.down { color: var(--red); }
 
@@ -311,7 +311,7 @@
     .sentiment-item:last-child { margin-bottom: 0; }
     .sentiment-top { display: flex; justify-content: space-between; margin-bottom: 0.28rem; }
     .sentiment-name { font-size: 0.77rem; color: var(--ink-2); }
-    .sentiment-pct  { font-family: var(--mono); font-size: 0.7rem; color: var(--ink-3); }
+    .sentiment-pct  { font-family: var(--accent-sans); font-size: 0.7rem; color: var(--ink-3); }
     .bar-track { height: 3px; background: var(--rule); border-radius: 2px; overflow: hidden; }
     .bar-fill { height: 100%; border-radius: 2px; background: var(--navy); }
     .bar-fill.bearish { background: var(--red); }
@@ -321,7 +321,7 @@
     /* Tags */
     .tag-grid { display: flex; flex-wrap: wrap; gap: 0.35rem; }
     .tag {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.6rem;
       font-weight: 500;
       letter-spacing: 0.07em;
@@ -341,7 +341,7 @@
       align-items: center;
     }
     .note-footer a {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.65rem;
       font-weight: 500;
       letter-spacing: 0.1em;
@@ -352,7 +352,7 @@
     }
     .note-footer a:hover { color: var(--navy); }
     .footer-brand {
-      font-family: var(--mono);
+      font-family: var(--accent-sans);
       font-size: 0.62rem;
       color: var(--rule-2);
       letter-spacing: 0.1em;
