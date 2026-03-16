@@ -357,6 +357,17 @@
       text-transform: uppercase;
     }
 
+    /* ── TABLE SCROLL WRAPPER (mobile) ───────── */
+    .table-scroll-wrap {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      margin: 1.2rem 0 1.8rem;
+    }
+    .table-scroll-wrap table {
+      margin: 0;
+      min-width: 600px;
+    }
+
     /* ── RESPONSIVE ───────────────────────────── */
     @media (max-width: 768px) {
       .topbar, .hero { padding-left: 1.5rem; padding-right: 1.5rem; }
@@ -365,6 +376,17 @@
       .hero-title { font-size: 1.4rem; }
       .hero-badges { gap: 0.4rem; }
       .page-footer { padding: 1.4rem 1.5rem; }
+      .analysis-article table {
+        font-size: 0.72rem;
+      }
+      .analysis-article thead th {
+        font-size: 0.6rem;
+        padding: 0.4rem 0.5rem;
+        white-space: nowrap;
+      }
+      .analysis-article tbody td {
+        padding: 0.35rem 0.5rem;
+      }
     }
   </style>
 </head>
@@ -428,6 +450,16 @@
     <span class="footer-brand">Steven Yuan · Sector Research</span>
     <a href="/morning-notes">Daily Notes →</a>
   </footer>
+
+  <script>
+    // Wrap tables in scroll containers for mobile
+    document.querySelectorAll('.analysis-article table').forEach(function(table) {
+      var wrapper = document.createElement('div');
+      wrapper.className = 'table-scroll-wrap';
+      table.parentNode.insertBefore(wrapper, table);
+      wrapper.appendChild(table);
+    });
+  </script>
 
 </body>
 </html>

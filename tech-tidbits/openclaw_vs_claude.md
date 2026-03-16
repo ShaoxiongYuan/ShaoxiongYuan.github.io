@@ -1,4 +1,16 @@
-# Claude Skills vs. OpenClaw: two very different visions for AI agents
+---
+layout: tech-tidbit
+title: "Claude Skills vs. OpenClaw — Two Very Different Visions for AI Agents"
+headline: "Claude Skills vs. OpenClaw"
+kicker: "Tech Tidbits"
+category: "AI Agents"
+date: 2026-03-15
+read_time: "22 min read"
+summary: "Claude Skills and OpenClaw both use SKILL.md files to extend what AI agents can do, but that's roughly where the similarities end. One is a capability extension system, the other is an always-on autonomous agent platform. Understanding the difference reveals where AI agents are headed in 2026."
+head_image: "/images/tech-openclaw-vs-claude.jpg"
+permalink: /tech-tidbits/openclaw-vs-claude/
+---
+
 
 **Claude Skills and OpenClaw both use SKILL.md files to extend what AI agents can do, but that's roughly where the similarities end.** One is a carefully designed capability extension system built to slot into an existing AI assistant's workflows. The other is a full-blown autonomous agent platform that wants to be your always-on digital second brain. Understanding what each actually *is* — and isn't — matters more than any feature-by-feature scoreboard, because choosing between them is less about which is "better" and more about what kind of AI future you're building toward.
 

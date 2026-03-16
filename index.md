@@ -64,9 +64,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [Mar 16, 2026](/morning-notes/2026-03-16-day16-no-ceasefire-104-brent-fomc){:target="_blank"} | *Day 16. No Ceasefire. $104 Brent. FOMC Tomorrow. Trump Threatens to Delay China Summit.* |
+| [Mar 14, 2026](/morning-notes/2026-03-14-week-review-worst-two-week-stretch){:target="_blank"} | *Week-in-Review · The Worst Two-Week Stretch of 2026. Every Index at a YTD Low. What Comes Next.* |
 | [Mar 13, 2026](/morning-notes/2026-03-13-new-2026-lows-103-brent-adbe-ceo-exit){:target="_blank"} | *New 2026 Lows. $103 Brent. ADBE −9% on CEO Exit. The Week Ends Worse Than It Started.* |
-| [Mar 12, 2026](/morning-notes/2026-03-12-oil-back-above-100-three-straight-losses){:target="_blank"} | *Oil Back Above $100. Three Straight Losses. Brent at $100.46. This Tape Has No Floor.* |
-| [Mar 11, 2026](/morning-notes/2026-03-11-orcl-delivers-cpi-fog-of-peace){:target="_blank"} | *ORCL Delivers. CPI Is a One-Month Pass. The Fog of Peace Remains.* |
 
 ### Industry Analysis
 
@@ -111,6 +111,7 @@ Occasional reports and opinions on the hottest things happening in the market �
 
 | Post | Category | Date |
 | ---- | -------- | ---- |
+| [*Claude Skills vs. OpenClaw — Two Very Different Visions for AI Agents*](/tech-tidbits/openclaw-vs-claude){:target="_blank"} | AI Agents | Mar 2026 |
 | [*OpenClaw — The Autonomous AI Agent Redefining How We Work*](/tech-tidbits/openclaw){:target="_blank"} | AI Agents | Mar 2026 |
 
 </div>
