@@ -133,6 +133,8 @@
       color: var(--ink);
       max-width: 68ch;
       margin-bottom: 1.1rem;
+      overflow-wrap: break-word;
+      word-break: break-word;
     }
     .note-meta {
       display: flex;
@@ -360,12 +362,51 @@
     }
 
     /* ── RESPONSIVE ───────────────────────────── */
+
+    /* Tablet adjustments (iPads, etc.) */
+    @media (max-width: 1024px) {
+      .page-wrap {
+        gap: 2.5rem;
+        padding: 0 2rem;
+      }
+      .note-sidebar {
+        padding-right: 0.5rem;
+      }
+    }
+
+    /* Small tablets / large phones */
     @media (max-width: 840px) {
       .topbar, .note-header, .data-band, .note-footer { padding-left: 1.5rem; padding-right: 1.5rem; }
       .cover { height: 220px; }
       .cover-stamp { left: 1.5rem; }
       .page-wrap { grid-template-columns: 1fr; gap: 0; padding: 0 1.5rem; }
       .note-sidebar { position: static; padding-top: 0; border-top: 1px solid var(--rule); }
+
+      /* Scrollable tables on mobile/tablet */
+      .note-article table {
+        display: block;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        white-space: nowrap;
+      }
+    }
+
+    /* iPhone / small phones */
+    @media (max-width: 480px) {
+      .topbar, .note-header, .data-band, .note-footer {
+        padding-left: 1rem;
+        padding-right: 1rem;
+      }
+      .cover { height: 180px; }
+      .cover-stamp { left: 1rem; font-size: 0.58rem; }
+      .page-wrap { padding: 0 1rem; }
+      .note-headline {
+        font-size: clamp(1.1rem, 5vw, 1.5rem);
+        line-height: 1.32;
+      }
+      .note-article p {
+        font-size: 0.95rem;
+      }
     }
   </style>
 </head>
@@ -383,7 +424,7 @@
   <div class="cover">
     <img src="{{ page.image }}" alt="{{ page.headline }}">
     <div class="cover-overlay"></div>
-    <span class="cover-stamp">{{ page.date | date: "%A, %B %-d, %Y" }} &nbsp;·&nbsp; End-of-Day Recap</span>
+    <span class="cover-stamp">{{ page.date | date: "%A, %B %-d, %Y" }} &nbsp;·&nbsp; Before Bell</span>
   </div>
   {% endif %}
 
