@@ -51,7 +51,7 @@ tags:
   - defense
 ---
 
-We enter Week 3 of the US-Israel war on Iran with the Strait of Hormuz still blockaded, approximately 1,000 oil tankers stranded, and no AIS-confirmed commercial transit in either direction. Brent crude at $104.37, WTI at $100.75. Overnight, the IDF said it has "thousands of targets" left and plans at least three more weeks of strikes. Iran's new Supreme Leader Mojtaba Khamenei — in a written statement only, no video or audio yet released — vowed to keep Hormuz closed as "a tool to pressure the enemy." Trump called Mojtaba a "lightweight," threatened that Iran "will be hit very hard," and said he may delay the Beijing summit unless China helps reopen the strait. Futures are modestly green (+0.4–0.5%) on position cleanup ahead of FOMC, but there is no fundamental catalyst for optimism. This is an FOMC meeting like no other: stagflation pressures, a war-driven oil shock, and no clean policy option. The dot plot on Wednesday afternoon will move everything.
+We enter Week 3 of the US-Israel war on Iran with the Strait of Hormuz still blockaded, approximately 1,000 oil tankers stranded, and no AIS-confirmed commercial transit in either direction. Brent crude at $104.37, WTI at $100.75. Overnight, the IDF said it has "thousands of targets" left and plans at least three more weeks of strikes. Iran's new Supreme Leader Mojtaba Khamenei, in a written statement only, no video or audio yet released, vowed to keep Hormuz closed as "a tool to pressure the enemy." Trump called Mojtaba a "lightweight," threatened that Iran "will be hit very hard," and said he may delay the Beijing summit unless China helps reopen the strait. Futures are modestly green (+0.4–0.5%) on position cleanup ahead of FOMC, but there is no fundamental catalyst for optimism. This is an FOMC meeting like no other: stagflation pressures, a war-driven oil shock, and no clean policy option. The dot plot on Wednesday afternoon will move everything.
 
 ## Market Snapshot | Fri Close + Monday Pre-Market ~06:45 ET
 
@@ -79,21 +79,21 @@ We enter Week 3 of the US-Israel war on Iran with the Strait of Hormuz still blo
 
 ## War Status | Day 16 — Key Players, Key Statements
 
-> **🇺🇸 TRUMP (Saturday) "War Is Very Complete, Pretty Much" — But Then: May Delay China Summit**
+> **🇺🇸 TRUMP (Saturday) "War Is Very Complete, Pretty Much" But Then: May Delay China Summit**
 >
 > Trump's messaging remains contradictory. He told CBS the war is "very complete," then hours later told the Financial Times he may delay the April 1 Beijing summit unless China helps reopen Hormuz. He demanded Iran's "unconditional surrender," called Mojtaba Khamenei a "lightweight," and told allies "we need these ships before we win, not after we win." The market is learning to treat Trump's verbal signals as noise, but a summit delay = tariff truce at risk = risk-off.
 
-> **🇮🇷 IRAN — MOJTABA KHAMENEI (Thursday) New Supreme Leader: "Hormuz Stays Closed. All US Bases in Region Will Be Attacked."**
+> **🇮🇷 IRAN: MOJTABA KHAMENEI (Thursday) New Supreme Leader: "Hormuz Stays Closed. All US Bases in Region Will Be Attacked."**
 >
-> Mojtaba Khamenei — son of slain leader Ali Khamenei — issued his first public statement via state TV anchor (still no video or audio of him). He vowed to keep Hormuz closed as a "tool to pressure the enemy," demanded all US bases in the region be immediately closed or face attack, and vowed vengeance for every Iranian citizen killed. He praised Houthis, Hezbollah, and Iraqi militias as standing with Iran. The tone is maximally hawkish — no ceasefire opening.
+> Mojtaba Khamenei issued his first public statement via state TV anchor (still no video or audio of him). He vowed to keep Hormuz closed as a "tool to pressure the enemy," demanded all US bases in the region be immediately closed or face attack, and vowed vengeance for every Iranian citizen killed. He praised Houthis, Hezbollah, and Iraqi militias as standing with Iran. The tone is maximally hawkish, no ceasefire opening.
 
-> **🇮🇱 ISRAEL — IDF (Saturday) "Thousands of Targets" Remain. Strikes Planned Through Passover (3+ More Weeks).**
+> **🇮🇱 ISRAEL: IDF (Saturday) "Thousands of Targets" Remain. Strikes Planned Through Passover (3+ More Weeks).**
 >
-> IDF spokesman Brig. Gen. Effie Defrin said Israel is "expanding" strikes against IRGC and Basij command-and-control infrastructure across western and central Iran. Heavy strikes hit Isfahan, Shiraz, southern Tehran, Dezful Air Base, Khomein, and Hamedan over the weekend. A video showed extensive damage at Iran's Jask port in Hormozgan Province. Israel has signalled at least 3 more weeks of operations — there is no wind-down timeline.
+> IDF spokesman Brig. Gen. Effie Defrin said Israel is "expanding" strikes against IRGC and Basij command-and-control infrastructure across western and central Iran. Heavy strikes hit Isfahan, Shiraz, southern Tehran, Dezful Air Base, Khomein, and Hamedan over the weekend. A video showed extensive damage at Iran's Jask port in Hormozgan Province. Israel has signalled at least 3 more weeks of operations. There is no wind-down timeline.
 
 > **🇨🇳 CHINA / ALLIES Muted Response to Trump's Naval Escort Request. Bessent-He Lifeng Talks in Paris.**
 >
-> Trump urged China, France, Japan, South Korea, and the UK to send naval ships to secure Hormuz. Analysts note China is unlikely to help — Iranian oil is already flowing to China outside the blockade. Treasury Secretary Bessent met China's He Lifeng in Paris on trade talks ahead of the planned summit. If the summit is delayed, the tariff truce (15% global tariff suspended under Oct 2025 deal) could collapse — a second front for markets.
+> Trump urged China, France, Japan, South Korea, and the UK to send naval ships to secure Hormuz. Analysts note China is unlikely to help. Iranian oil is already flowing to China outside the blockade. Treasury Secretary Bessent met China's He Lifeng in Paris on trade talks ahead of the planned summit. If the summit is delayed, the tariff truce (15% global tariff suspended under Oct 2025 deal) could collapse, which indicates a second front for markets.
 
 ## War Signal Tracker | Bull vs. Bear Interpretation
 
@@ -133,13 +133,13 @@ We enter Week 3 of the US-Israel war on Iran with the Strait of Hormuz still blo
 
 > **🏭 FOMC DECISION Rates Expected to Hold at 3.50–3.75%. The Dot Plot Will Say Everything.**
 >
-> CME FedWatch shows 92%+ probability of a hold. Core PCE at 2.8%, oil above $100, and a war still in progress make a cut impossible. But the economy is slowing: Michigan sentiment 55.5, Beige Book flagged capex pauses in 9 of 12 districts, continuing claims rising. Powell faces an impossible task: acknowledge stagflation without triggering panic. The dot plot is the key — if 2026 rate cut expectations are pulled from 2 cuts to 0–1, equities will sell off hard. If the statement introduces "energy supply uncertainty" language, that signals the Fed sees the oil shock as a structural, not temporary, problem. Statement at 2:00 PM Wed; Powell presser at 2:30 PM.
+> CME FedWatch shows 92%+ probability of a hold. Core PCE at 2.8%, oil above $100, and a war still in progress make a cut impossible. But the economy is slowing: Michigan sentiment 55.5, Beige Book flagged capex pauses in 9 of 12 districts, continuing claims rising. Powell faces an impossible task: acknowledge stagflation without triggering panic. The dot plot is the key. If 2026 rate cut expectations are pulled from 2 cuts to 0–1, equities will sell off hard. If the statement introduces "energy supply uncertainty" language, that signals the Fed sees the oil shock as a structural, not temporary, problem. Statement at 2:00 PM Wed; Powell presser at 2:30 PM.
 
-**Scenario 1 — Hawkish Hold (60% probability).** Hold rates, dot plot shows 0–1 cut in 2026, Powell emphasises inflation uncertainty. S&P −1–1.5%. 10Y yield +5–10 bps. Dollar rallies. Most likely outcome.
+**Scenario 1: Hawkish Hold (60% probability).** Hold rates, dot plot shows 0–1 cut in 2026, Powell emphasises inflation uncertainty. S&P −1–1.5%. 10Y yield +5–10 bps. Dollar rallies. Most likely outcome.
 
-**Scenario 2 — Neutral Hold (25% probability).** Hold rates, dot plot unchanged at 2 cuts, Powell hedges on both sides. S&P flat to +0.5%. Market waits for April CPI data.
+**Scenario 2: Neutral Hold (25% probability).** Hold rates, dot plot unchanged at 2 cuts, Powell hedges on both sides. S&P flat to +0.5%. Market waits for April CPI data.
 
-**Scenario 3 — Dovish Signal (15% probability).** Hold rates but language shifts toward growth concern. Dot plot still shows 2–3 cuts. S&P +1.5–2%. Unlikely with $104 Brent.
+**Scenario 3: Dovish Signal (15% probability).** Hold rates but language shifts toward growth concern. Dot plot still shows 2–3 cuts. S&P +1.5–2%. Unlikely with $104 Brent.
 
 ## This Week's Event Calendar | March 16–20
 
@@ -213,7 +213,7 @@ We enter Week 3 of the US-Israel war on Iran with the Strait of Hormuz still blo
 
 ## Bottom Line | The Week That Defines Q2
 
-This is the most consequential week of 2026 so far. On Monday: NVIDIA GTC keynote — the AI narrative's biggest moment of the quarter. Tuesday-Wednesday: FOMC meeting with a dot plot that must account for a war, an oil shock, and an economy where consumer sentiment just hit 2026 lows. Thursday: Micron and FedEx — the AI-demand and global-trade bellwethers. Each one of these is independently market-moving; together they create a volatility cluster that demands disciplined positioning. Our base case: the Fed holds and hawks the dot plot (60%). Markets sell off 1–1.5% on Wednesday, partially recover Thursday if MU beats. The war backdrop makes every data point binary: good news is insufficient, bad news amplified. Capital preservation remains the mandate until either (a) a genuine ceasefire path emerges or (b) the Fed signals it sees a growth emergency. Neither is likely this week. Own energy. Own gold. Own defence. Size everything else down.
+This is the most consequential week of 2026 so far. On Monday: NVIDIA GTC keynote: the AI narrative's biggest moment of the quarter. Tuesday-Wednesday: FOMC meeting with a dot plot that must account for a war, an oil shock, and an economy where consumer sentiment just hit 2026 lows. Thursday: Micron and FedEx: the AI-demand and global-trade bellwethers. Each one of these is independently market-moving; together they create a volatility cluster that demands disciplined positioning. Our base case: the Fed holds and hawks the dot plot (60%). Markets sell off 1–1.5% on Wednesday, partially recover Thursday if MU beats. The war backdrop makes every data point binary: good news is insufficient, bad news amplified. Capital preservation remains the mandate until either (a) a genuine ceasefire path emerges or (b) the Fed signals it sees a growth emergency. Neither is likely this week. Own energy. Own gold. Own defence. Size everything else down.
 
 ---
 
