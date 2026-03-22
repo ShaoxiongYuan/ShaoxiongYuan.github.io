@@ -1,7 +1,7 @@
 ---
 layout: morning-note
-title: "Day 19. Dow −768. Powell: Inflation Not Coming Down. Micron Destroys Estimates. Oil Near $110."
-headline: "Day 19. Dow −768. Powell: Inflation Not Coming Down. Micron Destroys Estimates. Oil Near $110."
+title: "Dow −768. Powell: Inflation Not Coming Down. Micron Destroys Estimates. Oil Near $110."
+headline: "Dow −768. Powell: Inflation Not Coming Down. Micron Destroys Estimates. Oil Near $110."
 date: 2026-03-19
 image: /images/notes/2026-03-19.jpg
 author: Steven Yuan
@@ -105,7 +105,7 @@ Yesterday delivered the worst FOMC session of 2026. The Fed held at 3.50–3.75%
 | **Q3 Gross Margin Guide** | — | **81%** | — |
 | **Stock AH** | — | **+8%** | — |
 
-## War Escalation | Day 19 — South Pars Strike. Iran Publishes Hit List.
+## War Escalation | Day 20 — South Pars Strike. Iran Publishes Hit List.
 
 > **🇮🇱🇺🇸 JOINT STRIKE — Israel and US Strike South Pars Gas Field**
 >
@@ -126,27 +126,31 @@ Yesterday delivered the worst FOMC session of 2026. The Fed held at 3.50–3.75%
 
 ## Trade Ideas | Post-FOMC + Micron Positioning
 
-> **▲ BUY MU PULLBACK — Sell-the-News Sets Up a Re-Entry**
->
-> MU +8% AH but likely to face profit-taking at open as the post-FOMC sentiment drags. If MU opens below $520, this is a re-entry opportunity. The fundamental story is the best in semis: $33.5B Q3 guide, 81% gross margin, HBM4 shipping to NVDA. Analyst targets are rising sharply (Wells Fargo $550, Barclays $670). Buy the dip, hold for the re-rating.
->
-> **Risk:** FOMC macro overhang + war = even a monster beat gets dragged lower in the near term.
+### ▲ BUY MU PULLBACK — Sell-the-News Sets Up a Re-Entry
+{: .trade-long}
 
-> **▲ ENERGY CONCENTRATION — South Pars Strike Makes $110+ Structural**
->
-> The South Pars strike changes the oil calculus permanently. This is not a temporary supply disruption; Iran's domestic gas supply is now compromised. XOM, CVX, SLB are the core positions. The Iran hit list of Gulf facilities is the next escalation catalyst. Own energy; do not reduce.
->
-> **Risk:** US-Iran diplomatic contact (now harder post-South Pars) could trigger a fast unwind.
+MU +8% AH but likely to face profit-taking at open as the post-FOMC sentiment drags. If MU opens below $520, this is a re-entry opportunity. The fundamental story is the best in semis: $33.5B Q3 guide, 81% gross margin, HBM4 shipping to NVDA. Analyst targets are rising sharply (Wells Fargo $550, Barclays $670). Buy the dip, hold for the re-rating.
 
-> **▲ HOLD GOLD + DEFENCE — The War Trade Basket Is Working**
->
-> Gold at $3,305, ATH territory. Powell told you inflation isn't coming down. War just escalated to joint US-Israel strikes on Iranian infrastructure. LMT, RTX, GD all outperforming. This basket works in every scenario except a sudden ceasefire.
->
-> **Risk:** Peace deal — the only scenario that hurts both simultaneously.
+*Risk: FOMC macro overhang + war = even a monster beat gets dragged lower in the near term.*
 
-> **▼ SELL AIRLINES, CONSUMER, HIGH-MULTIPLE SAAS**
->
-> FOMC removed cuts, oil is at $110, consumer sentiment is at 55.5. Airlines face impossible Q2 guidance. Consumer discretionary is cracking. High-multiple SaaS is in double compression (rate repricing + growth slowdown). FedEx tonight will confirm or deny the shipping disruption. Every relief rally in these names is a selling opportunity.
+### ▲ ENERGY CONCENTRATION — South Pars Strike Makes $110+ Structural
+{: .trade-long}
+
+The South Pars strike changes the oil calculus permanently. This is not a temporary supply disruption; Iran's domestic gas supply is now compromised. XOM, CVX, SLB are the core positions. The Iran hit list of Gulf facilities is the next escalation catalyst. Own energy; do not reduce.
+
+*Risk: US-Iran diplomatic contact (now harder post-South Pars) could trigger a fast unwind.*
+
+### ▲ HOLD GOLD + DEFENCE — The War Trade Basket Is Working
+{: .trade-long}
+
+Gold at $3,305, ATH territory. Powell told you inflation isn't coming down. War just escalated to joint US-Israel strikes on Iranian infrastructure. LMT, RTX, GD all outperforming. This basket works in every scenario except a sudden ceasefire.
+
+*Risk: Peace deal — the only scenario that hurts both simultaneously.*
+
+### ▼ SELL AIRLINES, CONSUMER, HIGH-MULTIPLE SAAS
+{: .trade-short}
+
+FOMC removed cuts, oil is at $110, consumer sentiment is at 55.5. Airlines face impossible Q2 guidance. Consumer discretionary is cracking. High-multiple SaaS is in double compression (rate repricing + growth slowdown). FedEx tonight will confirm or deny the shipping disruption. Every relief rally in these names is a selling opportunity.
 
 ## Bottom Line | AI vs. Everything Else
 
