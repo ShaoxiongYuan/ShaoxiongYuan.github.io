@@ -224,7 +224,7 @@ The financial services sector's bifurcation between well-capitalized traditional
 
 ### 6.2 Bull vs. Bear
 
-|**BULL CASE — FINANCIALS**|**BEAR CASE — PRIVATE CREDIT CONTAGION**|
+|BULL CASE — FINANCIALS|BEAR CASE — PRIVATE CREDIT CONTAGION|
 |-|-|
 |Record bank profitability continues; JPMorgan/GS dominate investment banking revival|Blue Owl/Apollo are the 'cockroaches' — stress is widespread in middle market; defaults accelerate through 2026 maturity wall|
 |Private credit stress is idiosyncratic (Blue Owl, Apollo) not systemic; manager quality dispersion protects strong players|Retail non-traded BDC redemption wave becomes self-reinforcing; asset sales at discounts force NAV markdowns across the sector|
