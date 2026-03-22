@@ -128,7 +128,7 @@ The rise of foundation models (largely open-source or open-weight: Meta's LLaMA,
 
 ## 3. Competitive Landscape
 
-### 3.1 Major Players, Snapshot
+### 3.1 Major Players , Snapshot
 
 The technology and software sector is dominated at the apex by a small number of mega-cap platform companies whose scale, distribution, and ecosystem depth create durable competitive advantages. Below the platform layer, a large number of high-quality mid-cap software companies serve specific functional and vertical markets.
 
@@ -171,7 +171,7 @@ Technology and software companies trade at a premium to the broader market, refl
 | Legacy / On-Prem Software | 1–2.5x | 8–15x | 12–20x | Cloud migration discount; cash flow focus |
 | Cybersecurity | 5–10x | 25–50x | 35–60x | Premium for growth + defensibility |
 | IT Services | 1–1.5x | 8–12x | 12–18x | AI disruption risk weighing on multiples |
-| Broad Software Median (2025 H2) | ~3.1x | ~26x |, | Up from 2.6x / 17–22x in 2023–2024 |
+| Broad Software Median (2025 H2) | ~3.1x | ~26x | — | Up from 2.6x / 17–22x in 2023–2024 |
 
 *Source: Aventis Advisors, Multiples.vc, NYU Stern Damodaran, Statista; analysis (2025–2026).*
 
@@ -203,7 +203,7 @@ Private equity activity has focused on carve-outs and take-privates of mature so
 
 ### 5.1 Key Thematic Opportunities
 
-**AI Infrastructure & Enablement Layer:** The most immediate and highest-conviction investment theme is AI infrastructure, the hardware, software, and services required to build and run AI workloads. NVIDIA dominates AI silicon with ~80% GPU market share for training workloads. Hyperscalers (AWS, Azure, Google) are spending $200+ billion in aggregate annual capex to build AI data centers. Software infrastructure companies, vector databases, MLOps platforms, inference optimization, are benefiting from AI complexity.
+**AI Infrastructure & Enablement Layer:** The most immediate and highest-conviction investment theme is AI infrastructure: the hardware, software, and services required to build and run AI workloads. NVIDIA dominates AI silicon with ~80% GPU market share for training workloads. Hyperscalers (AWS, Azure, Google) are spending $200+ billion in aggregate annual capex to build AI data centers. Software infrastructure companies such as vector databases, MLOps platforms, inference optimization are benefiting from AI complexity.
 
 **AI Application Layer:** As foundation model costs decline due to competition and efficiency improvements, value is migrating to the application layer. Companies that own unique proprietary data (Salesforce's CRM data, Bloomberg's financial data, Epic's healthcare data) can build defensible AI applications. The opportunity is identifying application-layer companies early enough to benefit from multiple expansion as AI monetization becomes concrete.
 
@@ -225,10 +225,10 @@ The central bull/bear debate in technology and software centers on AI monetizati
 
 **BEAR CASE**
 
-- AI commoditises software, foundation models reduce the value of traditional software IP and compress pricing
+- AI commoditizes software , foundation models reduce the value of traditional software IP and compress pricing
 - AI capex cycle inflates revenue growth; if AI demand disappoints, hyperscaler growth decelerates sharply
 - Regulatory risk (EU AI Act, antitrust scrutiny of mega-cap platforms) creates structural headwinds
-- Many software companies are "AI-washing", embedding AI features without demonstrable monetization
+- Many software companies are "AI-washing" , embedding AI features without demonstrable monetization
 - Macro softness (rates, enterprise budgets) could cause SaaS churn and elongated sales cycles
 
 ### 5.3 Key Risks

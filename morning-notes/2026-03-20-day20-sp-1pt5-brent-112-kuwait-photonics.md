@@ -53,7 +53,7 @@ tags:
   - correction
 ---
 
-The market had its worst day since the war began. S&P −1.51% to 6,506, Nasdaq −2.01% to 21,647, Dow −444 to 45,577. Russell 2000 fell 2%+ into official correction territory. Dow and Nasdaq came within inches of correction thresholds intraday. The catalyst: Iraq declared force majeure on all foreign-operated oilfields because it cannot ship crude through Hormuz. Iranian drones struck two Kuwait refineries (Mina Al-Ahmadi and Mina Abdullah, combined 730K bpd) during Eid al-Fitr. Brent hit $112.19, the highest since the 2022 commodity shock. Pentagon officials reportedly made preparations for US ground troops into Iran, which sent the market through the floor. And yet, in the middle of this carnage, one sector is on fire — literally lighting up: optical/photonics. COHR +15.4%, LITE +12%, AAOI surging. OFC 2026 in LA is showcasing AI-scale optics breakthroughs. Both COHR and LITE join the S&P 500 on March 23. NVIDIA's multi-billion-dollar strategic deals with both companies. MU +8% from its blowout. FDX beat and raised. AI infrastructure is immune to the macro, for now. This is a market with two realities. Choose your side.
+The market had its worst day since the war began. S&P −1.51% to 6,506, Nasdaq −2.01% to 21,647, Dow −444 to 45,577. Russell 2000 fell 2%+ into official correction territory. Dow and Nasdaq came within inches of correction thresholds intraday. The catalyst: Iraq declared force majeure on all foreign-operated oilfields because it cannot ship crude through Hormuz. Iranian drones struck two Kuwait refineries (Mina Al-Ahmadi and Mina Abdullah, combined 730K bpd) during Eid al-Fitr. Brent hit $112.19, the highest since the 2022 commodity shock. Pentagon officials reportedly made preparations for US ground troops into Iran, which sent the market through the floor. And yet, in the middle of this carnage, one sector is on fire, literally lighting up: optical/photonics. COHR +15.4%, LITE +12%, AAOI surging. OFC 2026 in LA is showcasing AI-scale optics breakthroughs. Both COHR and LITE join the S&P 500 on March 23. NVIDIA's multi-billion-dollar strategic deals with both companies. MU +8% from its blowout. FDX beat and raised. AI infrastructure is immune to the macro, for now. This is a market with two realities. Choose your side.
 
 ## Market Snapshot | Thu Close + Friday Pre-Market ~06:45 ET
 
@@ -94,7 +94,7 @@ The market had its worst day since the war began. S&P −1.51% to 6,506, Nasdaq 
 
 > **📦 FDX Q3 Beat and Raised. But Hormuz Is the Unknown.**
 >
-> FedEx beat Q3 estimates and raised full-year guidance — a testament to the resilience of the core domestic business. However, the international freight picture is complicated: rerouting cargo around the Cape of Good Hope adds 10–14 days per voyage and significant fuel costs. Management guided conservatively on international volumes for Q4, citing the "ongoing geopolitical uncertainty in the Middle East." The domestic beat is real; the international guidance is the warning shot.
+> FedEx beat Q3 estimates and raised full-year guidance, a testament to the resilience of the core domestic business. However, the international freight picture is complicated: rerouting cargo around the Cape of Good Hope adds 10–14 days per voyage and significant fuel costs. Management guided conservatively on international volumes for Q4, citing the "ongoing geopolitical uncertainty in the Middle East." The domestic beat is real; the international guidance is the warning shot.
 
 ## War Escalation | Day 20 — Iraq FM. Kuwait on Fire. Ground Troops?
 
@@ -136,7 +136,7 @@ The market had its worst day since the war began. S&P −1.51% to 6,506, Nasdaq 
 
 > **▲ CONCENTRATE AI (MU, NVDA, COHR, LITE, SMCI) — This Sector Is Immune**
 >
-> Micron +8% from a historic beat. COHR +15.4%, LITE +12% on OFC 2026 + NVDA partnerships + S&P 500 inclusion March 23. The AI infrastructure buildout is genuinely immune to the war — hyperscalers are not cancelling data centres because Brent is at $112. COHR and LITE get mechanical passive buying Monday as they join the S&P 500. Buy the photonics dip on any Friday volatility.
+> Micron +8% from a historic beat. COHR +15.4%, LITE +12% on OFC 2026 + NVDA partnerships + S&P 500 inclusion March 23. The AI infrastructure buildout is genuinely immune to the war. Hyperscalers are not cancelling data centres because Brent is at $112. COHR and LITE get mechanical passive buying Monday as they join the S&P 500. Buy the photonics dip on any Friday volatility.
 >
 > **Risk:** A surprise ceasefire would briefly hurt even AI names on rotation. Use as a buying opportunity.
 

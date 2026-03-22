@@ -75,7 +75,7 @@ Yesterday delivered the worst FOMC session of 2026. The Fed held at 3.50–3.75%
 
 > **🏛️ FED DECISION Hold at 3.50–3.75%. 11-1 vote (Miran dissented for cut). Dot plot: 1 cut in 2026.**
 >
-> The Federal Reserve held rates at 3.50–3.75% as universally expected. But the dot plot was the gut punch: just 1 cut projected for 2026, down from 2 in December. The inflation forecast was raised to 2.7% for 2026. Powell's press conference removed any ambiguity: "We're not making as much progress on inflation as we had hoped." Markets had priced in even a slim possibility of dovish language — that hope was extinguished in the first ten minutes of the presser.
+> The Federal Reserve held rates at 3.50–3.75% as universally expected. But the dot plot was the gut punch: just 1 cut projected for 2026, down from 2 in December. The inflation forecast was raised to 2.7% for 2026. Powell's press conference removed any ambiguity: "We're not making as much progress on inflation as we had hoped." Markets had priced in even a slim possibility of dovish language, but that hope was extinguished in the first ten minutes of the presser.
 
 ## FOMC Summary of Economic Projections | March vs. December
 
@@ -109,7 +109,7 @@ Yesterday delivered the worst FOMC session of 2026. The Fed held at 3.50–3.75%
 
 > **🇮🇱🇺🇸 JOINT STRIKE — Israel and US Strike South Pars Gas Field**
 >
-> In the most consequential energy infrastructure strike of the conflict, Israel and the United States jointly struck Iran's South Pars gas field — the world's largest natural gas reserve, shared with Qatar. The facility supplies approximately 75% of Iran's domestic gas and is a major LNG export hub. Oil spiked to nearly $110 Brent on the news. Global LNG markets are already stressed following the Qatar force majeure.
+> In the most consequential energy infrastructure strike of the conflict, Israel and the United States jointly struck Iran's South Pars gas field, the world's largest natural gas reserve, shared with Qatar. The facility supplies approximately 75% of Iran's domestic gas and is a major LNG export hub. Oil spiked to nearly $110 Brent on the news. Global LNG markets are already stressed following the Qatar force majeure.
 
 > **🇮🇷 IRAN — Publishes Gulf Energy Hit List**
 >
