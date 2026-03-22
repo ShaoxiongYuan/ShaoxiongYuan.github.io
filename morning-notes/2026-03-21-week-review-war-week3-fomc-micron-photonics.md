@@ -56,7 +56,7 @@ tags:
   - defense
 ---
 
-Day 16–20 of the US-Iran War | Brent $107→$112 | S&P −3.0% WoW | Nasdaq −4.4% WoW | VIX 29→31
+Day 17–21 of the US-Iran War | Brent $107→$112 | S&P −3.0% WoW | Nasdaq −4.4% WoW | VIX 29→31
 
 This was the week the war stopped being background noise and became the dominant macro variable. What started Monday with cautious optimism around FOMC and a ceasefire whisper ended Friday with Kuwait's refineries on fire, Brent at $112, the Nasdaq in correction territory, and the Fed explicitly warning that inflation "isn't coming down as much as we had hoped." The week delivered three distinct shocks — geopolitical, monetary, and energy — and each one compounded the last.
 
@@ -64,11 +64,11 @@ This was the week the war stopped being background noise and became the dominant
 
 | Day | Date | Key Events | S&P |
 |---|---|---|---|
-| **Monday (Day 16)** | Mar 16 | Cautious open. Brent $104. FOMC preview. Mojtaba Khamenei issues hawkish first statement. Trump sends mixed signals on China summit. | **+0.25%** |
-| **Tuesday (Day 17)** | Mar 17 | Israel assassinates Ali Larijani, invades Lebanon. Two-front war confirmed. NVIDIA GTC: $1T order book. Markets flat on offsetting forces. | **−0.3%** |
-| **Wednesday (Day 18)** | Mar 18 | Iran retaliates: 100+ Israeli targets, UAE Fujairah terminal fire, US Embassy Baghdad hit. PPI shock: +0.7% MoM (est +0.3%). FOMC holds at 3.50–3.75%, dot plot shows 1 cut (was 2). | **−0.9%** |
-| **Thursday (Day 19)** | Mar 19 | Powell presser: "Not making progress on inflation." Dow −768. Israel + US strike South Pars gas field. Micron crushes: EPS $12.20 vs $9.31 est. MU sells off 5% on profit-taking. | **−1.5%** |
-| **Friday (Day 20)** | Mar 20 | Kuwait refineries (730K bpd) on fire. Iraq force majeure declared. Pentagon preps ground troops. Brent $112. COHR +15.4%, LITE +12%. FedEx beats. | **−1.5%** |
+| **Monday (Day 17)** | Mar 16 | Cautious open. Brent $104. FOMC preview. Mojtaba Khamenei issues hawkish first statement. Trump sends mixed signals on China summit. | **+0.25%** |
+| **Tuesday (Day 18)** | Mar 17 | Israel assassinates Ali Larijani, invades Lebanon. Two-front war confirmed. NVIDIA GTC: $1T order book. Markets flat on offsetting forces. | **−0.3%** |
+| **Wednesday (Day 19)** | Mar 18 | Iran retaliates: 100+ Israeli targets, UAE Fujairah terminal fire, US Embassy Baghdad hit. PPI shock: +0.7% MoM (est +0.3%). FOMC holds at 3.50–3.75%, dot plot shows 1 cut (was 2). | **−0.9%** |
+| **Thursday (Day 20)** | Mar 19 | Powell presser: "Not making progress on inflation." Dow −768. Israel + US strike South Pars gas field. Micron crushes: EPS $12.20 vs $9.31 est. MU sells off 5% on profit-taking. | **−1.5%** |
+| **Friday (Day 21)** | Mar 20 | Kuwait refineries (730K bpd) on fire. Iraq force majeure declared. Pentagon preps ground troops. Brent $112. COHR +15.4%, LITE +12%. FedEx beats. | **−1.5%** |
 
 ## Weekly Performance Scorecard
 
@@ -83,15 +83,15 @@ This was the week the war stopped being background noise and became the dominant
 | **Gold** | ~$3,250 | **$3,305+** | **+~1.7%** | — | ATH zone; stagflation + war bid |
 | **10-Yr Yield** | ~4.28% | **~4.45%** | **+17 bps** | — | FOMC dot plot repricing; inflation fear |
 
-## War Timeline | Day 16 to Day 20
+## War Timeline | Day 17 to Day 21
 
 | Day | Date | Event |
 |---|---|---|
-| Day 16 | Mon Mar 16 | FOMC week opens. Mojtaba Khamenei's first statement: maximally hawkish. No ceasefire opening. NVDA GTC begins. |
-| Day 17 | Tue Mar 17 | Israel assassinates Ali Larijani (Iran's national security chief), his son Morteza, and Basij commander. Israel invades Lebanon south of Litani River. 1M displaced. Two-front war confirmed. |
-| Day 18 | Wed Mar 18 | Iran IRGC retaliates: 100+ Israeli targets hit. UAE Fujairah terminal fire. Saudi defences intercept 6+ drones. US Embassy Baghdad hit directly. PPI +0.7% MoM. FOMC holds; dot plot: 1 cut. |
-| Day 19 | Thu Mar 19 | Powell: "Not making progress on inflation." Dow −768. US + Israel strike South Pars gas field. Iran publishes Gulf hit list (Samref, Al Hosn, Bapco). MU beats massively AH (+8%). |
-| Day 20 | Fri Mar 20 | Kuwait: Mina Al-Ahmadi + Mina Abdullah refineries struck (730K bpd offline). Iraq declares force majeure. Pentagon preps ground troops. Brent $112. COHR +15.4%, LITE +12%. |
+| Day 17 | Mon Mar 16 | FOMC week opens. Mojtaba Khamenei's first statement: maximally hawkish. No ceasefire opening. NVDA GTC begins. |
+| Day 18 | Tue Mar 17 | Israel assassinates Ali Larijani (Iran's national security chief), his son Morteza, and Basij commander. Israel invades Lebanon south of Litani River. 1M displaced. Two-front war confirmed. |
+| Day 19 | Wed Mar 18 | Iran IRGC retaliates: 100+ Israeli targets hit. UAE Fujairah terminal fire. Saudi defences intercept 6+ drones. US Embassy Baghdad hit directly. PPI +0.7% MoM. FOMC holds; dot plot: 1 cut. |
+| Day 20 | Thu Mar 19 | Powell: "Not making progress on inflation." Dow −768. US + Israel strike South Pars gas field. Iran publishes Gulf hit list (Samref, Al Hosn, Bapco). MU beats massively AH (+8%). |
+| Day 21 | Fri Mar 20 | Kuwait: Mina Al-Ahmadi + Mina Abdullah refineries struck (730K bpd offline). Iraq declares force majeure. Pentagon preps ground troops. Brent $112. COHR +15.4%, LITE +12%. |
 
 ## War Signal Tracker | End-of-Week Assessment
 

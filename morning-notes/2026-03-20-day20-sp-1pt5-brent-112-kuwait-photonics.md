@@ -1,7 +1,7 @@
 ---
 layout: morning-note
-title: "Day 20. S&P −1.5%. Dow −444. Brent $112. Kuwait Refineries on Fire. Photonics Exploding."
-headline: "Day 20. S&P −1.5%. Dow −444. Brent $112. Kuwait Refineries on Fire. Photonics Exploding."
+title: "S&P −1.5%. Dow −444. Brent $112. Kuwait Refineries on Fire. Photonics Exploding."
+headline: "S&P −1.5%. Dow −444. Brent $112. Kuwait Refineries on Fire. Photonics Exploding."
 date: 2026-03-20
 image: /images/notes/2026-03-20.jpg
 author: Steven Yuan
@@ -96,7 +96,7 @@ The market had its worst day since the war began. S&P −1.51% to 6,506, Nasdaq 
 >
 > FedEx beat Q3 estimates and raised full-year guidance, a testament to the resilience of the core domestic business. However, the international freight picture is complicated: rerouting cargo around the Cape of Good Hope adds 10–14 days per voyage and significant fuel costs. Management guided conservatively on international volumes for Q4, citing the "ongoing geopolitical uncertainty in the Middle East." The domestic beat is real; the international guidance is the warning shot.
 
-## War Escalation | Day 20 — Iraq FM. Kuwait on Fire. Ground Troops?
+## War Escalation | Day 21 — Iraq FM. Kuwait on Fire. Ground Troops?
 
 > **🔥 KUWAIT — Iranian Drones Strike Mina Al-Ahmadi + Mina Abdullah Refineries**
 >
@@ -110,7 +110,7 @@ The market had its worst day since the war began. S&P −1.51% to 6,506, Nasdaq 
 >
 > Pentagon officials reportedly made preparations for the possibility of US ground troops being deployed into Iran. This is the single most consequential geopolitical escalation signal of the conflict. Ground troops into Iran would trigger a multi-front war with regional spillover across every Gulf state and Hezbollah's full activation. The market dropped through the floor on this headline.
 
-## War Signal Tracker | Day 20
+## War Signal Tracker | Day 21
 
 | Signal | Detail | Mkt Read |
 |---|---|---|
@@ -134,27 +134,31 @@ The market had its worst day since the war began. S&P −1.51% to 6,506, Nasdaq 
 
 ## Trade Ideas | End-of-Week Positioning
 
-> **▲ CONCENTRATE AI (MU, NVDA, COHR, LITE, SMCI) — This Sector Is Immune**
->
-> Micron +8% from a historic beat. COHR +15.4%, LITE +12% on OFC 2026 + NVDA partnerships + S&P 500 inclusion March 23. The AI infrastructure buildout is genuinely immune to the war. Hyperscalers are not cancelling data centres because Brent is at $112. COHR and LITE get mechanical passive buying Monday as they join the S&P 500. Buy the photonics dip on any Friday volatility.
->
-> **Risk:** A surprise ceasefire would briefly hurt even AI names on rotation. Use as a buying opportunity.
+### ▲ CONCENTRATE AI (MU, NVDA, COHR, LITE, SMCI) — This Sector Is Immune
+{: .trade-long}
 
-> **▲ MAX ENERGY — XOM, CVX, SLB, XOP**
->
-> Kuwait refineries offline. Iraq force majeure. Pentagon preparing ground troops. Brent $112 and going higher. Goldman says oil may stay in triple digits for years. This is the only sector with positive earnings revisions. Concentrate. Trim only on verified Hormuz reopening.
->
-> **Risk:** Sudden diplomatic breakthrough — the only scenario that reverses energy.
+Micron +8% from a historic beat. COHR +15.4%, LITE +12% on OFC 2026 + NVDA partnerships + S&P 500 inclusion March 23. The AI infrastructure buildout is genuinely immune to the war. Hyperscalers are not cancelling data centres because Brent is at $112. COHR and LITE get mechanical passive buying Monday as they join the S&P 500. Buy the photonics dip on any Friday volatility.
 
-> **▲ GOLD + DEFENCE BASKET — The War Continues**
->
-> Gold at $3,305 and going higher. LMT, RTX, GD, NOC all benefiting from multi-year procurement tailwinds. Pentagon ground troop preparations confirm defence spending is accelerating. This basket is now the portfolio anchor.
->
-> **Risk:** Peace deal — the only risk to both simultaneously.
+*Risk: A surprise ceasefire would briefly hurt even AI names on rotation. Use as a buying opportunity.*
 
-> **▼ SELL EVERYTHING ELSE**
->
-> Airlines: uninvestable. Consumer discretionary: cracking. High-multiple SaaS: rate + growth double compression. Small caps: in correction. EM-exposed: FX headwinds. This is not a market where diversification works. It's a market where conviction wins.
+### ▲ MAX ENERGY — XOM, CVX, SLB, XOP
+{: .trade-long}
+
+Kuwait refineries offline. Iraq force majeure. Pentagon preparing ground troops. Brent $112 and going higher. Goldman says oil may stay in triple digits for years. This is the only sector with positive earnings revisions. Concentrate. Trim only on verified Hormuz reopening.
+
+*Risk: Sudden diplomatic breakthrough — the only scenario that reverses energy.*
+
+### ▲ GOLD + DEFENCE BASKET — The War Continues
+{: .trade-long}
+
+Gold at $3,305 and going higher. LMT, RTX, GD, NOC all benefiting from multi-year procurement tailwinds. Pentagon ground troop preparations confirm defence spending is accelerating. This basket is now the portfolio anchor.
+
+*Risk: Peace deal — the only risk to both simultaneously.*
+
+### ▼ SELL EVERYTHING ELSE
+{: .trade-short}
+
+Airlines: uninvestable. Consumer discretionary: cracking. High-multiple SaaS: rate + growth double compression. Small caps: in correction. EM-exposed: FX headwinds. This is not a market where diversification works. It's a market where conviction wins.
 
 ## Bottom Line | Two Markets. One War. Choose Your Side.
 

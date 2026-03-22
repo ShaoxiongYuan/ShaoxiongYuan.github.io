@@ -1,7 +1,7 @@
 ---
 layout: morning-note
-title: "Day 16. No Ceasefire. $104 Brent. FOMC Tomorrow. Trump Threatens to Delay China Summit."
-headline: "Day 16. No Ceasefire. $104 Brent. FOMC Tomorrow. Trump Threatens to Delay China Summit."
+title: "No Ceasefire. $104 Brent. FOMC Tomorrow. Trump Threatens to Delay China Summit."
+headline: "No Ceasefire. $104 Brent. FOMC Tomorrow. Trump Threatens to Delay China Summit."
 date: 2026-03-16
 image: /images/notes/2026-03-16.jpg
 author: Steven Yuan
@@ -77,7 +77,7 @@ We enter Week 3 of the US-Israel war on Iran with the Strait of Hormuz still blo
 | **US Nat Gas** | **$4.95** | **+2.7%** | **+24%** | LNG export premium + Qatar FM still reverberating |
 | **Asian LNG** | **$25.80** | **+1.6%** | **+112%** | Post-Qatar FM; supply scramble across Asia-Pacific |
 
-## War Status | Day 16 — Key Players, Key Statements
+## War Status | Day 17 — Key Players, Key Statements
 
 > **🇺🇸 TRUMP (Saturday) "War Is Very Complete, Pretty Much" But Then: May Delay China Summit**
 >
@@ -114,7 +114,7 @@ We enter Week 3 of the US-Israel war on Iran with the Strait of Hormuz still blo
 
 | # | Headline |
 |---|---|
-| 1 | Day 16: IDF expanding strikes in Isfahan, Shiraz, Tehran, Hamedan; plans 3+ more weeks through Passover |
+| 1 | Day 17: IDF expanding strikes in Isfahan, Shiraz, Tehran, Hamedan; plans 3+ more weeks through Passover |
 | 2 | Mojtaba Khamenei's first statement: Hormuz stays closed, all US bases to be targeted, vengeance vowed |
 | 3 | Trump calls Mojtaba a "lightweight," demands unconditional surrender, threatens Iran will be "hit very hard" |
 | 4 | Trump signals possible delay to April 1 Beijing summit; tariff truce potentially at risk |
@@ -181,35 +181,40 @@ We enter Week 3 of the US-Israel war on Iran with the Strait of Hormuz still blo
 
 ## Trade Ideas | FOMC Week Positioning
 
-> **▲ EVENT TRADE NVDA — GTC Keynote Today Is a Near-Term Catalyst**
->
-> Jensen Huang's keynote at 1:00 PM ET is the biggest AI event of the quarter. Vera Rubin GPU details, NemoClaw agent platform, and enterprise AI roadmap updates could provide a much-needed narrative lift for the entire semiconductor complex. NVDA has been resilient (−1.1% last week vs. SMCI −4.8%, TEAM −7.4%). A strong GTC in a weak macro environment = NVDA pulls further ahead of the pack. Buy ahead of keynote; take partial profits if initial reaction is >+3%.
->
-> **Risk:** Macro overpowers micro: if FOMC is hawkish Wed, GTC gains evaporate. Size accordingly.
+### ▲ EVENT TRADE NVDA — GTC Keynote Today Is a Near-Term Catalyst
+{: .trade-long}
 
-> **▲ STRUCTURAL HOLD Energy: XOM, CVX, XOP, SLB — Triple-Digit Oil Is Not Priced In**
->
-> Brent at $104. WTI above $100. IEA SPR release had zero price impact. Goldman extended Hormuz disruption to 21+ days. Mojtaba Khamenei's first act was to keep it closed. Energy is the only sector with positive earnings revisions. XOM and CVX are generating FCF at levels that support accelerated buybacks. SLB benefits from the urgency to bring non-OPEC supply online. Maintain overweight; trim only on verified ceasefire + Hormuz reopening.
->
-> **Risk:** Peace deal + Hormuz reopening = violent unwind in energy names. Trailing stops mandatory.
+Jensen Huang's keynote at 1:00 PM ET is the biggest AI event of the quarter. Vera Rubin GPU details, NemoClaw agent platform, and enterprise AI roadmap updates could provide a much-needed narrative lift for the entire semiconductor complex. NVDA has been resilient (−1.1% last week vs. SMCI −4.8%, TEAM −7.4%). A strong GTC in a weak macro environment = NVDA pulls further ahead of the pack. Buy ahead of keynote; take partial profits if initial reaction is >+3%.
 
-> **▲ EARNINGS TRADE MU — Micron Thursday Is AI's Reality Check**
->
-> Micron reports Thursday AMC. HBM3E demand from NVDA/AMD is the key metric. A strong guide confirms AI infrastructure spending is immune to macro. A weak guide means the $100B+ capex cycle is finally meeting resistance. Position long ahead of earnings with a tight post-report stop. The risk-reward favours buyers at current levels: stock has been flat for 3 weeks while the AI narrative remains intact.
->
-> **Risk:** Any HBM demand softening or capex delay signals = hard sell across semis.
+*Risk: Macro overpowers micro: if FOMC is hawkish Wed, GTC gains evaporate. Size accordingly.*
 
-> **▲ DEFENCE + GOLD LMT, RTX, GD, NOC + GLD — The War Trade Basket**
->
-> Lockheed near all-time high. RTX +5% in March. General Dynamics and Northrop Grumman benefiting from multi-year procurement tailwinds. This is not a short-term trade; the IDF said 3+ more weeks of operations. Gold above $5,100 — new ATH territory. Central bank buying + EM currency crisis + stagflation = structural bid for gold. Own both: defence for the kinetic war, gold for the economic war.
->
-> **Risk:** A surprise peace deal would crush both trades simultaneously. This is the tail risk.
+### ▲ STRUCTURAL HOLD Energy: XOM, CVX, XOP, SLB — Triple-Digit Oil Is Not Priced In
+{: .trade-long}
 
-> **▼ REDUCE / AVOID Airlines, Consumer Discretionary, High-Multiple SaaS, EM-Exposed**
->
-> Airlines: AAL, DAL, UAL — $100+ oil makes Q2 guidance impossible; every bounce is fake. Consumer discretionary: NKE earnings Thu will confirm the consumer is cracking (Michigan 55.5). High-multiple SaaS: TEAM, WDAY, CRM bleeding as rates rise; FOMC hawkish hold = more pain. EM-exposed: Companies with Turkey, Pakistan, South Korea revenue facing FX headwinds. Sell rallies in all four categories. The floor is lower than you think.
->
-> **Risk:** Genuine ceasefire + Hormuz reopening violently reverses all four. Maintain watchlists.
+Brent at $104. WTI above $100. IEA SPR release had zero price impact. Goldman extended Hormuz disruption to 21+ days. Mojtaba Khamenei's first act was to keep it closed. Energy is the only sector with positive earnings revisions. XOM and CVX are generating FCF at levels that support accelerated buybacks. SLB benefits from the urgency to bring non-OPEC supply online. Maintain overweight; trim only on verified ceasefire + Hormuz reopening.
+
+*Risk: Peace deal + Hormuz reopening = violent unwind in energy names. Trailing stops mandatory.*
+
+### ▲ EARNINGS TRADE MU — Micron Thursday Is AI's Reality Check
+{: .trade-long}
+
+Micron reports Thursday AMC. HBM3E demand from NVDA/AMD is the key metric. A strong guide confirms AI infrastructure spending is immune to macro. A weak guide means the $100B+ capex cycle is finally meeting resistance. Position long ahead of earnings with a tight post-report stop. The risk-reward favours buyers at current levels: stock has been flat for 3 weeks while the AI narrative remains intact.
+
+*Risk: Any HBM demand softening or capex delay signals = hard sell across semis.*
+
+### ▲ DEFENCE + GOLD LMT, RTX, GD, NOC + GLD — The War Trade Basket
+{: .trade-long}
+
+Lockheed near all-time high. RTX +5% in March. General Dynamics and Northrop Grumman benefiting from multi-year procurement tailwinds. This is not a short-term trade; the IDF said 3+ more weeks of operations. Gold above $5,100 — new ATH territory. Central bank buying + EM currency crisis + stagflation = structural bid for gold. Own both: defence for the kinetic war, gold for the economic war.
+
+*Risk: A surprise peace deal would crush both trades simultaneously. This is the tail risk.*
+
+### ▼ REDUCE / AVOID Airlines, Consumer Discretionary, High-Multiple SaaS, EM-Exposed
+{: .trade-short}
+
+Airlines: AAL, DAL, UAL — $100+ oil makes Q2 guidance impossible; every bounce is fake. Consumer discretionary: NKE earnings Thu will confirm the consumer is cracking (Michigan 55.5). High-multiple SaaS: TEAM, WDAY, CRM bleeding as rates rise; FOMC hawkish hold = more pain. EM-exposed: Companies with Turkey, Pakistan, South Korea revenue facing FX headwinds. Sell rallies in all four categories. The floor is lower than you think.
+
+*Risk: Genuine ceasefire + Hormuz reopening violently reverses all four. Maintain watchlists.*
 
 ## Bottom Line | The Week That Defines Q2
 

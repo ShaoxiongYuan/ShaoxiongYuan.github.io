@@ -1,7 +1,7 @@
 ---
 layout: morning-note
-title: "Day 17. Israel Kills Larijani. Invades Lebanon. Two-Front War. FOMC Begins Today."
-headline: "Day 17. Israel Kills Larijani. Invades Lebanon. Two-Front War. FOMC Begins Today."
+title: "Israel Kills Larijani. Invades Lebanon. Two-Front War. FOMC Begins Today."
+headline: "Israel Kills Larijani. Invades Lebanon. Two-Front War. FOMC Begins Today."
 date: 2026-03-17
 image: /images/notes/2026-03-17.jpg
 author: Steven Yuan
@@ -69,7 +69,7 @@ Overnight the war escalated on two fronts. Israeli airstrikes killed Ali Larijan
 | **Gold** | **$5,130+** | ATH territory; safe-haven structurally bid |
 | **10-Yr Yield** | **~4.30%** | Inflation fear; FOMC meeting begins today |
 
-## War Escalation | Day 17 — Two-Front War Opens
+## War Escalation | Day 18 — Two-Front War Opens
 
 > **🇮🇱 ISRAEL — Larijani Assassination + Lebanon Ground Invasion**
 >
@@ -83,7 +83,7 @@ Overnight the war escalated on two fronts. Israeli airstrikes killed Ali Larijan
 >
 > Trump scolded NATO allies for their "lack of enthusiasm" on the Hormuz escort request. Iran, he said, is "ready to negotiate" but the "terms aren't good enough yet." NATO flatly rejected the escort request. Without allied naval support, the Hormuz blockade remains intact and the oil premium is structural.
 
-## War Signal Tracker | Day 17
+## War Signal Tracker | Day 18
 
 | Signal | Detail | Mkt Read |
 |---|---|---|
@@ -116,27 +116,31 @@ Overnight the war escalated on two fronts. Israeli airstrikes killed Ali Larijan
 
 ## Trade Ideas | FOMC Eve Positioning
 
-> **▲ STRUCTURAL HOLD Energy: XOM, CVX, SLB — Two-Front War Adds Floor**
->
-> Brent at $103.42 with Lebanon invasion now open and Hormuz still blocked. The Larijani assassination removes the last diplomatic off-ramp. Energy is the only sector with positive earnings revision momentum. Hold existing energy positions; reduce only on verified Hormuz reopening. The war just got longer.
->
-> **Risk:** A surprise ceasefire (now less likely after Larijani killing) would trigger violent energy unwind.
+### ▲ STRUCTURAL HOLD Energy: XOM, CVX, SLB — Two-Front War Adds Floor
+{: .trade-long}
 
-> **▲ HOLD + ADD Defence: LMT, RTX, GD, NOC — Two-Front Confirms Multi-Year Procurement**
->
-> A Lebanon ground invasion on top of the Iran air campaign is the strongest possible confirmation of sustained defence spending. LMT, RTX, GD, NOC all have multi-year procurement visibility. Add on any dip.
->
-> **Risk:** Peace deal — the tail risk that is now further away than ever.
+Brent at $103.42 with Lebanon invasion now open and Hormuz still blocked. The Larijani assassination removes the last diplomatic off-ramp. Energy is the only sector with positive earnings revision momentum. Hold existing energy positions; reduce only on verified Hormuz reopening. The war just got longer.
 
-> **▲ TACTICAL NVDA — GTC Narrative Is the Only Micro Bull Case**
->
-> +1.7% yesterday on a massive escalation day = NVDA is outperforming on fundamentals. The $1T order book is a multi-year earnings story. Hold through FOMC; reduce if Wednesday's decision is hawkish and the macro overwhelms the micro.
->
-> **Risk:** FOMC hawkish hold (60% base case) could drag even NVDA lower on Wednesday.
+*Risk: A surprise ceasefire (now less likely after Larijani killing) would trigger violent energy unwind.*
 
-> **▼ REDUCE / AVOID Rate-Sensitive Growth Ahead of FOMC**
->
-> FOMC begins today. If the dot plot tomorrow removes 2026 cuts, high-multiple SaaS (TEAM, WDAY, CRM) faces double pressure from war-driven risk-off and rate repricing. Reduce exposure ahead of 2:00 PM tomorrow.
+### ▲ HOLD + ADD Defence: LMT, RTX, GD, NOC — Two-Front Confirms Multi-Year Procurement
+{: .trade-long}
+
+A Lebanon ground invasion on top of the Iran air campaign is the strongest possible confirmation of sustained defence spending. LMT, RTX, GD, NOC all have multi-year procurement visibility. Add on any dip.
+
+*Risk: Peace deal — the tail risk that is now further away than ever.*
+
+### ▲ TACTICAL NVDA — GTC Narrative Is the Only Micro Bull Case
+{: .trade-long}
+
++1.7% yesterday on a massive escalation day = NVDA is outperforming on fundamentals. The $1T order book is a multi-year earnings story. Hold through FOMC; reduce if Wednesday's decision is hawkish and the macro overwhelms the micro.
+
+*Risk: FOMC hawkish hold (60% base case) could drag even NVDA lower on Wednesday.*
+
+### ▼ REDUCE / AVOID Rate-Sensitive Growth Ahead of FOMC
+{: .trade-short}
+
+FOMC begins today. If the dot plot tomorrow removes 2026 cuts, high-multiple SaaS (TEAM, WDAY, CRM) faces double pressure from war-driven risk-off and rate repricing. Reduce exposure ahead of 2:00 PM tomorrow.
 
 ## Bottom Line | FOMC Day. Two-Front War. No Off-Ramp.
 

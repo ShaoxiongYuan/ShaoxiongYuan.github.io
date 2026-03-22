@@ -1,7 +1,7 @@
 ---
 layout: morning-note
-title: "Day 18. Iran Retaliates Massively. 100+ Targets. US Embassy Hit. PPI Hot. FOMC at 2 PM."
-headline: "Day 18. Iran Retaliates Massively. 100+ Targets. US Embassy Hit. PPI Hot. FOMC at 2 PM."
+title: "Iran Retaliates Massively. 100+ Targets. US Embassy Hit. PPI Hot. FOMC at 2 PM."
+headline: "Iran Retaliates Massively. 100+ Targets. US Embassy Hit. PPI Hot. FOMC at 2 PM."
 date: 2026-03-18
 image: /images/notes/2026-03-18.jpg
 author: Steven Yuan
@@ -68,7 +68,7 @@ Overnight, the war entered its most dangerous 24 hours since it began. Iran's IR
 | **Gold** | **$5,150+** | Embassy hit + PPI = safe-haven demand intensifying |
 | **10-Yr Yield** | **~4.35%** | Hot PPI pushing rates higher into FOMC |
 
-## War Escalation | Day 18 — Iran's Retaliation Arrives
+## War Escalation | Day 19 — Iran's Retaliation Arrives
 
 > **🇮🇷 IRAN IRGC — Massive Retaliation: 100+ Targets, UAE + Saudi + US Embassy**
 >
@@ -78,7 +78,7 @@ Overnight, the war entered its most dangerous 24 hours since it began. Iran's IR
 >
 > Israel responded by bombing central Beirut and expanding its ground invasion south of the Litani River. The IDF is planning to strike bridges and crossings today to cut Hezbollah supply lines. 1M+ people are now displaced in Lebanon. The two-front war is intensifying simultaneously rather than sequentially.
 
-## War Signal Tracker | Day 18
+## War Signal Tracker | Day 19
 
 | Signal | Detail | Mkt Read |
 |---|---|---|
@@ -120,17 +120,20 @@ Overnight, the war entered its most dangerous 24 hours since it began. Iran's IR
 
 ## Trade Ideas | FOMC Decision Day
 
-> **▲ HOLD Energy + Defence Into FOMC — Macro Events Don't Change the Trade**
->
-> Brent at $106. US Embassy Baghdad just took a drone hit. Gulf energy infrastructure under attack. Whatever the Fed does today, the energy and defence trades are structurally intact. Do not sell energy or defence ahead of the 2:00 PM decision. Position size unchanged.
+### ▲ HOLD Energy + Defence Into FOMC — Macro Events Don't Change the Trade
+{: .trade-long}
 
-> **▼ REDUCE Rate-Sensitive Growth Before 2 PM**
->
-> Hot PPI + Iranian retaliation = the most bearish possible FOMC setup for growth stocks. TEAM, WDAY, CRM, SMCI face a double compression: (1) the dot plot likely removing cuts and (2) war-driven risk-off. Reduce before the decision. You can always re-enter at lower prices.
+Brent at $106. US Embassy Baghdad just took a drone hit. Gulf energy infrastructure under attack. Whatever the Fed does today, the energy and defence trades are structurally intact. Do not sell energy or defence ahead of the 2:00 PM decision. Position size unchanged.
 
-> **▲ MU (Micron) Post-FOMC — AI Demand Is the One Positive Catalyst**
->
-> Micron reports after the close today (originally scheduled Thursday, moved earlier). AI HBM demand is the single most important data point for the semiconductor complex. A strong beat could partially offset FOMC bearishness. Watch after-hours carefully.
+### ▼ REDUCE Rate-Sensitive Growth Before 2 PM
+{: .trade-short}
+
+Hot PPI + Iranian retaliation = the most bearish possible FOMC setup for growth stocks. TEAM, WDAY, CRM, SMCI face a double compression: (1) the dot plot likely removing cuts and (2) war-driven risk-off. Reduce before the decision. You can always re-enter at lower prices.
+
+### ▲ MU (Micron) Post-FOMC — AI Demand Is the One Positive Catalyst
+{: .trade-long}
+
+Micron reports after the close today (originally scheduled Thursday, moved earlier). AI HBM demand is the single most important data point for the semiconductor complex. A strong beat could partially offset FOMC bearishness. Watch after-hours carefully.
 
 ## Bottom Line | The Worst Possible FOMC Backdrop
 
