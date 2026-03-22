@@ -65,8 +65,8 @@ Daily equity research notes on market structure, macro, and trade ideas.
 | Date | Headline |
 | ---- | -------- |
 | [Mar 21, 2026](/morning-notes/2026-03-21-week-review-war-week3-fomc-micron-photonics){:target="_blank"} | *Week-in-Review · War Week 3. FOMC Holds. Micron Blows Out. Photonics Breaks Out. Markets Break Down.* |
-| [Mar 20, 2026](/morning-notes/2026-03-20-day20-sp-1pt5-brent-112-kuwait-photonics){:target="_blank"} | *Day 20. S&P −1.5%. Dow −444. Brent $112. Kuwait Refineries on Fire. Photonics Exploding.* |
-| [Mar 19, 2026](/morning-notes/2026-03-19-day19-dow-768-powell-micron-blows-out){:target="_blank"} | *Day 19. Dow −768. Powell: Inflation Not Coming Down. Micron Destroys Estimates. Oil Near $110.* |
+| [Mar 20, 2026](/morning-notes/2026-03-20-day20-sp-1pt5-brent-112-kuwait-photonics){:target="_blank"} | *S&P −1.5%. Dow −444. Brent $112. Kuwait Refineries on Fire. Photonics Exploding.* |
+| [Mar 19, 2026](/morning-notes/2026-03-19-day19-dow-768-powell-micron-blows-out){:target="_blank"} | *Dow −768. Powell: Inflation Not Coming Down. Micron Destroys Estimates. Oil Near $110.* |
 
 ### Industry Analysis
 
