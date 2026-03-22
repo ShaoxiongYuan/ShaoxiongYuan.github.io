@@ -111,6 +111,7 @@ Occasional reports and opinions on the hottest things happening in the market �
 
 | Post | Category | Date |
 | ---- | -------- | ---- |
+| [*Claude's New Era: Every Feature That Matters in 2026*](/tech-tidbits/claude-features-post){:target="_blank"} | AI Features | Mar 2026 |
 | [*Claude Skills vs. OpenClaw — Two Very Different Visions for AI Agents*](/tech-tidbits/openclaw-vs-claude){:target="_blank"} | AI Agents | Mar 2026 |
 | [*OpenClaw — The Autonomous AI Agent Redefining How We Work*](/tech-tidbits/openclaw){:target="_blank"} | AI Agents | Mar 2026 |
 

@@ -7,6 +7,7 @@ category: "AI Features"
 date: 2026-03-21
 read_time: "12 min read"
 summary: "Voice mode, agent teams, remote control from your phone, the /btw side-channel, 50+ MCP connections, Cowork, and a million-token context window. Here's what changed, why it matters, and where it's all heading."
+head_image: "/images/tech-claude-features-post.jpg"
 permalink: /tech-tidbits/claude-features-post/
 ---
 
