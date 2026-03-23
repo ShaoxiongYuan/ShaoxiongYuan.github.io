@@ -14,14 +14,6 @@ badges:
   - { label: "Healthcare IT", active: false }
 ---
 
-# SECTOR OVERVIEW: Healthcare
-
-**Market Sizing | Competitive Dynamics | Investment Implications**
-
-*March 2026 | Updated with Q4 2025 Earnings & Latest M&A Data*
-
----
-
 | Global Market | 5-Yr CAGR | GLP-1 TAM | M&A (2025) | Median EV/EBITDA | Patent Cliff |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | **$9.25T** | **5.2%** | **$105B by 2035** | **$138B / 129 Deals** | **11.5x** | **$120B+ at Risk** |
