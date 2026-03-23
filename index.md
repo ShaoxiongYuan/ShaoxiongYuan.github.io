@@ -76,6 +76,7 @@ Sector-level deep dives covering market structure, competitive dynamics, and the
 |-|-|
 | [Technology & Software](/industry-analysis/technology-software/) | Semiconductors, AI infrastructure, cloud, platform economics |
 | [Financial Services](/industry-analysis/financial-services/) | Banking, private credit risk, asset management, fintech |
+| [Healthcare](/industry-analysis/healthcare/) | Pharmaceuticals, GLP-1, medical devices, payers, healthcare services |
 
 [**→ View Industry Analysis**](/industry-analysis)
 
