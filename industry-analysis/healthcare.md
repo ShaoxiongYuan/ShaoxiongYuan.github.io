@@ -7,11 +7,11 @@ kicker: "Sector Research"
 summary: "Comprehensive analysis of the global healthcare sector covering pharmaceuticals, medical technology, payers, and healthcare services with focus on GLP-1 markets, AI drug discovery, regulatory transformation, and structural investment themes."
 permalink: /industry-analysis/healthcare/
 badges:
-  - { label: "Pharma & Biotech", active: false }
-  - { label: "MedTech & Devices", active: false }
-  - { label: "Payers & Insurance", active: false }
-  - { label: "Healthcare Services", active: false }
-  - { label: "Healthcare IT", active: false }
+  - { label: "Pharma & Biotech", active: true }
+  - { label: "MedTech & Devices", active: true }
+  - { label: "Payers & Insurance", active: true }
+  - { label: "Healthcare Services", active: true }
+  - { label: "Healthcare IT", active: true }
 ---
 
 | Global Market | 5-Yr CAGR | GLP-1 TAM | M&A (2025) | Median EV/EBITDA | Patent Cliff |
