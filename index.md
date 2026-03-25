@@ -94,9 +94,9 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 
 | Film | Director | Rating |
 | ---- | -------- | ------ |
+| [*undertone*](/reviews/undertone){:target="_blank"} | Ian Tuason | ★★½ |
 | [*KPop Demon Hunters*](/reviews/kpop-demon-hunters){:target="_blank"} | Chris Appelhans | ★★★½ |
 | [*Hoppers*](/reviews/hoppers){:target="_blank"} | Jon Negroni | ★★★★ |
-| [*Hamnet*](/reviews/hamnet){:target="_blank"} | Chloé Zhao | ★★★ |
 
 </div>
 
