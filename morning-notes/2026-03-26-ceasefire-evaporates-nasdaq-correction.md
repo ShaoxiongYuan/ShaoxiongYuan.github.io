@@ -1,8 +1,38 @@
-# MORNING NOTE
+---
+layout: morning-note
+title: "Ceasefire Optimism Evaporates. Nasdaq Enters Correction Territory. ECB Hawkish. TurboQuant Shock."
+headline: "Ceasefire Optimism Evaporates. Nasdaq Enters Correction Territory. ECB Hawkish. TurboQuant Shock."
+date: 2026-03-26
+image: /images/notes/2026-03-26.jpg
+author: Steven Yuan
 
-# Thursday, March 26, 2026  |  Pre-Market Briefing
+snapshot:
+  - { label: "S&P 500",          value: "6,477",      dir: down }
+  - { label: "Nasdaq",           value: "21,408",     dir: down }
+  - { label: "Dow",              value: "45,960",     dir: down }
+  - { label: "Brent Crude",      value: "$108",       dir: up }
 
-Wednesday's Ceasefire Optimism Evaporates; Nasdaq Enters Correction Territory
+levels:
+  - { name: "S&P 500",           value: "6,477",      dir: down }
+  - { name: "Nasdaq",            value: "21,408",     dir: down }
+  - { name: "Brent Crude",       value: "$108",       dir: up }
+  - { name: "VIX",               value: "~28",        dir: up }
+
+sentiment:
+  - { label: "Energy",           tone: bullish, pct: 85 }
+  - { label: "Equities (broad)", tone: bearish, pct: 10 }
+  - { label: "Tech",             tone: bearish, pct: 5 }
+  - { label: "Defensives",       tone: bullish, pct: 70 }
+
+tags:
+  - correction
+  - Nasdaq
+  - ceasefire
+  - ECB
+  - TurboQuant
+  - war
+  - tech-weakness
+---
 
 # EXECUTIVE SUMMARY
 

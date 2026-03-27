@@ -1,6 +1,40 @@
-# MONDAY, MARCH 23, 2026
+---
+layout: morning-note
+title: "Trump Delays Iran Strikes 5 Days. Brent Crashes 14%. Futures Rip. COHR/LITE Join S&P 500."
+headline: "Trump Delays Iran Strikes 5 Days. Brent Crashes 14%. Futures Rip. COHR/LITE Join S&P 500."
+date: 2026-03-23
+image: /images/notes/2026-03-23.jpg
+author: Steven Yuan
 
-Trump Delays Iran Strikes 5 Days. “Very Good Talks.” Brent Crashes 14%. Futures Rip. COHR/LITE Join S&P 500 Today.
+snapshot:
+  - { label: "S&P Futures",      value: "+2.7%",      dir: up }
+  - { label: "Dow Futures",      value: "+2.1%",      dir: up }
+  - { label: "Brent Crude",      value: "$99-$104",   dir: down }
+  - { label: "VIX",              value: "26.8",       dir: down }
+
+levels:
+  - { name: "S&P 500 Futures",   value: "+2.7%",      dir: up }
+  - { name: "Dow Futures",       value: "+2.1%",      dir: up }
+  - { name: "Brent Crude",       value: "$99-$104",   dir: down }
+  - { name: "VIX",               value: "26.8",       dir: down }
+
+sentiment:
+  - { label: "Energy",           tone: bullish, pct: 85 }
+  - { label: "Photonics",        tone: bullish, pct: 88 }
+  - { label: "Defense",          tone: bullish, pct: 80 }
+  - { label: "Equities (broad)", tone: neutral, pct: 50 }
+
+tags:
+  - ceasefire
+  - Iran
+  - oil
+  - Brent
+  - Trump
+  - S&P500
+  - photonics
+  - COHR
+  - LITE
+---
 
 Day 24 of the US-Iran War  |  Brent $99-$104 (was $112 Fri)  |  S&P Futs +2.7%  |  Dow Futs +2.1%  |  VIX 26.8
 

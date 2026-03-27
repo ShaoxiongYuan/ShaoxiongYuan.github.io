@@ -1,8 +1,36 @@
-# MORNING NOTE
+---
+layout: morning-note
+title: "U.S.-Iran Ceasefire Hopes Dominate. Oil Plunges. Risk-On Sweep Across Asia & Europe."
+headline: "U.S.-Iran Ceasefire Hopes Dominate. Oil Plunges. Risk-On Sweep Across Asia & Europe."
+date: 2026-03-25
+image: /images/notes/2026-03-25.jpg
+author: Steven Yuan
 
-# Tuesday, March 25, 2026  |  Pre-Market Briefing
+snapshot:
+  - { label: "S&P Futures",      value: "+0.9%",      dir: up }
+  - { label: "Brent Crude",      value: "~$100",      dir: down }
+  - { label: "Nikkei",           value: "+2.9%",      dir: up }
+  - { label: "Taiex",            value: "+2.5%",      dir: up }
 
-U.S.-Iran Ceasefire Hopes Dominate; Oil Plunges, Risk-On Sweep Across Asia & Europe
+levels:
+  - { name: "Brent Crude",       value: "~$100",      dir: down }
+  - { name: "S&P 500 Futures",   value: "+0.9%",      dir: up }
+  - { name: "10Y Treasury",      value: "4.31%",      dir: down }
+
+sentiment:
+  - { label: "Risk Assets",      tone: bullish, pct: 75 }
+  - { label: "Energy",           tone: bearish, pct: 30 }
+  - { label: "Diplomacy",        tone: bullish, pct: 70 }
+
+tags:
+  - ceasefire
+  - Iran
+  - oil
+  - diplomacy
+  - Asia
+  - Europe
+  - risk-on
+---
 
 # EXECUTIVE SUMMARY
 
