@@ -2,7 +2,7 @@
 layout: review
 title: "The Voice of Hind Rajab (2026) Review"
 film_title: "The Voice of Hind Rajab"
-director: "Unknown"
+director: "Kaouther Ben Hania"
 year: 2026
 date: 2026-03-26
 genre: "Documentary · War"

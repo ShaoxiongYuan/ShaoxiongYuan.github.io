@@ -94,8 +94,8 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 
 | Film | Director | Rating |
 | ---- | -------- | ------ |
-| [*David*](/reviews/david){:target="_blank"} | Unknown | ★★★½ |
-| [*The Voice of Hind Rajab*](/reviews/voice-of-hind-rajab){:target="_blank"} | Unknown | ★★★★★ |
+| [*David*](/reviews/david){:target="_blank"} | Brent Dawes, Phil Cunningham | ★★★½ |
+| [*The Voice of Hind Rajab*](/reviews/voice-of-hind-rajab){:target="_blank"} | Kaouther Ben Hania | ★★★★★ |
 | [*Send Help*](/reviews/send-help){:target="_blank"} | Sam Raimi | ★★★½ |
 
 </div>

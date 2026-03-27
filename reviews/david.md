@@ -2,7 +2,7 @@
 layout: review
 title: "David (2026) Review"
 film_title: "David"
-director: "Unknown"
+director: "Brent Dawes, Phil Cunningham"
 year: 2026
 date: 2026-03-27
 genre: "Animation · Biblical · Musical"
