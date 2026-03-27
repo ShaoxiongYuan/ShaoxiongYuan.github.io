@@ -34,11 +34,11 @@ tags:
   - tech-weakness
 ---
 
-# EXECUTIVE SUMMARY
+## Executive Summary
 
 Yesterday's risk-on rally has been completely unwound. The S&P 500 fell 1.74% to 6,477, the Nasdaq plunged 2.38% to 21,408 (officially entering correction territory at -10% from its October high), and the Dow shed 1.01% to 45,960. The reversal came on three catalysts: (1) Iran explicitly rejected the 15-point U.S. ceasefire plan and denied any direct negotiations, (2) ECB President Lagarde warned that markets are "maybe overly optimistic" and signaled willingness to hike rates even for a temporary inflation overshoot, and (3) Google's TurboQuant algorithm announcement crushed memory chip stocks, adding a sector-specific shock to the broader macro sell-off. Oil surged back -- Brent settled at $108/bbl (+5.7%), WTI at $94.48 (+4.6%). Pre-market this morning shows further risk-off: Asia sold off overnight and European indices are opening lower.
 
-# U.S.-IRAN CONFLICT: DETAILED SITUATION REPORT (WEEK 4)
+## U.S.-Iran Conflict | Detailed Situation Report (Week 4)
 
 Diplomatic Status
 
@@ -62,25 +62,20 @@ Troop Deployments: Pentagon deploying thousands of additional Marines to the Mid
 
 Sentiment & Market Impact Assessment
 
-# The conflict is now the single largest driver of global cross-asset price action. Since March 1: S&P 500 is down ~6%, WTI surged from $72 to a peak of $112, VIX doubled from 13 to 25, and 10Y Treasury yields have risen to 4.39% on inflation fears. The Nasdaq is officially in correction territory (-10% from peak). The STOXX Europe 600 has fared even worse, down ~8.1% over the past month. The tape is binary: any credible de-escalation headline triggers a 1-3% equity rally and $5-10 oil drop; any rejection or escalation headline reverses it within hours. Wednesday's session was a textbook example -- the morning rally on ceasefire hopes was fully reversed by close.
+The conflict is now the single largest driver of global cross-asset price action. Since March 1: S&P 500 is down ~6%, WTI surged from $72 to a peak of $112, VIX doubled from 13 to 25, and 10Y Treasury yields have risen to 4.39% on inflation fears. The Nasdaq is officially in correction territory (-10% from peak). The STOXX Europe 600 has fared even worse, down ~8.1% over the past month. The tape is binary: any credible de-escalation headline triggers a 1-3% equity rally and $5-10 oil drop; any rejection or escalation headline reverses it within hours. Wednesday's session was a textbook example -- the morning rally on ceasefire hopes was fully reversed by close.
 
 KEY RISK: Trump's five-day pause on strikes against Iranian energy infrastructure expires Saturday. A dramatic military escalation grows more likely if no diplomatic progress is made. Markets are pricing almost no probability of a deal this week.
 
-# GLOBAL EQUITY INDICES -- MARCH 25 CLOSE & MARCH 26 OVERNIGHT
+## Global Equity Indices | March 25 Close & March 26 Overnight
 
-# U.S. Close (March 25)
+| Region | Signal |
+|---|---|
+| U.S. | Broad risk-off; Nasdaq entered correction territory and S&P closed lower. |
+| Asia-Pacific | Overnight session sold off as ceasefire optimism faded. |
+| Europe | Opened lower with growth-sensitive sectors lagging. |
 
-# March 26 Close (Thursday Session)
 
-# Asia-Pacific (March 26 Overnight)
-
-# Europe (Early Session March 26)
-
-# INDUSTRY SENTIMENT TRACKER -- WAR & MACRO IMPACT
-
-# A cross-sector sentiment assessment based on price action, analyst commentary, and positioning signals since the conflict began (March 1).
-
-# TECH DEEP DIVE: GOOGLE TURBOQUANT & THE MEMORY DEMAND QUESTION
+## Tech Deep Dive | Google TurboQuant & the Memory Demand Question
 
 What Is TurboQuant?
 
@@ -94,13 +89,13 @@ Market Impact: Memory Stocks Crushed
 
 Implications for NVIDIA
 
-# NVIDIA fell 3.83% on March 26 -- but the TurboQuant story is more nuanced for NVDA than for memory names. Analysts note that TurboQuant makes existing GPUs more efficient per dollar, which could accelerate GPU adoption in cost-sensitive use cases. The compression runs on NVIDIA hardware (H100s showed 8x attention speedups with 4-bit TurboQuant). The winners are Google (direct cost advantage), Google Cloud customers, and AI startups who can now run larger models on smaller hardware budgets.
+**NVIDIA implication:** NVIDIA fell 3.83% on March 26 -- but the TurboQuant story is more nuanced for NVDA than for memory names. Analysts note that TurboQuant makes existing GPUs more efficient per dollar, which could accelerate GPU adoption in cost-sensitive use cases. The compression runs on NVIDIA hardware (H100s showed 8x attention speedups with 4-bit TurboQuant). The winners are Google (direct cost advantage), Google Cloud customers, and AI startups who can now run larger models on smaller hardware budgets.
 
-# NVIDIA's own efficiency roadmap aligns with this trend. At GTC 2026 (March 16-18), Jensen Huang unveiled the Vera Rubin platform -- six new chips delivering a 10x reduction in inference token cost and 4x reduction in GPUs needed to train MoE models vs. Blackwell. The new NVIDIA Inference Context Memory Storage Platform with BlueField-4 is specifically designed to accelerate agentic AI reasoning with better memory management. NVIDIA also showcased NVFP4/FP8 quantization formats enabling 60% and 40% VRAM savings respectively.
+NVIDIA's own efficiency roadmap aligns with this trend. At GTC 2026 (March 16-18), Jensen Huang unveiled the Vera Rubin platform -- six new chips delivering a 10x reduction in inference token cost and 4x reduction in GPUs needed to train MoE models vs. Blackwell. The new NVIDIA Inference Context Memory Storage Platform with BlueField-4 is specifically designed to accelerate agentic AI reasoning with better memory management. NVIDIA also showcased NVFP4/FP8 quantization formats enabling 60% and 40% VRAM savings respectively.
 
 ANALYST VIEW: Wells Fargo's Andrew Rocha: TurboQuant "raises the question of how much memory capacity the industry actually needs." But CNBC commentary described it as "evolutionary, not revolutionary" -- software efficiency gains don't reduce absolute hardware demand when AI workloads continue scaling exponentially. The real risk is to memory chip names; for GPU makers, efficiency gains expand the addressable market.
 
-# COMMODITIES
+## Commodities
 
 Oil
 
@@ -110,23 +105,23 @@ Gold
 
 Gold reversed sharply lower after Wednesday's bounce. Down from the $4,565 level, gold is suffering from a bizarre dynamic: it rallied on "war safe-haven" flows but is selling off on rising real yields and dollar strength. Gold is now down ~20% from its January all-time high of $5,589, though still up ~19% YTD. Miners are squeezed between falling gold and rising oil input costs.
 
-# FIXED INCOME, FX & VOLATILITY
+## Fixed Income, FX & Volatility
 
-# For the first time since the conflict began, futures markets are pricing a greater-than-50% probability of a Fed rate INCREASE by year-end 2026, reflecting the inflation threat from sustained oil above $100. This is a dramatic shift from the easing expectations that prevailed pre-war. A lackluster U.S. Treasury note auction on Thursday added to bond market pressure.
+For the first time since the conflict began, futures markets are pricing a greater-than-50% probability of a Fed rate INCREASE by year-end 2026, reflecting the inflation threat from sustained oil above $100. This is a dramatic shift from the easing expectations that prevailed pre-war. A lackluster U.S. Treasury note auction on Thursday added to bond market pressure.
 
-# CENTRAL BANK WATCH: ECB PIVOT MOMENT
+## Central Bank Watch | ECB Pivot Moment
 
-# LAGARDE BOMBSHELL: ECB President Christine Lagarde told an audience at "The ECB and Its Watchers" conference that the Iran conflict represents a "real shock" and that markets are "maybe overly optimistic." She warned that even a "not-too-persistent" inflation overshoot could warrant a "measured adjustment" (i.e., rate hike). The ECB held at 2.0% in mid-March and had been expected to CUT -- markets are now rapidly repricing for 25bp HIKES. ~35bp of ECB tightening is priced for 2026.
+**Lagarde bombshell:** ECB President Christine Lagarde told an audience at "The ECB and Its Watchers" conference that the Iran conflict represents a "real shock" and that markets are "maybe overly optimistic." She warned that even a "not-too-persistent" inflation overshoot could warrant a "measured adjustment" (i.e., rate hike). The ECB held at 2.0% in mid-March and had been expected to CUT -- markets are now rapidly repricing for 25bp HIKES. ~35bp of ECB tightening is priced for 2026.
 
-# The Lagarde comments triggered the sharpest leg down in Thursday's session, hitting growth-sensitive sectors especially hard. MUFG Research notes the ECB has already brought rates back to neutral, which makes it harder to stand pat vs. other central banks with more restrictive starting points. MUFG's adverse inflation scenario: headline HICP above 5% in both eurozone and UK if oil sustains $120/bbl and natural gas hits 100 EUR/MWh.
+The Lagarde comments triggered the sharpest leg down in Thursday's session, hitting growth-sensitive sectors especially hard. MUFG Research notes the ECB has already brought rates back to neutral, which makes it harder to stand pat vs. other central banks with more restrictive starting points. MUFG's adverse inflation scenario: headline HICP above 5% in both eurozone and UK if oil sustains $120/bbl and natural gas hits 100 EUR/MWh.
 
-# DATA RELEASES & EARNINGS (MARCH 26)
+## Data Releases & Earnings (March 26)
 
 Economic Data
 
 Initial Jobless Claims: Fell to 210K (est. 211K). Continuing claims dropped to 1.819M, lowest since May 2024. Labor market remains tight despite macro headwinds.
 
-# UMich Consumer Sentiment (Final March): 53.3, down 5.8% from Feb and 6.5% from a year ago (est. 54.0). Inflation expectations ticking higher on Iran war concerns.
+**UMich Consumer Sentiment (Final March):** 53.3, down 5.8% from Feb and 6.5% from a year ago (est. 54.0). Inflation expectations ticking higher on Iran war concerns.
 
 Notable Earnings & Corporate Headlines
 
@@ -146,7 +141,7 @@ Robinhood: Authorized $1.5B stock buyback. Piper Sandler called it a beneficiary
 
 SpaceX IPO: Rumors intensifying -- The Information reports it could raise $75B+, making it one of the largest IPOs in history.
 
-# THE BOTTOM LINE
+## Bottom Line
 
 REGIME SHIFT IN PROGRESS. Three forces are converging to create a toxic mix for risk assets: (1) The U.S.-Iran war is grinding toward either escalation or a prolonged stalemate, with Trump's strike pause expiring Saturday and no credible diplomatic offramp in sight. (2) Central banks are pivoting from easing to tightening -- Lagarde's "real shock" warning is the clearest signal yet that the post-pandemic rate-cutting cycle is over, and the CME FedWatch showing >50% probability of a Fed HIKE is a watershed moment. (3) The TurboQuant shock is a microcosm of a broader AI narrative shift from "bigger models = more hardware" to "smarter algorithms = less hardware," which threatens the capex cycle thesis that has underpinned semiconductor valuations.
 
