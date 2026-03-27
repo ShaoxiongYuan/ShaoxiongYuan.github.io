@@ -1,146 +1,154 @@
 ---
 layout: morning-note
-title: "U.S.-Iran Ceasefire Hopes Dominate. Oil Plunges. Risk-On Sweep Across Asia & Europe."
-headline: "U.S.-Iran Ceasefire Hopes Dominate. Oil Plunges. Risk-On Sweep Across Asia & Europe."
+title: '15-Point Deal on the Table. Iran Rejects It. Offers 5 Counter-Demands. Brent Drops Below $100. Consumer Confidence Collapses. The Negotiation Has Begun.'
+headline: '15-Point Deal on the Table. Iran Rejects It. Offers 5 Counter-Demands. Brent Drops Below $100. Consumer Confidence Collapses. The Negotiation Has Begun.'
 date: 2026-03-25
 image: /images/notes/2026-03-25.jpg
 author: Steven Yuan
 
 snapshot:
-  - { label: "S&P Futures",      value: "+0.9%",      dir: up }
-  - { label: "Brent Crude",      value: "~$100",      dir: down }
-  - { label: "Nikkei",           value: "+2.9%",      dir: up }
-  - { label: "Taiex",            value: "+2.5%",      dir: up }
+  - { label: 'Brent Crude', value: '$98–$100', dir: down }
+  - { label: 'WTI Crude', value: '$87–$90', dir: down }
+  - { label: 'Gold (Spot)', value: '$3,200', dir: down }
+  - { label: 'Nat Gas (HH)', value: '$4.80', dir: up }
 
 levels:
-  - { name: "Brent Crude",       value: "~$100",      dir: down }
-  - { name: "S&P 500 Futures",   value: "+0.9%",      dir: up }
-  - { name: "10Y Treasury",      value: "4.31%",      dir: down }
-
-sentiment:
-  - { label: "Risk Assets",      tone: bullish, pct: 75 }
-  - { label: "Energy",           tone: bearish, pct: 30 }
-  - { label: "Diplomacy",        tone: bullish, pct: 70 }
-
-tags:
-  - ceasefire
-  - Iran
-  - oil
-  - diplomacy
-  - Asia
-  - Europe
-  - risk-on
+  - { name: 'Brent Crude', value: '$98–$100', dir: down }
+  - { name: 'WTI Crude', value: '$87–$90', dir: down }
+  - { name: 'Gold (Spot)', value: '$3,200', dir: down }
+  - { name: 'Nat Gas (HH)', value: '$4.80', dir: up }
 ---
 
-## EXECUTIVE SUMMARY
+WEDNESDAY, MARCH 25, 2026
 
-Markets are experiencing a dramatic risk-on rotation this morning after President Trump delivered a 15-point ceasefire proposal to Iran via Pakistani intermediaries. Oil prices collapsed overnight -- Brent fell over 4% to ~$100/bbl and WTI dropped 3%+ to ~$89 -- providing the catalyst for a broad rally in global equities. Asian indices surged (Nikkei +2.9%, Taiex +2.5%, Kospi +1.7%) and European futures are pointing to a strong open. S&P 500 futures are up ~0.9% pre-market, signaling a potential reversal of Monday's weakness. However, Iran rejected the plan outright, and tensions remain elevated with additional U.S. troop deployments and ongoing Strait of Hormuz blockage. Markets are trading diplomacy headlines on a minute-by-minute basis.
+## 15-Point Deal on the Table. Iran Rejects It. Offers 5 Counter-Demands. Brent Drops Below $100. Consumer Confidence Collapses. The Negotiation Has Begun.
 
-## GLOBAL EQUITY INDICES
+Day 26 of the US-Iran War  |  Brent $100 (−6% yesterday)  |  S&P +0.5% yesterday  |  VIX 25  |  Ceasefire Window Day 3 of 5  |  GME Beat EPS, Missed Rev
 
-Asia-Pacific (Closed)
+## TOP CALL — THE NEGOTIATION HAS BEGUN, EVEN IF BOTH SIDES DENY IT
 
-Europe (Early Session / Futures)
+For the first time since February 28, we have a framework for peace—and a counter-offer. That’s the story today, even if the headlines scream “Iran rejects deal.” Let’s unpack what actually happened and why it’s the most constructive development of the entire war.
 
-U.S. Futures (Pre-Market)
+## WHY “REJECTION” IS ACTUALLY BULLISH — THE ANATOMY OF A NEGOTIATION
 
-## GEOPOLITICAL SITUATION: U.S.-IRAN WAR (WEEK 4)
+Here’s what the market is missing: in diplomacy, a counter-offer is acceptance of the negotiation framework. Iran didn’t say “we will never talk.” It said “your terms are unacceptable—here are ours.” That’s a fundamentally different posture than three days ago, when Ghalibaf denied any talks existed and called it “market manipulation.”
 
-The dominant market driver remains the U.S.-Iran conflict, now in its fourth week since hostilities began on March 1. Key overnight developments:
+Look at the overlap between the two positions:
 
-15-Point Ceasefire Proposal: The U.S. delivered a formal peace plan to Iran through Pakistani intermediaries. Terms include rollback of Iran's nuclear program, IAEA monitoring, limits on missiles, and reopening the Strait of Hormuz in exchange for full sanctions relief.
+Sanctions relief: Both sides agree sanctions must be addressed. The US offers “a framework”; Iran wants “all sanctions” ended. This is a gap, not a wall.
 
-Iran's Rejection: FARS news agency reported Iran will not accept the ceasefire. Tehran denied any direct negotiations and countered with its own preliminary terms. Iran's Foreign Minister stated that backchannel exchanges do not constitute negotiations.
+Nuclear limits: The US wants rollback; Iran wants “international recognition of peaceful nuclear rights.” The 2015 JCPOA found a formula here—enrichment caps plus IAEA monitoring. The template exists.
 
-Military Posture: The U.S. is deploying additional troops to the region. Strait of Hormuz remains effectively blockaded. Trump pulled back from earlier threats to strike Iranian energy infrastructure, citing active negotiations.
+Hormuz: The US wants it reopened; Iran wants “international recognition of authority.” This is negotiable—Iran isn’t saying it will keep it closed, it’s demanding sovereignty be acknowledged.
 
-**Market implication:** Since March 1, the S&P 500 has fallen ~6%, WTI surged from $72 to a peak of $112 before pulling back, and the VIX has doubled from 13 to 25. Markets are pricing the mere existence of formal talks as marginally de-escalatory, even though the substance remains far from resolution.
+Hostilities: Both sides want the other to stop shooting. This is the easiest term to agree on once the broader framework holds.
 
-## COMMODITIES
+The hard gap: Israel. Iran’s demands 1, 2, and 4 all target Israeli behavior—assassinations, Lebanon operations, militia attacks. The US cannot deliver Israel. This is the same three-body problem we identified yesterday. Any deal that works requires either Israeli buy-in (unlikely under Netanyahu) or a US-Iran bilateral agreement that sidelines Israel (which creates its own escalation risks).
 
-Crude Oil
+## TRUMP EXTENDS STRIKE DEADLINE TO APRIL 6 — 10 MORE DAYS
 
-Oil is down sharply on ceasefire headline flow. Brent briefly dipped below $99 for the first time in ten days. The drop is the primary catalyst for this morning's equity rally. However, the Strait of Hormuz remains effectively closed, and Iran has signaled it is working on legislation to impose transit fees on ships in the strait. The EIA's latest Short-Term Energy Outlook (March 10) forecast Brent above $95/bbl for the next two months, falling to sub-$80 in Q3 contingent on transit resumption.
+This is the second most important development after the counter-offer. Trump’s original 5-day window (March 23–28) has been extended to April 6 at 8 PM ET. That’s 12 additional days of no US strikes on Iranian energy infrastructure and power plants.
 
-Gold
+What this tells us:
 
-Gold surged back above $4,500 after plunging to ~$4,130 earlier in the week when Trump issued an ultimatum to Iran. The rebound reflects renewed safe-haven demand as markets digest the diplomatic push alongside Iran's rejection. Gold is up ~19% YTD but down sharply from the January all-time high of $5,589. Miners are facing margin pressure from elevated oil costs even as gold prices remain historically high.
+Talks are real: You don’t extend a deadline for a head-fake. Trump is giving diplomacy genuine room to work. The domestic political calculus has shifted—oil at $112 was hurting his approval ratings.
 
-## FIXED INCOME & FX
+Oil ceiling capped: With energy infrastructure strikes off the table until April 6, the risk of a Brent spike above $115 is significantly reduced. The supply disruptions from Kuwait/Iraq/Fujairah are still real, but there won’t be new destruction.
 
-Treasuries rallied modestly overnight as crude pulled back, with the 10-year yield falling 4bps to 4.31%. The Fed held rates steady at its March FOMC meeting and is expected to continue its 'wait and see' posture. TD Securities notes the Fed will likely look through the energy shock as long as longer-term inflation expectations stay anchored. ECB President Lagarde indicated the bank could look through a limited, short-lived energy price shock. UK gilts remain near post-2008 highs on inflation concerns.
+Israel is the wild card: Trump only paused US strikes. Israel has not agreed to any pause. Netanyahu is operating on his own timeline. This is why Brent is at $100 and not $85—the market is pricing Israeli escalation risk even inside a US-Iran pause.
 
-## DATA & EARNINGS CALENDAR (MARCH 25)
+## TUESDAY RECAP — A BETTER DAY THAN THE HEADLINES SUGGEST
 
-Economic Data
+Markets closed higher on Tuesday despite the noise. The Dow gained 305 pts (+0.66%) to 46,429, the S&P rose 0.54% to 5,645, and the Nasdaq advanced 0.77%. Oil was the real story: Brent fell 6% to $98.31, the first close below $100 since the war’s second week.
 
-**Conference Board Consumer Confidence (March):** Consensus expects a decline, reflecting war-driven consumer anxiety. February NFP showed payrolls edging down by 92K; unemployment at 4.4%. Consumer sentiment (UMich) already flagging inflation expectations creeping higher.
+The intraday action revealed something important: the market is now trading the peace premium, not the war premium. For the first three weeks of the war, any de-escalation was sold as “too good to be true.” Now, escalation is being sold as “temporary noise on the path to a deal.” This regime change in market psychology is significant—it means dips are being bought, not sold. That’s constructive for equities and destructive for oil longs.
 
-**New Home Sales (February):** Due this morning. Housing affordability improving modestly as rates trended toward 6% in January. Builder confidence (NAHB HMI) rose one point to 38 in March; 37% of builders cutting prices.
+## CONSUMER CONFIDENCE — THE COLLAPSE IS CONFIRMED
 
-**Flash PMIs (released March 24):** First read on how the conflict is hitting activity. BlackRock expects PMIs to deteriorate as higher energy costs and uncertainty weigh on demand.
+The implications for equities:
 
-Notable Corporate Headlines
+Consumer discretionary at risk: An Expectations Index of 65.2 is recession-level. Consumers are pulling back on big-ticket purchases, dining out, and travel. Names like NKE (already weak), SBUX, DIS, and LULU (reporting Thursday) are vulnerable.
 
-Merck / Terns Pharma: Merck to acquire Terns Pharmaceuticals for $6.7B ($53/share, ~6% premium to close), adding a promising leukemia treatment ahead of Keytruda patent expiry. Deal expected to close Q2 2026.
+Inflation expectations unanchored: 6.2% expected inflation is the highest since 2022. This puts enormous pressure on the Fed—if consumers expect higher prices, they accelerate purchases (creating more inflation) or retrench (creating recession). Either path is negative.
 
-ARM Holdings: Jumped 12% on plans to generate ~$15B annually within five years from chip sales, underscoring continued semiconductor demand.
+The stagflation trap: We now have Powell saying “inflation isn’t coming down” AND consumers saying “we expect it to get worse” AND consumer spending intentions collapsing. This is the textbook stagflation setup: rising prices + falling demand + no policy relief.
 
-Analyst Calls: Citi reiterated Buy on Amazon (PT raised to $285); projected AWS revenue growth +28% Y/Y in Q1. Baird named Netflix a best idea. UBS reiterated Buy on Microsoft (PT lowered to $510 from $600). Wolfe bullish on GM, citing $9.9B FCF in 2026.
+GDP implications: Consumer spending is 68% of GDP. If the Expectations Index stays below 80, Q2 GDP estimates (currently 2.4%) will need to come down to 1.5–2.0%. This matters for earnings multiples.
 
-European Defense: Defense stocks pulled back 2-3% on ceasefire speculation after a massive run-up since conflict began. European banks rallied (ING, Deutsche Bank, Santander, BBVA all +2%+).
+## EARNINGS REACTION — GAMESTOP: THE BEAT NOBODY CARES ABOUT
 
-SpaceX IPO: Rumors intensifying that SpaceX could file its IPO prospectus as early as this week.
+The implications:
 
-## MACRO CONTEXT & CENTRAL BANK WATCH
+The holding company thesis is real but empty: $9B in cash makes GME one of the most liquid companies in the Russell 2000. But without a deployment strategy, it’s a savings account earning 4–5% while the core business shrinks 14% per year. Cohen’s silence on M&A is deafening.
 
-The macro backdrop remains a tug-of-war between energy-driven inflation pressures and central bank patience. Key reference points:
+Bitcoin drag: $151M loss on crypto in a single quarter is material relative to $107M net income. If you strip out the Bitcoin mark-to-market, the operational picture is even worse. This is a company that lost money on its “investment” while its actual business declined.
 
-**Fed:** Held at 3.50-3.75% in March; incoming Chair Kevin Warsh (term starts May 15) expected to be more dovish than Powell. Markets pricing modest easing later in 2026, but rate hike probability briefly crossed 50% this week on inflation fears.
+Collectibles bright spot: $1B+ in collectibles revenue in FY25 is the one genuinely interesting data point. This is a real business with real margins. But it’s being overshadowed by the crypto speculation and M&A hype.
 
-ECB: Lagarde signaled the bank could look through a limited energy shock. Supportive for European equities.
+Stock reaction: GME fell ~1% after-hours. The beat was priced in, the revenue miss was forgiven, and the M&A silence disappointed. The stock is a hold at best until Cohen reveals his hand.
 
-**S&P Global Outlook:** Base case: Brent averages $90/bbl in March, returning to ~$60 by year-end. Alternative 'oil shock' scenario: Hormuz closed through April, Brent peaks at $200/bbl in Q2, triggering severe output losses globally.
+## OIL & COMMODITIES — THE REPRICING IS UNDERWAY
 
-Morgan Stanley: Projecting 20% S&P 500 earnings growth over the next 12 months. Mike Wilson believes the economy can withstand $90-100 oil but is more concerned about rates and inflation on equity valuations.
+Brent crude has fallen from $112 last Friday to $98 at yesterday’s close—a 12.5% decline in three sessions. This is the most aggressive oil repricing since the pandemic. The implications cascade through every sector:
 
-## THE BOTTOM LINE
+Energy stocks: XOM, CVX, OXY, HAL are all 5–10% off their war highs. The easy money in the energy trade is behind us. But we’re not selling here—the supply disruptions are real (Kuwait, Iraq, Fujairah all still offline), and Israeli escalation risk keeps a floor under prices.
 
-This is a headline-driven tape, not a fundamentals-driven one. The overnight rally is built on the thinnest of diplomatic reeds -- the mere existence of a formal ceasefire proposal -- despite Iran's explicit rejection. Oil's pullback is the mechanical catalyst: every $5/bbl decline in crude unlocks a wave of risk-on flows, and vice versa. With the Strait of Hormuz still blockaded, oil production shut in, and no credible path to de-escalation yet visible, the reversal risk on any hawkish headline is acute.
+Airlines: DAL, UAL, LUV have bounced 6–8% since Monday on the jet fuel collapse. If Brent stays below $100, airlines are the biggest beneficiaries. Delta is our top pick.
 
-Positioning: Stay nimble. The VIX at 25 prices elevated two-way vol. Oil remains the single most important variable -- watch WTI $90 and Brent $100 as pivot levels. A sustained break below could trigger material short-covering in equities and unwind the war premium. A bounce back above (which happened quickly in prior sessions this week) re-ignites the inflation/stagflation trade. Consumer confidence and new home sales data today will provide a soft read on how the war is filtering through to the real economy. For longer-horizon positioning, BlackRock has downgraded U.S. equities tactically, noting risk assets haven't fully priced the macro damage implied by current energy pricing.
+Gold: Pulled back from the record $3,290 to ~$3,200. The safe-haven unwind is happening but gold retains structural support: stagflation fears, war uncertainty, and negative real rates. Gold holds $3,100–3,150 unless ceasefire materializes fully.
 
-## Detailed Panels (from source note)
+Gasoline: Still $4.10–4.20 nationally. Pump prices lag crude by 2–3 weeks. Even with Brent at $98, consumers won’t see relief until mid-April. This means the consumer confidence damage is already baked in for Q2.
+
+## WAR SIGNAL TRACKER — WEDNESDAY ASSESSMENT
+
+Assessment: 5 BULL / 2 BEAR / 3 NEUTRAL. A dramatic improvement from yesterday’s 1/6/3. The driver: Iran’s counter-offer transformed “no talks” into “active negotiation.” The strike deadline extension removes the Friday cliff risk. For the first time in the war, our tracker has a BULL majority. The remaining BEAR signals are Israel (structural) and consumer damage (already done). This is the most constructive backdrop since Feb 28.
+
+## COMPANY HEADLINES
+
+## TRADE IDEAS
+
+## EVENT CALENDAR — REST OF WEEK
+
+Friday is the pivotal day: Core PCE at 8:30 AM tells us whether the FOMC’s hawkish stance is justified. Pakistan talks could produce the first face-to-face diplomatic contact of the war. And the original 5-day ceasefire window expires—though the April 6 extension reduces this risk. All three events could move markets 2%+ in either direction.
+
+## BOTTOM LINE
+
+The War Is Ending. The Consumer Crisis Is Just Beginning.
+
+For the first time since February 28, we have dueling peace proposals, a credible mediator, an extended deadline, and oil below $100. Our war signal tracker hit a BULL majority for the first time. The market’s psychology has flipped from pricing war to pricing peace. This is genuine progress.
+
+But underneath the ceasefire optimism, a second crisis is materializing. Consumer confidence has collapsed to recession-level readings. Inflation expectations are unanchored at 6.2%. Gasoline prices won’t fall for weeks even with Brent at $98. The Fed just told us rate cuts aren’t coming. And Q2 earnings guidance for any consumer-facing business is going to be ugly.
+
+The trade: rotate from war trades to quality. Sell energy, sell defence (partially), sell consumer discretionary. Buy airlines (oil beneficiary), buy AI/semis (secular, immune to macro), and build cash for the Q2 consumer earnings downgrade cycle. The war may be ending, but the economic damage it caused is just getting started.
+
+## Data Panels
 
 ### Panel 1
 
-**US PROPOSAL  Trump’s 15-Point Plan Delivered via Pakistan**
+**US PROPOSAL  Trump’s 15-Point Plan Delivered via Pakistan The US presented a 15-point action list to Iran through Pakistani mediation. Key demands: rollback of Iran’s nuclear program, limits on missile capabilities, reopening the Strait of Hormuz, and a framework for sanctions relief. Pakistan’s PM Sharif hand-delivered the document. Envoys Witkoff and Kushner are reportedly pushing for face-to-face talks in Islamabad as early as Friday.**
 
-The US presented a 15-point action list to Iran through Pakistani mediation. Key demands: rollback of Iran’s nuclear program, limits on missile capabilities, reopening the Strait of Hormuz, and a framework for sanctions relief. Pakistan’s PM Sharif hand-delivered the document. Envoys Witkoff and Kushner are reportedly pushing for face-to-face talks in Islamabad as early as Friday.
 
 ### Panel 2
 
-**IRAN RESPONSE  Iran Rejects US Plan as “Maximalist, Unreasonable” — Counter-Offers 5 Demands**
+**IRAN RESPONSE  Iran Rejects US Plan as “Maximalist, Unreasonable” — Counter-Offers 5 Demands Iran publicly rejected the 15-point proposal but—and this is the critical detail—issued its own 5-point counter-demand: (1) Halt all US/Israeli aggression and assassinations. (2) Establish mechanisms to prevent resumption of hostilities. (3) Pay war damages and reparations. (4) End attacks on Hezbollah in Lebanon and pro-Iranian militias in Iraq. (5) International recognition of Iran’s authority over the Strait of Hormuz.**
 
-Iran publicly rejected the 15-point proposal but—and this is the critical detail—issued its own 5-point counter-demand: (1) Halt all US/Israeli aggression and assassinations. (2) Establish mechanisms to prevent resumption of hostilities. (3) Pay war damages and reparations. (4) End attacks on Hezbollah in Lebanon and pro-Iranian militias in Iraq. (5) International recognition of Iran’s authority over the Strait of Hormuz.
 
 ### Panel 3
 
-**IMPLICATION  Ceasefire Probability Has Risen from 30% to 45%. But the Hard Part Is Ahead.**
+**IMPLICATION  Ceasefire Probability Has Risen from 30% to 45%. But the Hard Part Is Ahead. Trump extended the strike deadline to April 6—buying 10 more days. Pakistan talks are being planned for Friday. The existence of dueling proposals means the negotiation is real, even if both sides posture publicly. Oil is pricing this in: Brent dropped from $112 last Friday to $98 yesterday. But the Israel dimension remains unresolved, and Iran’s reparations demand is a non-starter. We’re in Act 2 of a 5-act play.**
 
-Trump extended the strike deadline to April 6—buying 10 more days. Pakistan talks are being planned for Friday. The existence of dueling proposals means the negotiation is real, even if both sides posture publicly. Oil is pricing this in: Brent dropped from $112 last Friday to $98 yesterday. But the Israel dimension remains unresolved, and Iran’s reparations demand is a non-starter. We’re in Act 2 of a 5-act play.
 
 ### Panel 4
 
-**DATA  Conference Board Consumer Confidence: 92.2 (from 100.1) — Worst Drop Since 2021**
+**DATA  Conference Board Consumer Confidence: 92.2 (from 100.1) — Worst Drop Since 2021 The Conference Board index plunged 7.9 points to 92.2, far worse than consensus. The Expectations Index cratered to 65.2—the lowest in 12 years. Readings below 80 have historically signaled recession. Consumer inflation expectations surged from 5.8% to 6.2%. This confirms the UMich signal from last week and broadens it across all demographics.**
 
-The Conference Board index plunged 7.9 points to 92.2, far worse than consensus. The Expectations Index cratered to 65.2—the lowest in 12 years. Readings below 80 have historically signaled recession. Consumer inflation expectations surged from 5.8% to 6.2%. This confirms the UMich signal from last week and broadens it across all demographics.
 
 ### Panel 5
 
 **GME  Q4 FY25: EPS $0.49 vs $0.31 Est (+58%)**
 
-Rev $1.10B vs $1.47B Est (−25%) | GameStop beat EPS by 58% but missed revenue by 25%. Revenue fell 13.9% YoY to $1.10B. Net income surged 393% to $106.9M thanks to cost-cutting, not growth. The $9.01B cash pile is nearly double a year ago—but $151M was lost on Bitcoin holdings. CEO Ryan Cohen was silent on M&A despite the market’s desperate desire for an acquisition announcement.
+Rev $1.10B vs $1.47B Est (−25%) GameStop beat EPS by 58% but missed revenue by 25%. Revenue fell 13.9% YoY to $1.10B. Net income surged 393% to $106.9M thanks to cost-cutting, not growth. The $9.01B cash pile is nearly double a year ago—but $151M was lost on Bitcoin holdings. CEO Ryan Cohen was silent on M&A despite the market’s desperate desire for an acquisition announcement.
+
 
 ### Panel 6
 
@@ -185,27 +193,23 @@ Rev $1.10B vs $1.47B Est (−25%) | GameStop beat EPS by 58% but missed revenue 
 
 ### Panel 9
 
-**BUY  DAL — Delta Air Lines: The Ceasefire Beta Play**
+**BUY  DAL — Delta Air Lines: The Ceasefire Beta Play Delta is the cleanest beneficiary of the oil repricing. Jet fuel is 20–25% of operating costs. A $15/bbl drop in crude translates to ~$2B+ in annualized fuel savings across the industry. DAL has the best hedging program, highest premium mix (transatlantic + Delta One), and most pricing power. If Brent stays below $100, DAL re-rates to $55–60 from $44 today. Risk: Ceasefire collapses; oil spikes back to $110+; consumer spending deteriorates enough to hit travel demand.**
 
-Delta is the cleanest beneficiary of the oil repricing. Jet fuel is 20–25% of operating costs. A $15/bbl drop in crude translates to ~$2B+ in annualized fuel savings across the industry. DAL has the best hedging program, highest premium mix (transatlantic + Delta One), and most pricing power. If Brent stays below $100, DAL re-rates to $55–60 from $44 today. | Risk: Ceasefire collapses; oil spikes back to $110+; consumer spending deteriorates enough to hit travel demand.
 
 ### Panel 10
 
-**REDUCE  Energy Longs — Further Profit-Taking on Second Half**
+**REDUCE  Energy Longs — Further Profit-Taking on Second Half We said Monday to take profits on half. Today we say take profits on the remaining half if Brent breaks below $95. The ceasefire probability has risen from 30% to 45%, the strike deadline is extended to April 6, and the market’s psychology has flipped from “trade the war” to “trade the peace.” Keep 25% as a tail hedge. The supply disruptions are real, but the fear premium is evaporating. Risk: Ceasefire collapses; Israel escalates against Hormuz directly; new supply disruption event.**
 
-We said Monday to take profits on half. Today we say take profits on the remaining half if Brent breaks below $95. The ceasefire probability has risen from 30% to 45%, the strike deadline is extended to April 6, and the market’s psychology has flipped from “trade the war” to “trade the peace.” Keep 25% as a tail hedge. The supply disruptions are real, but the fear premium is evaporating. | Risk: Ceasefire collapses; Israel escalates against Hormuz directly; new supply disruption event.
 
 ### Panel 11
 
-**SHORT  Consumer Discretionary (XLY) Puts — The Consumer Is Cracking**
+**SHORT  Consumer Discretionary (XLY) Puts — The Consumer Is Cracking Conference Board at 92.2 with Expectations at 65.2 is a recession-level signal. Inflation expectations at 6.2% mean the pain isn’t over. Gasoline prices won’t fall for 2–3 more weeks even with $98 Brent. Q2 earnings guidance for consumer discretionary names will be horrific. Buy XLY April puts or short individual names (NKE, SBUX, DIS). Risk: Ceasefire + oil crash drives gasoline back to $3.50; consumer confidence rebounds; summer travel season surprises to the upside.**
 
-Conference Board at 92.2 with Expectations at 65.2 is a recession-level signal. Inflation expectations at 6.2% mean the pain isn’t over. Gasoline prices won’t fall for 2–3 more weeks even with $98 Brent. Q2 earnings guidance for consumer discretionary names will be horrific. Buy XLY April puts or short individual names (NKE, SBUX, DIS). | Risk: Ceasefire + oil crash drives gasoline back to $3.50; consumer confidence rebounds; summer travel season surprises to the upside.
 
 ### Panel 12
 
-**HOLD  MU + COHR/LITE — AI Secular Winners Are Immune to This Noise**
+**HOLD  MU + COHR/LITE — AI Secular Winners Are Immune to This Noise Micron’s $33.5B Q3 guide, COHR/LITE’s NVIDIA partnerships, and the AI infrastructure buildout are not war-dependent stories. These names will oscillate with the tape in the short term, but the fundamental trajectories are untouched by geopolitics. Hold through the noise. Buy dips aggressively. Risk: Severe recession reduces datacenter capex; NVIDIA pulls back investment commitments; HBM pricing war.**
 
-Micron’s $33.5B Q3 guide, COHR/LITE’s NVIDIA partnerships, and the AI infrastructure buildout are not war-dependent stories. These names will oscillate with the tape in the short term, but the fundamental trajectories are untouched by geopolitics. Hold through the noise. Buy dips aggressively. | Risk: Severe recession reduces datacenter capex; NVIDIA pulls back investment commitments; HBM pricing war.
 
 ### Panel 13
 

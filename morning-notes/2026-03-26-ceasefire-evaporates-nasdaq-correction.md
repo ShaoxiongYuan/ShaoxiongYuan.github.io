@@ -1,178 +1,141 @@
 ---
 layout: morning-note
-title: "Ceasefire Optimism Evaporates. Nasdaq Enters Correction Territory. ECB Hawkish. TurboQuant Shock."
-headline: "Ceasefire Optimism Evaporates. Nasdaq Enters Correction Territory. ECB Hawkish. TurboQuant Shock."
+title: 'Google Just Broke the Memory Trade. TurboQuant: 6x Compression, Zero Accuracy Loss. MU −7%. SK Hynix −6%. The AI Supply Chain Is Being Rewritten Overnight.'
+headline: 'Google Just Broke the Memory Trade. TurboQuant: 6x Compression, Zero Accuracy Loss. MU −7%. SK Hynix −6%. The AI Supply Chain Is Being Rewritten Overnight.'
 date: 2026-03-26
 image: /images/notes/2026-03-26.jpg
 author: Steven Yuan
 
 snapshot:
-  - { label: "S&P 500 Futures",  value: "5,580",      dir: down }
-  - { label: "Nasdaq 100 Futures",value: "19,600",     dir: down }
-  - { label: "Brent Crude",      value: "$100.20",    dir: up }
-  - { label: "VIX",              value: "27.5",       dir: up }
+  - { label: 'S&P 500 (Tue Close)', value: '5,645', dir: up }
+  - { label: 'S&P 500 Futs', value: '5,580', dir: down }
+  - { label: 'Nasdaq 100 Futs', value: '19,600', dir: down }
+  - { label: 'Dow Futs', value: '46,100', dir: down }
 
 levels:
-  - { name: "S&P 500 Futures",   value: "5,580",      dir: down }
-  - { name: "Nasdaq 100 Futures",value: "19,600",     dir: down }
-  - { name: "Dow Futures",       value: "46,100",     dir: down }
-  - { name: "Brent Crude",       value: "$100.20",    dir: up }
-  - { name: "VIX",               value: "27.5",       dir: up }
-
-sentiment:
-  - { label: "Energy",           tone: bullish, pct: 85 }
-  - { label: "Equities (broad)", tone: bearish, pct: 10 }
-  - { label: "Tech",             tone: bearish, pct: 5 }
-  - { label: "Defensives",       tone: bullish, pct: 70 }
-
-tags:
-  - correction
-  - Nasdaq
-  - ceasefire
-  - ECB
-  - TurboQuant
-  - war
-  - tech-weakness
+  - { name: 'S&P 500 (Tue Close)', value: '5,645', dir: up }
+  - { name: 'S&P 500 Futs', value: '5,580', dir: down }
+  - { name: 'Nasdaq 100 Futs', value: '19,600', dir: down }
+  - { name: 'Dow Futs', value: '46,100', dir: down }
 ---
 
-## Executive Summary
+THURSDAY, MARCH 26, 2026
 
-Yesterday's risk-on rally has been completely unwound. The S&P 500 fell 1.74% to 6,477, the Nasdaq plunged 2.38% to 21,408 (officially entering correction territory at -10% from its October high), and the Dow shed 1.01% to 45,960. The reversal came on three catalysts: (1) Iran explicitly rejected the 15-point U.S. ceasefire plan and denied any direct negotiations, (2) ECB President Lagarde warned that markets are "maybe overly optimistic" and signaled willingness to hike rates even for a temporary inflation overshoot, and (3) Google's TurboQuant algorithm announcement crushed memory chip stocks, adding a sector-specific shock to the broader macro sell-off. Oil surged back -- Brent settled at $108/bbl (+5.7%), WTI at $94.48 (+4.6%). Pre-market this morning shows further risk-off: Asia sold off overnight and European indices are opening lower.
+## Google Just Broke the Memory Trade. TurboQuant: 6x Compression, Zero Accuracy Loss. MU −7%. SK Hynix −6%. The AI Supply Chain Is Being Rewritten Overnight.
 
-## U.S.-Iran Conflict | Detailed Situation Report (Week 4)
+Day 27 of the US-Iran War  |  Brent $99  |  S&P +0.5% yesterday  |  Pakistan Confirms Indirect Talks  |  Lululemon AMC  |  Core PCE Tomorrow
 
-Diplomatic Status
+## TOP CALL — GOOGLE TURBOQUANT CHANGES THE AI MEMORY EQUATION
 
-15-Point Plan Rejected: Iran formally rejected the U.S. ceasefire proposal delivered through Pakistani intermediaries. FARS news agency quoted an informed source saying Iran "does not accept a ceasefire" under these terms. Iran's Foreign Minister Abbas Araghchi told state media that backchannel exchanges through mediators do not constitute "negotiations with the U.S."
+## WHAT TURBOQUANT ACTUALLY DOES — AND WHY THE MARKET IS WRONG TO PANIC
 
-Iran's Counter-Proposal: Tehran countered with its own five-point plan, notably including a demand to retain control over the Strait of Hormuz -- a non-starter for the U.S. and Gulf states. The divergence between U.S. and Iranian frameworks is wide and growing.
+Let’s cut through the noise. The market reaction—MU −7%, SK Hynix −6%, Samsung −5%—is treating TurboQuant as a demand destroyer for memory chips. That is a misread. Here’s why:
 
-Trump's Posture: In a Cabinet meeting, Trump said he would not commit to an agreement, stated oil prices and market damage were "not as bad as I thought," and expressed confidence in the war effort. He extended a five-day pause on strikes against Iranian energy infrastructure (expires Saturday), leaving a narrow diplomatic window before potential escalation.
+What TurboQuant compresses:
 
-Congressional Pressure: AP-NORC polling shows most Americans believe military action has gone too far. Sen. Elizabeth Warren fired a letter to incoming Fed Chair nominee Kevin Warsh questioning his fitness. The conflict is becoming a political liability.
+KV-cache is the working memory that allows LLMs to retain context during inference. When you have a 128K-token context window, the KV-cache grows linearly with each token, consuming enormous amounts of HBM (High Bandwidth Memory). TurboQuant reduces this specific component by 6x by compressing each cached value from 16 bits to 3 bits. This means a model that previously needed 80GB of HBM for KV-cache now needs ~13GB.
 
-Military Developments
+What TurboQuant does NOT compress:
 
-Strait of Hormuz: Remains effectively blockaded by Iran. Tehran is reportedly drafting legislation to impose transit fees on vessels in the strait, signaling it views control of the waterway as a long-term strategic asset, not a temporary war measure.
+Model weights: The core parameters of the model (GPT-5, Claude, Gemini) are untouched. These are the dominant consumers of HBM. A 1-trillion-parameter model still needs 1T+ parameters stored in memory.
 
-Ongoing Strikes: Despite ceasefire talk, Iran's bombardment of Gulf states has not relented. Kuwait and Bahrain were hit with damaging strikes Tuesday night into Wednesday. Israel continues parallel operations.
+Training memory: TurboQuant only applies to inference, not training. Training requires full precision weights, gradients, and optimizer states. The $100B+ training cluster buildout is unaffected.
 
-Munitions Concerns: A RUSI report estimates the U.S. and allies have expended over 11,000 munitions in 16 days at a cost of $26B. The U.S. may be a month away from exhausting critical weapons stocks (THAAD air defenses, ATACMs, PrSM missiles).
+Batch processing: At datacenter scale, operators run hundreds of simultaneous inference requests. TurboQuant’s 6x compression on KV-cache means each GPU can serve more concurrent users—which actually increases throughput demand, requiring more compute and more memory bandwidth.
 
-Troop Deployments: Pentagon deploying thousands of additional Marines to the Middle East. The U.S. warned Iran it needs to "get serious" about ending the war or face a potential "final blow."
+The market history is clear:
 
-Sentiment & Market Impact Assessment
+2020: INT8 quantization panic → SK Hynix fell 4%. Recovered in 2 weeks. Memory demand increased 35% the following year.
 
-The conflict is now the single largest driver of global cross-asset price action. Since March 1: S&P 500 is down ~6%, WTI surged from $72 to a peak of $112, VIX doubled from 13 to 25, and 10Y Treasury yields have risen to 4.39% on inflation fears. The Nasdaq is officially in correction territory (-10% from peak). The STOXX Europe 600 has fared even worse, down ~8.1% over the past month. The tape is binary: any credible de-escalation headline triggers a 1-3% equity rally and $5-10 oil drop; any rejection or escalation headline reverses it within hours. Wednesday's session was a textbook example -- the morning rally on ceasefire hopes was fully reversed by close.
+2023: Flash Attention 2 → Memory stocks dipped 3–5% on “GPU efficiency kills demand.” NVIDIA went from $400 to $900 in 6 months.
 
-KEY RISK: Trump's five-day pause on strikes against Iranian energy infrastructure expires Saturday. A dramatic military escalation grows more likely if no diplomatic progress is made. Markets are pricing almost no probability of a deal this week.
+2024: Mixture of Experts → Panic that sparse models need less memory. HBM shipments doubled the following quarter.
 
-## Global Equity Indices | March 25 Close & March 26 Overnight
+2026: TurboQuant → MU −7%, Hynix −6%. We expect the same pattern: dip, recovery, demand acceleration.
 
-| Region | Signal |
-|---|---|
-| U.S. | Broad risk-off; Nasdaq entered correction territory and S&P closed lower. |
-| Asia-Pacific | Overnight session sold off as ceasefire optimism faded. |
-| Europe | Opened lower with growth-sensitive sectors lagging. |
+Our view: TurboQuant is evolutionary, not revolutionary. It makes inference cheaper at the margin, which expands the addressable market for AI applications. The memory stocks are offering a gift. MU at $355 (from $471 ATH on March 18) with a $33.5B Q3 guide and 81% gross margins is a screaming buy.
 
+## TURBOQUANT IMPLICATIONS ACROSS THE AI SUPPLY CHAIN
 
-## Tech Deep Dive | Google TurboQuant & the Memory Demand Question
+The second-order effects are where the real alpha lives. TurboQuant doesn’t just affect memory—it reshuffles the entire AI infrastructure stack:
 
-What Is TurboQuant?
+NVIDIA (NVDA): BULLISH. If each GPU serves more concurrent users, the ROI per GPU improves. This makes the $40K+ H100 price tag easier to justify for cloud providers. Expect hyperscaler capex to hold or increase, not decrease. The Vera Rubin generation with more HBM becomes even more valuable as the efficiency multiplier.
 
-Google Research unveiled TurboQuant on Tuesday -- a compression algorithm that reduces the KV (key-value) cache memory footprint of large language models by at least 6x with zero accuracy loss, and delivers up to 8x faster inference on NVIDIA H100 GPUs. The internet immediately dubbed it "the real Pied Piper" -- a reference to the HBO show Silicon Valley's fictional compression startup.
+Cloud providers (AMZN/MSFT/GOOGL): BULLISH. Inference is the cloud providers’ largest AI cost center. A 6–8x improvement in throughput means dramatically better unit economics on AI services. This accelerates the rollout of AI features to consumers and enterprise, growing the pie.
 
-The algorithm works through a two-stage process: PolarQuant converts data vectors from Cartesian to polar coordinates (eliminating expensive normalization overhead), then QJL (Quantized Johnson-Lindenstrauss) applies a 1-bit error-correction pass. The result compresses each KV cache value from 16 bits to just 3 bits. Crucially, this requires no model retraining or fine-tuning -- it's a drop-in optimization for existing LLM inference pipelines.
+Memory (MU/Samsung/SK Hynix): SHORT-TERM BEARISH, LONG-TERM BULLISH. The initial read (“less memory needed per query”) is correct at the micro level but wrong at the macro level. More efficient inference = more inference = more users = more GPUs = more HBM. Jevons’ Paradox. Buy the dip.
 
-Google tested against Gemma and Mistral models across five long-context benchmarks with zero measurable accuracy degradation. Open-source implementations were ported to MLX and llama.cpp within 24 hours. Official open-source release expected Q2 2026 alongside the ICLR presentation (April 23-25).
+Photonics (COHR/LITE): BULLISH. More concurrent users per GPU means more data moving between GPUs and between servers. The optical interconnect bottleneck intensifies, not relaxes. This is why photonics was already the best-positioned AI sub-sector before TurboQuant.
 
-Market Impact: Memory Stocks Crushed
+AI software (PLTR/CRM/NOW): BULLISH. Cheaper inference means AI features can be offered at lower price points. The enterprise SaaS TAM for AI copilots expands. Margins improve for companies deploying AI at scale.
 
-Implications for NVIDIA
+Edge AI (AAPL/QCOM): VERY BULLISH. 6x memory compression could make powerful LLMs viable on-device. A model that needed 80GB of KV-cache can now run in ~13GB. This opens up phone, tablet, and laptop inference at quality levels previously requiring cloud. The edge AI unlock is the sleeper implication.
 
-**NVIDIA implication:** NVIDIA fell 3.83% on March 26 -- but the TurboQuant story is more nuanced for NVDA than for memory names. Analysts note that TurboQuant makes existing GPUs more efficient per dollar, which could accelerate GPU adoption in cost-sensitive use cases. The compression runs on NVIDIA hardware (H100s showed 8x attention speedups with 4-bit TurboQuant). The winners are Google (direct cost advantage), Google Cloud customers, and AI startups who can now run larger models on smaller hardware budgets.
+## WAR UPDATE — DAY 3 OF THE NEGOTIATION WINDOW
 
-NVIDIA's own efficiency roadmap aligns with this trend. At GTC 2026 (March 16-18), Jensen Huang unveiled the Vera Rubin platform -- six new chips delivering a 10x reduction in inference token cost and 4x reduction in GPUs needed to train MoE models vs. Blackwell. The new NVIDIA Inference Context Memory Storage Platform with BlueField-4 is specifically designed to accelerate agentic AI reasoning with better memory management. NVIDIA also showcased NVFP4/FP8 quantization formats enabling 60% and 40% VRAM savings respectively.
+The implications for oil and markets:
 
-ANALYST VIEW: Wells Fargo's Andrew Rocha: TurboQuant "raises the question of how much memory capacity the industry actually needs." But CNBC commentary described it as "evolutionary, not revolutionary" -- software efficiency gains don't reduce absolute hardware demand when AI workloads continue scaling exponentially. The real risk is to memory chip names; for GPU makers, efficiency gains expand the addressable market.
+Oil holding $99–$100: The ceasefire premium continues to deflate (Brent down from $112 to $99 in 5 sessions), but Israeli strikes keep a floor under prices. The $95–$105 range is the new equilibrium while indirect talks continue.
 
-## Commodities
+Gold steady at $3,200–3,240: Down from the $3,290 record but finding support. Gold is now pricing two things simultaneously: ceasefire optimism (bearish for gold) and consumer confidence collapse / stagflation fears (bullish for gold). These roughly offset.
 
-Oil
+Defence names fading: LMT, RTX, NOC have given back 3–5% from war highs as ceasefire probability has risen from 30% to 45%. We’re trimming from overweight to market-weight but maintaining exposure as a hedge against talks failing.
 
-Wednesday's ceasefire-driven decline was completely erased. Iran's rejection of the proposal and continued Strait blockage sent crude surging back above key levels. Gas at the pump has hit $8.29/gal in parts of Los Angeles. EIA forecasts Brent remaining above $95/bbl for the next two months, falling below $80 only if transit resumes. The adverse scenario (Hormuz closed through April) sees Brent peaking at $200/bbl in Q2.
+## MARKET SNAPSHOT — 6:45 AM ET
 
-Gold
+## WAR SIGNAL TRACKER — THURSDAY ASSESSMENT
 
-Gold reversed sharply lower after Wednesday's bounce. Down from the $4,565 level, gold is suffering from a bizarre dynamic: it rallied on "war safe-haven" flows but is selling off on rising real yields and dollar strength. Gold is now down ~20% from its January all-time high of $5,589, though still up ~19% YTD. Miners are squeezed between falling gold and rising oil input costs.
+Assessment: 4 BULL / 2 BEAR / 4 NEUTRAL. Holding near yesterday’s 5/2/3 split. The Pakistan confirmation is the key upgrade. Israeli strikes prevent a BULL sweep. The ceasefire probability is now 45–50%—the highest of the war. The risk is that talks stall on the Israel dimension and the market re-prices lower.
 
-## Fixed Income, FX & Volatility
+## COMPANY HEADLINES
 
-For the first time since the conflict began, futures markets are pricing a greater-than-50% probability of a Fed rate INCREASE by year-end 2026, reflecting the inflation threat from sustained oil above $100. This is a dramatic shift from the easing expectations that prevailed pre-war. A lackluster U.S. Treasury note auction on Thursday added to bond market pressure.
+## EARNINGS PREVIEW — LULULEMON (LULU) Q4 FY25 AFTER CLOSE
 
-## Central Bank Watch | ECB Pivot Moment
+Watch the guide: The Q4 results matter less than FY27 guidance. If LULU guides below $9.3B FY revenue and $25 EPS, shares sell off 5–10%. The consumer data supports caution.
 
-**Lagarde bombshell:** ECB President Christine Lagarde told an audience at "The ECB and Its Watchers" conference that the Iran conflict represents a "real shock" and that markets are "maybe overly optimistic." She warned that even a "not-too-persistent" inflation overshoot could warrant a "measured adjustment" (i.e., rate hike). The ECB held at 2.0% in mid-March and had been expected to CUT -- markets are now rapidly repricing for 25bp HIKES. ~35bp of ECB tightening is priced for 2026.
+DTC vs wholesale: Direct-to-consumer margins have been the margin expansion engine. Any deceleration in DTC growth signals the premium consumer is pulling back.
 
-The Lagarde comments triggered the sharpest leg down in Thursday's session, hitting growth-sensitive sectors especially hard. MUFG Research notes the ECB has already brought rates back to neutral, which makes it harder to stand pat vs. other central banks with more restrictive starting points. MUFG's adverse inflation scenario: headline HICP above 5% in both eurozone and UK if oil sustains $120/bbl and natural gas hits 100 EUR/MWh.
+China exposure: The one bright spot. LULU’s China business is growing 25%+ and is not affected by the US-Iran war dynamic. If China strength offsets US weakness, the stock holds.
 
-## Data Releases & Earnings (March 26)
+## TRADE IDEAS
 
-Economic Data
+## EVENT CALENDAR
 
-Initial Jobless Claims: Fell to 210K (est. 211K). Continuing claims dropped to 1.819M, lowest since May 2024. Labor market remains tight despite macro headwinds.
+Tomorrow is the most important trading day since FOMC: Core PCE at 8:30 AM tells us whether the inflation story is getting better or worse. If hot (>0.35% MoM), the Fed is vindicated and rate cuts are dead for 2026. If cool (<0.25%), there’s a path back to 2 cuts and risk assets rip. Simultaneously, Pakistan could announce face-to-face Islamabad talks—the first direct diplomatic contact of the war.
 
-**UMich Consumer Sentiment (Final March):** 53.3, down 5.8% from Feb and 6.5% from a year ago (est. 54.0). Inflation expectations ticking higher on Iran war concerns.
+## BOTTOM LINE
 
-Notable Earnings & Corporate Headlines
+Two Disruptions. Two Different Timelines.
 
-H&M Group Q1: Sales -1% in local currencies on 163 store closures (-4% footprint). Operating profit up 26% to SEK 1,512M; margin improved to 3.0% from 2.2%. Stock fell nearly 6% as investors focused on top-line weakness.
+The market is processing two disruptions simultaneously: a war that is slowly ending and a technology breakthrough that is reshaping the AI supply chain. They operate on completely different timelines, and the market is confusing the two.
 
-Meta Platforms (META) -7%: California jury found Meta and Alphabet negligent in a social media addiction case. Both companies plan to appeal.
+The war trade is unwinding. Brent is $99. Ceasefire probability is 45–50%. Pakistan is mediating. The April 6 deadline gives talks room. This is constructive for equities, destructive for oil and defence, and already partially priced in.
 
-Netflix (NFLX) +1.1%: Raised subscription prices across all tiers. Investors see pricing power as positive.
+The TurboQuant trade is just beginning. The market’s knee-jerk (“less memory needed = sell memory stocks”) is the same mistake it makes with every efficiency improvement in tech. Jevons’ Paradox will hold: cheaper inference means more inference means more GPUs means more HBM. MU at $355 with a $33.5B Q3 guide is a gift. GOOGL as the originator of the breakthrough is a gift. COHR/LITE as the interconnect beneficiaries are gifts.
 
-Henkel / Olaplex: Henkel agreed to acquire Olaplex for $1.4B ($2.06/share all-cash). OLPX surged 51%. Olaplex has fallen 92% since its 2021 IPO.
+Buy the disruption. Sell the panic. Tomorrow’s PCE will tell us which of these two stories dominates Q2.
 
-Brown-Forman +14.5%: Pernod Ricard reportedly evaluating a takeout of the Jack Daniel's maker.
-
-Goldman Sachs: Reiterated Buy on Apple and Dell as beneficiaries of autonomous AI agents (OpenClaw). "High-end PC portfolios well positioned."
-
-Robinhood: Authorized $1.5B stock buyback. Piper Sandler called it a beneficiary of "$100T generational wealth transfer."
-
-SpaceX IPO: Rumors intensifying -- The Information reports it could raise $75B+, making it one of the largest IPOs in history.
-
-## Bottom Line
-
-REGIME SHIFT IN PROGRESS. Three forces are converging to create a toxic mix for risk assets: (1) The U.S.-Iran war is grinding toward either escalation or a prolonged stalemate, with Trump's strike pause expiring Saturday and no credible diplomatic offramp in sight. (2) Central banks are pivoting from easing to tightening -- Lagarde's "real shock" warning is the clearest signal yet that the post-pandemic rate-cutting cycle is over, and the CME FedWatch showing >50% probability of a Fed HIKE is a watershed moment. (3) The TurboQuant shock is a microcosm of a broader AI narrative shift from "bigger models = more hardware" to "smarter algorithms = less hardware," which threatens the capex cycle thesis that has underpinned semiconductor valuations.
-
-POSITIONING: The Nasdaq is in correction territory. The Dow is approaching it. The VIX is at 30. Brent is above $108 with no credible supply relief. The S&P has now posted its longest streak of weekly losses since 2022. This is not a market to be a hero in. Key levels: S&P 6,450 (September support), Brent $110 (acceleration point), VIX 30 (volatility regime boundary), 10Y UST 4.50% (next resistance). Watch Saturday's strike pause expiration -- it is the single most important near-term catalyst. Any escalation headline over the weekend could gap equities lower Monday. Defensive sectors (energy, utilities, pharma) continue to outperform; tech and consumer discretionary are the pain trades.
-
-## Detailed Panels (from source note)
+## Data Panels
 
 ### Panel 1
 
-**BREAKING  Google TurboQuant: 6x Memory Compression, 8x Faster Inference, Zero Accuracy Loss**
+**BREAKING  Google TurboQuant: 6x Memory Compression, 8x Faster Inference, Zero Accuracy Loss Google published a research paper overnight introducing TurboQuant, an algorithm that compresses key-value cache (KV-cache) in large language models from 16 bits to just 3 bits per value. The result: 6x reduction in memory consumption and up to 8x faster inference throughput on NVIDIA H100 GPUs—with no measurable loss in output quality. Open-source release expected Q2 2026, likely at ICLR (April 23–25). The internet is calling it “Pied Piper.”**
 
-Google published a research paper overnight introducing TurboQuant, an algorithm that compresses key-value cache (KV-cache) in large language models from 16 bits to just 3 bits per value. The result: 6x reduction in memory consumption and up to 8x faster inference throughput on NVIDIA H100 GPUs—with no measurable loss in output quality. Open-source release expected Q2 2026, likely at ICLR (April 23–25). The internet is calling it “Pied Piper.”
 
 ### Panel 2
 
-**KEY INSIGHT  This Is Jevons’ Paradox in Real Time**
+**KEY INSIGHT  This Is Jevons’ Paradox in Real Time When you make a resource more efficient, you don’t use less of it—you use more. If TurboQuant lets a single H100 serve 6x more concurrent LLM users, the economics of inference improve dramatically. That accelerates AI adoption, which drives more model deployment, which requires more GPUs, which requires more HBM. The same logic applied when NVIDIA introduced tensor cores (GPU efficiency up, GPU demand up), when flash attention improved transformer throughput (more models deployed, not fewer), and when quantization went from FP32 to FP16 to INT8 (inference got cheaper, inference volume exploded).**
 
-When you make a resource more efficient, you don’t use less of it—you use more. If TurboQuant lets a single H100 serve 6x more concurrent LLM users, the economics of inference improve dramatically. That accelerates AI adoption, which drives more model deployment, which requires more GPUs, which requires more HBM. The same logic applied when NVIDIA introduced tensor cores (GPU efficiency up, GPU demand up), when flash attention improved transformer throughput (more models deployed, not fewer), and when quantization went from FP32 to FP16 to INT8 (inference got cheaper, inference volume exploded).
 
 ### Panel 3
 
-**DIPLOMACY  Pakistan Confirms: “US-Iran Indirect Talks Are Taking Place Through Messages Relayed by Pakistan”**
+**DIPLOMACY  Pakistan Confirms: “US-Iran Indirect Talks Are Taking Place Through Messages Relayed by Pakistan” For the first time, a mediator has officially confirmed active diplomatic engagement. Pakistan’s statement that talks are occurring “through messages being relayed” confirms the back-channel is real, even as Iran publicly denies it. Egypt and Turkey are also backing the process. Envoys are pushing for face-to-face Islamabad talks as early as Friday.**
 
-For the first time, a mediator has officially confirmed active diplomatic engagement. Pakistan’s statement that talks are occurring “through messages being relayed” confirms the back-channel is real, even as Iran publicly denies it. Egypt and Turkey are also backing the process. Envoys are pushing for face-to-face Islamabad talks as early as Friday.
 
 ### Panel 4
 
-**ESCALATION  Israel Strikes Isfahan Overnight. Iran Fires Missiles at Central Israel.**
+**ESCALATION  Israel Strikes Isfahan Overnight. Iran Fires Missiles at Central Israel. While the US has paused strikes (extended to April 6), Israel continues its independent campaign. Overnight strikes hit Isfahan—a major industrial and nuclear research hub. Iran retaliated with two waves of missiles targeting central Israel. The parallel tracks—diplomacy via Pakistan and combat via Israel—create an unstable dynamic.**
 
-While the US has paused strikes (extended to April 6), Israel continues its independent campaign. Overnight strikes hit Isfahan—a major industrial and nuclear research hub. Iran retaliated with two waves of missiles targeting central Israel. The parallel tracks—diplomacy via Pakistan and combat via Israel—create an unstable dynamic.
 
 ### Panel 5
 
@@ -224,31 +187,28 @@ While the US has paused strikes (extended to April 6), Israel continues its inde
 
 **EARNINGS  LULU Reports Tonight AMC**
 
-EPS Est $6.00 | Rev Est $3.61B | Lululemon enters this print in a precarious position. Consumer confidence just collapsed to recession-level readings (CB 92.2, Expectations 65.2). Inflation expectations are at 6.2%. Gasoline is $4.15. The consumer spending environment is the worst since early 2023—and LULU is a $100+ legging company. Revenue growth has been decelerating for three straight quarters. International is the bright spot (China, Europe) but FX headwinds are real with DXY at 106.
+EPS Est $6.00 | Rev Est $3.61B Lululemon enters this print in a precarious position. Consumer confidence just collapsed to recession-level readings (CB 92.2, Expectations 65.2). Inflation expectations are at 6.2%. Gasoline is $4.15. The consumer spending environment is the worst since early 2023—and LULU is a $100+ legging company. Revenue growth has been decelerating for three straight quarters. International is the bright spot (China, Europe) but FX headwinds are real with DXY at 106.
+
 
 ### Panel 9
 
-**BUY  MU — Micron at $355: The Jevons’ Paradox Trade**
+**BUY  MU — Micron at $355: The Jevons’ Paradox Trade MU has dropped $90 (19%) in 8 days from its ATH—$25 of which came today on TurboQuant. But the Q3 guide is still $33.5B revenue, 81% GM, $19.15 EPS. None of that changed. TurboQuant compresses KV-cache (inference working memory), not model weights (the dominant HBM consumer) or training memory. Every efficiency breakthrough in AI history has led to MORE memory demand, not less. Barclays still at $670. This is the best entry point since November. Risk: TurboQuant is the start of a broader compression wave that structurally reduces HBM demand; DRAM pricing cycle turns.**
 
-MU has dropped $90 (19%) in 8 days from its ATH—$25 of which came today on TurboQuant. But the Q3 guide is still $33.5B revenue, 81% GM, $19.15 EPS. None of that changed. TurboQuant compresses KV-cache (inference working memory), not model weights (the dominant HBM consumer) or training memory. Every efficiency breakthrough in AI history has led to MORE memory demand, not less. Barclays still at $670. This is the best entry point since November. | Risk: TurboQuant is the start of a broader compression wave that structurally reduces HBM demand; DRAM pricing cycle turns.
 
 ### Panel 10
 
-**BUY  GOOGL — Alphabet: The TurboQuant Originator**
+**BUY  GOOGL — Alphabet: The TurboQuant Originator Google developed TurboQuant. They will deploy it first. Their inference costs drop 6–8x before anyone else’s. This gives Google Cloud a massive competitive advantage in AI services pricing. GCP’s AI margins were already improving—TurboQuant accelerates this by potentially 12–18 months. Buy the innovator, not the panic. Risk: Cloud spending slowdown; antitrust ruling forces structural changes; competitors replicate quickly.**
 
-Google developed TurboQuant. They will deploy it first. Their inference costs drop 6–8x before anyone else’s. This gives Google Cloud a massive competitive advantage in AI services pricing. GCP’s AI margins were already improving—TurboQuant accelerates this by potentially 12–18 months. Buy the innovator, not the panic. | Risk: Cloud spending slowdown; antitrust ruling forces structural changes; competitors replicate quickly.
 
 ### Panel 11
 
-**HOLD  COHR / LITE — Photonics: The TurboQuant Winners Nobody Is Talking About**
+**HOLD  COHR / LITE — Photonics: The TurboQuant Winners Nobody Is Talking About More concurrent inference users per GPU = more data flowing between GPUs = more optical interconnects needed. TurboQuant is structurally bullish for photonics even as it’s (wrongly) bearish for memory. The market hasn’t figured this out yet. COHR and LITE are up while MU is down—the smart money is rotating from memory to interconnect. Hold and add on dips. Risk: Broader tech selloff overwhelms sector dynamics; NVIDIA capex slowdown.**
 
-More concurrent inference users per GPU = more data flowing between GPUs = more optical interconnects needed. TurboQuant is structurally bullish for photonics even as it’s (wrongly) bearish for memory. The market hasn’t figured this out yet. COHR and LITE are up while MU is down—the smart money is rotating from memory to interconnect. Hold and add on dips. | Risk: Broader tech selloff overwhelms sector dynamics; NVIDIA capex slowdown.
 
 ### Panel 12
 
-**WATCH  LULU — Don’t Touch Before Earnings**
+**WATCH  LULU — Don’t Touch Before Earnings Consumer confidence is at 12-year lows. Inflation expectations are 6.2%. Gas is $4.15. LULU is a $100-legging-company reporting into the worst consumer backdrop since 2023. The risk/reward is skewed to the downside on guidance. Wait for the print. If they guide above $25 EPS for FY27, buy. If below, short. Risk: China strength saves the quarter; premium consumer proves resilient; stock gaps higher.**
 
-Consumer confidence is at 12-year lows. Inflation expectations are 6.2%. Gas is $4.15. LULU is a $100-legging-company reporting into the worst consumer backdrop since 2023. The risk/reward is skewed to the downside on guidance. Wait for the print. If they guide above $25 EPS for FY27, buy. If below, short. | Risk: China strength saves the quarter; premium consumer proves resilient; stock gaps higher.
 
 ### Panel 13
 

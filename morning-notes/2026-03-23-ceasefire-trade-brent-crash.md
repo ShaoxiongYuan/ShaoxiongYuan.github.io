@@ -1,67 +1,47 @@
 ---
 layout: morning-note
-title: "Trump Delays Iran Strikes 5 Days. Brent Crashes 14%. Futures Rip. COHR/LITE Join S&P 500."
-headline: "Trump Delays Iran Strikes 5 Days. Brent Crashes 14%. Futures Rip. COHR/LITE Join S&P 500."
+title: 'Trump Delays Iran Strikes 5 Days. “Very Good Talks.” Brent Crashes 14%. Futures Rip. COHR/LITE Join S&P 500 Today.'
+headline: 'Trump Delays Iran Strikes 5 Days. “Very Good Talks.” Brent Crashes 14%. Futures Rip. COHR/LITE Join S&P 500 Today.'
 date: 2026-03-23
 image: /images/notes/2026-03-23.jpg
 author: Steven Yuan
 
 snapshot:
-  - { label: "S&P Futures",      value: "+2.7%",      dir: up }
-  - { label: "Dow Futures",      value: "+2.1%",      dir: up }
-  - { label: "Brent Crude",      value: "$99-$104",   dir: down }
-  - { label: "VIX",              value: "26.8",       dir: down }
+  - { label: 'S&P 500 Futs', value: '5,730', dir: up }
+  - { label: 'Nasdaq 100 Futs', value: '20,050', dir: up }
+  - { label: 'Dow Futs', value: '46,500', dir: up }
+  - { label: 'Russell 2000 Futs', value: '1,920', dir: up }
 
 levels:
-  - { name: "S&P 500 Futures",   value: "+2.7%",      dir: up }
-  - { name: "Dow Futures",       value: "+2.1%",      dir: up }
-  - { name: "Brent Crude",       value: "$99-$104",   dir: down }
-  - { name: "VIX",               value: "26.8",       dir: down }
-
-sentiment:
-  - { label: "Energy",           tone: bullish, pct: 85 }
-  - { label: "Photonics",        tone: bullish, pct: 88 }
-  - { label: "Defense",          tone: bullish, pct: 80 }
-  - { label: "Equities (broad)", tone: neutral, pct: 50 }
-
-tags:
-  - ceasefire
-  - Iran
-  - oil
-  - Brent
-  - Trump
-  - S&P500
-  - photonics
-  - COHR
-  - LITE
+  - { name: 'S&P 500 Futs', value: '5,730', dir: up }
+  - { name: 'Nasdaq 100 Futs', value: '20,050', dir: up }
+  - { name: 'Dow Futs', value: '46,500', dir: up }
+  - { name: 'Russell 2000 Futs', value: '1,920', dir: up }
 ---
 
-Day 24 of the US-Iran War  |  Brent $99-$104 (was $112 Fri)  |  S&P Futs +2.7%  |  Dow Futs +2.1%  |  VIX 26.8
+MONDAY, MARCH 23, 2026
 
-## Top Call | The Ceasefire Trade Is On
+## Trump Delays Iran Strikes 5 Days. “Very Good Talks.” Brent Crashes 14%. Futures Rip. COHR/LITE Join S&P 500 Today.
 
-Our Take: This is the first genuine ceasefire signal in 24 days of war. Even if Iran is publicly denying talks (expected:they can’t appear to negotiate under fire), the fact that Trump is pausing strikes is material. Markets are pricing in a 30-40% probability of a deal within 5 days. If talks collapse by Friday, we retrace violently. If they hold, this is the bottom for risk assets and the top for oil. Trade accordingly:this is a binary event.
+Day 24 of the US-Iran War  |  Brent $99–$104 (was $112 Fri)  |  S&P Futs +2.7%  |  Dow Futs +2.1%  |  VIX 26.8
 
-## Market Snapshot | 6:45 AM ET
+## TOP CALL — THE CEASEFIRE TRADE IS ON
 
-| Asset | Level | Direction |
-|---|---|---|
-| S&P Futures | +2.7% | ↑ |
-| Dow Futures | +2.1% | ↑ |
-| Brent Crude | $99-$104 | ↓ |
-| VIX | 26.8 | ↓ |
+Our Take: This is the first genuine ceasefire signal in 24 days of war. Even if Iran is publicly denying talks (expected—they can’t appear to negotiate under fire), the fact that Trump is pausing strikes is material. Markets are pricing in a 30–40% probability of a deal within 5 days. If talks collapse by Friday, we retrace violently. If they hold, this is the bottom for risk assets and the top for oil. Trade accordingly—this is a binary event.
 
-## Oil | The 14% Crash Heard Around the World
+## MARKET SNAPSHOT — 6:45 AM ET
 
-Short-term: Oil is now pricing in ~30% ceasefire probability. If talks fail by Friday, we snap back to $110+ immediately. If they succeed, $85-90 Brent is the near-term target.
+## OIL — THE 14% CRASH HEARD AROUND THE WORLD
+
+Short-term: Oil is now pricing in ~30% ceasefire probability. If talks fail by Friday, we snap back to $110+ immediately. If they succeed, $85–90 Brent is the near-term target.
 
 Supply picture: Kuwait’s 730K bpd is still offline. Iraq force majeure remains. Fujairah terminal still impaired. The supply disruption is real regardless of ceasefire talks.
 
-Bessent play: The 140M barrels of stranded Iranian oil released over the weekend adds ~1M bpd for 4-5 months. Meaningful short-term, but doesn’t fix the structural gap.
+Bessent play: The 140M barrels of stranded Iranian oil released over the weekend adds ~1M bpd for 4–5 months. Meaningful short-term, but doesn’t fix the structural gap.
 
 Goldman call: Goldman’s $120+ Brent base case from last week is now under review pending ceasefire outcome. They cautioned against chasing the oil selloff.
 
-## S&P 500 Rebalance | COHR, LITE, VRT, SATS Added Today
+## S&P 500 REBALANCE — COHR, LITE, VRT, SATS ADDED TODAY
 
 COHR (Coherent): Photonics leader. $2B NVIDIA investment. Up 15.4% last week into inclusion. Expect heavy volume at the open as passive funds complete purchases.
 
@@ -69,41 +49,43 @@ LITE (Lumentum): Optical networking + laser components. $2B NVIDIA deal + multi-
 
 VRT (Vertiv): AI power/cooling infrastructure. Critical datacenter supply chain. Completing the “AI plumbing” trio.
 
-SATS (EchoStar): Satellite/broadband. The outlier addition:less AI, more connectivity. Former DISH/Hughes merger.
+SATS (EchoStar): Satellite/broadband. The outlier addition—less AI, more connectivity. Former DISH/Hughes merger.
 
-Estimated passive inflows: $2-4B combined for COHR and LITE alone. The rebalance effect typically lasts 1-3 trading days as index funds complete their purchases. Today’s volume will be elevated.
+Estimated passive inflows: $2–4B combined for COHR and LITE alone. The rebalance effect typically lasts 1–3 trading days as index funds complete their purchases. Today’s volume will be elevated.
 
-## War Signal Tracker | Monday Assessment
+## WAR SIGNAL TRACKER — MONDAY ASSESSMENT
 
 Assessment: 3 BULL / 4 BEAR / 3 NEUTRAL. A material improvement from last Friday’s 1/7/2 split. The shift is entirely driven by Trump’s strike pause. If Iran confirms talks by Wednesday, this flips to majority BULL. If they don’t, expect rapid re-escalation.
 
+## COMPANY HEADLINES — PREMARKET MOVERS
 
+## TOP 12 HEADLINES
 
+## TRADE IDEAS
 
+## EVENT CALENDAR — THIS WEEK
 
-## Bottom Line
+## BOTTOM LINE
 
 The Most Important 5 Days of the War.
 
 For the first time in 24 days, there is a genuine de-escalation signal. Trump’s 5-day strike pause and claim of “very good talks” has sent Brent crashing 14%, futures surging 3%, and VIX collapsing from 31 to 27. The market is pricing in a real chance of a deal.
 
-But Iran is publicly denying the talks. The credibility gap is enormous. And the demands:full uranium surrender:are maximalist. This could be a head-fake designed to lower oil prices while the Pentagon repositions. Or it could be the beginning of the end. We don’t know.
+But Iran is publicly denying the talks. The credibility gap is enormous. And the demands—full uranium surrender—are maximalist. This could be a head-fake designed to lower oil prices while the Pentagon repositions. Or it could be the beginning of the end. We don’t know.
 
-What we do know: this is a binary week. By Friday, either we have a ceasefire framework and oil at $85-90 with the S&P recovering to 5,800+, or the talks collapse, strikes resume, and we revisit the worst levels of last week. Position for both outcomes. Own the relief trades (airlines, MU, tech) but hedge with oil puts and VIX calls. The next 5 days will define Q2.
+What we do know: this is a binary week. By Friday, either we have a ceasefire framework and oil at $85–90 with the S&P recovering to 5,800+, or the talks collapse, strikes resume, and we revisit the worst levels of last week. Position for both outcomes. Own the relief trades (airlines, MU, tech) but hedge with oil puts and VIX calls. The next 5 days will define Q2.
 
-## Detailed Panels (from source note)
+## Data Panels
 
 ### Panel 1
 
-**BREAKING  Trump Postpones Iran Strikes for 5 Days, Cites “Very Good” Talks**
+**BREAKING  Trump Postpones Iran Strikes for 5 Days, Cites “Very Good” Talks President Trump announced overnight that the US is postponing planned strikes on Iranian power plants and energy infrastructure for five days, citing “very good” talks with Tehran. He said envoys Steve Witkoff and Jared Kushner held talks with a “respected” Iranian leader on Sunday night. Trump stated both sides are keen to “make a deal” and that there are already “major points of agreement.” His chief demand: Iran must give up its enriched uranium stockpile.**
 
-President Trump announced overnight that the US is postponing planned strikes on Iranian power plants and energy infrastructure for five days, citing “very good” talks with Tehran. He said envoys Steve Witkoff and Jared Kushner held talks with a “respected” Iranian leader on Sunday night. Trump stated both sides are keen to “make a deal” and that there are already “major points of agreement.” His chief demand: Iran must give up its enriched uranium stockpile.
 
 ### Panel 2
 
-**CAUTION  Iran Denies Direct Talks. Says Trump Is “Manipulating Markets.”**
+**CAUTION  Iran Denies Direct Talks. Says Trump Is “Manipulating Markets.” Iran’s response is skeptical to hostile. Speaker Ghalibaf denied any “negotiations” took place and called Trump’s claims an effort to “manipulate markets” and “escape the quagmire.” Iran’s position: the US announcement is designed to lower energy prices and buy time for military repositioning. This is a critical credibility gap—if Iran doesn’t confirm the talks, the 5-day window may be more of a head-fake than a genuine off-ramp.**
 
-Iran’s response is skeptical to hostile. Speaker Ghalibaf denied any “negotiations” took place and called Trump’s claims an effort to “manipulate markets” and “escape the quagmire.” Iran’s position: the US announcement is designed to lower energy prices and buy time for military repositioning. This is a critical credibility gap—if Iran doesn’t confirm the talks, the 5-day window may be more of a head-fake than a genuine off-ramp.
 
 ### Panel 3
 
@@ -123,15 +105,13 @@ Iran’s response is skeptical to hostile. Speaker Ghalibaf denied any “negoti
 
 ### Panel 4
 
-**OIL CRASH  Brent Plunges 14% Intraday, Biggest Drop Since 2020**
+**OIL CRASH  Brent Plunges 14% Intraday, Biggest Drop Since 2020 Brent crude collapsed from $112 (Friday close) to as low as $96 in early Asian trading before recovering to $99–$104 range. This is the largest single-session move since April 2020. WTI followed, dropping 13%. The catalyst: Trump’s 5-day strike pause and ceasefire signal. Treasury Sec. Bessent’s weekend move to lift sanctions on 140M barrels of stranded Iranian oil added supply-side relief.**
 
-Brent crude collapsed from $112 (Friday close) to as low as $96 in early Asian trading before recovering to $99–$104 range. This is the largest single-session move since April 2020. WTI followed, dropping 13%. The catalyst: Trump’s 5-day strike pause and ceasefire signal. Treasury Sec. Bessent’s weekend move to lift sanctions on 140M barrels of stranded Iranian oil added supply-side relief.
 
 ### Panel 5
 
-**INDEX EVENT  Coherent, Lumentum, Vertiv, EchoStar Join S&P 500 Effective Today**
+**INDEX EVENT  Coherent, Lumentum, Vertiv, EchoStar Join S&P 500 Effective Today The quarterly S&P 500 rebalance takes effect before today’s open. Four new additions—three of which are AI infrastructure plays (COHR, LITE, VRT)—replace Match Group (MTCH), Molina Healthcare (MOH), Lamb Weston (LW), and Paycom (PAYC). Over $7 trillion is benchmarked to the S&P 500, forcing mechanical passive buying across every index fund and ETF.**
 
-The quarterly S&P 500 rebalance takes effect before today’s open. Four new additions—three of which are AI infrastructure plays (COHR, LITE, VRT)—replace Match Group (MTCH), Molina Healthcare (MOH), Lamb Weston (LW), and Paycom (PAYC). Over $7 trillion is benchmarked to the S&P 500, forcing mechanical passive buying across every index fund and ETF.
 
 ### Panel 6
 
@@ -184,33 +164,28 @@ The quarterly S&P 500 rebalance takes effect before today’s open. Four new add
 
 ### Panel 9
 
-**BUY  Airlines (DAL, UAL, LUV) — Jet Fuel Relief Rally**
+**BUY  Airlines (DAL, UAL, LUV) — Jet Fuel Relief Rally Jet fuel is airlines’ largest cost after labor. A 14% oil crash translates to ~$2–3B annualized fuel savings for the major carriers combined. These names are down 15–25% since the war started. If ceasefire holds, this is a 20%+ snapback trade. DAL is our top pick on best hedging and premium revenue mix. Risk: Ceasefire talks collapse; oil snaps back to $110+; consumer weakens on stagflation.**
 
-Jet fuel is airlines’ largest cost after labor. A 14% oil crash translates to ~$2–3B annualized fuel savings for the major carriers combined. These names are down 15–25% since the war started. If ceasefire holds, this is a 20%+ snapback trade. DAL is our top pick on best hedging and premium revenue mix. | Risk: Ceasefire talks collapse; oil snaps back to $110+; consumer weakens on stagflation.
 
 ### Panel 10
 
-**HOLD  COHR / LITE — Ride the Rebalance, But Don’t Chase**
+**HOLD  COHR / LITE — Ride the Rebalance, But Don’t Chase S&P 500 inclusion creates mechanical buying today, but the easy money was made last week (+15%/+12%). Hold existing positions. Do not add at the open—let passive flows complete over 1–3 days and buy any post-inclusion dip. The NVIDIA partnership and OFC tailwinds are structural. Risk: Post-inclusion selling (classic “buy the rumor, sell the news”); broader tech selloff resumes.**
 
-S&P 500 inclusion creates mechanical buying today, but the easy money was made last week (+15%/+12%). Hold existing positions. Do not add at the open—let passive flows complete over 1–3 days and buy any post-inclusion dip. The NVIDIA partnership and OFC tailwinds are structural. | Risk: Post-inclusion selling (classic “buy the rumor, sell the news”); broader tech selloff resumes.
 
 ### Panel 11
 
-**REDUCE  Energy Longs — Take Profits on Half**
+**REDUCE  Energy Longs — Take Profits on Half If you’re overweight energy (as we recommended all of last week), take profits on half the position today. Oil has dropped $12–16 from Friday’s close. The supply disruptions are real (Kuwait, Iraq, Fujairah), but the ceasefire signal changes the risk/reward. Keep half as a hedge against talks failing. Risk: Ceasefire collapses and oil rips back to $115+; taking profits too early.**
 
-If you’re overweight energy (as we recommended all of last week), take profits on half the position today. Oil has dropped $12–16 from Friday’s close. The supply disruptions are real (Kuwait, Iraq, Fujairah), but the ceasefire signal changes the risk/reward. Keep half as a hedge against talks failing. | Risk: Ceasefire collapses and oil rips back to $115+; taking profits too early.
 
 ### Panel 12
 
-**BUY  MU — Micron Post-Earnings Dip**
+**BUY  MU — Micron Post-Earnings Dip MU fell 5% after blowout earnings (EPS $12.20 vs $9.31) on classic sell-the-news. Now bouncing +2–3% premarket on risk-on. The Q3 guide ($33.5B rev, $19.15 EPS, 81% GM) is spectacular. Barclays raised to $670. Buy the dip—this is the best AI hardware story in the market. Risk: HBM pricing pressure; DRAM cycle turns; broader tech selloff resumes.**
 
-MU fell 5% after blowout earnings (EPS $12.20 vs $9.31) on classic sell-the-news. Now bouncing +2–3% premarket on risk-on. The Q3 guide ($33.5B rev, $19.15 EPS, 81% GM) is spectacular. Barclays raised to $670. Buy the dip—this is the best AI hardware story in the market. | Risk: HBM pricing pressure; DRAM cycle turns; broader tech selloff resumes.
 
 ### Panel 13
 
-**HEDGE  Short Oil via USO Puts — Ceasefire Binary**
+**HEDGE  Short Oil via USO Puts — Ceasefire Binary If you believe ceasefire talks are real (we assign 30–40%), buy USO April puts. A deal sends Brent to $85–90 within days. The risk/reward on a binary event is asymmetric: ~$15 downside on deal vs ~$5–10 upside on failure (supply constraints cap the rally). Defined risk via options. Risk: Talks fail, Hormuz closure, nuclear escalation—oil spikes to $120+.**
 
-If you believe ceasefire talks are real (we assign 30–40%), buy USO April puts. A deal sends Brent to $85–90 within days. The risk/reward on a binary event is asymmetric: ~$15 downside on deal vs ~$5–10 upside on failure (supply constraints cap the rally). Defined risk via options. | Risk: Talks fail, Hormuz closure, nuclear escalation—oil spikes to $120+.
 
 ### Panel 14
 
