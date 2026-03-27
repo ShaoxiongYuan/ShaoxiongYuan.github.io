@@ -107,3 +107,140 @@ The ceasefire narrative will dominate the tape for the next four days. Every Tru
 The deeper story this week isn’t the ceasefire:it’s the consumer. UMich at 55.5 is the canary. If Conference Board confirms the collapse today, we have a second problem beyond war: the American consumer is retrenching. Gasoline at $4.20 is starting to bite. Q2 GDP estimates will need to come down. And the Fed just told us last Wednesday that rate cuts aren’t coming to help.
 
 Two things can be true at once: AI/photonics/memory can be structurally bullish while the macro backdrop deteriorates. Own the secular winners (MU, COHR, LITE, defence). Hedge the macro risk (oil range trades, VIX calls). And wait for Friday’s two events:core PCE and the ceasefire deadline:before making any large directional bets.
+
+## Detailed Panels (from source note)
+
+### Panel 1
+
+**ANALYSIS  Three Contradictions the Market Cannot Resolve**
+
+1) Trump says talks are “very good”—Iran says no talks happened. 2) The US paused strikes for 5 days—Israel launched “unprecedented” strikes on Tehran the same night. 3) Witkoff/Kushner are supposedly negotiating—but demanding full uranium surrender, which Iran will never accept publicly. Until these contradictions resolve, every rally on ceasefire headlines will be sold within 24–48 hours.
+
+### Panel 2
+
+**IMPLICATION  Trade the Range, Not the Resolution**
+
+We are in a $95–$115 Brent trading range until ceasefire materializes or fails definitively. Every “talks are going well” headline takes oil to the low end; every Israeli strike takes it back to the high end. Position accordingly: fade the extremes, don’t chase breakouts in either direction. The same logic applies to equities—the S&P will oscillate between 5,500 (risk-off) and 5,800 (risk-on) until the war resolves.
+
+### Panel 3
+
+**DIPLOMACY  Pakistan Offers to Host US-Iran Talks in Islamabad This Week**
+
+Pakistan’s PM Sharif has offered Islamabad as a venue for “meaningful and conclusive” peace talks. Army Chief Field Marshal Asim Munir spoke directly with Trump on Monday. Egypt and Turkey are also positioning as mediators. An Israeli official confirmed “planning is underway” for Pakistan talks later this week.
+
+### Panel 4
+
+| Index / Asset | Level | Change | Note |
+| --- | --- | --- | --- |
+| S&P 500 Futs | 5,615 | −0.5% | Giving back Monday’s gains |
+| Nasdaq 100 Futs | 19,750 | −0.5% | Tech fading after yesterday’s +1.4% |
+| Dow Futs | 45,800 | −0.8% | Led by energy reversal |
+| Russell 2000 | 1,905 | −0.6% | Small caps fragile |
+| Brent Crude | $104.10 | +4.0% | Back above $100; 14% crash fully reversed |
+| WTI Crude | $100.80 | +4.9% | Rebounding on overnight strikes |
+| Gold | $3,240 | +0.9% | Safe haven bid returning |
+| VIX | 26.8 | +11% | Vol repricing higher on rally failure |
+| 10Y UST | 4.30% | +2bp | Flat; waiting for data |
+| DXY (Dollar) | 106.1 | +0.2% | Consolidating |
+| Bitcoin | $68,500 | −3.0% | Giving back yesterday’s bounce |
+
+### Panel 5
+
+| Signal | Detail | Bias |
+| --- | --- | --- |
+| Trump rhetoric | Still claiming “very good talks.” But no confirmation from Iran. 5-day window = 4 days remaining. | NEUTRAL |
+| Iran response | Publicly denies talks. But CNN source confirms “outreach” occurred. Willing to listen to “suitable” proposals. | NEUTRAL |
+| Israel / IDF | “Unprecedented” strikes on Tehran Monday night. Israeli official says deal “not tangible.” Operating independently. | BEAR |
+| Pakistan mediation | PM Sharif offers Islamabad. Army Chief Munir spoke to Trump. Israeli official confirms “planning underway.” | BULL |
+| Oil supply | Brent back to $104. Kuwait still offline. Iraq FM in place. 140M barrel sanctions relief partially offsetting. | BEAR |
+| Tehran strikes | 82,000+ civilian structures damaged. Strikes described as “unprecedented” scale on eastern Tehran. | BEAR |
+| Tel Aviv hit | Iranian missile struck central Tel Aviv. Escalation in targeting civilian centers. | BEAR |
+| Consumer impact | UMich sentiment 55.5, lowest of 2026. Gasoline prices cited as top concern. Global confidence declining. | BEAR |
+| Nuclear dimension | Trump demands full uranium surrender. Iran says entitled to peaceful nuclear tech. Hardest negotiating gap. | BEAR |
+| 5-day window | Day 2 of 5. Strikes paused by US but not Israel. Clock is ticking. Pakistan talks could extend window. | NEUTRAL |
+
+### Panel 6
+
+**DATA  UMich Consumer Sentiment: 55.5 — Lowest Reading of 2026**
+
+The preliminary March UMich reading fell to 55.5 from 56.6, hitting the lowest level since the war began. Expectations for personal finances fell 7.5% across all income brackets, age groups, and political affiliations. The driver: gasoline prices. Average national gas is now $4.20/gal, up from $3.10 pre-war—a 35% increase in less than a month.
+
+### Panel 7
+
+| Ticker | Company | Pre-Mkt | Catalyst |
+| --- | --- | --- | --- |
+| XOM | Exxon Mobil | +2–3% | Oil rebound. Yesterday’s −6% reversed. Brent back above $104. |
+| OXY | Occidental | +3–4% | Highest beta to oil bounce. Snapping back after Monday’s crash. |
+| CVX | Chevron | +2–3% | Energy sector broadly bid on overnight war escalation. |
+| DAL | Delta Air Lines | −2–3% | Giving back Monday’s +5% jet fuel rally. Oil rebound kills the thesis. |
+| UAL | United Airlines | −2–3% | Same dynamic. Airlines whipsawing with oil prices. |
+| COHR | Coherent | −1–2% | Profit-taking after S&P 500 inclusion day. Classic sell-the-news. |
+| LITE | Lumentum | −1–2% | Same post-inclusion fade. But NVDA partnership = structural floor. |
+| GME | GameStop | Flat/−1% | Earnings tonight AMC. $8.8B cash pile. M&A speculation. |
+| LMT | Lockheed Martin | +1–2% | Defence re-bid as ceasefire hopes fade. RTX, NOC following. |
+| INSM | Insmed | +3–4% | Continuing Monday’s +11.5% move on pipeline catalyst. |
+
+### Panel 8
+
+**EARNINGS  GME Reports Tonight AMC**
+
+EPS Est $0.34 | Rev Est $1.47B | For the first time, the GameStop story isn’t about game disc sales—it’s about the $8.8B cash pile and what Ryan Cohen plans to do with it. Cohen has engineered an “Omni-Holding” pivot, effectively turning GME into a holding company with a balance sheet the size of a mid-cap bank. The market has priced in +/−6% earnings move.
+
+### Panel 9
+
+| # | Headline |
+| --- | --- |
+| 1 | Israel launches “unprecedented” strikes on Tehran hours after Trump announces ceasefire talks |
+| 2 | Iranian missile hits central Tel Aviv; both sides escalate despite US-declared pause |
+| 3 | Brent crude rebounds 4% to $104 as Monday’s 14% crash reverses; oil back above $100 |
+| 4 | Israeli official says ceasefire deal “does not appear to be tangible right now” |
+| 5 | Pakistan offers to host US-Iran peace talks in Islamabad; Army Chief Munir spoke with Trump |
+| 6 | Iranian source tells CNN there was US “outreach”; Iran willing to hear “suitable” proposals |
+| 7 | S&P 500 futures −0.5% after Monday’s +1.15% rally fades on overnight war escalation |
+| 8 | UMich consumer sentiment 55.5—lowest of 2026; gasoline prices cited as top consumer concern |
+| 9 | 82,000+ civilian structures damaged in Iran; Red Crescent reports scale of destruction |
+| 10 | Conference Board Consumer Confidence due 10 AM; below 90 would confirm consumer cracking |
+| 11 | GameStop earnings tonight AMC; $8.8B cash pile and “Omni-Holding” pivot in focus |
+| 12 | COHR, LITE down 1–2% premarket on post-S&P 500 inclusion profit-taking |
+
+### Panel 10
+
+**BUY  Defence (LMT, RTX, NOC) — Re-Enter on Ceasefire Fade**
+
+Yesterday’s ceasefire euphoria hit defence names 3–4%. Today they’re bouncing as the reality sinks in: there is no deal, Israel is striking independently, and the 5-day window looks shaky. Defence is the one sector that wins in both scenarios—continued war is obviously bullish, and even a ceasefire likely leads to a massive Middle East rearmament cycle. Buy the dip. | Risk: Genuine ceasefire + peace deal removes the urgency premium; budget sequestration risk.
+
+### Panel 11
+
+**FADE  Oil Extremes — Sell $110+ Brent, Buy $95–$98 Brent**
+
+The market has established a clear $95–$115 trading range around ceasefire headlines. Every Trump de-escalation signal sends oil to the low end; every Israeli strike sends it back. Until a genuine ceasefire materializes, fade the extremes. Use futures or ETF options (USO, BNO) to play the range. | Risk: Hormuz full closure breaks the ceiling; surprise ceasefire breaks the floor.
+
+### Panel 12
+
+**HOLD  MU — Don’t Trade the Noise, Own the Cycle**
+
+Micron is bouncing around on the broader market noise, but the Q2 results (EPS $12.20) and Q3 guide ($33.5B rev, 81% GM) are the most impressive numbers in semis. Stop trading MU on daily war headlines. Hold for the HBM supercycle. The pullback from post-earnings sell-the-news is already fading. | Risk: Severe risk-off forces indiscriminate tech selling; HBM pricing competition from Samsung.
+
+### Panel 13
+
+**WATCH  GME — Earnings Tonight Is Binary**
+
+Don’t take a position ahead of earnings unless you’re comfortable with +/−6% overnight. The cash deployment story is the catalyst. If Cohen announces an acquisition or detailed Bitcoin strategy, shares gap higher. If it’s business-as-usual with declining retail revenue, the stock sells off. Wait for the print, react post-market. | Risk: Announcing a position pre-earnings is pure gambling in this tape.
+
+### Panel 14
+
+| Day | Time | Event | Impact |
+| --- | --- | --- | --- |
+| Tue 3/24 | 10:00 AM | Conference Board Consumer Confidence (Mar) | HIGH |
+| Tue 3/24 | 10:00 AM | New Home Sales (Feb) | LOW |
+| Tue 3/24 | AMC | GameStop (GME) Q4 Earnings | MED |
+| Tue 3/24 | All Day | Ceasefire Window Day 2 of 5 | HIGH |
+| Wed 3/25 | 8:30 AM | Durable Goods Orders (Feb) | MED |
+| Wed 3/25 | All Day | Ceasefire Window Day 3 — Midpoint | HIGH |
+| Wed 3/25 | TBD | Pakistan Talks — Possible Start | HIGH |
+| Thu 3/26 | 8:30 AM | GDP Final Revision (Q4) | LOW |
+| Thu 3/26 | 8:30 AM | Initial Jobless Claims | MED |
+| Thu 3/26 | AMC | Lululemon (LULU) Earnings | MED |
+| Fri 3/27 | 8:30 AM | Core PCE Inflation (Feb) — CRITICAL | HIGH |
+| Fri 3/27 | 10:00 AM | UMich Consumer Sentiment Final (Mar) | MED |
+| Fri 3/27 | All Day | Ceasefire Window Day 5 — DEADLINE | HIGH |
