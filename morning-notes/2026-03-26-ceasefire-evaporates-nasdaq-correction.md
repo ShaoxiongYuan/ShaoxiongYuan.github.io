@@ -7,18 +7,32 @@ image: /images/notes/2026-03-26.jpg
 author: Steven Yuan
 
 snapshot:
-  - { label: 'S&P 500 (Tue Close)', value: '5,645', dir: up }
-  - { label: 'S&P 500 Futs', value: '5,580', dir: down }
-  - { label: 'Nasdaq 100 Futs', value: '19,600', dir: down }
-  - { label: 'Dow Futs', value: '46,100', dir: down }
+  - { label: 'S&P 500', value: '5,580', dir: down }
+  - { label: 'Nasdaq Composite', value: '19,600', dir: down }
+  - { label: 'Dow Jones', value: '46,100', dir: down }
+  - { label: 'Brent Crude', value: '$100.20', dir: up }
+  - { label: 'VIX', value: '27.5', dir: up }
 
 levels:
-  - { name: 'S&P 500 (Tue Close)', value: '5,645', dir: up }
-  - { name: 'S&P 500 Futs', value: '5,580', dir: down }
-  - { name: 'Nasdaq 100 Futs', value: '19,600', dir: down }
-  - { name: 'Dow Futs', value: '46,100', dir: down }
----
+  - { name: 'S&P 500', value: '5,580', dir: down }
+  - { name: 'Nasdaq Composite', value: '19,600', dir: down }
+  - { name: 'Dow Jones', value: '46,100', dir: down }
+  - { name: 'Russell 2000', value: '1,905', dir: flat }
+  - { name: 'WTI Crude', value: '$96.50', dir: up }
+  - { name: 'Brent Crude', value: '$100.20', dir: up }
+  - { name: 'VIX', value: '27.5', dir: up }
+  - { name: '10Y Treasury', value: '4.28%', dir: down }
+  - { name: 'Gold Spot', value: '$3,230', dir: up }
 
+sentiment:
+  - { label: 'Diplomacy / Ceasefire Odds', tone: bullish, pct: 58 }
+  - { label: 'Risk Assets', tone: bearish, pct: 44 }
+  - { label: 'Oil Complex', tone: neutral, pct: 52 }
+  - { label: 'Geopolitical Risk', tone: bearish, pct: 66 }
+  - { label: 'Defense', tone: neutral, pct: 54 }
+  - { label: 'AI Infrastructure', tone: bullish, pct: 76 }
+  - { label: 'Consumer Macro', tone: bearish, pct: 74 }
+---
 THURSDAY, MARCH 26, 2026
 
 ## Google Just Broke the Memory Trade. TurboQuant: 6x Compression, Zero Accuracy Loss. MU −7%. SK Hynix −6%. The AI Supply Chain Is Being Rewritten Overnight.
@@ -115,111 +129,22 @@ The TurboQuant trade is just beginning. The market’s knee-jerk (“less memory
 
 Buy the disruption. Sell the panic. Tomorrow’s PCE will tell us which of these two stories dominates Q2.
 
-## Data Panels
+## KEY LEVELS — 6:45 AM ET
 
-### Panel 1
-
-**BREAKING  Google TurboQuant: 6x Memory Compression, 8x Faster Inference, Zero Accuracy Loss Google published a research paper overnight introducing TurboQuant, an algorithm that compresses key-value cache (KV-cache) in large language models from 16 bits to just 3 bits per value. The result: 6x reduction in memory consumption and up to 8x faster inference throughput on NVIDIA H100 GPUs—with no measurable loss in output quality. Open-source release expected Q2 2026, likely at ICLR (April 23–25). The internet is calling it “Pied Piper.”**
-
-
-### Panel 2
-
-**KEY INSIGHT  This Is Jevons’ Paradox in Real Time When you make a resource more efficient, you don’t use less of it—you use more. If TurboQuant lets a single H100 serve 6x more concurrent LLM users, the economics of inference improve dramatically. That accelerates AI adoption, which drives more model deployment, which requires more GPUs, which requires more HBM. The same logic applied when NVIDIA introduced tensor cores (GPU efficiency up, GPU demand up), when flash attention improved transformer throughput (more models deployed, not fewer), and when quantization went from FP32 to FP16 to INT8 (inference got cheaper, inference volume exploded).**
-
-
-### Panel 3
-
-**DIPLOMACY  Pakistan Confirms: “US-Iran Indirect Talks Are Taking Place Through Messages Relayed by Pakistan” For the first time, a mediator has officially confirmed active diplomatic engagement. Pakistan’s statement that talks are occurring “through messages being relayed” confirms the back-channel is real, even as Iran publicly denies it. Egypt and Turkey are also backing the process. Envoys are pushing for face-to-face Islamabad talks as early as Friday.**
-
-
-### Panel 4
-
-**ESCALATION  Israel Strikes Isfahan Overnight. Iran Fires Missiles at Central Israel. While the US has paused strikes (extended to April 6), Israel continues its independent campaign. Overnight strikes hit Isfahan—a major industrial and nuclear research hub. Iran retaliated with two waves of missiles targeting central Israel. The parallel tracks—diplomacy via Pakistan and combat via Israel—create an unstable dynamic.**
-
-
-### Panel 5
-
-| Index / Asset | Level | Change | Note |
+| Asset | Level | Change | Context |
 | --- | --- | --- | --- |
-| S&P 500 (Tue Close) | 5,645 | +0.5% | Peace optimism held; 3 consecutive up days |
-| S&P 500 Futs | 5,580 | −1.2% | TurboQuant + Israel strikes driving futures down |
-| Nasdaq 100 Futs | 19,600 | −1.8% | Memory/semi selloff dragging tech lower |
-| Dow Futs | 46,100 | −0.7% | Relatively better; less tech exposure |
-| Brent Crude | $100.20 | +1.1% | Rebounding on Isfahan strikes; above $100 again |
-| WTI Crude | $96.50 | +1.5% | Following Brent; war premium returning |
-| Gold (Spot) | $3,230 | +0.9% | Safe haven bid on equity weakness + war escalation |
-| VIX | 27.5 | +15% | Vol spiking on TurboQuant panic + geopolitical noise |
-| 10Y UST | 4.28% | −2bp | Slight flight to safety; waiting for PCE tomorrow |
-| DXY (Dollar) | 105.8 | −0.3% | Flat to lower on risk-off |
-| Bitcoin | $67,500 | −2.5% | Tech selloff dragging crypto lower |
+| S&P 500 | 5,580 | −1.2% | Futures softer on geopolitics + semis |
+| Nasdaq Composite | 19,600 | −1.8% | Tech risk-off (futures proxy) |
+| Dow Jones | 46,100 | −0.7% | Less tech-sensitive pullback (futures level) |
+| Russell 2000 | 1,905 | flat | Small-cap reference level from prior session continuity |
+| WTI Crude | $96.50 | +1.5% | War premium returning |
+| Brent Crude | $100.20 | +1.1% | Back above $100 |
+| VIX | 27.5 | +15% | Vol spike |
+| 10Y Treasury | 4.28% | −2bp | Flight-to-safety bid |
+| Gold Spot | $3,230 | +0.9% | Safe-haven support |
 
-### Panel 6
+## SENTIMENT READINGS
 
-| Signal | Detail | Bias |
-| --- | --- | --- |
-| Pakistan mediation | Officially confirmed indirect talks. Pushing for Islamabad face-to-face Friday. | BULL |
-| US proposal | 15-point plan on the table. Deadline extended to April 6. Genuine effort. | BULL |
-| Iran counter-offer | 5 counter-demands issued. Engagement through proposals = active negotiation. | BULL |
-| Trump rhetoric | “Get serious” to Iran. Frustrated but still engaged. No escalation signals. | NEUTRAL |
-| Israel / IDF | Isfahan strikes overnight. Missiles in central Israel. Not party to any pause. | BEAR |
-| Oil price | Brent $99–$100. Ceasefire premium deflating but Israeli strikes keeping floor. | NEUTRAL |
-| Hormuz status | No new incidents this week. Iran hasn’t threatened closure during talks. | BULL |
-| Consumer damage | CB Confidence 92.2. Expectations 65.2. Inflation expectations 6.2%. Already baked in. | BEAR |
-| Nuclear demands | Hardest gap. But both sides referencing JCPOA precedent. Template exists. | NEUTRAL |
-| Casualty toll | 1,500+ killed in Iran. Public pressure building on both sides for resolution. | NEUTRAL |
-
-### Panel 7
-
-| Ticker | Company | Pre-Mkt | Catalyst |
-| --- | --- | --- | --- |
-| MU | Micron | −7% | TurboQuant panic. Down $90 from ATH in 8 days. We say BUY THE DIP. |
-| 005930.KS | Samsung | −5% | Same TurboQuant fear. DRAM/NAND demand outlook unchanged. |
-| 000660.KS | SK Hynix | −6% | HBM3E demand still insatiable. Knee-jerk sell on efficiency scare. |
-| NVDA | NVIDIA | −2–3% | Sympathy with memory names. But TurboQuant is BULLISH for GPU demand. |
-| COHR | Coherent | +1–2% | Photonics immune to TurboQuant. More inference = more interconnects. |
-| LITE | Lumentum | +1% | Same dynamic. Optical demand increases with inference throughput. |
-| GOOGL | Alphabet | +2–3% | TurboQuant originator. Inference cost advantage. Cloud margins expand. |
-| LULU | Lululemon | Flat | Reports tonight AMC. Consumer confidence collapse = guidance risk. |
-| DAL | Delta Air Lines | Flat | Jet fuel bounce. Brent back above $100 on Isfahan strikes. |
-| LMT | Lockheed Martin | +1% | Defence re-bid on Israeli escalation overnight. |
-
-### Panel 8
-
-**EARNINGS  LULU Reports Tonight AMC**
-
-EPS Est $6.00 | Rev Est $3.61B Lululemon enters this print in a precarious position. Consumer confidence just collapsed to recession-level readings (CB 92.2, Expectations 65.2). Inflation expectations are at 6.2%. Gasoline is $4.15. The consumer spending environment is the worst since early 2023—and LULU is a $100+ legging company. Revenue growth has been decelerating for three straight quarters. International is the bright spot (China, Europe) but FX headwinds are real with DXY at 106.
-
-
-### Panel 9
-
-**BUY  MU — Micron at $355: The Jevons’ Paradox Trade MU has dropped $90 (19%) in 8 days from its ATH—$25 of which came today on TurboQuant. But the Q3 guide is still $33.5B revenue, 81% GM, $19.15 EPS. None of that changed. TurboQuant compresses KV-cache (inference working memory), not model weights (the dominant HBM consumer) or training memory. Every efficiency breakthrough in AI history has led to MORE memory demand, not less. Barclays still at $670. This is the best entry point since November. Risk: TurboQuant is the start of a broader compression wave that structurally reduces HBM demand; DRAM pricing cycle turns.**
-
-
-### Panel 10
-
-**BUY  GOOGL — Alphabet: The TurboQuant Originator Google developed TurboQuant. They will deploy it first. Their inference costs drop 6–8x before anyone else’s. This gives Google Cloud a massive competitive advantage in AI services pricing. GCP’s AI margins were already improving—TurboQuant accelerates this by potentially 12–18 months. Buy the innovator, not the panic. Risk: Cloud spending slowdown; antitrust ruling forces structural changes; competitors replicate quickly.**
-
-
-### Panel 11
-
-**HOLD  COHR / LITE — Photonics: The TurboQuant Winners Nobody Is Talking About More concurrent inference users per GPU = more data flowing between GPUs = more optical interconnects needed. TurboQuant is structurally bullish for photonics even as it’s (wrongly) bearish for memory. The market hasn’t figured this out yet. COHR and LITE are up while MU is down—the smart money is rotating from memory to interconnect. Hold and add on dips. Risk: Broader tech selloff overwhelms sector dynamics; NVIDIA capex slowdown.**
-
-
-### Panel 12
-
-**WATCH  LULU — Don’t Touch Before Earnings Consumer confidence is at 12-year lows. Inflation expectations are 6.2%. Gas is $4.15. LULU is a $100-legging-company reporting into the worst consumer backdrop since 2023. The risk/reward is skewed to the downside on guidance. Wait for the print. If they guide above $25 EPS for FY27, buy. If below, short. Risk: China strength saves the quarter; premium consumer proves resilient; stock gaps higher.**
-
-
-### Panel 13
-
-| Day | Time | Event | Impact |
-| --- | --- | --- | --- |
-| Thu 3/26 | 8:30 AM | GDP Final Revision (Q4) | LOW |
-| Thu 3/26 | 8:30 AM | Initial Jobless Claims | MED |
-| Thu 3/26 | All Day | Google TurboQuant Paper — Market Digestion Day | HIGH |
-| Thu 3/26 | AMC | Lululemon (LULU) Q4 Earnings | MED |
-| Fri 3/27 | 8:30 AM | Core PCE Inflation (Feb) — THE MACRO EVENT | HIGH |
-| Fri 3/27 | 10:00 AM | UMich Consumer Sentiment Final (Mar) | MED |
-| Fri 3/27 | TBD | Pakistan Islamabad Talks — Possible Face-to-Face | HIGH |
-| Apr 6 | 8 PM ET | Extended US Strike Deadline on Iran | HIGH |
-| Apr 23–25 |  | ICLR 2026 — TurboQuant Open-Source Release Expected | HIGH |
+- **Diplomacy / Ceasefire:** Negotiation channel is active, but credibility risk remains high.
+- **Cross-Asset Positioning:** Risk-on/risk-off flips remain headline-driven; keep sizing disciplined.
+- **Macro Backdrop:** Consumer and inflation expectations continue to pressure cyclical exposure.
