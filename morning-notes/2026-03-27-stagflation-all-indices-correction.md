@@ -1,8 +1,40 @@
-# MORNING NOTE
+---
+layout: morning-note
+title: "Dow Enters Correction. Brent $111. Stagflation Fears Peak. China Trade Retaliation. All Indices Correcting."
+headline: "Dow Enters Correction. Brent $111. Stagflation Fears Peak. China Trade Retaliation. All Indices Correcting."
+date: 2026-03-27
+image: /images/notes/2026-03-27.jpg
+author: Steven Yuan
 
-# Friday, March 27, 2026  |  Pre-Market Extended Analysis
+snapshot:
+  - { label: "S&P 500",          value: "declined",   dir: down }
+  - { label: "Nasdaq",           value: "−12%",       dir: down }
+  - { label: "Dow",              value: "−10%",       dir: down }
+  - { label: "Brent Crude",      value: "$111",       dir: up }
 
-Dow Enters Correction; Brent $111; Stagflation Fears Peak; China Trade Retaliation; All Indices in Correction
+levels:
+  - { name: "Brent Crude",       value: "$111",       dir: up }
+  - { name: "VIX",               value: ">28",        dir: up }
+  - { name: "Russell 2000",      value: "correction", dir: down }
+
+sentiment:
+  - { label: "Energy",           tone: bullish, pct: 90 }
+  - { label: "Defensives",       tone: bullish, pct: 75 }
+  - { label: "Tech",             tone: bearish, pct: 8 }
+  - { label: "Equities (broad)", tone: bearish, pct: 10 }
+
+tags:
+  - stagflation
+  - correction
+  - Dow
+  - Nasdaq
+  - Russell2000
+  - oil
+  - China
+  - trade
+  - war
+  - Powell
+---
 
 # EXECUTIVE SUMMARY
 

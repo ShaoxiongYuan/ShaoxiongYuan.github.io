@@ -1,6 +1,36 @@
-# TUESDAY, MARCH 24, 2026
+---
+layout: morning-note
+title: "The Ceasefire Credibility Gap Widens. Israel Hit Tehran Again. Oil Back Above $104."
+headline: "The Ceasefire Credibility Gap Widens. Israel Hit Tehran Again. Oil Back Above $104."
+date: 2026-03-24
+image: /images/notes/2026-03-24.jpg
+author: Steven Yuan
 
-The Ceasefire Rally Lasted 12 Hours. Then Israel Hit Tehran Again. Oil Back Above $104. The Market’s Credibility Problem.
+snapshot:
+  - { label: "S&P Futures",      value: "−0.5%",      dir: down }
+  - { label: "Brent Crude",      value: "$104",       dir: up }
+  - { label: "VIX",              value: "26.8",       dir: up }
+
+levels:
+  - { name: "Brent Crude",       value: "$104+",      dir: up }
+  - { name: "S&P 500",           value: "~5,645",     dir: down }
+  - { name: "VIX",               value: "26.8",       dir: up }
+
+sentiment:
+  - { label: "Energy",           tone: bullish, pct: 88 }
+  - { label: "Defense",          tone: bullish, pct: 85 }
+  - { label: "Equities (broad)", tone: bearish, pct: 15 }
+
+tags:
+  - ceasefire
+  - Israel
+  - Tehran
+  - Iran
+  - oil
+  - credibility-gap
+  - Pakistan
+  - war
+---
 
 Day 25 of the US-Iran War  |  Brent $104 (+4%)  |  S&P Futs −0.5%  |  VIX 26.8  |  Pakistan Offers to Host Talks  |  GME Earnings AMC
 
