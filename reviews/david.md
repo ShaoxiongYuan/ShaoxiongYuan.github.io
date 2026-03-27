@@ -8,14 +8,12 @@ date: 2026-03-27
 genre: "Animation · Biblical · Musical"
 rating: "★★★½"
 tagline: "The story was never about the giant."
-poster: "/images/poster-goat.jpg"
+poster: "/images/poster-david.jpg"
 ---
 
-The story was never about the giant.
+Most adaptations of David and Goliath treat the sling and the stone as the centerpiece, the climactic payoff that the whole story builds toward. *David* makes the quietly confident decision to treat that moment as almost incidental, a pivot point rather than a destination. The giant falls and the film barely lingers. What it is actually interested in is everything that comes after: how a shepherd boy earns the trust, the love, and the loyalty of a people who didn’t ask for him and weren’t sure they wanted him.
 
-Most adaptations of David and Goliath treat the sling and the stone as the centrepiece, the climactic payoff that the whole story builds toward. *David* makes the quietly confident decision to treat that moment as almost incidental, a pivot point rather than a destination. The giant falls and the film barely lingers. What it is actually interested in is everything that comes after: how a shepherd boy earns the trust, the love, and the loyalty of a people who didn’t ask for him and weren’t sure they wanted him.
-
-That reframing is the film’s best creative decision, and it pays off more consistently than you might expect from a Biblical animated musical. The question at the centre of *David* is not whether the underdog can defeat the undefeatable. It is whether a person with genuine values can lead without corrupting those values in the process, and whether people broken by fear and fractured by mistrust can find enough common ground to walk forward together. Those are old questions. They are also, uncomfortably, very current ones, and the film earns a genuine resonance from that proximity to the present moment whether or not the director originally intended it.
+That reframing is the film’s best creative decision, and it pays off more consistently than you might expect from a Biblical animated musical. The question at the center of *David* is not whether the underdog can defeat the undefeatable. It is whether a person with genuine values can lead without corrupting those values in the process, and whether people broken by fear and fractured by mistrust can find enough common ground to walk forward together. Those are old questions. They are also, uncomfortably, very current ones, and the film earns a genuine resonance from that proximity to the present moment whether or not the director originally intended it.
 
 The contrast between the old king and the new one is drawn with enough clarity to function as allegory without becoming cartoonish. Saul is a man for whom power has become its own justification: he pursues it, hoards it, and turns it against anyone who threatens his grip on it, including people weaker than him who pose no realistic threat at all. The cruelty is not incidental to his reign; it is the mechanism of it. David operates from a completely different premise. His instinct is not to dominate but to gather, to look at a frightened, divided people and ask what they need to stop being afraid. The film understands that these are not simply different personalities but fundamentally different relationships to authority, and it renders that difference with enough weight that it means something.
 
