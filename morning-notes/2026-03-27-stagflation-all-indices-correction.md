@@ -36,15 +36,15 @@ tags:
   - Powell
 ---
 
-# EXECUTIVE SUMMARY
+## Executive Summary
 
 The sell-off is accelerating into the weekend and the macro regime has shifted. As of midday Friday, the Dow has officially entered correction territory (-10% from its October high), joining the Nasdaq (-12%) and Russell 2000 already there. The S&P 500 is headed for its fifth straight weekly decline -- the longest losing streak since 2022. The index is trading at levels not seen since early September 2025.
 
 Three catalysts are converging simultaneously: (1) The Iran war is grinding toward either escalation or prolonged stalemate -- Trump extended the energy strike pause to April 6 but the market shrugged it off as the second empty deadline extension in a week; Brent is hovering near $111/bbl after fresh Hormuz tanker incidents overnight. (2) Central bank hawkishness is accelerating -- Lagarde's "real shock" warning, CME FedWatch now pricing >52% probability of a Fed rate HIKE, and markets repricing from "when will the Fed cut" to "will the Fed hike." (3) A new front: China opened a trade probe against the U.S. in retaliation for tariffs, compounding the cost-push inflation picture from two directions.
 
-# The VIX has surged above 28. The Magnificent Seven are leading declines -- Meta down 10% since Wednesday on lawsuit + layoffs, Alphabet down on TurboQuant overhang, NVDA and MSFT broadly sold. Tech is the pain trade. Energy is the only positive sector in March. The rotation into defensives (utilities, staples, healthcare) is textbook late-cycle stagflationary positioning.
+The VIX has surged above 28. The Magnificent Seven are leading declines -- Meta down 10% since Wednesday on lawsuit + layoffs, Alphabet down on TurboQuant overhang, NVDA and MSFT broadly sold. Tech is the pain trade. Energy is the only positive sector in March. The rotation into defensives (utilities, staples, healthcare) is textbook late-cycle stagflationary positioning.
 
-# U.S.-IRAN CONFLICT: DETAILED SITUATION REPORT (DAY 27)
+## U.S.-Iran Conflict | Detailed Situation Report (Day 27)
 
 Diplomatic Developments
 
@@ -70,11 +70,10 @@ Russia's Shadow: UK defense chief cited intelligence that Russia provided Iran w
 
 Munitions Sustainability: RUSI estimates 11,000+ munitions expended in 16 days at $26B cost. The U.S. may be approximately one month from exhausting critical weapons stocks including THAAD air defenses, ATACMs, and PrSM ground-attack missiles. This creates a hard constraint on the duration of kinetic operations regardless of political will.
 
-# War Impact: Quantified Market Damage Since March 1
 
-# ANALYTICAL NOTE: The pattern of repeated deadline extensions with no concrete diplomatic progress is consistent with a stalemate, not a resolution trajectory. Each extension temporarily relieves the binary escalation risk but extends the duration of the supply shock -- and duration is the single most important variable for whether this becomes a transient disruption or a structural stagflationary regime shift. Markets are pricing accordingly: the VIX at 29, Brent backwardation, and the CME hike probability above 50% all signal that the market has moved from "this will be resolved in weeks" to "this could persist for months."
+**Analytical note:** The pattern of repeated deadline extensions with no concrete diplomatic progress is consistent with a stalemate, not a resolution trajectory. Each extension temporarily relieves the binary escalation risk but extends the duration of the supply shock -- and duration is the single most important variable for whether this becomes a transient disruption or a structural stagflationary regime shift. Markets are pricing accordingly: the VIX at 29, Brent backwardation, and the CME hike probability above 50% all signal that the market has moved from "this will be resolved in weeks" to "this could persist for months."
 
-# GLOBAL EQUITY INDICES -- MARCH 27
+## Global Equity Indices | March 27
 
 U.S. Intraday (As of Midday Friday)
 
@@ -86,15 +85,14 @@ Key Overnight Read: Asia is bifurcated. Export-oriented, energy-importing econom
 
 Europe (Friday Session)
 
-# European indices extending Thursday's losses. The STOXX 600 is down ~8.1% over the past month -- worse than the S&P 500's ~5.8% decline. Lagarde's "real shock" warning has catalyzed a fundamental repricing of European rate expectations. ~35bp of ECB tightening now priced for 2026. Defense stocks (Rheinmetall, Airbus) remain bright spots but pulled back on the extended strike pause. BofA notes Europe is "less vulnerable" to this energy shock than 2022 because gas demand is down ~20% vs pre-2022 levels and supply is more diversified -- but Asian economies with heavy Middle East dependence face a "double whammy."
+European indices extending Thursday's losses. The STOXX 600 is down ~8.1% over the past month -- worse than the S&P 500's ~5.8% decline. Lagarde's "real shock" warning has catalyzed a fundamental repricing of European rate expectations. ~35bp of ECB tightening now priced for 2026. Defense stocks (Rheinmetall, Airbus) remain bright spots but pulled back on the extended strike pause. BofA notes Europe is "less vulnerable" to this energy shock than 2022 because gas demand is down ~20% vs pre-2022 levels and supply is more diversified -- but Asian economies with heavy Middle East dependence face a "double whammy."
 
-# INDUSTRY SENTIMENT TRACKER -- MARCH 27 (WITH INDIVIDUAL STOCK MOVES)
 
-# MACRO DEEP DIVE: THE STAGFLATION FRAMEWORK
+## Macro Deep Dive | The Stagflation Framework
 
 Is This Stagflation? A Rigorous Assessment
 
-## Stagflation is defined as the simultaneous occurrence of stagnating economic growth, elevated inflation, and rising unemployment. Let's assess each leg:
+Stagflation is defined as the simultaneous occurrence of stagnating economic growth, elevated inflation, and rising unemployment. Let's assess each leg:
 
 Inflation: PRESENT AND ACCELERATING. Core PCE at 3.0% -- a full percentage point above the Fed's 2% target. CPI sticky. Brent crude at $111/bbl (+54% since conflict began) is a massive cost-push shock. Fertilizer prices are rising as oil is a key input, threatening food inflation. UMich inflation expectations ticking higher. ECB now forecasts eurozone headline inflation at 2.6% for 2026 (upwardly revised). MUFG's adverse scenario sees eurozone and UK headline above 5% if oil sustains $120/bbl.
 
@@ -116,9 +114,9 @@ What Comes Next: TD Securities: "The Fed will look through the energy shock so l
 
 Historical Analogues
 
-# The 2026 shock is unique in several ways: (1) it occurs while rates are already elevated at 3.5%, leaving less room for policy error; (2) global debt is at $340T, meaning a Volcker-style rate shock would be catastrophic for sovereign debt markets; (3) the velocity of the supply disruption is faster than any prior episode due to Iran's total Hormuz closure. BofA notes that oil above $100 "gets closer to territory that historically leads to bigger risk-off moves." Deutsche Bank's Jim Reid warns "with each passing day it gets harder to argue the disruption will prove temporary."
+The 2026 shock is unique in several ways: (1) it occurs while rates are already elevated at 3.5%, leaving less room for policy error; (2) global debt is at $340T, meaning a Volcker-style rate shock would be catastrophic for sovereign debt markets; (3) the velocity of the supply disruption is faster than any prior episode due to Iran's total Hormuz closure. BofA notes that oil above $100 "gets closer to territory that historically leads to bigger risk-off moves." Deutsche Bank's Jim Reid warns "with each passing day it gets harder to argue the disruption will prove temporary."
 
-# COMMODITIES -- DETAILED
+## Commodities | Detailed
 
 Crude Oil: Supply Shock Deepening
 
@@ -132,15 +130,15 @@ Price Scenarios (EIA/S&P Global): Base case: Brent above $95 for next 2 months, 
 
 Gold, Crypto & Other
 
-# Gold is in a bizarre regime: it rallied on "war safe-haven" flows in early March, then sold off sharply as rising real yields and dollar strength overwhelmed haven demand. Gold fell 3% on Monday and had its worst week since 1983. The metal is caught between conflicting forces -- fear (bullish) vs. rate hike pricing (bearish). Historically, gold's best stagflation performance comes once the Fed pivots from fighting inflation to cutting rates to support growth. We are not there yet. Currently, gold miners are additionally squeezed between falling gold prices and rising oil input costs.
+Gold is in a bizarre regime: it rallied on "war safe-haven" flows in early March, then sold off sharply as rising real yields and dollar strength overwhelmed haven demand. Gold fell 3% on Monday and had its worst week since 1983. The metal is caught between conflicting forces -- fear (bullish) vs. rate hike pricing (bearish). Historically, gold's best stagflation performance comes once the Fed pivots from fighting inflation to cutting rates to support growth. We are not there yet. Currently, gold miners are additionally squeezed between falling gold prices and rising oil input costs.
 
-# FIXED INCOME, FX & VOLATILITY
+## Fixed Income, FX & Volatility
 
 Bond Market Read: Yields are RISING, which means the bond market is pricing INFLATION, not RECESSION. In a classic recession scenario, yields fall as investors seek safety. The fact that Treasuries are selling off alongside equities is the signature of a stagflationary environment -- there is no safe haven in nominal bonds when inflation is the primary threat. TIPS (inflation-protected bonds) and short-duration are the preferred fixed income positions in this regime.
 
-# Lackluster Auction: Thursday's U.S. Treasury note auction was poorly received, adding to the bond market sell-off. Rising supply concerns (government spending) plus inflation fears are creating a buyer's strike in Treasuries.
+**Lackluster auction:** Thursday's U.S. Treasury note auction was poorly received, adding to the bond market sell-off. Rising supply concerns (government spending) plus inflation fears are creating a buyer's strike in Treasuries.
 
-# MAJOR HEADLINES & CORPORATE NEWS
+## Major Headlines & Corporate News
 
 Geopolitical & Macro
 
@@ -176,7 +174,7 @@ TurboQuant Overhang (Day 3)
 
 Memory stocks extending declines Friday as the TurboQuant narrative enters its third day of market impact. The key analytical question is whether this is a one-time repricing of the AI memory demand curve or the beginning of a structural narrative shift from "bigger models = more hardware" to "smarter algorithms = less hardware." For GPU makers (NVDA), the answer is nuanced -- efficiency gains expand the addressable market by making AI cost-effective for new use cases. For memory makers (MU, SKH, Samsung), the answer is more threatening -- 6x compression of inference memory directly reduces HBM demand per deployed model. The open-source release expected Q2 2026 and ICLR presentation (April 23-25) will be the next catalysts. Community implementations are already live in MLX and llama.cpp.
 
-# THE BOTTOM LINE: SCENARIO ANALYSIS
+## Bottom Line | Scenario Analysis
 
 REGIME ASSESSMENT: EARLY-STAGE STAGFLATION WITH BINARY RESOLUTION. All major U.S. indices are now in or approaching correction territory. The macro regime has shifted from "soft landing" to "stagflation watch" in 27 days. The S&P forward P/E has compressed from 22.0x to 20.3x -- multiple compression, not (yet) an earnings story. FactSet still projects 12.5% S&P earnings growth for Q1 and 16.3% for full-year 2026. The mismatch between deteriorating macro and resilient bottom-up earnings estimates is itself a risk: if oil stays elevated, margin guidance will be cut in Q1 earnings season (begins mid-April), creating a second leg down.
 

@@ -64,9 +64,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
-| [Mar 21, 2026](/morning-notes/2026-03-21-week-review-war-week3-fomc-micron-photonics){:target="_blank"} | *Week-in-Review · War Week 3. FOMC Holds. Micron Blows Out. Photonics Breaks Out. Markets Break Down.* |
-| [Mar 20, 2026](/morning-notes/2026-03-20-sp-1pt5-brent-112-kuwait-photonics){:target="_blank"} | *S&P −1.5%. Dow −444. Brent $112. Kuwait Refineries on Fire. Photonics Exploding.* |
-| [Mar 19, 2026](/morning-notes/2026-03-19-dow-768-powell-micron-blows-out){:target="_blank"} | *Dow −768. Powell: Inflation Not Coming Down. Micron Destroys Estimates. Oil Near $110.* |
+| [Mar 27, 2026](/morning-notes/2026-03-27-stagflation-all-indices-correction){:target="_blank"} | *Dow Enters Correction. Brent $111. Stagflation Fears Peak. China Trade Retaliation. All Indices Correcting.* |
+| [Mar 26, 2026](/morning-notes/2026-03-26-ceasefire-evaporates-nasdaq-correction){:target="_blank"} | *Ceasefire Optimism Evaporates. Nasdaq Enters Correction Territory. ECB Hawkish. TurboQuant Shock.* |
+| [Mar 25, 2026](/morning-notes/2026-03-25-ceasefire-proposal-oil-plunge){:target="_blank"} | *U.S.-Iran Ceasefire Hopes Dominate. Oil Plunges. Risk-On Sweep Across Asia & Europe.* |
 
 ### Industry Analysis
 

@@ -38,13 +38,20 @@ tags:
 
 Day 24 of the US-Iran War  |  Brent $99-$104 (was $112 Fri)  |  S&P Futs +2.7%  |  Dow Futs +2.1%  |  VIX 26.8
 
-# TOP CALL : THE CEASEFIRE TRADE IS ON
+## Top Call | The Ceasefire Trade Is On
 
 Our Take: This is the first genuine ceasefire signal in 24 days of war. Even if Iran is publicly denying talks (expected:they can’t appear to negotiate under fire), the fact that Trump is pausing strikes is material. Markets are pricing in a 30-40% probability of a deal within 5 days. If talks collapse by Friday, we retrace violently. If they hold, this is the bottom for risk assets and the top for oil. Trade accordingly:this is a binary event.
 
-# MARKET SNAPSHOT : 6:45 AM ET
+## Market Snapshot | 6:45 AM ET
 
-# OIL : THE 14% CRASH HEARD AROUND THE WORLD
+| Asset | Level | Direction |
+|---|---|---|
+| S&P Futures | +2.7% | ↑ |
+| Dow Futures | +2.1% | ↑ |
+| Brent Crude | $99-$104 | ↓ |
+| VIX | 26.8 | ↓ |
+
+## Oil | The 14% Crash Heard Around the World
 
 Short-term: Oil is now pricing in ~30% ceasefire probability. If talks fail by Friday, we snap back to $110+ immediately. If they succeed, $85-90 Brent is the near-term target.
 
@@ -54,7 +61,7 @@ Bessent play: The 140M barrels of stranded Iranian oil released over the weekend
 
 Goldman call: Goldman’s $120+ Brent base case from last week is now under review pending ceasefire outcome. They cautioned against chasing the oil selloff.
 
-# S&P 500 REBALANCE : COHR, LITE, VRT, SATS ADDED TODAY
+## S&P 500 Rebalance | COHR, LITE, VRT, SATS Added Today
 
 COHR (Coherent): Photonics leader. $2B NVIDIA investment. Up 15.4% last week into inclusion. Expect heavy volume at the open as passive funds complete purchases.
 
@@ -66,19 +73,15 @@ SATS (EchoStar): Satellite/broadband. The outlier addition:less AI, more connect
 
 Estimated passive inflows: $2-4B combined for COHR and LITE alone. The rebalance effect typically lasts 1-3 trading days as index funds complete their purchases. Today’s volume will be elevated.
 
-# WAR SIGNAL TRACKER : MONDAY ASSESSMENT
+## War Signal Tracker | Monday Assessment
 
 Assessment: 3 BULL / 4 BEAR / 3 NEUTRAL. A material improvement from last Friday’s 1/7/2 split. The shift is entirely driven by Trump’s strike pause. If Iran confirms talks by Wednesday, this flips to majority BULL. If they don’t, expect rapid re-escalation.
 
-# COMPANY HEADLINES : PREMARKET MOVERS
 
-# TOP 12 HEADLINES
 
-# TRADE IDEAS
 
-# EVENT CALENDAR : THIS WEEK
 
-# BOTTOM LINE
+## Bottom Line
 
 The Most Important 5 Days of the War.
 
