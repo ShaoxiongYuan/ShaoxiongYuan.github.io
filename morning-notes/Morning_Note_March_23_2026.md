@@ -1,6 +1,54 @@
-# MORNING NOTE — Equity Research
-**Monday, March 23, 2026 | 06:45 ET**
+---
+layout: morning-note
+title: "Trump Delays Iran Strikes 5 Days. \"Very Good Talks.\" Brent Crashes 14%. Futures Rip."
+headline: "Trump Delays Iran Strikes 5 Days. \"Very Good Talks.\" Brent Crashes 14%. Futures Rip."
+date: 2026-03-23
+image: /images/notes/2026-03-23.jpg
+author: Steven Yuan
+permalink: /morning-notes/2026-03-23-ceasefire-trade-brent-crash
 
+snapshot:
+  - { label: "S&P 500 Futs",      value: "5,730",      dir: up }
+  - { label: "Nasdaq 100 Futs",   value: "20,050",     dir: up }
+  - { label: "Dow Futs",          value: "46,500",     dir: up }
+  - { label: "Brent Crude",       value: "$99–$104",   dir: down }
+  - { label: "WTI Crude",         value: "$96–$101",   dir: down }
+  - { label: "Gold",              value: "$3,210",     dir: down }
+  - { label: "VIX",               value: "26.8",       dir: down }
+  - { label: "Bitcoin",           value: "$70,600",    dir: up }
+
+levels:
+  - { name: "S&P 500 Futures",    value: "5,730",      dir: up }
+  - { name: "Nasdaq 100 Futures", value: "20,050",     dir: up }
+  - { name: "Dow Futures",        value: "46,500",     dir: up }
+  - { name: "Russell 2000 Futs",  value: "1,920",      dir: up }
+  - { name: "Brent Crude",        value: "$99–$104",   dir: down }
+  - { name: "WTI Crude",          value: "$96–$101",   dir: down }
+  - { name: "VIX",                value: "26.8",       dir: down }
+  - { name: "10Y Treasury",       value: "4.28%",      dir: down }
+  - { name: "Gold Spot",          value: "$3,210",     dir: down }
+
+sentiment:
+  - { label: "Airlines",             tone: bullish, pct: 82 }
+  - { label: "AI Infrastructure",    tone: bullish, pct: 78 }
+  - { label: "Photonics / Optics",   tone: bullish, pct: 80 }
+  - { label: "Broad Equities",       tone: bullish, pct: 68 }
+  - { label: "Energy (E&P)",         tone: bearish, pct: 32 }
+  - { label: "Defense",              tone: bearish, pct: 45 }
+  - { label: "Volatility",           tone: bearish, pct: 28 }
+
+tags:
+  - ceasefire
+  - Brent
+  - oil
+  - Iran
+  - Trump
+  - COHR
+  - LITE
+  - VRT
+  - S&P-500-rebalance
+  - MU
+  - airlines
 ---
 
 ## Trump Delays Iran Strikes 5 Days. "Very Good Talks." Brent Crashes 14%. Futures Rip. COHR/LITE Join S&P 500 Today.

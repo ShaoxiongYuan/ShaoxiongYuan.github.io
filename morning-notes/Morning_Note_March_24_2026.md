@@ -1,6 +1,53 @@
-# MORNING NOTE — Equity Research
-**Tuesday, March 24, 2026 | 06:45 ET**
+---
+layout: morning-note
+title: "Ceasefire Rally Lasted 12 Hours. Israel Hit Tehran Again. Oil Back Above $104."
+headline: "Ceasefire Rally Lasted 12 Hours. Israel Hit Tehran Again. Oil Back Above $104."
+date: 2026-03-24
+image: /images/notes/2026-03-24.jpg
+author: Steven Yuan
+permalink: /morning-notes/2026-03-24-ceasefire-credibility-gap-israel-tehran
 
+snapshot:
+  - { label: "S&P 500 Futs",      value: "5,615",      dir: down }
+  - { label: "Nasdaq 100 Futs",   value: "19,750",     dir: down }
+  - { label: "Dow Futs",          value: "45,800",     dir: down }
+  - { label: "Brent Crude",       value: "$104.10",    dir: up }
+  - { label: "WTI Crude",         value: "$100.80",    dir: up }
+  - { label: "Gold",              value: "$3,240",     dir: up }
+  - { label: "VIX",               value: "26.8",       dir: up }
+  - { label: "Bitcoin",           value: "$68,500",    dir: down }
+
+levels:
+  - { name: "S&P 500 Futures",    value: "5,615",      dir: down }
+  - { name: "Nasdaq 100 Futures", value: "19,750",     dir: down }
+  - { name: "Dow Futures",        value: "45,800",     dir: down }
+  - { name: "Russell 2000",       value: "1,905",      dir: down }
+  - { name: "Brent Crude",        value: "$104.10",    dir: up }
+  - { name: "WTI Crude",          value: "$100.80",    dir: up }
+  - { name: "VIX",                value: "26.8",       dir: up }
+  - { name: "10Y Treasury",       value: "4.30%",      dir: up }
+  - { name: "Gold Spot",          value: "$3,240",     dir: up }
+
+sentiment:
+  - { label: "Defense",              tone: bullish, pct: 74 }
+  - { label: "Oil Range Trading",    tone: bullish, pct: 70 }
+  - { label: "AI Infrastructure",    tone: bullish, pct: 76 }
+  - { label: "Broad Equities",       tone: bearish, pct: 42 }
+  - { label: "Consumer",             tone: bearish, pct: 30 }
+  - { label: "Travel / Crypto Beta", tone: bearish, pct: 40 }
+  - { label: "Volatility",           tone: bullish, pct: 66 }
+
+tags:
+  - ceasefire
+  - Israel
+  - Tehran
+  - Brent
+  - oil
+  - Pakistan
+  - mediation
+  - VIX
+  - consumer-confidence
+  - GME
 ---
 
 ## The Ceasefire Rally Lasted 12 Hours. Then Israel Hit Tehran Again. Oil Back Above $104. The Market's Credibility Problem.
