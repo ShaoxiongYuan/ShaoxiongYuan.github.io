@@ -1,6 +1,56 @@
-# MORNING NOTE — Equity Research
-**Wednesday, March 25, 2026 | 06:45 ET**
+---
+layout: morning-note
+title: "15-Point Deal on Table. Iran Counters. Brent Below $100. Negotiation Begins."
+headline: "15-Point Deal on Table. Iran Counters. Brent Below $100. Negotiation Begins."
+date: 2026-03-25
+image: /images/notes/2026-03-25.jpg
+author: Steven Yuan
+permalink: /morning-notes/2026-03-25-ceasefire-proposal-oil-plunge
 
+snapshot:
+  - { label: "Brent Crude",       value: "$100",       dir: down }
+  - { label: "Brent 3D Chg",      value: "−12.5%",     dir: down }
+  - { label: "S&P 500",           value: "+0.5% (prev)", dir: up }
+  - { label: "VIX",               value: "25",         dir: down }
+  - { label: "CB Confidence",     value: "92.2",       dir: down }
+  - { label: "Expectations",      value: "65.2",       dir: down }
+  - { label: "Gasoline",          value: "$4.15",      dir: up }
+  - { label: "GME EPS",           value: "$0.49",      dir: up }
+
+levels:
+  - { name: "Brent Crude",        value: "$98–$100",   dir: down }
+  - { name: "WTI Crude",          value: "$87–$90",    dir: down }
+  - { name: "Gold Spot",          value: "$3,200",     dir: down }
+  - { name: "Nat Gas (HH)",       value: "$4.80",      dir: up }
+  - { name: "Gasoline (US Avg)",  value: "$4.15",      dir: up }
+  - { name: "VIX",                value: "25",         dir: down }
+  - { name: "CB Confidence",      value: "92.2",       dir: down }
+  - { name: "CB Expectations",    value: "65.2",       dir: down }
+  - { name: "War Window",         value: "to Apr 6",   dir: up }
+
+sentiment:
+  - { label: "Airlines",             tone: bullish, pct: 83 }
+  - { label: "AI / Semis / Optics",  tone: bullish, pct: 79 }
+  - { label: "Ceasefire Probability",tone: bullish, pct: 62 }
+  - { label: "Energy Longs",         tone: bearish, pct: 35 }
+  - { label: "Consumer Discretionary",tone: bearish, pct: 24 }
+  - { label: "Macro Growth Outlook", tone: bearish, pct: 32 }
+  - { label: "Defense",              tone: neutral, pct: 50 }
+
+tags:
+  - ceasefire
+  - Brent
+  - oil
+  - Iran
+  - Pakistan
+  - Trump
+  - consumer-confidence
+  - stagflation
+  - DAL
+  - MU
+  - COHR
+  - LITE
+  - GME
 ---
 
 ## 15-Point Deal on the Table. Iran Rejects It. Offers 5 Counter-Demands. Brent Drops Below $100. Consumer Confidence Collapses. The Negotiation Has Begun.
