@@ -64,9 +64,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
-| [Mar 27, 2026](/morning-notes/2026-03-27-stagflation-all-indices-correction){:target="_blank"} | *Dow Enters Correction. Brent $111. Stagflation Fears Peak. China Trade Retaliation. All Indices Correcting.* |
-| [Mar 26, 2026](/morning-notes/2026-03-26-ceasefire-evaporates-nasdaq-correction){:target="_blank"} | *Ceasefire Optimism Evaporates. Nasdaq Enters Correction Territory. ECB Hawkish. TurboQuant Shock.* |
-| [Mar 25, 2026](/morning-notes/2026-03-25-ceasefire-proposal-oil-plunge){:target="_blank"} | *U.S.-Iran Ceasefire Hopes Dominate. Oil Plunges. Risk-On Sweep Across Asia & Europe.* |
+| [Mar 27, 2026](/morning-notes/2026-03-27-dow-correction-nuclear-strikes-stagflation){:target="_blank"} | *Dow Enters Correction. Israel Strikes Nuclear Sites. Fed Hike Odds Cross 50%. Brent $110.* |
+| [Mar 26, 2026](/morning-notes/2026-03-26-turboquant-jevons-paradox-memory-dip){:target="_blank"} | *Google TurboQuant: 6x Compression, Zero Accuracy Loss. MU −7%. The AI Supply Chain Rewritten.* |
+| [Mar 25, 2026](/morning-notes/2026-03-25-ceasefire-proposal-oil-plunge){:target="_blank"} | *15-Point Deal on Table. Iran Counters. Brent Below $100. Negotiation Begins.* |
 
 ### Industry Analysis
 

@@ -5,7 +5,6 @@ headline: "Ceasefire Rally Lasted 12 Hours. Israel Hit Tehran Again. Oil Back Ab
 date: 2026-03-24
 image: /images/notes/2026-03-24.jpg
 author: Steven Yuan
-permalink: /morning-notes/2026-03-24-ceasefire-credibility-gap-israel-tehran
 
 snapshot:
   - { label: "S&P 500 Futs",      value: "5,615",      dir: down }

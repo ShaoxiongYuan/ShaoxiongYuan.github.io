@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /d/ShaoxiongYuan.github.io -name *.css)",
+      "Bash(ls -lh /d/ShaoxiongYuan.github.io/morning-notes/*.md)",
+      "Bash(mv \"Morning_Note_March_23_2026.md\" \"2026-03-23-ceasefire-trade-brent-crash.md\")",
+      "Bash(mv \"Morning_Note_March_24_2026.md\" \"2026-03-24-ceasefire-credibility-gap-israel-tehran.md\")",
+      "Bash(mv \"Morning_Note_March_25_2026.md\" \"2026-03-25-ceasefire-proposal-oil-plunge.md\")"
+    ]
+  }
+}

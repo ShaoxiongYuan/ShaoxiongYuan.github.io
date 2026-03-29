@@ -5,7 +5,6 @@ headline: "Trump Delays Iran Strikes 5 Days. \"Very Good Talks.\" Brent Crashes 
 date: 2026-03-23
 image: /images/notes/2026-03-23.jpg
 author: Steven Yuan
-permalink: /morning-notes/2026-03-23-ceasefire-trade-brent-crash
 
 snapshot:
   - { label: "S&P 500 Futs",      value: "5,730",      dir: up }

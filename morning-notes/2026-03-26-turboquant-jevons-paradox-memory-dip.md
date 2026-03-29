@@ -1,25 +1,83 @@
-# MORNING NOTE — Equity Research
-**Thursday, March 26, 2026 | 06:45 ET**
+---
+layout: morning-note
+title: "Google TurboQuant: 6x Compression, Zero Accuracy Loss. MU −7%. The AI Supply Chain Rewritten."
+headline: "Google TurboQuant: 6x Compression, Zero Accuracy Loss. MU −7%. The AI Supply Chain Rewritten."
+date: 2026-03-26
+image: /images/notes/2026-03-26.jpg
+author: Steven Yuan
 
+snapshot:
+  - { label: "S&P 500 Futs",      value: "5,580",      dir: down }
+  - { label: "Nasdaq 100 Futs",   value: "19,600",     dir: down }
+  - { label: "Dow Futs",          value: "46,100",     dir: down }
+  - { label: "Brent Crude",       value: "$100.20",    dir: up }
+  - { label: "MU",                value: "−7%",        dir: down }
+  - { label: "VIX",               value: "27.5",       dir: up }
+  - { label: "Gold",              value: "$3,230",     dir: up }
+  - { label: "Bitcoin",           value: "$67,500",    dir: down }
+
+levels:
+  - { name: "S&P 500 (Tue Close)", value: "5,645",     dir: up }
+  - { name: "S&P 500 Futures",    value: "5,580",      dir: down }
+  - { name: "Nasdaq 100 Futures", value: "19,600",     dir: down }
+  - { name: "Dow Futures",        value: "46,100",     dir: down }
+  - { name: "Brent Crude",        value: "$100.20",    dir: up }
+  - { name: "WTI Crude",          value: "$96.50",     dir: up }
+  - { name: "VIX",                value: "27.5",       dir: up }
+  - { name: "10Y Treasury",       value: "4.28%",      dir: down }
+  - { name: "Gold Spot",          value: "$3,230",     dir: up }
+
+sentiment:
+  - { label: "AI Infrastructure",    tone: bullish, pct: 80 }
+  - { label: "Photonics / Optics",   tone: bullish, pct: 82 }
+  - { label: "Energy (E&P)",         tone: bullish, pct: 65 }
+  - { label: "Edge AI",              tone: bullish, pct: 78 }
+  - { label: "Memory / HBM",         tone: bearish, pct: 25 }
+  - { label: "Equities (broad)",     tone: bearish, pct: 35 }
+  - { label: "Consumer",             tone: bearish, pct: 28 }
+
+tags:
+  - TurboQuant
+  - Google
+  - Jevons-Paradox
+  - MU
+  - Micron
+  - HBM
+  - NVDA
+  - COHR
+  - LITE
+  - GOOGL
+  - oil
+  - Brent
+  - Iran
+  - Pakistan
+  - ceasefire
+  - LULU
 ---
 
-## Google Just Broke the Memory Trade. TurboQuant: 6x Compression, Zero Accuracy Loss. MU −7%. SK Hynix −6%. The AI Supply Chain Is Being Rewritten Overnight.
+Google published TurboQuant overnight — an algorithm compressing KV-cache 6x (16-bit to 3-bit) with zero accuracy loss and 8x faster inference on H100s. The market panicked: MU −7%, SK Hynix −6%, Samsung −5%. That reaction is wrong. TurboQuant compresses inference working memory, not model weights (the dominant HBM consumer) or training memory. This is Jevons' Paradox in real time: cheaper inference means more inference means more GPUs means more HBM. Every prior efficiency scare — INT8 (2020), Flash Attention 2 (2023), MoE (2024) — led to a dip, recovery, and demand acceleration. MU at $355 with a $33.5B Q3 guide and 81% gross margins is a gift. Meanwhile, Pakistan officially confirmed indirect US-Iran talks, Israel struck Isfahan, and Iran retaliated with missiles into central Israel. Brent is holding $99–$100. Ceasefire probability: 45–50%. LULU reports tonight into the worst consumer backdrop since 2023. Tomorrow's Core PCE is the macro event of the month.
 
-*Day 27 of the US-Iran War | Brent $99 | S&P +0.5% yesterday | Pakistan Confirms Indirect Talks | Lululemon AMC | Core PCE Tomorrow*
+## Market Snapshot | 6:45 AM ET
 
----
+| Index / Asset | Level | Change | Note |
+|---|---|---|---|
+| S&P 500 (Tue Close) | 5,645 | +0.5% | Peace optimism held; 3 consecutive up days |
+| S&P 500 Futs | 5,580 | −1.2% | TurboQuant + Israel strikes driving futures down |
+| Nasdaq 100 Futs | 19,600 | −1.8% | Memory/semi selloff dragging tech lower |
+| Dow Futs | 46,100 | −0.7% | Relatively better; less tech exposure |
+| Brent Crude | $100.20 | +1.1% | Rebounding on Isfahan strikes; above $100 again |
+| WTI Crude | $96.50 | +1.5% | Following Brent; war premium returning |
+| Gold (Spot) | $3,230 | +0.9% | Safe haven bid on equity weakness + war escalation |
+| VIX | 27.5 | +15% | Vol spiking on TurboQuant panic + geopolitical noise |
+| 10Y UST | 4.28% | −2bp | Slight flight to safety; waiting for PCE tomorrow |
+| DXY (Dollar) | 105.8 | −0.3% | Flat to lower on risk-off |
+| Bitcoin | $67,500 | −2.5% | Tech selloff dragging crypto lower |
 
-## TOP CALL — Google TurboQuant Changes the AI Memory Equation
+## Google TurboQuant | What It Does — And Why the Market Is Wrong to Panic
 
 > **BREAKING — Google TurboQuant: 6x Memory Compression, 8x Faster Inference, Zero Accuracy Loss**
 >
 > Google published a research paper overnight introducing TurboQuant, an algorithm that compresses key-value cache (KV-cache) in large language models from 16 bits to just 3 bits per value. The result: 6x reduction in memory consumption and up to 8x faster inference throughput on NVIDIA H100 GPUs — with no measurable loss in output quality. Open-source release expected Q2 2026, likely at ICLR (April 23–25). The internet is calling it "Pied Piper."
-
----
-
-## WHAT TURBOQUANT ACTUALLY DOES — And Why the Market Is Wrong to Panic
-
-Let's cut through the noise. The market reaction — MU −7%, SK Hynix −6%, Samsung −5% — is treating TurboQuant as a demand destroyer for memory chips. That is a misread. Here's why:
 
 **What TurboQuant compresses:**
 
@@ -44,9 +102,7 @@ KV-cache is the working memory that allows LLMs to retain context during inferen
 
 **Our view:** TurboQuant is evolutionary, not revolutionary. It makes inference cheaper at the margin, which expands the addressable market for AI applications. The memory stocks are offering a gift. MU at $355 (from $471 ATH on March 18) with a $33.5B Q3 guide and 81% gross margins is a screaming buy.
 
----
-
-## TURBOQUANT IMPLICATIONS ACROSS THE AI SUPPLY CHAIN
+## TurboQuant Implications Across the AI Supply Chain
 
 The second-order effects are where the real alpha lives. TurboQuant doesn't just affect memory — it reshuffles the entire AI infrastructure stack:
 
@@ -57,9 +113,7 @@ The second-order effects are where the real alpha lives. TurboQuant doesn't just
 - **AI software (PLTR/CRM/NOW): BULLISH.** Cheaper inference means AI features can be offered at lower price points. The enterprise SaaS TAM for AI copilots expands. Margins improve for companies deploying AI at scale.
 - **Edge AI (AAPL/QCOM): VERY BULLISH.** 6x memory compression could make powerful LLMs viable on-device. A model that needed 80GB of KV-cache can now run in ~13GB. This opens up phone, tablet, and laptop inference at quality levels previously requiring cloud. The edge AI unlock is the sleeper implication.
 
----
-
-## WAR UPDATE — Day 3 of the Negotiation Window
+## War Update | Day 3 of the Negotiation Window
 
 > **DIPLOMACY — Pakistan Confirms: "US-Iran Indirect Talks Are Taking Place Through Messages Relayed by Pakistan"**
 >
@@ -75,27 +129,7 @@ The second-order effects are where the real alpha lives. TurboQuant doesn't just
 - **Gold steady at $3,200–3,240:** Down from the $3,290 record but finding support. Gold is now pricing two things simultaneously: ceasefire optimism (bearish for gold) and consumer confidence collapse / stagflation fears (bullish for gold). These roughly offset.
 - **Defence names fading:** LMT, RTX, NOC have given back 3–5% from war highs as ceasefire probability has risen from 30% to 45%. We're trimming from overweight to market-weight but maintaining exposure as a hedge against talks failing.
 
----
-
-## MARKET SNAPSHOT — 6:45 AM ET
-
-| Index / Asset | Level | Change | Note |
-|---|---|---|---|
-| S&P 500 (Tue Close) | 5,645 | +0.5% | Peace optimism held; 3 consecutive up days |
-| S&P 500 Futs | 5,580 | −1.2% | TurboQuant + Israel strikes driving futures down |
-| Nasdaq 100 Futs | 19,600 | −1.8% | Memory/semi selloff dragging tech lower |
-| Dow Futs | 46,100 | −0.7% | Relatively better; less tech exposure |
-| Brent Crude | $100.20 | +1.1% | Rebounding on Isfahan strikes; above $100 again |
-| WTI Crude | $96.50 | +1.5% | Following Brent; war premium returning |
-| Gold (Spot) | $3,230 | +0.9% | Safe haven bid on equity weakness + war escalation |
-| VIX | 27.5 | +15% | Vol spiking on TurboQuant panic + geopolitical noise |
-| 10Y UST | 4.28% | −2bp | Slight flight to safety; waiting for PCE tomorrow |
-| DXY (Dollar) | 105.8 | −0.3% | Flat to lower on risk-off |
-| Bitcoin | $67,500 | −2.5% | Tech selloff dragging crypto lower |
-
----
-
-## WAR SIGNAL TRACKER — Thursday Assessment
+## War Signal Tracker | Thursday Assessment
 
 | Signal | Detail | Bias |
 |---|---|---|
@@ -112,9 +146,7 @@ The second-order effects are where the real alpha lives. TurboQuant doesn't just
 
 **Assessment: 4 BULL / 2 BEAR / 4 NEUTRAL.** Holding near yesterday's 5/2/3 split. The Pakistan confirmation is the key upgrade. Israeli strikes prevent a BULL sweep. The ceasefire probability is now 45–50% — the highest of the war. The risk is that talks stall on the Israel dimension and the market re-prices lower.
 
----
-
-## COMPANY HEADLINES
+## Company Headlines
 
 | Ticker | Company | Pre-Mkt | Catalyst |
 |---|---|---|---|
@@ -129,9 +161,7 @@ The second-order effects are where the real alpha lives. TurboQuant doesn't just
 | DAL | Delta Air Lines | Flat | Jet fuel bounce. Brent back above $100 on Isfahan strikes. |
 | LMT | Lockheed Martin | +1% | Defence re-bid on Israeli escalation overnight. |
 
----
-
-## EARNINGS PREVIEW — Lululemon (LULU) Q4 FY25 After Close
+## Earnings Preview | Lululemon (LULU) Q4 FY25 After Close
 
 > **EARNINGS — LULU Reports Tonight AMC | EPS Est $6.00 | Rev Est $3.61B**
 >
@@ -141,37 +171,25 @@ The second-order effects are where the real alpha lives. TurboQuant doesn't just
 - **DTC vs wholesale:** Direct-to-consumer margins have been the margin expansion engine. Any deceleration in DTC growth signals the premium consumer is pulling back.
 - **China exposure:** The one bright spot. LULU's China business is growing 25%+ and is not affected by the US-Iran war dynamic. If China strength offsets US weakness, the stock holds.
 
----
+## Trade Ideas
 
-## TRADE IDEAS
+**BUY — MU — Micron at $355: The Jevons' Paradox Trade**
+MU has dropped $90 (19%) in 8 days from its ATH — $25 of which came today on TurboQuant. But the Q3 guide is still $33.5B revenue, 81% GM, $19.15 EPS. None of that changed. TurboQuant compresses KV-cache (inference working memory), not model weights (the dominant HBM consumer) or training memory. Every efficiency breakthrough in AI history has led to MORE memory demand, not less. Barclays still at $670. This is the best entry point since November.
+*Risk: TurboQuant is the start of a broader compression wave that structurally reduces HBM demand; DRAM pricing cycle turns.*
 
-> **BUY — MU — Micron at $355: The Jevons' Paradox Trade**
->
-> MU has dropped $90 (19%) in 8 days from its ATH — $25 of which came today on TurboQuant. But the Q3 guide is still $33.5B revenue, 81% GM, $19.15 EPS. None of that changed. TurboQuant compresses KV-cache (inference working memory), not model weights (the dominant HBM consumer) or training memory. Every efficiency breakthrough in AI history has led to MORE memory demand, not less. Barclays still at $670. This is the best entry point since November.
->
-> *Risk: TurboQuant is the start of a broader compression wave that structurally reduces HBM demand; DRAM pricing cycle turns.*
+**BUY — GOOGL — Alphabet: The TurboQuant Originator**
+Google developed TurboQuant. They will deploy it first. Their inference costs drop 6–8x before anyone else's. This gives Google Cloud a massive competitive advantage in AI services pricing. GCP's AI margins were already improving — TurboQuant accelerates this by potentially 12–18 months. Buy the innovator, not the panic.
+*Risk: Cloud spending slowdown; antitrust ruling forces structural changes; competitors replicate quickly.*
 
-> **BUY — GOOGL — Alphabet: The TurboQuant Originator**
->
-> Google developed TurboQuant. They will deploy it first. Their inference costs drop 6–8x before anyone else's. This gives Google Cloud a massive competitive advantage in AI services pricing. GCP's AI margins were already improving — TurboQuant accelerates this by potentially 12–18 months. Buy the innovator, not the panic.
->
-> *Risk: Cloud spending slowdown; antitrust ruling forces structural changes; competitors replicate quickly.*
+**HOLD — COHR / LITE — Photonics: The TurboQuant Winners Nobody Is Talking About**
+More concurrent inference users per GPU = more data flowing between GPUs = more optical interconnects needed. TurboQuant is structurally bullish for photonics even as it's (wrongly) bearish for memory. The market hasn't figured this out yet. COHR and LITE are up while MU is down — the smart money is rotating from memory to interconnect. Hold and add on dips.
+*Risk: Broader tech selloff overwhelms sector dynamics; NVIDIA capex slowdown.*
 
-> **HOLD — COHR / LITE — Photonics: The TurboQuant Winners Nobody Is Talking About**
->
-> More concurrent inference users per GPU = more data flowing between GPUs = more optical interconnects needed. TurboQuant is structurally bullish for photonics even as it's (wrongly) bearish for memory. The market hasn't figured this out yet. COHR and LITE are up while MU is down — the smart money is rotating from memory to interconnect. Hold and add on dips.
->
-> *Risk: Broader tech selloff overwhelms sector dynamics; NVIDIA capex slowdown.*
+**WATCH — LULU — Don't Touch Before Earnings**
+Consumer confidence is at 12-year lows. Inflation expectations are 6.2%. Gas is $4.15. LULU is a $100-legging-company reporting into the worst consumer backdrop since 2023. The risk/reward is skewed to the downside on guidance. Wait for the print. If they guide above $25 EPS for FY27, buy. If below, short.
+*Risk: China strength saves the quarter; premium consumer proves resilient; stock gaps higher.*
 
-> **WATCH — LULU — Don't Touch Before Earnings**
->
-> Consumer confidence is at 12-year lows. Inflation expectations are 6.2%. Gas is $4.15. LULU is a $100-legging-company reporting into the worst consumer backdrop since 2023. The risk/reward is skewed to the downside on guidance. Wait for the print. If they guide above $25 EPS for FY27, buy. If below, short.
->
-> *Risk: China strength saves the quarter; premium consumer proves resilient; stock gaps higher.*
-
----
-
-## EVENT CALENDAR
+## Event Calendar
 
 | Day | Time | Event | Impact |
 |---|---|---|---|
@@ -187,9 +205,7 @@ The second-order effects are where the real alpha lives. TurboQuant doesn't just
 
 *Tomorrow is the most important trading day since FOMC: Core PCE at 8:30 AM tells us whether the inflation story is getting better or worse. If hot (>0.35% MoM), the Fed is vindicated and rate cuts are dead for 2026. If cool (<0.25%), there's a path back to 2 cuts and risk assets rip. Simultaneously, Pakistan could announce face-to-face Islamabad talks — the first direct diplomatic contact of the war.*
 
----
-
-## BOTTOM LINE
+## Bottom Line
 
 ### Two Disruptions. Two Different Timelines.
 
@@ -202,5 +218,4 @@ The TurboQuant trade is just beginning. The market's knee-jerk ("less memory nee
 **Buy the disruption. Sell the panic. Tomorrow's PCE will tell us which of these two stories dominates Q2.**
 
 ---
-
 *For internal use only. Not investment advice.*

@@ -5,7 +5,6 @@ headline: "15-Point Deal on Table. Iran Counters. Brent Below $100. Negotiation 
 date: 2026-03-25
 image: /images/notes/2026-03-25.jpg
 author: Steven Yuan
-permalink: /morning-notes/2026-03-25-ceasefire-proposal-oil-plunge
 
 snapshot:
   - { label: "Brent Crude",       value: "$100",       dir: down }
