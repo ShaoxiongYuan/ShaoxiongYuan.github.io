@@ -50,11 +50,6 @@ tags:
   - airlines
 ---
 
-## Trump Delays Iran Strikes 5 Days. "Very Good Talks." Brent Crashes 14%. Futures Rip. COHR/LITE Join S&P 500 Today.
-
-*Day 24 of the US-Iran War | Brent $99–$104 (was $112 Fri) | S&P Futs +2.7% | Dow Futs +2.1% | VIX 26.8*
-
----
 
 ## TOP CALL — The Ceasefire Trade Is On
 
@@ -64,9 +59,9 @@ tags:
 
 > **CAUTION — Iran Denies Direct Talks. Says Trump Is "Manipulating Markets."**
 >
-> Iran's response is skeptical to hostile. Speaker Ghalibaf denied any "negotiations" took place and called Trump's claims an effort to "manipulate markets" and "escape the quagmire." Iran's position: the US announcement is designed to lower energy prices and buy time for military repositioning. This is a critical credibility gap — if Iran doesn't confirm the talks, the 5-day window may be more of a head-fake than a genuine off-ramp.
+> Iran's response is skeptical to hostile. Speaker Ghalibaf denied any "negotiations" took place and called Trump's claims an effort to "manipulate markets" and "escape the quagmire." Iran's position: the US announcement is designed to lower energy prices and buy time for military repositioning. This is a critical credibility gap; if Iran doesn't confirm the talks, the 5-day window may be more of a head-fake than a genuine off-ramp.
 
-*Our Take: This is the first genuine ceasefire signal in 24 days of war. Even if Iran is publicly denying talks (expected — they can't appear to negotiate under fire), the fact that Trump is pausing strikes is material. Markets are pricing in a 30–40% probability of a deal within 5 days. If talks collapse by Friday, we retrace violently. If they hold, this is the bottom for risk assets and the top for oil. Trade accordingly — this is a binary event.*
+*Our Take: This is the first genuine ceasefire signal in 24 days of war. Even if Iran is publicly denying talks (expected, they can't appear to negotiate under fire), the fact that Trump is pausing strikes is material. Markets are pricing in a 30–40% probability of a deal within 5 days. If talks collapse by Friday, we retrace violently. If they hold, this is the bottom for risk assets and the top for oil. Trade accordingly. This is a binary event.*
 
 ---
 
@@ -105,12 +100,12 @@ tags:
 
 > **INDEX EVENT — Coherent, Lumentum, Vertiv, EchoStar Join S&P 500 Effective Today**
 >
-> The quarterly S&P 500 rebalance takes effect before today's open. Four new additions — three of which are AI infrastructure plays (COHR, LITE, VRT) — replace Match Group (MTCH), Molina Healthcare (MOH), Lamb Weston (LW), and Paycom (PAYC). Over $7 trillion is benchmarked to the S&P 500, forcing mechanical passive buying across every index fund and ETF.
+> The quarterly S&P 500 rebalance takes effect before today's open. Four new additions, three of which are AI infrastructure plays (COHR, LITE, VRT) — replace Match Group (MTCH), Molina Healthcare (MOH), Lamb Weston (LW), and Paycom (PAYC). Over $7 trillion is benchmarked to the S&P 500, forcing mechanical passive buying across every index fund and ETF.
 
 - **COHR (Coherent):** Photonics leader. $2B NVIDIA investment. Up 15.4% last week into inclusion. Expect heavy volume at the open as passive funds complete purchases.
 - **LITE (Lumentum):** Optical networking + laser components. $2B NVIDIA deal + multi-year purchase commitment. Up 12% last week.
 - **VRT (Vertiv):** AI power/cooling infrastructure. Critical datacenter supply chain. Completing the "AI plumbing" trio.
-- **SATS (EchoStar):** Satellite/broadband. The outlier addition — less AI, more connectivity. Former DISH/Hughes merger.
+- **SATS (EchoStar):** Satellite/broadband. The outlier addition: less AI, more connectivity. Former DISH/Hughes merger.
 
 *Estimated passive inflows: $2–4B combined for COHR and LITE alone. The rebalance effect typically lasts 1–3 trading days as index funds complete their purchases. Today's volume will be elevated.*
 
@@ -156,25 +151,30 @@ tags:
 
 ## TRADE IDEAS
 
-**BUY — Airlines (DAL, UAL, LUV) — Jet Fuel Relief Rally**
+### ▲ BUY AIRLINES (DAL, UAL, LUV): Jet Fuel Relief Rally
+{: .trade-long}
 Jet fuel is airlines' largest cost after labor. A 14% oil crash translates to ~$2–3B annualized fuel savings for the major carriers combined. These names are down 15–25% since the war started. If ceasefire holds, this is a 20%+ snapback trade. DAL is our top pick on best hedging and premium revenue mix.
 *Risk: Ceasefire talks collapse; oil snaps back to $110+; consumer weakens on stagflation.*
 
-**HOLD — COHR / LITE — Ride the Rebalance, But Don't Chase**
+### ▲ HOLD COHR / LITE: Ride the Rebalance, But Don't Chase
+{: .trade-long}
 S&P 500 inclusion creates mechanical buying today, but the easy money was made last week (+15%/+12%). Hold existing positions. Do not add at the open — let passive flows complete over 1–3 days and buy any post-inclusion dip. The NVIDIA partnership and OFC tailwinds are structural.
 *Risk: Post-inclusion selling (classic "buy the rumor, sell the news"); broader tech selloff resumes.*
 
-**REDUCE — Energy Longs — Take Profits on Half**
+### ▼ REDUCE ENERGY LONGS: Take Profits on Half
+{: .trade-short}
 If you're overweight energy (as we recommended all of last week), take profits on half the position today. Oil has dropped $12–16 from Friday's close. The supply disruptions are real (Kuwait, Iraq, Fujairah), but the ceasefire signal changes the risk/reward. Keep half as a hedge against talks failing.
 *Risk: Ceasefire collapses and oil rips back to $115+; taking profits too early.*
 
-**BUY — MU — Micron Post-Earnings Dip**
-MU fell 5% after blowout earnings (EPS $12.20 vs $9.31) on classic sell-the-news. Now bouncing +2–3% premarket on risk-on. The Q3 guide ($33.5B rev, $19.15 EPS, 81% GM) is spectacular. Barclays raised to $670. Buy the dip — this is the best AI hardware story in the market.
+### ▲ BUY MU: Micron Post-Earnings Dip
+{: .trade-long}
+MU fell 5% after blowout earnings (EPS $12.20 vs $9.31) on classic sell-the-news. Now bouncing +2–3% premarket on risk-on. The Q3 guide ($33.5B rev, $19.15 EPS, 81% GM) is spectacular. Barclays raised to $670. Buy the dip. This is the best AI hardware story in the market.
 *Risk: HBM pricing pressure; DRAM cycle turns; broader tech selloff resumes.*
 
-**HEDGE — Short Oil via USO Puts — Ceasefire Binary**
+### ▼ HEDGE SHORT OIL VIA USO PUTS: Ceasefire Binary
+{: .trade-short}
 If you believe ceasefire talks are real (we assign 30–40%), buy USO April puts. A deal sends Brent to $85–90 within days. The risk/reward on a binary event is asymmetric: ~$15 downside on deal vs ~$5–10 upside on failure (supply constraints cap the rally). Defined risk via options.
-*Risk: Talks fail, Hormuz closure, nuclear escalation — oil spikes to $120+.*
+*Risk: Talks fail, Hormuz closure, nuclear escalation, oil spikes to $120+.*
 
 ---
 
@@ -206,7 +206,7 @@ If you believe ceasefire talks are real (we assign 30–40%), buy USO April puts
 
 For the first time in 24 days, there is a genuine de-escalation signal. Trump's 5-day strike pause and claim of "very good talks" has sent Brent crashing 14%, futures surging 3%, and VIX collapsing from 31 to 27. The market is pricing in a real chance of a deal.
 
-But Iran is publicly denying the talks. The credibility gap is enormous. And the demands — full uranium surrender — are maximalist. This could be a head-fake designed to lower oil prices while the Pentagon repositions. Or it could be the beginning of the end. We don't know.
+But Iran is publicly denying the talks. The credibility gap is enormous. And the demands, full uranium surrender, are maximalist. This could be a head-fake designed to lower oil prices while the Pentagon repositions. Or it could be the beginning of the end. We don't know.
 
 **What we do know: this is a binary week. By Friday, either we have a ceasefire framework and oil at $85–90 with the S&P recovering to 5,800+, or the talks collapse, strikes resume, and we revisit the worst levels of last week. Position for both outcomes. Own the relief trades (airlines, MU, tech) but hedge with oil puts and VIX calls. The next 5 days will define Q2.**
 

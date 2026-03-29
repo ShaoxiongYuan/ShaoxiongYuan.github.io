@@ -58,7 +58,7 @@ tags:
   - RTX
 ---
 
-The worst week of the war. The Dow fell 793 points (−1.73%) to 45,167, entering correction territory. S&P dropped 1.67% to 6,369 — a seven-month low. Nasdaq shed 2.15% to 20,948. All three indices posted their fifth consecutive weekly decline, the longest losing streak since 2022. Overnight, Israel struck Arak and Ardakan nuclear sites — the first nuclear targeting of the war — crossing the last unspoken red line. Iran vowed to "exact heavy price." Brent surged past $110, the highest since 2022. Fed funds futures now price a rate HIKE by year-end at >50% probability, with oil at $110 and UMich inflation expectations at 3.8%. NVIDIA's forward P/E dropped below the S&P 500 for the first time in years at $167.50. Ceasefire probability downgraded from 45–50% to 30–35%. The $95–$105 oil equilibrium is dead. We're restoring defence overweight, adding energy hedges, holding tech longs but not adding, and shorting consumer discretionary. April 6 is the date.
+The worst week of the war. The Dow fell 793 points (−1.73%) to 45,167, entering correction territory. S&P dropped 1.67% to 6,369, a seven-month low. Nasdaq shed 2.15% to 20,948. All three indices posted their fifth consecutive weekly decline, the longest losing streak since 2022. Overnight, Israel struck Arak and Ardakan nuclear sites, the first nuclear targeting of the war, crossing the last unspoken red line. Iran vowed to "exact heavy price." Brent surged past $110, the highest since 2022. Fed funds futures now price a rate HIKE by year-end at >50% probability, with oil at $110 and UMich inflation expectations at 3.8%. NVIDIA's forward P/E dropped below the S&P 500 for the first time in years at $167.50. Ceasefire probability downgraded from 45–50% to 30–35%. The $95–$105 oil equilibrium is dead. We're restoring defence overweight, adding energy hedges, holding tech longs but not adding, and shorting consumer discretionary. April 6 is the date.
 
 ## Market Snapshot | Close March 27
 
@@ -78,7 +78,7 @@ The worst week of the war. The Dow fell 793 points (−1.73%) to 45,167, enterin
 
 ## Why the Nuclear Strikes Change Everything
 
-For 27 days, Israel and the US conducted strikes against military targets, air defenses, missile bases, IRGC facilities, and — once the US paused — energy infrastructure. But nuclear sites were the unspoken red line. That line was crossed overnight.
+For 27 days, Israel and the US conducted strikes against military targets, air defenses, missile bases, IRGC facilities, and, once the US paused, energy infrastructure. But nuclear sites were the unspoken red line. That line was crossed overnight.
 
 **What was hit:**
 
@@ -98,9 +98,9 @@ For 27 days, Israel and the US conducted strikes against military targets, air d
 
 This is the most important macro development in months. Let's break down the transmission chain:
 
-- **Oil at $110 -> Headline inflation surge:** Every $10 increase in oil adds ~0.3% to headline CPI over 3 months. Oil has gone from $75 pre-war to $110 — a $35 increase that will add roughly 1% to headline CPI by June. The Fed projected 2.7% PCE for 2026. Global forecasters now estimate 4.2%.
+- **Oil at $110 -> Headline inflation surge:** Every $10 increase in oil adds ~0.3% to headline CPI over 3 months. Oil has gone from $75 pre-war to $110, a $35 increase that will add roughly 1% to headline CPI by June. The Fed projected 2.7% PCE for 2026. Global forecasters now estimate 4.2%.
 - **UMich inflation expectations at 3.8%:** Today's final March UMich reading confirmed the worst fears. The headline sentiment index fell to 53.3 (from 56.6 in Feb), but the inflation expectations number is what matters. At 3.8%, it's the highest since April 2025 and far above the Fed's comfort zone. If expectations become unanchored, the Fed HAS to respond.
-- **Consumer cracking:** UMich expectations fell to 51.7 — the lowest since December 2025. Short-term economic outlook plunged 14%. Consumers see both higher prices and weaker growth. That's the stagflation cocktail.
+- **Consumer cracking:** UMich expectations fell to 51.7, the lowest since December 2025. Short-term economic outlook plunged 14%. Consumers see both higher prices and weaker growth. That's the stagflation cocktail.
 - **Fed funds futures:** 52% probability of a hike by December 2026. April FOMC is 96% hold. The market expects the Fed to sit tight through Q2 while data deteriorates, then face a forced choice in H2.
 
 > **IMPLICATION — The Stagflation Trap Is Closing**
@@ -112,10 +112,10 @@ This is the most important macro development in months. Let's break down the tra
 Yesterday we wrote: "Buy the disruption. Sell the panic." One day in, the market is not cooperating. MU fell another 2% today (cumulative −9% in 2 sessions). NVDA dropped 2.2% to $167.50. But context matters:
 
 - **NVDA P/E at 20x:** NVIDIA's forward P/E on 2026E earnings has dropped below the S&P 500's for the first time in five years. At $167.50, down from $230+ in February, the AI bellwether is trading at a valuation that implies the growth story is over. It's not. Vera Rubin ramps Q3. GTC orders are strong. This is a war-driven, fear-driven multiple compression, not a fundamental deterioration.
-- **Wells Fargo defends memory:** WFC published a note today arguing TurboQuant will actually boost memory demand through Jevons' Paradox — the same thesis we laid out yesterday. Retail sentiment on MU remains "extremely bullish." The selloff is institutional de-risking, not fundamental repricing.
+- **Wells Fargo defends memory:** WFC published a note today arguing TurboQuant will actually boost memory demand through Jevons' Paradox, the same thesis we laid out yesterday. Retail sentiment on MU remains "extremely bullish." The selloff is institutional de-risking, not fundamental repricing.
 - **TurboQuant reality check:** Seoul Economic Daily reports analysts estimate the actual compression effect is closer to 2.6x in production environments, not 6x. Google's 6x figure was a lab benchmark on specific model architectures. Real-world impact will be meaningful but smaller than the headlines suggest.
 
-**Our view:** The TurboQuant trade is now inseparable from the war trade. MU and NVDA are down because of compounding fear — TurboQuant + nuclear strikes + Fed hike risk — not because any single catalyst justifies a −23% decline from ATH. The thesis from yesterday holds: buy the dip. But acknowledge the dip isn't done.
+**Our view:** The TurboQuant trade is now inseparable from the war trade. MU and NVDA are down because of compounding fear, TurboQuant + nuclear strikes + Fed hike risk, not because any single catalyst justifies a −23% decline from ATH. The thesis from yesterday holds: buy the dip. But acknowledge the dip isn't done.
 
 ## Oil & Commodities | The Supply Shock Is Intensifying
 
@@ -130,8 +130,8 @@ The $95–$105 equilibrium we called on Monday is dead. Nuclear strikes + Hormuz
 | Gasoline (RBOB) | $3.45 | +6% | Pump prices heading to $4.50+ nationally. |
 | Copper | $4.15 | −2% | Industrial slowdown fears offsetting supply. |
 
-- **New oil range: $105–$120.** The nuclear dimension means Iran is more likely to retaliate asymmetrically — Hormuz escalation, proxy attacks on Saudi/UAE infrastructure, or missile strikes on Gulf shipping lanes. The downside case ($95) requires face-to-face talks. The upside case ($120+) requires Hormuz to remain fully blocked as summer driving season hits.
-- **Gasoline is the political pain point.** At $4.15 average and heading toward $4.50, gas prices are now a first-order issue for voters. Trump's approval rating correlates inversely with gas prices. This creates pressure to de-escalate but also pressure to bomb Iranian energy infrastructure to "punish" them — contradictory impulses.
+- **New oil range: $105–$120.** The nuclear dimension means Iran is more likely to retaliate asymmetrically: Hormuz escalation, proxy attacks on Saudi/UAE infrastructure, or missile strikes on Gulf shipping lanes. The downside case ($95) requires face-to-face talks. The upside case ($120+) requires Hormuz to remain fully blocked as summer driving season hits.
+- **Gasoline is the political pain point.** At $4.15 average and heading toward $4.50, gas prices are now a first-order issue for voters. Trump's approval rating correlates inversely with gas prices. This creates pressure to de-escalate but also pressure to bomb Iranian energy infrastructure to "punish" them; contradictory impulses.
 
 ## War Signal Tracker | Friday Assessment
 
@@ -184,19 +184,27 @@ The $95–$105 equilibrium we called on Monday is dead. Nuclear strikes + Hormuz
 
 ## Trade Ideas
 
-**BUY — LMT / RTX — Restore Defence Overweight**
-We trimmed defence on Wednesday as ceasefire probability rose to 45–50%. Nuclear strikes just reset that trade. Ceasefire probability is back to 30–35%. LMT +2.5% today. RTX +1.8%. The war is not ending — it's escalating into a new phase that targets nuclear infrastructure. Defence names benefit from both the kinetic operations and the political pressure to increase military spending. Restore overweight.
+### ▲ BUY LMT / RTX: Restore Defence Overweight
+{: .trade-long}
+
+We trimmed defence on Wednesday as ceasefire probability rose to 45–50%. Nuclear strikes just reset that trade. Ceasefire probability is back to 30–35%. LMT +2.5% today. RTX +1.8%. The war is not ending; it's escalating into a new phase that targets nuclear infrastructure. Defence names benefit from both the kinetic operations and the political pressure to increase military spending. Restore overweight.
 *Risk: Rapid diplomatic breakthrough; Trump orders US-Israel ceasefire including nuclear sites.*
 
-**BUY — XLE — Energy: The Reluctant Trade That's Working**
+### ▲ BUY XLE: Energy, The Reluctant Trade That's Working
+{: .trade-long}
+
 We were reducing energy exposure as peace talks advanced. With nuclear strikes and Hormuz still blocked, energy is the only sector working. Brent $110 means XOM and CVX are printing cash. We don't love chasing at highs, but the risk/reward has shifted. If Hormuz stays blocked and Iran retaliates, $120 oil is real. A 10% position in XLE hedges the portfolio against further escalation.
 *Risk: Sudden ceasefire and Hormuz reopening collapses oil to $85. This is a war hedge, not a conviction long.*
 
-**HOLD — MU / NVDA — The Thesis Is Intact But the Timing Is Wrong**
-Yesterday's "buy MU at $355" call is −2% underwater. NVDA at $167.50 is 27% below its Feb high. The fundamental thesis (Jevons' Paradox, Vera Rubin, HBM demand) has NOT changed. But the macro overlay has gotten dramatically worse: oil at $110, Fed hike risk, Dow in correction. These names will recover, but they need a macro catalyst — either a ceasefire or a cool inflation print. Hold existing positions. Don't add until VIX drops below 22 or PCE surprises to the downside.
+### ▲ HOLD MU / NVDA: The Thesis Is Intact But the Timing Is Wrong
+{: .trade-long}
+
+Yesterday's "buy MU at $355" call is −2% underwater. NVDA at $167.50 is 27% below its Feb high. The fundamental thesis (Jevons' Paradox, Vera Rubin, HBM demand) has NOT changed. But the macro overlay has gotten dramatically worse: oil at $110, Fed hike risk, Dow in correction. These names will recover, but they need a macro catalyst, either a ceasefire or a cool inflation print. Hold existing positions. Don't add until VIX drops below 22 or PCE surprises to the downside.
 *Risk: TurboQuant actual impact larger than expected; war escalation crushes all risk assets further; stagflation becomes base case.*
 
-**SHORT — XLY — Consumer Discretionary: The Stagflation Victim**
+### ▼ SHORT XLY: Consumer Discretionary, The Stagflation Victim
+{: .trade-short}
+
 UMich at 53.3. Inflation expectations 3.8%. Gas $4.15. The consumer is breaking. XLY (Consumer Discretionary ETF) is the cleanest expression of this theme. Short or buy puts. LULU's weak guidance from March 17 ($11.35–11.50B vs $11.52B expected, EPS $12.10–12.30 vs $12.58) confirmed the premium consumer is pulling back. NKE, SBUX, TGT all have similar exposure. If gas hits $4.50 by summer, consumer discretionary has another 5–10% downside.
 *Risk: War ends quickly; oil drops to $85; consumer confidence recovers; Fed signals cuts.*
 
@@ -215,17 +223,17 @@ UMich at 53.3. Inflation expectations 3.8%. Gas $4.15. The consumer is breaking.
 | Apr 23–25 | | ICLR 2026 — TurboQuant Open-Source Expected | MED |
 | Apr 29 | | FOMC Rate Decision | **HIGH** |
 
-*Next week is packed. ISM Manufacturing on Wednesday will tell us if the war-driven supply shock is hitting production. NFP on Friday is the employment reality check. But the real event is April 6 — Trump's extended deadline. If talks haven't produced a framework by then, the US resumes strikes on Iranian energy infrastructure. That's $120+ oil.*
+*Next week is packed. ISM Manufacturing on Wednesday will tell us if the war-driven supply shock is hitting production. NFP on Friday is the employment reality check. But the real event is April 6, Trump's extended deadline. If talks haven't produced a framework by then, the US resumes strikes on Iranian energy infrastructure. That's $120+ oil.*
 
 ## Bottom Line
 
 ### The Worst Week of the War.
 
-This was the week the market stopped hoping for a quick resolution. The Dow is in correction. The S&P has posted five straight weekly losses — the longest streak since 2022. Oil is at war highs. The Fed is pricing hikes. And Israel just struck nuclear sites, crossing the last red line.
+This was the week the market stopped hoping for a quick resolution. The Dow is in correction. The S&P has posted five straight weekly losses, the longest streak since 2022. Oil is at war highs. The Fed is pricing hikes. And Israel just struck nuclear sites, crossing the last red line.
 
-The optimism of Monday — when Trump delayed strikes and Pakistan confirmed talks — feels like a different era. In four trading days, ceasefire probability went from 45–50% to 30–35%. Oil went from $99 to $110. The VIX went from 24 to 27. The war signal tracker went from 4 BULL / 2 BEAR / 4 NEUTRAL (Thursday) to 1 BULL / 6 BEAR / 3 NEUTRAL (today).
+The optimism of Monday, when Trump delayed strikes and Pakistan confirmed talks, feels like a different era. In four trading days, ceasefire probability went from 45–50% to 30–35%. Oil went from $99 to $110. The VIX went from 24 to 27. The war signal tracker went from 4 BULL / 2 BEAR / 4 NEUTRAL (Thursday) to 1 BULL / 6 BEAR / 3 NEUTRAL (today).
 
-What we're doing: Restoring defence overweight (LMT/RTX). Adding energy hedge (XLE). Holding tech longs (MU/NVDA/GOOGL/COHR) but not adding — wait for VIX below 22 or a diplomatic breakthrough. Shorting consumer discretionary (XLY puts). Raising cash. This is not the time to be a hero.
+What we're doing: Restoring defence overweight (LMT/RTX). Adding energy hedge (XLE). Holding tech longs (MU/NVDA/GOOGL/COHR) but not adding; wait for VIX below 22 or a diplomatic breakthrough. Shorting consumer discretionary (XLY puts). Raising cash. This is not the time to be a hero.
 
 **April 6 is the date. If talks fail, the US resumes strikes. If they succeed, we rally 5–10% in a week. Position for both.**
 
