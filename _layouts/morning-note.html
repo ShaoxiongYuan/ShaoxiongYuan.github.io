@@ -212,6 +212,10 @@
       padding-bottom: 0.5rem;
       border-bottom: 1px solid var(--rule);
     }
+    .note-article {
+      overflow-wrap: break-word;
+      word-break: break-word;
+    }
     .note-article p {
       font-size: 1rem;
       line-height: 1.82;
@@ -269,6 +273,9 @@
       margin: 1.2rem 0 1.8rem;
       font-size: 0.82rem;
       line-height: 1.5;
+      display: block;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
     }
     .note-article thead th {
       font-family: var(--accent-sans);
