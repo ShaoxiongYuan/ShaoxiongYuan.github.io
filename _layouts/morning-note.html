@@ -200,6 +200,7 @@
     /* ── ARTICLE ──────────────────────────────── */
     .note-article {
       padding: 2.6rem 0 5rem;
+      min-width: 0;
     }
     .note-article h2 {
       font-family: var(--accent-sans);
@@ -267,29 +268,22 @@
       overflow-x: auto;
       -webkit-overflow-scrolling: touch;
       margin: 1.2rem 0 1.8rem;
+      border: 1px solid var(--rule);
+      border-radius: 4px;
     }
     .note-article table {
-      width: max-content;
-      min-width: 100%;
+      min-width: 580px;
       border-collapse: collapse;
-      font-size: 0.82rem;
+      font-size: 0.78rem;
       line-height: 1.5;
-    }
-    .note-article thead th,
-    .note-article tbody td {
-      white-space: nowrap;
-    }
-    .note-article thead th:last-child,
-    .note-article tbody td:last-child {
-      white-space: normal;
-      min-width: 180px;
     }
     .note-article thead th {
       font-family: var(--accent-sans);
-      font-size: 0.68rem;
+      font-size: 0.65rem;
       font-weight: 600;
       letter-spacing: 0.08em;
       text-transform: uppercase;
+      white-space: nowrap;
       color: rgba(255,255,255,0.85);
       background: var(--navy);
       padding: 0.55rem 0.75rem;
@@ -404,6 +398,15 @@
       .cover-stamp { left: 1.5rem; }
       .page-wrap { grid-template-columns: 1fr; gap: 0; padding: 0 1.5rem; }
       .note-sidebar { position: static; padding-top: 0; border-top: 1px solid var(--rule); }
+      .note-article .table-wrap {
+        margin-left: -1.5rem;
+        margin-right: -1.5rem;
+        padding: 0 1.5rem;
+        border: none;
+        border-radius: 0;
+        border-top: 1px solid var(--rule);
+        border-bottom: 1px solid var(--rule);
+      }
     }
   </style>
 </head>
