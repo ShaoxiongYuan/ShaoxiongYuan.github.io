@@ -212,10 +212,6 @@
       padding-bottom: 0.5rem;
       border-bottom: 1px solid var(--rule);
     }
-    .note-article {
-      overflow-wrap: break-word;
-      word-break: break-word;
-    }
     .note-article p {
       font-size: 1rem;
       line-height: 1.82;
@@ -267,15 +263,26 @@
     }
 
     /* ── TABLES ──────────────────────────────── */
-    .note-article table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 1.2rem 0 1.8rem;
-      font-size: 0.82rem;
-      line-height: 1.5;
-      display: block;
+    .note-article .table-wrap {
       overflow-x: auto;
       -webkit-overflow-scrolling: touch;
+      margin: 1.2rem 0 1.8rem;
+    }
+    .note-article table {
+      width: max-content;
+      min-width: 100%;
+      border-collapse: collapse;
+      font-size: 0.82rem;
+      line-height: 1.5;
+    }
+    .note-article thead th,
+    .note-article tbody td {
+      white-space: nowrap;
+    }
+    .note-article thead th:last-child,
+    .note-article tbody td:last-child {
+      white-space: normal;
+      min-width: 180px;
     }
     .note-article thead th {
       font-family: var(--accent-sans);
@@ -493,6 +500,15 @@
     <span class="footer-brand">Steven Yuan · Equity Research</span>
     <a href="/">stevenyuan.github.io</a>
   </footer>
+
+  <script>
+  document.querySelectorAll('.note-article table').forEach(function(table) {
+    var wrap = document.createElement('div');
+    wrap.className = 'table-wrap';
+    table.parentNode.insertBefore(wrap, table);
+    wrap.appendChild(table);
+  });
+  </script>
 
 </body>
 </html>
