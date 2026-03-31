@@ -8,7 +8,7 @@ date: 2026-03-25
 genre: "Dark Comedy · Survival · Satire"
 rating: "★★★½"
 tagline: "Remove a man from his domain and watch who he really is."
-poster: "/images/poster-send-help.jpg"
+poster: "/images/posters/poster-send-help.jpg"
 ---
 
 The premise of *Send Help* sounds like a dark fantasy for anyone who has ever spent years watching their work get claimed by someone less competent than them: a meticulously capable woman, denied a promotion she was explicitly promised, ends up stranded on a deserted island after a plane crash with the exact boss who wronged her. Suddenly, none of his authority means anything. Every credential, every title, every conference room dominance he accumulated dissolves the moment he needs someone to build a fire.

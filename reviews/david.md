@@ -1,14 +1,14 @@
 ---
 layout: review
-title: "David (2026) Review"
+title: "David (2025) Review"
 film_title: "David"
 director: "Brent Dawes, Phil Cunningham"
-year: 2026
+year: 2025
 date: 2026-03-27
 genre: "Animation · Biblical · Musical"
 rating: "★★★½"
 tagline: "The story was never about the giant."
-poster: "/images/poster-david.jpg"
+poster: "/images/posters/poster-david.jpg"
 ---
 
 Most adaptations of David and Goliath treat the sling and the stone as the centerpiece, the climactic payoff that the whole story builds toward. *David* makes the quietly confident decision to treat that moment as almost incidental, a pivot point rather than a destination. The giant falls and the film barely lingers. What it is actually interested in is everything that comes after: how a shepherd boy earns the trust, the love, and the loyalty of a people who didn’t ask for him and weren’t sure they wanted him.

@@ -8,7 +8,7 @@ date: 2025-02-20
 genre: "Sports · Comedy-Drama"
 rating: "★★★½"
 tagline: "He put everything on the line. The world didn't notice. He didn't care."
-poster: "/images/poster-marty-supreme.jpg"
+poster: "/images/posters/poster-marty-supreme.jpg"
 ---
 
 I'll be upfront: I'm a fairly serious ping pong player, and that coloured my experience of this film more than I expected. The obsessive logic of someone burning their entire life down just to compete in a tournament didn't ignite something in me the way it clearly does for others. I understand the hunger intellectually. I just couldn't feel it in my chest. That's a personal limitation, not the film's fault, and I want to be clear about that distinction because *Marty Supreme* is doing something genuinely interesting, even when it didn't quite reach me.

@@ -8,7 +8,7 @@ date: 2025-03-10
 genre: "Comedy · Adventure"
 rating: "★★½"
 tagline: "A midlife crisis, a giant snake, and a comedy that almost works."
-poster: "/images/poster-anaconda.jpg"
+poster: "/images/posters/poster-anaconda.jpg"
 ---
 
 There's a premise buried inside *Anaconda* that is genuinely charming: a couple of middle-aged guys, dissatisfied with where life has taken them, decide to do something wildly unprecedented — head deep into the Amazon and remake their favorite movie from childhood. It's the kind of ridiculous, sweet idea that makes you root for a film before it even gets going. And for a while, that goodwill carries things along. But the movie ultimately has one job: be fun, be funny. And it mostly fails to deliver on that promise.

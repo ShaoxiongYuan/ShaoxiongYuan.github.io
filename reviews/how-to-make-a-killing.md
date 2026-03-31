@@ -8,7 +8,7 @@ date: 2026-02-28
 genre: "Black Comedy · Thriller"
 rating: "★★★"
 tagline: "It wanted to be wicked. It only made it to clever."
-poster: "/images/poster-how-to-make-a-killing.jpg"
+poster: "/images/posters/poster-how-to-make-a-killing.jpg"
 ---
 
 A fortune built on bodies, undone by the one person who played the game better. The setup is classical, almost operatic in its ambition: Becket, narrating from the shadow of his own execution, walks us through a methodical climb toward a $28 billion inheritance, one relative at a time. We know where it ends before it begins — and the film seems to know we know. That self-awareness is both its sharpest asset and its most persistent liability.

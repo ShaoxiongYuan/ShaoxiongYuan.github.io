@@ -94,6 +94,7 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 
 | Film | Director | Rating |
 | ---- | -------- | ------ |
+| [*Project Hail Mary*](/reviews/project-hail-mary){:target="_blank"} | Phil Lord, Christopher Miller | ★★★★ |
 | [*David*](/reviews/david){:target="_blank"} | Brent Dawes, Phil Cunningham | ★★★½ |
 | [*The Voice of Hind Rajab*](/reviews/voice-of-hind-rajab){:target="_blank"} | Kaouther Ben Hania | ★★★★★ |
 | [*Send Help*](/reviews/send-help){:target="_blank"} | Sam Raimi | ★★★½ |

@@ -8,7 +8,7 @@ date: 2026-03-11
 genre: "Drama · Historical · Literary Adaptation"
 rating: "★★★"
 tagline: "The grief is real. The journey to it is slow."
-poster: "/images/poster-hamnet.jpg"
+poster: "/images/posters/poster-hamnet.jpg"
 ---
 
 

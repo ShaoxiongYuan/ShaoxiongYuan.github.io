@@ -8,7 +8,7 @@ date: 2025-01-15
 genre: "Sports · Comedy-Drama"
 rating: "★★★"
 tagline: "You already know he wins. You watch anyway. That's the whole trick."
-poster: "/images/poster-pegasus-2.jpg"
+poster: "/images/posters/poster-pegasus-2.jpg"
 ---
 
 Full disclosure: I haven't seen the original *Pegasus* in long enough that this review treats the sequel as a standalone film. All I carried in was the basic mythology: Zhang Chi, a man whose passion won him a race but whose car crossed the line outside the track, now reduced to running a driving school and a repair shop. From champion to footnote. The film picks up there, and honestly, that's enough context. You don't need the first film to feel the weight of what he's trying to reclaim.

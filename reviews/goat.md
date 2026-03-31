@@ -8,7 +8,7 @@ date: 2026-03-10
 genre: "Animation · Sports · Comedy"
 rating: "★★★½"
 tagline: "Small frame. Bigger heart. The oldest story, told exactly right."
-poster: "/images/poster-goat.jpg"
+poster: "/images/posters/poster-goat.jpg"
 ---
 
 This film comes from the same creative team behind the *Spider-Man: Into the Spider-Verse* films, and that lineage shows in every frame. The animation is kinetic, expressive, and genuinely beautiful — the kind of visual language that makes you forget you're watching something technically constructed rather than something alive. That pedigree raised expectations, and *GOAT* meets them.

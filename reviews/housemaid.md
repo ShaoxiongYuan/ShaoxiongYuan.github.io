@@ -8,7 +8,7 @@ date: 2025-03-18
 genre: "Thriller · Mystery"
 rating: "★★★"
 tagline: "The house was always hers. We just didn't know it yet."
-poster: "/images/poster-housemaid.jpg"
+poster: "/images/posters/poster-housemaid.jpg"
 ---
 
 There's a particular kind of thriller that operates on sustained unease. There are no jump scares, no gore, but exists the slow accumulation of wrongness. Paul Feig's *The Housemaid*, a 2025 Lionsgate adaptation of Freida McFadden's bestselling novel, belongs to that lineage, and for most of its runtime, it earns the tension. The closest comparison isn't another thriller, it's *The Menu*. The same architecture of strange, inexplicable behavior in the opening act, the same sense that everyone in this wealthy enclosure knows something the audience doesn't, the same class-tinged menace lurking beneath immaculate surfaces. If anything, *The Housemaid* sticks the landing better. *The Menu*'s finale tips into self-congratulatory absurdism; this one follows its logic through to something that feels both surprising and earned.

@@ -8,7 +8,7 @@ date: 2026-03-26
 genre: "Documentary · War"
 rating: "★★★★★"
 tagline: "They had eight minutes. They had her voice for three hours. They never came."
-poster: "/images/poster-hind-rajab.jpg"
+poster: "/images/posters/poster-hind-rajab.jpg"
 ---
 
 There are films that document atrocity, and there are films that make you live inside it. *The Voice of Hind Rajab* belongs to the second category, and that distinction is what makes it almost unbearable to watch and absolutely necessary to see. This is not a war film in the conventional sense. There are no battle sequences, no soldiers, and no sweeping aerial shots of destruction. The entire weight of a genocide is channeled through a single room, a whiteboard, a telephone, and the voices of people who knew exactly what needed to be done and were systematically prevented from doing it.

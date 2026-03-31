@@ -8,7 +8,7 @@ date: 2025-02-10
 genre: "Sports · Comedy-Drama"
 rating: "★★★"
 tagline: "Third lap. Same track. Still works."
-poster: "/images/poster-pegasus-3.jpg"
+poster: "/images/posters/poster-pegasus-3.jpg"
 ---
 
 Watching *Pegasus 2* and *3* back to back gives you an unusually clear view of the franchise's architectural blueprint. By the third film, the structure is no longer a surprise: it's a known quantity, almost a ritual. Identify the antagonist. Build toward the climactic race. Zhang Chi wins. Credits. The formula hasn't changed, and *Pegasus 3* doesn't pretend otherwise.

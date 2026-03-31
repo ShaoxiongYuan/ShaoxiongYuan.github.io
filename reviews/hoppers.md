@@ -8,7 +8,7 @@ date: 2026-03-11
 genre: "Animation · Family · Adventure"
 rating: "★★★★"
 tagline: "What if the best way to save the world is to become part of it?"
-poster: "/images/poster-hoppers.jpg"
+poster: "/images/posters/poster-hoppers.jpg"
 ---
 
 

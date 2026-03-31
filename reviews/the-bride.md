@@ -8,7 +8,7 @@ date: 2026-02-15
 genre: "Horror · Drama"
 rating: "★★½"
 tagline: "Good bones need a film built around them. This one mostly wanders."
-poster: "/images/poster-the-bride.jpg"
+poster: "/images/posters/poster-the-bride.jpg"
 ---
 
 Great actors. Thin movie. The premise announced itself as a red flag before I even bought the ticket. Frankenstein resurrects a dead woman to serve as his bride, only for her to emerge deranged and possessed, turning the whole arrangement sideways from the start. So far, classic enough. But the film's actual conceit is more self-aware than that: this is Frankenstein going on a pilgrimage through the significant locations of his own cinematic mythology, all while harboring a genuine admiration for his co-actor, which is starred by Jake Gyllenhaal. It's a road trip wrapped in a monster movie costume, and in the meantime starts a "bride culture", where everyone imitates the makeup of the bride. On paper that sounds genuinely inventive.

@@ -8,7 +8,7 @@ date: 2026-03-12
 genre: "Animation · Fantasy · Musical"
 rating: "★★★½"
 tagline: "The barrier between worlds was always built from song. Turns out that's not a metaphor."
-poster: "/images/poster-kpop-demon-hunters.jpg"
+poster: "/images/posters/poster-kpop-demon-hunters.jpg"
 ---
 
 I am not a K-pop devotee. But *KPop Demon Hunters* does something genuinely clever. It doesn't require you to be one. The film is so well integrated into the K-pop world that even a casual viewer feels the fandom energy, the rivalry stakes, and the parasocial pull without needing any prior investment. The genre blending works because it never feels like a marketing exercise dressed as a film. It feels like a story that happened to live inside this world naturally.

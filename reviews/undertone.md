@@ -8,7 +8,7 @@ date: 2026-03-25
 genre: "Horror · Psychological"
 rating: "★★½"
 tagline: "It sounds like a great horror film. It almost is."
-poster: "/images/poster-undertone.jpg"
+poster: "/images/posters/poster-undertone.jpg"
 ---
 
 I am not a horror person. I spent a meaningful portion of *undertone* with both hands covering my face, and at several points my ears too, which I suspect is the intended response. So let me give credit where it is absolutely due: the film works. The sound design is extraordinary, and the central concept, building dread almost entirely through audio rather than image, is genuinely inventive and, within a genre that too often relies on cheap visual shocks, admirably committed. Director Ian Tuason understood something real about the nature of fear. What you hear and cannot locate is more unsettling than what you can see and confront. The marketing promised it would be deeply unsettling. That promise is kept.
