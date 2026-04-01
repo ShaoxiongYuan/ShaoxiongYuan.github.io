@@ -64,9 +64,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [Apr 1, 2026](/morning-notes/2026-04-01-trump-exit-timeline-irgc-spacex-ipo-oil-crash){:target="_blank"} | *Trump Says War Could End in 'Two or Three Weeks.' IRGC Threatens 17 US Tech Companies. SpaceX Files for $1.75T IPO. Oil Crashes to $102. ISM 52.7 Beats.* |
 | [Mar 31, 2026](/morning-notes/2026-03-31-iran-peace-signals-dow-1125-tanker-attack){:target="_blank"} | *Markets Rip on Iran Peace Signals. Dow +1,125. Pezeshkian Says Iran Has 'Necessary Will' to End War. Tanker Attacked off Dubai. Brent $118.* |
 | [Mar 30, 2026](/morning-notes/2026-03-30-houthis-two-chokepoints-brent-112){:target="_blank"} | *The War Just Got Bigger. Houthis Fire on Israel. Pentagon Preps Ground Ops. Yanbu Under Threat. Brent $112.* |
-| [Mar 27, 2026](/morning-notes/2026-03-27-dow-correction-nuclear-strikes-stagflation){:target="_blank"} | *Dow Enters Correction. Israel Strikes Nuclear Sites. Fed Hike Odds Cross 50%. Brent $110.* |
 
 ### Industry Analysis
 
