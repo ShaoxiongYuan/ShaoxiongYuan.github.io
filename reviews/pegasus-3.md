@@ -1,6 +1,6 @@
 ---
 layout: review
-title: "Pegasus 3 (2026) — Review"
+title: "Pegasus 3 (2026) Review"
 film_title: "Pegasus 3"
 director: "Han Han"
 year: 2026

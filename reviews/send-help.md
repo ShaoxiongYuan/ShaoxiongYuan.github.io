@@ -1,6 +1,6 @@
 ---
 layout: review
-title: "Send Help (2026) — Review"
+title: "Send Help (2026) Review"
 film_title: "Send Help"
 director: "Sam Raimi"
 year: 2026

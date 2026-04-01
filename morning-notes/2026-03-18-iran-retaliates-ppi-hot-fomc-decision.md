@@ -72,7 +72,7 @@ Overnight, the war entered its most dangerous 24 hours since it began. Iran's IR
 
 > **🇮🇷 IRAN IRGC — Massive Retaliation: 100+ Targets, UAE + Saudi + US Embassy**
 >
-> The IRGC launched its most significant single-day retaliation since the conflict began. Missiles struck 100+ military and security targets across Israel. Drones struck a UAE oil facility in Fujairah — Shah gas field operations have been suspended. Saudi air defences intercepted 6+ drones in the Eastern Province. An Iranian drone directly hit the US embassy compound in Baghdad. Mojtaba Khamenei stated the killers of Larijani "will have to pay for it." This is a qualitative escalation: Iran is now targeting US diplomatic facilities directly.
+> The IRGC launched its most significant single-day retaliation since the conflict began. Missiles struck 100+ military and security targets across Israel. Drones struck a UAE oil facility in Fujairah, Shah gas field operations have been suspended. Saudi air defences intercepted 6+ drones in the Eastern Province. An Iranian drone directly hit the US embassy compound in Baghdad. Mojtaba Khamenei stated the killers of Larijani "will have to pay for it." This is a qualitative escalation: Iran is now targeting US diplomatic facilities directly.
 
 > **🇮🇱 ISRAEL — Beirut Bombed, Lebanon Invasion Expanding**
 >
@@ -137,7 +137,7 @@ Micron reports after the close today (originally scheduled Thursday, moved earli
 
 ## Bottom Line | The Worst Possible FOMC Backdrop
 
-The Fed meets today in what may be the most impossible policy environment since Volcker. On one side: PPI at +0.7% MoM, core at 3.9%, Brent at $106, and producer inflation accelerating before the oil shock even fully hits consumer prices. On the other: a two-front war (Iran + Lebanon), US embassy under drone attack, 1 million displaced in Lebanon, consumer sentiment at 2026 lows (55.5), and an economy showing clear signs of deceleration in the Beige Book and continuing claims. Powell cannot cut — 3.9% core PPI makes that impossible. Powell cannot hike — the economy is already slowing. He can only hold and hope. The dot plot and his language are the only degrees of freedom. If he says "stagflation," the floor drops. If he says "temporary supply disruption," the market may not believe him. Position defensively into 2:00 PM. Own energy, gold, defence. Reduce rate-sensitive growth. Do not initiate new positions before the decision. MU and FDX report after the close; that is the next opportunity to act on fundamentals.
+The Fed meets today in what may be the most impossible policy environment since Volcker. On one side: PPI at +0.7% MoM, core at 3.9%, Brent at $106, and producer inflation accelerating before the oil shock even fully hits consumer prices. On the other: a two-front war (Iran + Lebanon), US embassy under drone attack, 1 million displaced in Lebanon, consumer sentiment at 2026 lows (55.5), and an economy showing clear signs of deceleration in the Beige Book and continuing claims. Powell cannot cut, 3.9% core PPI makes that impossible. Powell cannot hike, the economy is already slowing. He can only hold and hope. The dot plot and his language are the only degrees of freedom. If he says "stagflation," the floor drops. If he says "temporary supply disruption," the market may not believe him. Position defensively into 2:00 PM. Own energy, gold, defence. Reduce rate-sensitive growth. Do not initiate new positions before the decision. MU and FDX report after the close; that is the next opportunity to act on fundamentals.
 
 ---
 

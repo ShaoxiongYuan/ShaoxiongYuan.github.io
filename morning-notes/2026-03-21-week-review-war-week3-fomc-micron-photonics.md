@@ -58,7 +58,7 @@ tags:
 
 Day 17–21 of the US-Iran War | Brent $107→$112 | S&P −3.0% WoW | Nasdaq −4.4% WoW | VIX 29→31
 
-This was the week the war stopped being background noise and became the dominant macro variable. What started Monday with cautious optimism around FOMC and a ceasefire whisper ended Friday with Kuwait's refineries on fire, Brent at $112, the Nasdaq in correction territory, and the Fed explicitly warning that inflation "isn't coming down as much as we had hoped." The week delivered three distinct shocks — geopolitical, monetary, and energy — and each one compounded the last.
+This was the week the war stopped being background noise and became the dominant macro variable. What started Monday with cautious optimism around FOMC and a ceasefire whisper ended Friday with Kuwait's refineries on fire, Brent at $112, the Nasdaq in correction territory, and the Fed explicitly warning that inflation "isn't coming down as much as we had hoped." The week delivered three distinct shocks, geopolitical, monetary, and energy, and each one compounded the last.
 
 ## Executive Summary | Five Days That Changed Everything
 
@@ -112,7 +112,7 @@ This was the week the war stopped being background noise and became the dominant
 
 > **🏛️ FOMC Decision: Hold at 3.50–3.75%. 11-1 Vote. Dot Plot: 1 Cut in 2026. Powell: "Not making progress."**
 >
-> The Fed delivered the most hawkish hold of the current cycle. The dot plot reduced 2026 rate cut projections from 2 to 1. The inflation forecast was raised to 2.7% for 2026. Powell's press conference removed all ambiguity: "We're not making as much progress on inflation as we had hoped." The dissenter (Miran) voted for a cut — meaning the committee is divided, but not in the direction markets wanted.
+> The Fed delivered the most hawkish hold of the current cycle. The dot plot reduced 2026 rate cut projections from 2 to 1. The inflation forecast was raised to 2.7% for 2026. Powell's press conference removed all ambiguity: "We're not making as much progress on inflation as we had hoped." The dissenter (Miran) voted for a cut, meaning the committee is divided, but not in the direction markets wanted.
 
 | Projection | Dec 2025 | Mar 2026 | Signal |
 |---|---|---|---|
@@ -131,7 +131,7 @@ This was the week the war stopped being background noise and became the dominant
 | **Q3 Revenue Guide** | — | **$33.5B** | — |
 | **Q3 Gross Margin** | — | **81%** | — |
 
-Despite the blowout, MU fell ~5% after-hours Thursday and continued lower Friday. Classic "sell the news" after a 65% YTD run into earnings. Analyst targets surged: Wells Fargo to $550 (from $470), Barclays to $670 (from $450). The pullback is a gift — this is the best fundamental story in semis. HBM4 shipping to NVIDIA for Vera Rubin confirms the $1T order book narrative is real.
+Despite the blowout, MU fell ~5% after-hours Thursday and continued lower Friday. Classic "sell the news" after a 65% YTD run into earnings. Analyst targets surged: Wells Fargo to $550 (from $470), Barclays to $670 (from $450). The pullback is a gift; this is the best fundamental story in semis. HBM4 shipping to NVIDIA for Vera Rubin confirms the $1T order book narrative is real.
 
 ## Sector Spotlight | Photonics — The Breakout Week
 
@@ -168,7 +168,7 @@ Brent crude rose 7.6% this week to $112.10, its fifth consecutive weekly gain an
 | **South Pars (Iran)** | ~5% global LNG | US + Israel strike Thu; export capacity hit |
 | **Hormuz Strait** | ~20% global oil flow | Partially disrupted; Iran targeting Gulf infra |
 
-Goldman Sachs says oil may stay in triple digits for years if the war continues. The energy crisis is no longer a tail risk — it is the base case.
+Goldman Sachs says oil may stay in triple digits for years if the war continues. The energy crisis is no longer a tail risk; it is the base case.
 
 ## Forward Look | Week of March 23–27, 2026
 
@@ -176,7 +176,7 @@ Next week brings a light data calendar but heavy event risk. Key themes:
 
 **S&P 500 rebalance.** COHR, LITE, and VRT added Monday. Expect heavy volume and potential short squeezes in all three names.
 
-**PCE inflation (Friday).** February core PCE — the Fed's preferred gauge — is the marquee data point. Consensus 0.3% MoM. A hot print would seal the coffin on any 2026 cuts.
+**PCE inflation (Friday).** February core PCE, the Fed's preferred gauge, is the marquee data point. Consensus 0.3% MoM. A hot print would seal the coffin on any 2026 cuts.
 
 **War Week 4.** No diplomatic channels open. The Larijani assassination closed the last one. Watch for Iranian escalation at Hormuz, potential ground force deployment, and nuclear facility targeting.
 
@@ -199,7 +199,7 @@ Next week brings a light data calendar but heavy event risk. Key themes:
 
 Three shocks in five days: a war that went from bad to catastrophic (Larijani killed, Lebanon invaded, South Pars struck, Kuwait burning), a Fed that closed the door on rate cuts (1 cut, maybe 0, inflation "not coming down"), and an energy crisis that is now structural (2M+ bpd offline, no end in sight). The S&P lost 3.0%, the Nasdaq entered correction, the Russell 2000 is near bear market, and Brent closed at $112.
 
-But inside this wreckage, there are pockets of extraordinary strength. Micron delivered the earnings beat of the cycle. Photonics stocks rallied 12–15% against a market down 3%. FedEx beat and raised. The AI secular story is not dead — it's just being tested by the most hostile macro environment since 2022.
+But inside this wreckage, there are pockets of extraordinary strength. Micron delivered the earnings beat of the cycle. Photonics stocks rallied 12–15% against a market down 3%. FedEx beat and raised. The AI secular story is not dead; it's just being tested by the most hostile macro environment since 2022.
 
 Week 4 begins with no ceasefire, no off-ramp, and Friday's core PCE as the next landmine. Own the right names. Hedge the rest. This is not the time for complacency.
 

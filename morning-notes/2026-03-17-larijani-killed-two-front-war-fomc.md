@@ -128,7 +128,7 @@ Brent at $103.42 with Lebanon invasion now open and Hormuz still blocked. The La
 
 A Lebanon ground invasion on top of the Iran air campaign is the strongest possible confirmation of sustained defence spending. LMT, RTX, GD, NOC all have multi-year procurement visibility. Add on any dip.
 
-*Risk: Peace deal — the tail risk that is now further away than ever.*
+*Risk: Peace deal, the tail risk that is now further away than ever.*
 
 ### ▲ TACTICAL NVDA — GTC Narrative Is the Only Micro Bull Case
 {: .trade-long}

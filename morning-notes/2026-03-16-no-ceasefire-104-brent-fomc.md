@@ -205,14 +205,14 @@ Micron reports Thursday AMC. HBM3E demand from NVDA/AMD is the key metric. A str
 ### ▲ DEFENCE + GOLD LMT, RTX, GD, NOC + GLD — The War Trade Basket
 {: .trade-long}
 
-Lockheed near all-time high. RTX +5% in March. General Dynamics and Northrop Grumman benefiting from multi-year procurement tailwinds. This is not a short-term trade; the IDF said 3+ more weeks of operations. Gold above $5,100 — new ATH territory. Central bank buying + EM currency crisis + stagflation = structural bid for gold. Own both: defence for the kinetic war, gold for the economic war.
+Lockheed near all-time high. RTX +5% in March. General Dynamics and Northrop Grumman benefiting from multi-year procurement tailwinds. This is not a short-term trade; the IDF said 3+ more weeks of operations. Gold above $5,100, new ATH territory. Central bank buying + EM currency crisis + stagflation = structural bid for gold. Own both: defence for the kinetic war, gold for the economic war.
 
 *Risk: A surprise peace deal would crush both trades simultaneously. This is the tail risk.*
 
 ### ▼ REDUCE / AVOID Airlines, Consumer Discretionary, High-Multiple SaaS, EM-Exposed
 {: .trade-short}
 
-Airlines: AAL, DAL, UAL — $100+ oil makes Q2 guidance impossible; every bounce is fake. Consumer discretionary: NKE earnings Thu will confirm the consumer is cracking (Michigan 55.5). High-multiple SaaS: TEAM, WDAY, CRM bleeding as rates rise; FOMC hawkish hold = more pain. EM-exposed: Companies with Turkey, Pakistan, South Korea revenue facing FX headwinds. Sell rallies in all four categories. The floor is lower than you think.
+Airlines: AAL, DAL, UAL, $100+ oil makes Q2 guidance impossible; every bounce is fake. Consumer discretionary: NKE earnings Thu will confirm the consumer is cracking (Michigan 55.5). High-multiple SaaS: TEAM, WDAY, CRM bleeding as rates rise; FOMC hawkish hold = more pain. EM-exposed: Companies with Turkey, Pakistan, South Korea revenue facing FX headwinds. Sell rallies in all four categories. The floor is lower than you think.
 
 *Risk: Genuine ceasefire + Hormuz reopening violently reverses all four. Maintain watchlists.*
 

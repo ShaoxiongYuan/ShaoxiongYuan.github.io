@@ -1,6 +1,6 @@
 ---
 layout: review
-title: "Hoppers (2026) — Review"
+title: "Hoppers (2026) Review"
 film_title: "Hoppers"
 director: "Jon Negroni"
 year: 2026

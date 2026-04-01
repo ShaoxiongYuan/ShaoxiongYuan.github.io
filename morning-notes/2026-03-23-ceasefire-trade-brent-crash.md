@@ -100,7 +100,7 @@ tags:
 
 > **INDEX EVENT — Coherent, Lumentum, Vertiv, EchoStar Join S&P 500 Effective Today**
 >
-> The quarterly S&P 500 rebalance takes effect before today's open. Four new additions, three of which are AI infrastructure plays (COHR, LITE, VRT) — replace Match Group (MTCH), Molina Healthcare (MOH), Lamb Weston (LW), and Paycom (PAYC). Over $7 trillion is benchmarked to the S&P 500, forcing mechanical passive buying across every index fund and ETF.
+> The quarterly S&P 500 rebalance takes effect before today's open. Four new additions, three of which are AI infrastructure plays (COHR, LITE, VRT), replace Match Group (MTCH), Molina Healthcare (MOH), Lamb Weston (LW), and Paycom (PAYC). Over $7 trillion is benchmarked to the S&P 500, forcing mechanical passive buying across every index fund and ETF.
 
 - **COHR (Coherent):** Photonics leader. $2B NVIDIA investment. Up 15.4% last week into inclusion. Expect heavy volume at the open as passive funds complete purchases.
 - **LITE (Lumentum):** Optical networking + laser components. $2B NVIDIA deal + multi-year purchase commitment. Up 12% last week.
@@ -158,7 +158,7 @@ Jet fuel is airlines' largest cost after labor. A 14% oil crash translates to ~$
 
 ### ▲ HOLD COHR / LITE: Ride the Rebalance, But Don't Chase
 {: .trade-long}
-S&P 500 inclusion creates mechanical buying today, but the easy money was made last week (+15%/+12%). Hold existing positions. Do not add at the open — let passive flows complete over 1–3 days and buy any post-inclusion dip. The NVIDIA partnership and OFC tailwinds are structural.
+S&P 500 inclusion creates mechanical buying today, but the easy money was made last week (+15%/+12%). Hold existing positions. Do not add at the open, let passive flows complete over 1–3 days and buy any post-inclusion dip. The NVIDIA partnership and OFC tailwinds are structural.
 *Risk: Post-inclusion selling (classic "buy the rumor, sell the news"); broader tech selloff resumes.*
 
 ### ▼ REDUCE ENERGY LONGS: Take Profits on Half

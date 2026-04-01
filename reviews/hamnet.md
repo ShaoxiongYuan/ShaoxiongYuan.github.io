@@ -1,6 +1,6 @@
 ---
 layout: review
-title: "Hamnet (2025) — Review"
+title: "Hamnet (2025) Review"
 film_title: "Hamnet"
 director: "Chloé Zhao"
 year: 2025

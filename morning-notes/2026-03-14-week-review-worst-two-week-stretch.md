@@ -51,7 +51,7 @@ tags:
   - Michigan sentiment
 ---
 
-The week of March 9–13 delivered what investors feared most: a market that lost ground on four of five sessions, all three major indexes posting new 2026 lows, Brent crude closing above $100 for two consecutive days, Asian LNG doubling on Qatar's force majeure, and Michigan consumer sentiment hitting its lowest reading of the year. The two earnings bright spots — ORCL (+10% after a historic cloud beat) and ADBE (beat everything, CEO stepping down, stock −9%) — were swallowed by macro. The S&P is now down 6.8% YTD, the Russell 2000 is down 11.3% YTD, and the Dow closed below 47,000 for the first time in 2026. Ahead: FOMC on March 18 with Powell navigating a policy paralysis of historic proportions. No clean path. Stay disciplined.
+The week of March 9–13 delivered what investors feared most: a market that lost ground on four of five sessions, all three major indexes posting new 2026 lows, Brent crude closing above $100 for two consecutive days, Asian LNG doubling on Qatar's force majeure, and Michigan consumer sentiment hitting its lowest reading of the year. The two earnings bright spots, ORCL (+10% after a historic cloud beat) and ADBE (beat everything, CEO stepping down, stock −9%), were swallowed by macro. The S&P is now down 6.8% YTD, the Russell 2000 is down 11.3% YTD, and the Dow closed below 47,000 for the first time in 2026. Ahead: FOMC on March 18 with Powell navigating a policy paralysis of historic proportions. No clean path. Stay disciplined.
 
 ## Weekly Performance Scorecard | Mar 9–13, 2026
 
@@ -109,7 +109,7 @@ The week of March 9–13 delivered what investors feared most: a market that los
 
 **The LNG escalation changes the risk map.** The Qatar force majeure is not a Hormuz story. Ras Laffan is in the Persian Gulf, not the strait. Its force majeure signals that the conflict's energy disruption radius is expanding. Japan, South Korea, Taiwan, and Pakistan are scrambling. European LNG spot markets repricing.
 
-**Watch for: US executive action on energy.** Multiple Republican senators sent letters demanding action. A Presidential executive order on energy — emergency SPR sales, expedited LNG export permits, or direct price controls — remains a tail risk that would spike markets intraday.
+**Watch for: US executive action on energy.** Multiple Republican senators sent letters demanding action. A Presidential executive order on energy, emergency SPR sales, expedited LNG export permits, or direct price controls, remains a tail risk that would spike markets intraday.
 
 ## Macro & Sentiment Summary | This Week's Data
 
@@ -125,7 +125,7 @@ The week of March 9–13 delivered what investors feared most: a market that los
 
 > **📊 KEY STAT Michigan Sentiment 55.5 — Lowest of 2026. Gas Prices Are the Culprit.**
 >
-> The preliminary University of Michigan Consumer Sentiment for March came in at 55.5 (-1.9%), the lowest reading of 2026. Critically, the survey was split: consumers interviewed before the Iran conflict showed improving sentiment, while those interviewed after March 1 showed a sharp deterioration — the gas price shock erased all prior gains. Year-ahead inflation expectations stalled at 3.4% after six consecutive months of decline. Consumer confidence at these levels historically precedes a pullback in discretionary spending within 60–90 days. Watch retail sales data closely.
+> The preliminary University of Michigan Consumer Sentiment for March came in at 55.5 (-1.9%), the lowest reading of 2026. Critically, the survey was split: consumers interviewed before the Iran conflict showed improving sentiment, while those interviewed after March 1 showed a sharp deterioration, the gas price shock erased all prior gains. Year-ahead inflation expectations stalled at 3.4% after six consecutive months of decline. Consumer confidence at these levels historically precedes a pullback in discretionary spending within 60–90 days. Watch retail sales data closely.
 
 ## Upcoming Event Calendar | Week of Mar 16–20, 2026
 
@@ -174,7 +174,7 @@ The week of March 9–13 delivered what investors feared most: a market that los
 
 **Scenario A: Hold + hawkish tone (most likely, 55%).** Fed acknowledges oil-driven inflation is "uncomfortably elevated," reiterates data dependence, signals cuts remain on the table but pushes first cut to Q4 2026 at earliest. Dot plot shows 1 cut in 2026. Market reaction: S&P −1 to −1.5%.
 
-**Scenario B: Hold + neutral tone (30%).** Powell threads the needle — acknowledges inflation risk but emphasises labour market deterioration risk equally. Dot plot unchanged at 2 cuts. Market relief rally: S&P +0.5 to +1%.
+**Scenario B: Hold + neutral tone (30%).** Powell threads the needle, acknowledges inflation risk but emphasises labour market deterioration risk equally. Dot plot unchanged at 2 cuts. Market relief rally: S&P +0.5 to +1%.
 
 **Scenario C: Hold + dovish pivot (15%).** Powell pivots to downside risks, signals readiness to cut if oil shock tips economy into recession. Market initially rallies, then sells off as inflation credibility concern sets in. Volatile session.
 
@@ -196,7 +196,7 @@ The week of March 9–13 delivered what investors feared most: a market that los
 
 > **▲ EVENT TRADE MU — Into Wednesday's Print**
 >
-> Micron is the AI memory proxy. ORCL's OCI beat at +44% cloud growth suggests AI capex is not slowing — that is structurally bullish for HBM memory demand. MU EPS est $1.45. If HBM order volume beats, MU could move +8–12% in AH. The NVDA/MRVL read-through supports the setup. Buy into Wednesday's print with defined risk.
+> Micron is the AI memory proxy. ORCL's OCI beat at +44% cloud growth suggests AI capex is not slowing; that is structurally bullish for HBM memory demand. MU EPS est $1.45. If HBM order volume beats, MU could move +8–12% in AH. The NVDA/MRVL read-through supports the setup. Buy into Wednesday's print with defined risk.
 >
 > **Risk:** Macro risk-off ahead of FOMC same day could mute or negate even a clean MU beat.
 
@@ -208,7 +208,7 @@ The week of March 9–13 delivered what investors feared most: a market that los
 
 > **▼ REDUCE / AVOID Airlines + Consumer Discretionary + High-Multiple SaaS**
 >
-> Airlines: $98 WTI makes Q2 guidance implausible. AAL is most vulnerable (weakest balance sheet). Consumer discretionary: Michigan 55.5 + 7.41% mortgage + gas prices = spending pullback. High-multiple SaaS: FOMC hawkish risk + growth slowdown = double multiple compression. TEAM, WDAY, CRM, META — every relief rally is a selling opportunity.
+> Airlines: $98 WTI makes Q2 guidance implausible. AAL is most vulnerable (weakest balance sheet). Consumer discretionary: Michigan 55.5 + 7.41% mortgage + gas prices = spending pullback. High-multiple SaaS: FOMC hawkish risk + growth slowdown = double multiple compression. TEAM, WDAY, CRM, META; every relief rally is a selling opportunity.
 >
 > **Risk:** A ceasefire + oil collapse would violently reverse all three. Have watchlists ready for that scenario.
 

@@ -1,6 +1,6 @@
 ---
 layout: review
-title: "Marty Supreme (2025) — Review"
+title: "Marty Supreme (2025) Review"
 film_title: "Marty Supreme"
 director: "Josh Safdie"
 year: 2025

@@ -1,6 +1,6 @@
 ---
 layout: review
-title: "The Bride (2026) — Review"
+title: "The Bride (2026) Review"
 film_title: "The Bride"
 director: "Maggie Gyllenhaal"
 year: 2026

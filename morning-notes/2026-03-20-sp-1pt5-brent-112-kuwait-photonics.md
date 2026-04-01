@@ -146,14 +146,14 @@ Micron +8% from a historic beat. COHR +15.4%, LITE +12% on OFC 2026 + NVDA partn
 
 Kuwait refineries offline. Iraq force majeure. Pentagon preparing ground troops. Brent $112 and going higher. Goldman says oil may stay in triple digits for years. This is the only sector with positive earnings revisions. Concentrate. Trim only on verified Hormuz reopening.
 
-*Risk: Sudden diplomatic breakthrough — the only scenario that reverses energy.*
+*Risk: Sudden diplomatic breakthrough, the only scenario that reverses energy.*
 
 ### ▲ GOLD + DEFENCE BASKET — The War Continues
 {: .trade-long}
 
 Gold at $3,305 and going higher. LMT, RTX, GD, NOC all benefiting from multi-year procurement tailwinds. Pentagon ground troop preparations confirm defence spending is accelerating. This basket is now the portfolio anchor.
 
-*Risk: Peace deal — the only risk to both simultaneously.*
+*Risk: Peace deal, the only risk to both simultaneously.*
 
 ### ▼ SELL EVERYTHING ELSE
 {: .trade-short}
@@ -162,7 +162,7 @@ Airlines: uninvestable. Consumer discretionary: cracking. High-multiple SaaS: ra
 
 ## Bottom Line | Two Markets. One War. Choose Your Side.
 
-This is the most bifurcated market since the 2020 pandemic. One half is collapsing: the S&P is down 9.1% YTD, the Nasdaq is in correction, the Russell 2000 is in correction, airlines are uninvestable, consumer discretionary is cracking, and the Pentagon is preparing ground troops into Iran. Oil is at $112 and rising. The other half is exploding: Micron just posted the best memory earnings in history and guided to $33.5B. Coherent is up 15.4% in a single session. Lumentum is up 12%. Both join the S&P 500 on Monday. NVIDIA's $1T order book is validated by every earnings report in the AI supply chain. FedEx beat and raised. The AI infrastructure buildout is genuinely immune to the war — hyperscalers are not cancelling data centres because Brent is at $112. If anything, the AI demand is accelerating as compute becomes more strategic in a world of conflict. The playbook: concentrate into AI (MU, NVDA, COHR, LITE, SMCI), energy (XOM, CVX, SLB), gold (GLD), and defence (LMT, RTX, GD). Sell everything else. This is not a market where diversification works. It's a market where conviction wins.
+This is the most bifurcated market since the 2020 pandemic. One half is collapsing: the S&P is down 9.1% YTD, the Nasdaq is in correction, the Russell 2000 is in correction, airlines are uninvestable, consumer discretionary is cracking, and the Pentagon is preparing ground troops into Iran. Oil is at $112 and rising. The other half is exploding: Micron just posted the best memory earnings in history and guided to $33.5B. Coherent is up 15.4% in a single session. Lumentum is up 12%. Both join the S&P 500 on Monday. NVIDIA's $1T order book is validated by every earnings report in the AI supply chain. FedEx beat and raised. The AI infrastructure buildout is genuinely immune to the war, hyperscalers are not cancelling data centres because Brent is at $112. If anything, the AI demand is accelerating as compute becomes more strategic in a world of conflict. The playbook: concentrate into AI (MU, NVDA, COHR, LITE, SMCI), energy (XOM, CVX, SLB), gold (GLD), and defence (LMT, RTX, GD). Sell everything else. This is not a market where diversification works. It's a market where conviction wins.
 
 ---
 

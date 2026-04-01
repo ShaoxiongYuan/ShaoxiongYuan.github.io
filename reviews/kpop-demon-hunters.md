@@ -1,6 +1,6 @@
 ---
 layout: review
-title: "KPop Demon Hunters (2025) — Review"
+title: "KPop Demon Hunters (2025) Review"
 film_title: "KPop Demon Hunters"
 director: "Chris Appelhans"
 year: 2025

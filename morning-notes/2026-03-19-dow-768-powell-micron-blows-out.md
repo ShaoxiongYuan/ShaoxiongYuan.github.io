@@ -50,7 +50,7 @@ tags:
   - VIX
 ---
 
-Yesterday delivered the worst FOMC session of 2026. The Fed held at 3.50–3.75% (11-1, Miran dissented for a cut) and the dot plot projected just 1 cut this year, down from 2 in December. Inflation forecast raised to 2.7% for 2026. Powell then drove the knife in during the presser: "We're not making as much progress on inflation as we had hoped." S&P fell 1.36% to 6,624.70, new 2026 lows. Dow −768 pts. Nasdaq −1.46%. Then after the bell, two very different stories: Micron posted a monster quarter — EPS $12.20 vs $9.31 est, revenue $23.86B vs $20.07B est, FCF $6.9B (record), and guided Q3 to $33.5B revenue with 81% gross margin. Stock +8% after hours. Meanwhile, Israel and the US struck Iran's South Pars gas field, the world's largest natural gas reserve shared with Qatar. Oil spiked to nearly $110 Brent. Iran retaliated by publishing a list of Gulf energy facilities it plans to hit next, including Saudi Aramco's Samref refinery and the UAE's Al Hosn gas field. FDX and ACN report today. This is a session of maximum divergence: AI vs. everything else.
+Yesterday delivered the worst FOMC session of 2026. The Fed held at 3.50–3.75% (11-1, Miran dissented for a cut) and the dot plot projected just 1 cut this year, down from 2 in December. Inflation forecast raised to 2.7% for 2026. Powell then drove the knife in during the presser: "We're not making as much progress on inflation as we had hoped." S&P fell 1.36% to 6,624.70, new 2026 lows. Dow −768 pts. Nasdaq −1.46%. Then after the bell, two very different stories: Micron posted a monster quarter, EPS $12.20 vs $9.31 est, revenue $23.86B vs $20.07B est, FCF $6.9B (record), and guided Q3 to $33.5B revenue with 81% gross margin. Stock +8% after hours. Meanwhile, Israel and the US struck Iran's South Pars gas field, the world's largest natural gas reserve shared with Qatar. Oil spiked to nearly $110 Brent. Iran retaliated by publishing a list of Gulf energy facilities it plans to hit next, including Saudi Aramco's Samref refinery and the UAE's Al Hosn gas field. FDX and ACN report today. This is a session of maximum divergence: AI vs. everything else.
 
 ## Market Snapshot | Wed Close + Thursday Pre-Market ~06:45 ET
 
@@ -145,7 +145,7 @@ The South Pars strike changes the oil calculus permanently. This is not a tempor
 
 Gold at $3,305, ATH territory. Powell told you inflation isn't coming down. War just escalated to joint US-Israel strikes on Iranian infrastructure. LMT, RTX, GD all outperforming. This basket works in every scenario except a sudden ceasefire.
 
-*Risk: Peace deal — the only scenario that hurts both simultaneously.*
+*Risk: Peace deal, the only scenario that hurts both simultaneously.*
 
 ### ▼ SELL AIRLINES, CONSUMER, HIGH-MULTIPLE SAAS
 {: .trade-short}

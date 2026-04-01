@@ -48,11 +48,11 @@ tags:
   - Trade Ideas
 ---
 
-Yesterday's session opened down 2%+ on oil at $119 — and closed up 0.8% on a single Trump comment. The President told CBS News the Iran war is "very complete, pretty much" and floated seizing control of the Strait of Hormuz. WTI went from $119 to $94 in four hours. The S&P recovered 270 points intraday. That is not a bull market. That is a hostage market. Geopolitical noise remains the only driver and the signal can reverse without warning. Maintain tight stops. ORCL reports tonight — the one catalyst with actual fundamentals. Watch it closely.
+Yesterday's session opened down 2%+ on oil at $119, and closed up 0.8% on a single Trump comment. The President told CBS News the Iran war is "very complete, pretty much" and floated seizing control of the Strait of Hormuz. WTI went from $119 to $94 in four hours. The S&P recovered 270 points intraday. That is not a bull market. That is a hostage market. Geopolitical noise remains the only driver and the signal can reverse without warning. Maintain tight stops. ORCL reports tonight, the one catalyst with actual fundamentals. Watch it closely.
 
 ## 🗣️ TRUMP VERBATIM — The Comment That Moved Markets
 
-> "We're achieving major strides toward completing our military objective. The war is very complete, pretty much. We are also focused on keeping energy and oil flowing to the world." — President Trump to CBS News, March 9 ~14:30 ET.
+> "We're achieving major strides toward completing our military objective. The war is very complete, pretty much. We are also focused on keeping energy and oil flowing to the world.", President Trump to CBS News, March 9 ~14:30 ET.
 
 He also told reporters the U.S. is considering taking operational control of the Strait of Hormuz. Both statements sent WTI from $119 to $94.
 
@@ -85,7 +85,7 @@ He also told reporters the U.S. is considering taking operational control of the
 
 - **This is not a real recovery.** A 270-point swing driven by an informal CBS interview is pure headline risk. Nothing structurally changed: NFP is still −92K, oil is still $94, and CPI prints tomorrow. The market is trading on Trump's mood, not fundamentals.
 - **Oil at $94 is still a problem.** Pre-conflict WTI was $68. Even at "recovered" levels, crude is still 38% above where it was. Airlines, truckers, and consumer discretionary still face a massive margin headwind.
-- **The Hormuz comment is the most important signal.** If the U.S. actually takes operational control, it removes Iran's leverage completely. That would be a genuine structural catalyst — not a bounce. Watch for any follow-through from State/DoD.
+- **The Hormuz comment is the most important signal.** If the U.S. actually takes operational control, it removes Iran's leverage completely. That would be a genuine structural catalyst; not a bounce. Watch for any follow-through from State/DoD.
 - **ORCL tonight is the clean catalyst.** It's the only event today with real earnings power behind it. An OCI beat on cloud revenue would give tech a legitimate reason to rally, not just a Trump-driven gap.
 - **CPI tomorrow (Wed) remains the week's most important macro print.** Oil at $94 means headline inflation is still running hot. Any print above 3.0% will remind the market the Fed is trapped. Do not get complacent off yesterday's close.
 
@@ -93,7 +93,7 @@ He also told reporters the U.S. is considering taking operational control of the
 
 **EPS Est. $1.71 | Rev Est. $16.92B | OCI Cloud: +37-41%**
 
-ORCL is down 20%+ YTD. The bar is low and the setup is asymmetric — but the macro backdrop adds risk. Three things to watch: (1) OCI cloud revenue growth — any print above 40% in constant currency is a beat. (2) FQ4 guidance — a revenue guide above $17B would be the headline number that matters. (3) AI contract commentary — specifically federal/government AI workload wins post the Anthropic-contract mandate shift. If all three deliver, ORCL could squeeze 8-12% in after-hours. A miss on OCI in this tape = -10%+. High risk/reward.
+ORCL is down 20%+ YTD. The bar is low and the setup is asymmetric, but the macro backdrop adds risk. Three things to watch: (1) OCI cloud revenue growth, any print above 40% in constant currency is a beat. (2) FQ4 guidance, a revenue guide above $17B would be the headline number that matters. (3) AI contract commentary, specifically federal/government AI workload wins post the Anthropic-contract mandate shift. If all three deliver, ORCL could squeeze 8-12% in after-hours. A miss on OCI in this tape = -10%+. High risk/reward.
 
 ## Key Events Today
 
@@ -118,7 +118,7 @@ Asymmetric setup: ORCL is down 20%+ YTD, sentiment is washed out, and OCI has st
 ### ▼ FADE — The Trump Rebound
 {: .trade-short}
 
-Yesterday's close is a sell-the-news opportunity for any names that ripped purely on the geopolitical relief. Airlines, transports, and discretionary retail ripped off the oil drop — but WTI is still $94, structurally. AAL, UAL, XRT are fades on any further strength today before CPI confirms the inflation picture.
+Yesterday's close is a sell-the-news opportunity for any names that ripped purely on the geopolitical relief. Airlines, transports, and discretionary retail ripped off the oil drop, but WTI is still $94, structurally. AAL, UAL, XRT are fades on any further strength today before CPI confirms the inflation picture.
 
 *Risk: A genuine ceasefire or Hormuz deal would make this wrong fast. Use stops above Monday's HOD.*
 

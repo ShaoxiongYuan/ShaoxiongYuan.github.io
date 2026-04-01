@@ -102,7 +102,7 @@ The ORCL +10% post-earnings bounce on Tuesday provided a temporary halo for tech
 | MRVL | **+1.4%** | Semiconductors | OCI read-through; AI networking semi resilient vs software |
 | NVDA | **+0.6%** | AI/GPU | AI demand intact; held up well vs software peers this week |
 
-📊 **OUR READ** Semis Holding, Software Cracking — The AI Infrastructure vs. AI Application Divergence
+📊 **OUR READ** Semis Holding, Software Cracking, The AI Infrastructure vs. AI Application Divergence
 
 The pattern emerging this week: AI infrastructure names (NVDA, MRVL, AVGO) are holding or advancing on ORCL's OCI beat read-through. AI application / SaaS names are underperforming as enterprise spending committees slow decisions amid macro uncertainty. This is the 'picks and shovels vs. gold miner' dynamic in real time. Overweight infrastructure; underweight software until macro clarity emerges.
 
@@ -130,7 +130,7 @@ The pattern emerging this week: AI infrastructure names (NVDA, MRVL, AVGO) are h
 
 **Bull thesis:** 8 straight EPS beats. ORCL print de-risked AI SaaS narrative. Bar is low. CEO transition plan = re-rating catalyst if execution is clean. Target $430+.
 
-**Bear thesis:** Macro environment is hostile for high-multiple software. Design/creative tools are discretionary — enterprise and consumer both under pressure. If AI ARR fails to show monetisation, the bear thesis on disruption risk gets louder.
+**Bear thesis:** Macro environment is hostile for high-multiple software. Design/creative tools are discretionary, enterprise and consumer both under pressure. If AI ARR fails to show monetisation, the bear thesis on disruption risk gets louder.
 
 *Note: CEO Shantanu Narayen transition plan recently announced. Succession narrative adds event risk.*
 

@@ -92,7 +92,7 @@ Thursday delivered the session everyone feared: S&P 6,672 (new 2026 low, −1.5%
 
 ## Adobe (ADBE) | Beat on All Metrics. Down 9% Anyway. The CEO Discount.
 
-⚠️ **KEY EVENT** CEO Narayen Stepping Down After 18 Years — The Market Is Pricing Uncertainty
+⚠️ **KEY EVENT** CEO Narayen Stepping Down After 18 Years, The Market Is Pricing Uncertainty
 
 Adobe reported record Q1 results: EPS $6.06 (beat $5.87), revenue $6.40B (beat $6.28B, +12% YoY), AI-first ARR more than tripled, Q2 EPS guidance $5.80-5.85 (above $5.68 estimate), FY26 revenue guidance affirmed at $25.90-26.10B. By every financial metric, this was a strong quarter. But the market is selling the stock −9% because CEO Shantanu Narayen, who built Adobe into a $200B company over 18 years, announced he is stepping down once a successor is appointed. The key risk: AI strategy ownership during a critical inflection year. Who replaces him?
 
@@ -102,7 +102,7 @@ Adobe reported record Q1 results: EPS $6.06 (beat $5.87), revenue $6.40B (beat $
 
 ## War Implications | Week 3 — LNG Crisis Joins the Oil Shock
 
-🚨 **NEW ESCALATION** QatarEnergy Force Majeure at Ras Laffan — 20% of Global LNG Offline
+🚨 **NEW ESCALATION** QatarEnergy Force Majeure at Ras Laffan, 20% of Global LNG Offline
 
 The energy crisis just added a second front. QatarEnergy declared force majeure at its Ras Laffan LNG plant, which accounts for approximately 20% of global LNG production. Asian LNG spot prices doubled overnight to $25.40/MMBtu. Pakistan, South Korea, Japan, and Taiwan, all highly import-dependent, are scrambling for alternative supply. European LNG spot markets are also repricing. US Henry Hub natural gas rose 6.1% on LNG export premium spillover. This is no longer just an oil shock. It is a full energy supply shock.
 
@@ -192,13 +192,13 @@ Gold at $3,218, new ATH. Central bank buying continues. Stagflation = structural
 ### ▼ AVOID / REDUCE — Airlines, Consumer Discretionary, High-Multiple SaaS
 {: .trade-short}
 
-Three categories with no floor: (1) Airlines — AAL, DAL, UAL facing $98 WTI which makes Q2 earnings guidance implausible; avoid any 'cheap on dip' narratives. (2) Consumer discretionary — gas prices + weakening consumer sentiment (Michigan 10:00 today) = spending pullback. (3) High-multiple SaaS — TEAM, WDAY, CRM continue to bleed as rates rise and growth slows. Every relief rally in these names is a selling opportunity.
+Three categories with no floor: (1) Airlines, AAL, DAL, UAL facing $98 WTI which makes Q2 earnings guidance implausible; avoid any 'cheap on dip' narratives. (2) Consumer discretionary, gas prices + weakening consumer sentiment (Michigan 10:00 today) = spending pullback. (3) High-multiple SaaS, TEAM, WDAY, CRM continue to bleed as rates rise and growth slows. Every relief rally in these names is a selling opportunity.
 
 *Risk: A genuine ceasefire would violently reverse all three categories. Have a watchlist ready.*
 
 ## Bottom Line
 
-This was one of the worst weeks for equities since the 2022 rate shock. Four consecutive down days, all three major indexes at new 2026 lows, Brent above $100, and now a global LNG crisis on top. The two earnings bright spots — ORCL (+10%) and ADBE (beat, but −9% on CEO news) — were overwhelmed by macro. Next week's FOMC meeting (March 17-18) is the next major inflection: Powell must address an economy with stagflation pressures the Fed has no clean policy tool to fight. A hawkish message sends equities through current lows. A dovish pivot into $103 Brent gets dismissed as irresponsible. There is no good outcome for the Fed next week. Capital preservation remains the mandate. Own energy, own gold, own defence. Avoid everything the energy shock hurts. Watch Michigan sentiment at 10:00 today. If consumer confidence is cracking, the consumer discretionary unwind accelerates.
+This was one of the worst weeks for equities since the 2022 rate shock. Four consecutive down days, all three major indexes at new 2026 lows, Brent above $100, and now a global LNG crisis on top. The two earnings bright spots, ORCL (+10%) and ADBE (beat, but −9% on CEO news), were overwhelmed by macro. Next week's FOMC meeting (March 17-18) is the next major inflection: Powell must address an economy with stagflation pressures the Fed has no clean policy tool to fight. A hawkish message sends equities through current lows. A dovish pivot into $103 Brent gets dismissed as irresponsible. There is no good outcome for the Fed next week. Capital preservation remains the mandate. Own energy, own gold, own defence. Avoid everything the energy shock hurts. Watch Michigan sentiment at 10:00 today. If consumer confidence is cracking, the consumer discretionary unwind accelerates.
 
 ---
 

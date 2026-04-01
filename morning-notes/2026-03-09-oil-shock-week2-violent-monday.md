@@ -51,7 +51,7 @@ tags:
   - Trade Ideas
 ---
 
-Futures are indicating a gap lower at the open (S&P −2.0%, Nasdaq −2.3%, Dow −1,000+ pts) as WTI crude surges another 18% overnight to $107+. The Iran conflict is tightening its grip on Strait of Hormuz flows and the market is repricing a sustained energy supply shock — not a temporary one. Last week's −92K NFP miss was the demand side of the stagflation equation; $107 oil is the supply side. Both are now confirmed. Positioning for volatility, not the dip.
+Futures are indicating a gap lower at the open (S&P −2.0%, Nasdaq −2.3%, Dow −1,000+ pts) as WTI crude surges another 18% overnight to $107+. The Iran conflict is tightening its grip on Strait of Hormuz flows and the market is repricing a sustained energy supply shock; not a temporary one. Last week's −92K NFP miss was the demand side of the stagflation equation; $107 oil is the supply side. Both are now confirmed. Positioning for volatility, not the dip.
 
 ## Pre-Market Snapshot | ~06:45 ET
 
@@ -100,7 +100,7 @@ Last week's data delivered the worst possible combo: −92K NFP (demand collapsi
 
 EPS est: $1.71 | Rev est: $16.92B | OCI cloud: +37–41% guided
 
-OCI is taking AI workload share from AWS/Azure. ORCL down 20%+ YTD — any OCI beat could spark a violent short cover. Federal AI contract wins post-mandate are the incremental catalyst. Watch Q4 revenue guidance above $17B.
+OCI is taking AI workload share from AWS/Azure. ORCL down 20%+ YTD, any OCI beat could spark a violent short cover. Federal AI contract wins post-mandate are the incremental catalyst. Watch Q4 revenue guidance above $17B.
 
 *View: High-risk/reward into print. Beat on OCI = +8–12%. Miss = −10%+.*
 
@@ -108,7 +108,7 @@ OCI is taking AI workload share from AWS/Azure. ORCL down 20%+ YTD — any OCI b
 
 EPS est: $5.87 | Rev est: $6.28B | AI monetisation in focus
 
-ADBE has beaten EPS in 8 straight quarters but stock down 20% YTD as AI disruption fears persist. Firefly AI adoption rate and Digital Media ARR are the key metrics. A guide that shows AI is augmenting — not cannibalising — subscriptions would be transformative for sentiment.
+ADBE has beaten EPS in 8 straight quarters but stock down 20% YTD as AI disruption fears persist. Firefly AI adoption rate and Digital Media ARR are the key metrics. A guide that shows AI is augmenting; not cannibalising, subscriptions would be transformative for sentiment.
 
 *View: Bar is low. Solid beat + bullish AI ARR = meaningful relief rally from oversold levels.*
 
@@ -117,7 +117,7 @@ ADBE has beaten EPS in 8 straight quarters but stock down 20% YTD as AI disrupti
 ### ▲ LONG — XOP / Energy Complex
 {: .trade-long}
 
-Oil at $107 and Strait of Hormuz blockage is not a one-day event. Energy companies — especially E&P and LNG exporters — are direct beneficiaries of sustained elevated crude. XOP lagged XLE last week; play catch-up. Also look at LNG names (FANG, AR) and refiners (VLO, PSX) as crack spreads widen.
+Oil at $107 and Strait of Hormuz blockage is not a one-day event. Energy companies, especially E&P and LNG exporters, are direct beneficiaries of sustained elevated crude. XOP lagged XLE last week; play catch-up. Also look at LNG names (FANG, AR) and refiners (VLO, PSX) as crack spreads widen.
 
 *Risk: Ceasefire or Hormuz reopening would crater the trade immediately. Use tight stops.*
 
@@ -137,7 +137,7 @@ Jet fuel at $107+ WTI destroys airline economics. AAL has the weakest balance sh
 
 ## Bottom Line
 
-This is not a normal Monday morning. The market is repricing a sustained stagflation regime in real time. The playbook is: own energy, own gold, own defence; avoid rate-sensitive growth, discretionary, and airlines. The two critical decision points this week are Wednesday's CPI and ORCL's earnings on Tuesday. A hot CPI above 3.0% and/or an ORCL miss would accelerate the selloff toward S&P 6,300–6,400. An ORCL beat with strong OCI guidance could provide a brief tech relief trade — but sell it into strength. Stay defensive, stay nimble. This is a week for capital preservation, not hero trades.
+This is not a normal Monday morning. The market is repricing a sustained stagflation regime in real time. The playbook is: own energy, own gold, own defence; avoid rate-sensitive growth, discretionary, and airlines. The two critical decision points this week are Wednesday's CPI and ORCL's earnings on Tuesday. A hot CPI above 3.0% and/or an ORCL miss would accelerate the selloff toward S&P 6,300–6,400. An ORCL beat with strong OCI guidance could provide a brief tech relief trade, but sell it into strength. Stay defensive, stay nimble. This is a week for capital preservation, not hero trades.
 
 ---
 

@@ -51,7 +51,7 @@ tags:
   - CPI
 ---
 
-The week of March 2–6 will be studied in market history classes. It started with a geopolitical shock (US-Israel strikes on Iran), escalated through five straight days of oil gains, and ended Friday with the worst jobs number since the pandemic: −92,000 nonfarm payrolls, unemployment at 4.4%. WTI surged +35% on the week — the largest weekly gain in futures trading history. Brent closed at $92.32. The S&P 500 finished at 6,740, wiping out all 2026 gains and turning negative year-to-date. The VIX spiked to 28 intraday. The word of the week is stagflation: oil above $90 + a shrinking job market is the combination the Fed has no clean answer to. Within the carnage, three things held: AI infrastructure earnings (NVDA, AVGO, MRVL all beat), defense stocks (LMT at record highs), and energy (XOM, CVX, XOP at multi-year highs). For next week: ORCL and ADBE are the pivotal earnings events, and any Iran/Hormuz development is a binary macro catalyst.
+The week of March 2–6 will be studied in market history classes. It started with a geopolitical shock (US-Israel strikes on Iran), escalated through five straight days of oil gains, and ended Friday with the worst jobs number since the pandemic: −92,000 nonfarm payrolls, unemployment at 4.4%. WTI surged +35% on the week, the largest weekly gain in futures trading history. Brent closed at $92.32. The S&P 500 finished at 6,740, wiping out all 2026 gains and turning negative year-to-date. The VIX spiked to 28 intraday. The word of the week is stagflation: oil above $90 + a shrinking job market is the combination the Fed has no clean answer to. Within the carnage, three things held: AI infrastructure earnings (NVDA, AVGO, MRVL all beat), defense stocks (LMT at record highs), and energy (XOM, CVX, XOP at multi-year highs). For next week: ORCL and ADBE are the pivotal earnings events, and any Iran/Hormuz development is a binary macro catalyst.
 
 ## Market Indices | Weekly Scorecard — Week of March 2–6, 2026
 
@@ -86,7 +86,7 @@ The week of March 2–6 will be studied in market history classes. It started wi
 | Natural Gas (US) | **$4.35** | **+6%** | **+12%** | LNG rerouting + EU emergency demand; elevated further |
 | Gasoline Futures | **$2.95/gal** | **+9%** | **+28%** | Pump prices approaching $4.50/gal nationally — demand destruction risk |
 
-WTI crude went from approximately $67 pre-conflict on Feb 27 to $90.14 at Friday's close: a $23 move in five trading sessions. For context: the 1990 Gulf War oil spike took three months to produce a comparable percentage move. The Iran tanker strike Friday afternoon broke the market's last hope of a quick Hormuz resolution. Goldman's $100 Brent scenario is no longer tail risk. It is the central case if the conflict extends beyond 30 days. At $100 Brent: US CPI adds +0.8–1.0 percentage points via energy and transportation pass-through within 60 days. The Fed has no clean answer. Rate cuts to support growth, but inflation is already above target. Rate holds to fight inflation — but the job market just lost 92,000 workers. Stagflation is no longer a risk scenario. It is the base case.
+WTI crude went from approximately $67 pre-conflict on Feb 27 to $90.14 at Friday's close: a $23 move in five trading sessions. For context: the 1990 Gulf War oil spike took three months to produce a comparable percentage move. The Iran tanker strike Friday afternoon broke the market's last hope of a quick Hormuz resolution. Goldman's $100 Brent scenario is no longer tail risk. It is the central case if the conflict extends beyond 30 days. At $100 Brent: US CPI adds +0.8–1.0 percentage points via energy and transportation pass-through within 60 days. The Fed has no clean answer. Rate cuts to support growth, but inflation is already above target. Rate holds to fight inflation, but the job market just lost 92,000 workers. Stagflation is no longer a risk scenario. It is the base case.
 
 ## VIX | Regime Watch — VIX at 23.57: We Are in an Elevated Vol Regime Through the Conflict
 
@@ -123,7 +123,7 @@ The VIX started the week at ~15 (pre-conflict calm) and ended at 23.57, touching
 | Jan Payrolls (revised) | **+126,000** | 130,000 prior | **Down 4K** | January revised lower — prior strength was overstated. |
 | Dec Payrolls (revised) | **−17,000** | +50,000 prior | **Down 67K** | December was actually a contraction. Significant backward revision. |
 
-Friday's simultaneous arrival of −92,000 payrolls and oil above $90 created the most challenging macro combination since the 1970s stagflation era. The Fed's dual mandate has never been more directly in conflict: unemployment jumped to 4.4% (heading toward the FOMC's own 4.5% threshold for concern) while inflation via energy is running dangerously hot. The backward revisions are arguably the most alarming detail — December 2025 was revised from +50,000 to −17,000. The job market was already deteriorating before the Iran conflict. June rate cut probability jumped to ~50% on the NFP miss alone. But cutting rates into $90+ oil would risk unleashing the very inflation spiral the Fed has spent two years fighting. Watch every Fed speaker next week for any signal of how they are resolving this dilemma.
+Friday's simultaneous arrival of −92,000 payrolls and oil above $90 created the most challenging macro combination since the 1970s stagflation era. The Fed's dual mandate has never been more directly in conflict: unemployment jumped to 4.4% (heading toward the FOMC's own 4.5% threshold for concern) while inflation via energy is running dangerously hot. The backward revisions are arguably the most alarming detail, December 2025 was revised from +50,000 to −17,000. The job market was already deteriorating before the Iran conflict. June rate cut probability jumped to ~50% on the NFP miss alone. But cutting rates into $90+ oil would risk unleashing the very inflation spiral the Fed has spent two years fighting. Watch every Fed speaker next week for any signal of how they are resolving this dilemma.
 
 ## Top Headlines | Week of March 2–6, 2026
 
@@ -244,7 +244,7 @@ The February CPI print drops Wednesday, March 11 at 8:30 AM ET, and it will be u
 
 ---
 
-Stagflation confirmed — the word that defined this week will define the next several months of market narrative. Oil above $90, payrolls negative, the Fed paralysed. Within the wreckage: AI infrastructure (NVDA, AVGO, MRVL), defense (LMT, PLTR), and energy (XOM, CVX, XOP) are the only sectors printing consistent gains. Own the three that work. Watch March 11 CPI above all else next week.
+Stagflation confirmed, the word that defined this week will define the next several months of market narrative. Oil above $90, payrolls negative, the Fed paralysed. Within the wreckage: AI infrastructure (NVDA, AVGO, MRVL), defense (LMT, PLTR), and energy (XOM, CVX, XOP) are the only sectors printing consistent gains. Own the three that work. Watch March 11 CPI above all else next week.
 
 ---
 

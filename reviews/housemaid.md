@@ -1,6 +1,6 @@
 ---
 layout: review
-title: "The Housemaid (2025) — Review"
+title: "The Housemaid (2025) Review"
 film_title: "The Housemaid"
 director: "Paul Feig"
 year: 2025

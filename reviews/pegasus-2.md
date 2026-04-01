@@ -1,6 +1,6 @@
 ---
 layout: review
-title: "Pegasus 2 (2024) — Review"
+title: "Pegasus 2 (2024) Review"
 film_title: "Pegasus 2"
 director: "Han Han"
 year: 2024
