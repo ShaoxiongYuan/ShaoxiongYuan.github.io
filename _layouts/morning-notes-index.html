@@ -186,6 +186,48 @@
       padding: 0.25rem 0.75rem;
       border-radius: 3px;
     }
+    .cal-month-right {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+    }
+    .cal-toggle {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 28px;
+      height: 28px;
+      border: 1px solid var(--rule);
+      border-radius: 4px;
+      background: var(--surface);
+      cursor: pointer;
+      transition: background 0.15s, border-color 0.15s;
+      color: var(--ink-4);
+      flex-shrink: 0;
+    }
+    .cal-toggle:hover {
+      background: var(--bg);
+      border-color: var(--rule-2);
+      color: var(--ink-2);
+    }
+    .cal-toggle svg {
+      width: 14px;
+      height: 14px;
+      transition: transform 0.25s ease;
+    }
+    .cal-section.collapsed .cal-toggle svg {
+      transform: rotate(-90deg);
+    }
+    .cal-section .cal-collapsible {
+      max-height: 2000px;
+      overflow: hidden;
+      transition: max-height 0.35s ease, opacity 0.25s ease;
+      opacity: 1;
+    }
+    .cal-section.collapsed .cal-collapsible {
+      max-height: 0;
+      opacity: 0;
+    }
 
     /* ── CALENDAR GRID ───────────────────────── */
     .cal-grid {
@@ -582,12 +624,24 @@
     {% endfor %}
     {% assign months = month_groups | split: "," %}
 
+    {% comment %} Ensure the current month is always included {% endcomment %}
+    {% assign now_ym = site.time | date: "%Y-%m" %}
+    {% assign has_current = false %}
     {% for ym in months %}
+      {% if ym == now_ym %}{% assign has_current = true %}{% endif %}
+    {% endfor %}
+
+    {% comment %} Build final month list: current month first if missing, then all from notes {% endcomment %}
+    {% if has_current %}
+      {% assign render_months = months %}
+    {% else %}
+      {% assign render_months = now_ym | append: "," | append: month_groups | split: "," %}
+    {% endif %}
+
+    {% for ym in render_months %}
       {% assign y = ym | split: "-" | first | plus: 0 %}
       {% assign m = ym | split: "-" | last | plus: 0 %}
-      {% assign month_name = ym | append: "-01" %}
 
-      {% assign notes_this_month = "" %}
       {% assign note_count = 0 %}
       {% for note in all_notes %}
         {% assign n_ym = note.date | date: "%Y-%m" %}
@@ -596,7 +650,14 @@
         {% endif %}
       {% endfor %}
 
-      <div class="cal-section">
+      {% comment %} Collapse past months by default (not the current month) {% endcomment %}
+      {% if ym == now_ym %}
+        {% assign is_collapsed = false %}
+      {% else %}
+        {% assign is_collapsed = true %}
+      {% endif %}
+
+      <div class="cal-section{% if is_collapsed %} collapsed{% endif %}" data-month="{{ ym }}">
         <div class="cal-month-bar">
           <h2 class="cal-month-title">
             {% case m %}
@@ -607,21 +668,30 @@
             {% endcase %}
             {{ y }}
           </h2>
-          <span class="cal-month-count">{{ note_count }} note{% if note_count != 1 %}s{% endif %}</span>
+          <div class="cal-month-right">
+            <span class="cal-month-count">{{ note_count }} note{% if note_count != 1 %}s{% endif %}</span>
+            <button class="cal-toggle" aria-label="Toggle month" onclick="this.closest('.cal-section').classList.toggle('collapsed')">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="6 9 12 15 18 9"></polyline>
+              </svg>
+            </button>
+          </div>
         </div>
 
-        <div class="cal-grid">
-          <div class="cal-header">
-            <span class="cal-dow">Sun</span>
-            <span class="cal-dow">Mon</span>
-            <span class="cal-dow">Tue</span>
-            <span class="cal-dow">Wed</span>
-            <span class="cal-dow">Thu</span>
-            <span class="cal-dow">Fri</span>
-            <span class="cal-dow">Sat</span>
-          </div>
-          <div class="cal-body" id="cal-{{ ym }}">
-            <!-- Filled by JS below -->
+        <div class="cal-collapsible">
+          <div class="cal-grid">
+            <div class="cal-header">
+              <span class="cal-dow">Sun</span>
+              <span class="cal-dow">Mon</span>
+              <span class="cal-dow">Tue</span>
+              <span class="cal-dow">Wed</span>
+              <span class="cal-dow">Thu</span>
+              <span class="cal-dow">Fri</span>
+              <span class="cal-dow">Sat</span>
+            </div>
+            <div class="cal-body" id="cal-{{ ym }}">
+              <!-- Filled by JS below -->
+            </div>
           </div>
         </div>
       </div>
@@ -687,7 +757,7 @@
 
     /* Calendar months to render (from Liquid) */
     var months = [
-      {% for ym in months %}
+      {% for ym in render_months %}
       "{{ ym }}"{% unless forloop.last %},{% endunless %}
       {% endfor %}
     ];

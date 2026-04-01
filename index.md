@@ -64,9 +64,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [Mar 31, 2026](/morning-notes/2026-03-31-iran-peace-signals-dow-1125-tanker-attack){:target="_blank"} | *Markets Rip on Iran Peace Signals. Dow +1,125. Pezeshkian Says Iran Has 'Necessary Will' to End War. Tanker Attacked off Dubai. Brent $118.* |
+| [Mar 30, 2026](/morning-notes/2026-03-30-houthis-two-chokepoints-brent-112){:target="_blank"} | *The War Just Got Bigger. Houthis Fire on Israel. Pentagon Preps Ground Ops. Yanbu Under Threat. Brent $112.* |
 | [Mar 27, 2026](/morning-notes/2026-03-27-dow-correction-nuclear-strikes-stagflation){:target="_blank"} | *Dow Enters Correction. Israel Strikes Nuclear Sites. Fed Hike Odds Cross 50%. Brent $110.* |
-| [Mar 26, 2026](/morning-notes/2026-03-26-turboquant-jevons-paradox-memory-dip){:target="_blank"} | *Google TurboQuant: 6x Compression, Zero Accuracy Loss. MU −7%. The AI Supply Chain Rewritten.* |
-| [Mar 25, 2026](/morning-notes/2026-03-25-ceasefire-proposal-oil-plunge){:target="_blank"} | *15-Point Deal on Table. Iran Counters. Brent Below $100. Negotiation Begins.* |
 
 ### Industry Analysis
 
