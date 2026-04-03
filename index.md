@@ -94,9 +94,9 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 
 | Film | Director | Rating |
 | ---- | -------- | ------ |
+| [*The AI Doc: Or How I Learned to Become an Apocaloptimist*](/reviews/the-ai-doc-apocaloptimist){:target="_blank"} | Not specified | ★★★½ |
 | [*The Super Mario Galaxy Movie*](/reviews/super-mario-galaxy-movie){:target="_blank"} | Not specified | ★★★ |
 | [*Train Dreams*](/reviews/train-dreams){:target="_blank"} | Clint Bentley | ★★★★ |
-| [*Project Hail Mary*](/reviews/project-hail-mary){:target="_blank"} | Phil Lord, Christopher Miller | ★★★★ |
 
 </div>
 
