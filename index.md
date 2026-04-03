@@ -94,9 +94,9 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 
 | Film | Director | Rating |
 | ---- | -------- | ------ |
+| [*The Super Mario Galaxy Movie*](/reviews/super-mario-galaxy-movie){:target="_blank"} | Not specified | ★★★ |
 | [*Train Dreams*](/reviews/train-dreams){:target="_blank"} | Clint Bentley | ★★★★ |
 | [*Project Hail Mary*](/reviews/project-hail-mary){:target="_blank"} | Phil Lord, Christopher Miller | ★★★★ |
-| [*David*](/reviews/david){:target="_blank"} | Brent Dawes, Phil Cunningham | ★★★½ |
 
 </div>
 
