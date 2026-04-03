@@ -64,9 +64,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [Apr 2, 2026](/morning-notes/2026-04-02-trump-stone-ages-oil-reversal-claims-beat){:target="_blank"} | *Trump Tells the Nation He'll Send Iran 'Back to the Stone Ages.' Oil Reverses Entire Peace Trade — WTI +11% to $112. Gold Crashes 2.7%. Historic Intraday Reversal to Flat. Claims 202K Beat.* |
 | [Apr 1, 2026](/morning-notes/2026-04-01-trump-exit-timeline-irgc-spacex-ipo-oil-crash){:target="_blank"} | *Trump Says War Could End in 'Two or Three Weeks.' IRGC Threatens 17 US Tech Companies. SpaceX Files for $1.75T IPO. Oil Crashes to $102. ISM 52.7 Beats.* |
 | [Mar 31, 2026](/morning-notes/2026-03-31-iran-peace-signals-dow-1125-tanker-attack){:target="_blank"} | *Markets Rip on Iran Peace Signals. Dow +1,125. Pezeshkian Says Iran Has 'Necessary Will' to End War. Tanker Attacked off Dubai. Brent $118.* |
-| [Mar 30, 2026](/morning-notes/2026-03-30-houthis-two-chokepoints-brent-112){:target="_blank"} | *The War Just Got Bigger. Houthis Fire on Israel. Pentagon Preps Ground Ops. Yanbu Under Threat. Brent $112.* |
 
 ### Industry Analysis
 
