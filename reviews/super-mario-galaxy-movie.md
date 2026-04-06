@@ -2,7 +2,7 @@
 layout: review
 title: "The Super Mario Galaxy Movie (2026) Review"
 film_title: "The Super Mario Galaxy Movie"
-director: "Not specified"
+director: "Aaron Horvath, Michael Jelenic"
 year: 2026
 date: 2026-04-03
 genre: "Animation · Adventure · Family"

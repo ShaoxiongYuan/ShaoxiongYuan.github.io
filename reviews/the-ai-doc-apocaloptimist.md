@@ -2,7 +2,7 @@
 layout: review
 title: "The AI Doc: Or How I Learned to Become an Apocaloptimist (2026) Review"
 film_title: "The AI Doc: Or How I Learned to Become an Apocaloptimist"
-director: "Not specified"
+director: "Daniel Roher, Charlie Tyrell"
 year: 2026
 date: 2026-04-03
 genre: "Documentary · Technology · Society"
