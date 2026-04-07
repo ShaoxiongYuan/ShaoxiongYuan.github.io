@@ -64,9 +64,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [Apr 6, 2026](/morning-notes/2026-04-06-nfp-triples-f15e-shot-down-stargate-threat-power-plant-day){:target="_blank"} | *NFP Triples Expectations at 178K. F-15E Shot Down. Israel Destroys South Pars. IRGC Threatens Stargate Data Center. 45-Day Ceasefire Rejected. Tuesday Is 'Power Plant Day.'* |
 | [Apr 2, 2026](/morning-notes/2026-04-02-trump-stone-ages-oil-reversal-claims-beat){:target="_blank"} | *Trump Tells the Nation He'll Send Iran 'Back to the Stone Ages.' Oil Reverses Entire Peace Trade — WTI +11% to $112. Gold Crashes 2.7%. Historic Intraday Reversal to Flat. Claims 202K Beat.* |
 | [Apr 1, 2026](/morning-notes/2026-04-01-trump-exit-timeline-irgc-spacex-ipo-oil-crash){:target="_blank"} | *Trump Says War Could End in 'Two or Three Weeks.' IRGC Threatens 17 US Tech Companies. SpaceX Files for $1.75T IPO. Oil Crashes to $102. ISM 52.7 Beats.* |
-| [Mar 31, 2026](/morning-notes/2026-03-31-iran-peace-signals-dow-1125-tanker-attack){:target="_blank"} | *Markets Rip on Iran Peace Signals. Dow +1,125. Pezeshkian Says Iran Has 'Necessary Will' to End War. Tanker Attacked off Dubai. Brent $118.* |
 
 ### Industry Analysis
 
@@ -74,7 +74,7 @@ Sector-level deep dives covering market structure, competitive dynamics, and the
 
 | Sector | Focus |
 |-|-|
-| [Technology & Software](/industry-analysis/technology-software/) | Semiconductors, AI infrastructure, cloud, platform economics |
+| [Technology & Software](/industry-analysis/technology-software/) | Semiconductors, AI infrastructure, cloud, SaaS repricing, cybersecurity, Mag 7 |
 | [Energy](/industry-analysis/energy/) | Oil & gas, Hormuz crisis, renewables, LNG, nuclear renaissance, AI power demand |
 | [Financial Services](/industry-analysis/financial-services/) | Banking, private credit risk, asset management, fintech |
 | [Healthcare](/industry-analysis/healthcare/) | Pharmaceuticals, GLP-1, medical devices, payers, healthcare services |
