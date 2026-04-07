@@ -75,7 +75,7 @@ Sector-level deep dives covering market structure, competitive dynamics, and the
 | Sector | Focus |
 |-|-|
 | [Technology & Software](/industry-analysis/technology-software/) | Semiconductors, AI infrastructure, cloud, platform economics |
-| [Energy](/industry-analysis/energy/) | Oil & gas, renewables, LNG, energy transition, AI power demand |
+| [Energy](/industry-analysis/energy/) | Oil & gas, Hormuz crisis, renewables, LNG, nuclear renaissance, AI power demand |
 | [Financial Services](/industry-analysis/financial-services/) | Banking, private credit risk, asset management, fintech |
 | [Healthcare](/industry-analysis/healthcare/) | Pharmaceuticals, GLP-1, medical devices, payers, healthcare services |
 
