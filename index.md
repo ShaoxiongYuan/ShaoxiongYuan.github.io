@@ -95,9 +95,9 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 
 | Film | Director | Rating |
 | ---- | -------- | ------ |
+| [*Pillion*](/reviews/pillion){:target="_blank"} | Harry Lighton | ★★★½ |
 | [*I Swear*](/reviews/i-swear){:target="_blank"} | Kirk Jones | ★★★★½ |
 | [*The AI Doc: Or How I Learned to Become an Apocaloptimist*](/reviews/the-ai-doc-apocaloptimist){:target="_blank"} | Daniel Roher, Charlie Tyrell | ★★★½ |
-| [*The Super Mario Galaxy Movie*](/reviews/super-mario-galaxy-movie){:target="_blank"} | Aaron Horvath, Michael Jelenic | ★★★ |
 
 </div>
 
