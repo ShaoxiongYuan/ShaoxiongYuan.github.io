@@ -95,9 +95,9 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 
 | Film | Director | Rating |
 | ---- | -------- | ------ |
+| [*Pizza Movie*](/reviews/pizza-movie){:target="_blank"} | Nick Kocher, Brian McElhaney | ★★★ |
+| [*Exit 8*](/reviews/exit-8){:target="_blank"} | Genki Kawamura | ★★½ |
 | [*Pillion*](/reviews/pillion){:target="_blank"} | Harry Lighton | ★★★½ |
-| [*I Swear*](/reviews/i-swear){:target="_blank"} | Kirk Jones | ★★★★½ |
-| [*The AI Doc: Or How I Learned to Become an Apocaloptimist*](/reviews/the-ai-doc-apocaloptimist){:target="_blank"} | Daniel Roher, Charlie Tyrell | ★★★½ |
 
 </div>
 
