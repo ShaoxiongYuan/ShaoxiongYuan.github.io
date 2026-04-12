@@ -64,9 +64,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
-| [Apr 6, 2026](/morning-notes/2026-04-06-nfp-triples-f15e-shot-down-stargate-threat-power-plant-day){:target="_blank"} | *NFP Triples Expectations at 178K. F-15E Shot Down. Israel Destroys South Pars. IRGC Threatens Stargate Data Center. 45-Day Ceasefire Rejected. Tuesday Is 'Power Plant Day.'* |
-| [Apr 2, 2026](/morning-notes/2026-04-02-trump-stone-ages-oil-reversal-claims-beat){:target="_blank"} | *Trump Tells the Nation He'll Send Iran 'Back to the Stone Ages.' Oil Reverses Entire Peace Trade — WTI +11% to $112. Gold Crashes 2.7%. Historic Intraday Reversal to Flat. Claims 202K Beat.* |
-| [Apr 1, 2026](/morning-notes/2026-04-01-trump-exit-timeline-irgc-spacex-ipo-oil-crash){:target="_blank"} | *Trump Says War Could End in 'Two or Three Weeks.' IRGC Threatens 17 US Tech Companies. SpaceX Files for $1.75T IPO. Oil Crashes to $102. ISM 52.7 Beats.* |
+| [Apr 11, 2026](/morning-notes/2026-04-11-islamabad-direct-talks-supertankers-hormuz-navy-mines){:target="_blank"} | *Ceasefire Day 5. First Direct US-Iran Talks Since 1979 — Vance Sits With Ghalibaf. Three Supertankers Through Hormuz. US Navy Begins Mine-Clearing, Uncoordinated With Tehran. $6B Assets Released.* |
+| [Apr 10, 2026](/morning-notes/2026-04-10-ceasefire-day4-cpi-33-iran-mines-hormuz-saudi-pipeline-hit){:target="_blank"} | *Ceasefire Day 4. CPI 3.3% Kills June Cut. Iran Admits Mining Hormuz — IRGC Map Released. Saudi Pipeline Hit, 700K bpd Knocked Out. Hezbollah Rockets Resume. Islamabad Talks Begin.* |
+| [Apr 9, 2026](/morning-notes/2026-04-09-ceasefire-day3-hormuz-closed-lebanon-crisis){:target="_blank"} | *Ceasefire Day 3. Hormuz Open in Name Only — Zero Tankers, $1M Tolls. Israel's Largest Lebanon Strike: 250+ Killed. Enrichment Texts Differ. Netanyahu Offers Lebanon Talks. S&P +0.62%.* |
 
 ### Industry Analysis
 
