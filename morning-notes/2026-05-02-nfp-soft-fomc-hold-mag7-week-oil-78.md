@@ -1,7 +1,7 @@
 ---
 layout: morning-note
-title: "NFP 68K Misses, UR 4.4%. FOMC Held Hawkish-Hold Wed; Powell Pushes Back On Cuts. Mag-7 Week Mixed: META/MSFT Beat, AAPL Guides Down, AMZN AWS Reaccelerates. WTI $78 As Hormuz Normalizes. S&P +0.41% Fri, +1.6% Wk. PLTR Earnings Monday."
-headline: "NFP 68K Misses, UR 4.4%. FOMC Held Hawkish-Hold Wed; Powell Pushes Back On Cuts. Mag-7 Week Mixed: META/MSFT Beat, AAPL Guides Down, AMZN AWS Reaccelerates. WTI $78 As Hormuz Normalizes. S&P +0.41% Fri, +1.6% Wk. PLTR Earnings Monday."
+title: "Soft NFP Revives July Cut, Powell Pushes Back. Mag-7 Splits: META/AMZN Lead, AAPL Guides Down. WTI $78. PLTR Monday."
+headline: "Soft NFP Revives July Cut, Powell Pushes Back. Mag-7 Splits: META/AMZN Lead, AAPL Guides Down. WTI $78. PLTR Monday."
 date: 2026-05-02
 image: /images/notes/2026-05-02.jpg
 author: Steven Yuan
@@ -81,19 +81,19 @@ tags:
   - XOM
 ---
 
-The story this week is that the war trade is finishing its unwind and the data trade is taking over. Hormuz traffic is back to roughly 70% of pre-war volumes, WTI settled at $78 on Friday after touching $76 intraday, and the 90-day ceasefire extension signed April 22 has held cleanly through 11 days with no major incidents. With oil out of the way, the market is being driven by two things: the hawkish hold the Fed delivered Wednesday and a Mag-7 earnings season that has been more bifurcated than the headline beats suggest.
+The big shift this week is that the war trade has nearly finished unwinding, and the data trade is now in the driver's seat. Hormuz throughput is back to about 70% of pre-war levels, WTI settled at $78 on Friday after dipping to $76 intraday, and the 90-day ceasefire extension signed on April 22 has held cleanly through 11 days without a major incident. With oil largely off the table, two forces are setting the tone: the hawkish hold the Fed delivered Wednesday, and a Mag-7 reporting season that is far more bifurcated than the headline beats let on.
 
-Friday's NFP at 68K (vs 145K consensus) and unemployment ticking up to 4.4% gave the bond market exactly what it wanted, exactly when it needed it. The 10Y rallied 9 bps to 4.18% and the 2Y dropped 8 bps as the curve repriced a July cut from 35% pre-print to 62% post-print. Equities loved the print initially, then chopped, then closed firm into the bell. The S&P added 0.41% to finish at 6,952, less than 50 points from the all-time high set on April 14. Nasdaq carried the week on a clean META and MSFT print. AAPL is the lone Mag-7 disappointment, down 4.8% Friday after guiding June quarter revenue 3% below the Street on softer iPhone demand in China and ongoing Vision Pro write-downs.
+Friday's NFP came in at 68K against a 145K consensus, and unemployment ticked up to 4.4%, giving the bond market exactly what it wanted at exactly the right moment. The 10Y rallied 9 bps to 4.18% and the 2Y dropped 8 bps as the curve repriced odds of a July cut from 35% pre-print to 62% post-print. Equities cheered the print initially, chopped through the morning, then closed firm into the bell. The S&P tacked on 0.41% to finish at 6,952, less than 50 points shy of the all-time high set on April 14. Nasdaq carried the week on clean META and MSFT prints. AAPL was the lone Mag-7 disappointment, sliding 4.8% Friday after guiding June quarter revenue 3% below Street on softer iPhone demand in China and another round of Vision Pro write-downs.
 
-Powell's Wednesday press conference was more hawkish than the dots implied. The committee held at 4.25% to 4.50% as expected, but Powell pushed back hard on the September cut narrative, citing sticky shelter inflation and the lagged passthrough from the March oil spike still working through core goods. Warsh confirmation hearings are now scheduled for May 12. Until that wraps, the Fed is in waiting mode and Powell is steering carefully.
+Powell's Wednesday press conference came across more hawkish than the dot plot implied. The committee held at 4.25% to 4.50% as expected, but Powell pushed back hard against the September cut narrative, citing sticky shelter inflation and the lagged passthrough from the March oil spike still rolling through core goods. Warsh confirmation hearings are now scheduled for May 12. Until that wraps, the Fed sits in waiting mode and Powell is steering carefully.
 
-Three things that matter going into Monday:
+Three things that matter heading into Monday:
 
-1. **The bond market is doing the cutting for the Fed.** 10Y at 4.18% is 22 bps tighter than two weeks ago, the curve has bull-steepened, and real yields are falling. That is supportive for duration-sensitive equities (software, biotech, REITs) regardless of what Powell says into the microphone. The risk is a hot April CPI on May 13.
+1. **The bond market is doing the cutting for the Fed.** The 10Y at 4.18% is 22 bps tighter than two weeks ago, the curve has bull-steepened, and real yields are falling. That backdrop supports duration-sensitive equities (software, biotech, REITs) regardless of what Powell says into the microphone. The risk is a hot April CPI on May 13.
 
-2. **Mag-7 dispersion is finally here.** META at +6.8% on the week, MSFT +3.2%, AMZN +5.9% on AWS reaccelerating to 22% growth, NVDA +2.1%, GOOG flat, AAPL -4.8%, TSLA -3.1%. The "buy the index of seven" trade is broken. Stock selection inside the basket matters again, and we are leaning into AMZN and META over AAPL and TSLA.
+2. **Mag-7 dispersion has finally arrived.** META +6.8% on the week, MSFT +3.2%, AMZN +5.9% on AWS reaccelerating to 22% growth, NVDA +2.1%, GOOG flat, AAPL -4.8%, TSLA -3.1%. The "buy the index of seven" trade is broken. Stock selection inside the basket matters again, and we are leaning into AMZN and META over AAPL and TSLA.
 
-3. **PLTR reports Monday after the close.** This is the Burry-vs-Ives showdown we have been flagging since March. Stock is at $128, down 38% from the November high but up 7% over the past two weeks on the Anthropic Managed Agents narrative cooling. Whisper number is $0.13 EPS on $878M revenue. Anything below $870M revenue and the stock prints a 10-handle.
+3. **PLTR reports Monday after the close.** This is the Burry vs. Ives showdown we have been flagging since March. Stock sits at $128, down 38% from the November high but up 7% over the past two weeks as the Anthropic Managed Agents narrative cools. Whisper number is $0.13 EPS on $878M revenue. Anything below $870M revenue and the stock prints a 10-handle.
 
 ## The Macro Print
 
