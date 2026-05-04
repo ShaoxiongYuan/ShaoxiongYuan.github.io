@@ -64,9 +64,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [May 4, 2026](/morning-notes/2026-05-04-project-freedom-pltr-tonight-eu-auto-tariffs-opec-188k){:target="_blank"} | *Project Freedom Day 1, Two Tankers Cleared Hormuz. PLTR Tonight, 10% Implied. EU Auto Tariffs +25%. OPEC+ Delivers 188K With UAE Empty Chair.* |
 | [May 3, 2026](/morning-notes/2026-05-03-pltr-monday-aapl-cook-handoff-iran-stalls-brent-111){:target="_blank"} | *PLTR Monday With 10.5% Implied. AAPL Beats Into Cook Handoff. Iran Talks Stall, Brent $111. Abel's First Berkshire.* |
 | [May 2, 2026](/morning-notes/2026-05-02-nfp-soft-fomc-hold-mag7-week-oil-78){:target="_blank"} | *Soft NFP Revives July Cut, Powell Pushes Back. Mag-7 Splits: META/AMZN Lead, AAPL Guides Down. WTI $78. PLTR Monday.* |
-| [Apr 11, 2026](/morning-notes/2026-04-11-islamabad-direct-talks-supertankers-hormuz-navy-mines){:target="_blank"} | *Ceasefire Day 5. First Direct US-Iran Talks Since 1979 — Vance Sits With Ghalibaf. Three Supertankers Through Hormuz. US Navy Begins Mine-Clearing, Uncoordinated With Tehran. $6B Assets Released.* |
 
 ### Industry Analysis
 
