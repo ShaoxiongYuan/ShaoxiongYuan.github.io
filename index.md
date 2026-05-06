@@ -64,9 +64,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [May 6, 2026](/morning-notes/2026-05-06-amd-crushes-iran-memo-brent-107-dis-beats){:target="_blank"} | *AMD Crushes, US-Iran Memo Nears, Brent Crashes to $107, DIS Beats.* |
 | [May 5, 2026](/morning-notes/2026-05-05-pltr-crushes-uae-struck-amd-tonight){:target="_blank"} | *PLTR Crushes With Stock Flat, UAE Refinery Hit by Iran, AMD Tonight, Brent $113.* |
 | [May 4, 2026](/morning-notes/2026-05-04-project-freedom-pltr-tonight-eu-auto-tariffs-opec-188k){:target="_blank"} | *Project Freedom Day 1, Two Tankers Cleared Hormuz. PLTR Tonight, 10% Implied. EU Auto Tariffs +25%. OPEC+ Delivers 188K With UAE Empty Chair.* |
-| [May 3, 2026](/morning-notes/2026-05-03-pltr-monday-aapl-cook-handoff-iran-stalls-brent-111){:target="_blank"} | *PLTR Monday With 10.5% Implied. AAPL Beats Into Cook Handoff. Iran Talks Stall, Brent $111. Abel's First Berkshire.* |
 
 ### Industry Analysis
 
