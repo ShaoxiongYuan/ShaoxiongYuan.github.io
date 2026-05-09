@@ -64,9 +64,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [May 9, 2026](/morning-notes/2026-05-09-week-review-records-nacho-trade-tankers){:target="_blank"} | *Week Review: Records, Hot NFP, NACHO Trade Born, Tankers Hit.* |
 | [May 8, 2026](/morning-notes/2026-05-08-nfp-hot-hormuz-love-tap-ddog-afrm-brent-101){:target="_blank"} | *NFP Hot, Hormuz Love Tap, DDOG +29%, Brent Back to $101.* |
 | [May 7, 2026](/morning-notes/2026-05-07-records-iran-response-day-arm-beats-brent-99){:target="_blank"} | *Records Hit, Iran Response Day, ARM Beats, Brent Sub-$100.* |
-| [May 6, 2026](/morning-notes/2026-05-06-amd-crushes-iran-memo-brent-107-dis-beats){:target="_blank"} | *AMD Crushes, US-Iran Memo Nears, Brent Crashes to $107, DIS Beats.* |
 
 ### Industry Analysis
 
