@@ -64,9 +64,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [May 11, 2026](/morning-notes/2026-05-11-trump-rejects-iran-counter-brent-104-china-ppi-hot-warsh-cloture){:target="_blank"} | *Trump Rejects Iran Counter-Memo, Brent $104, China PPI 2.8%. Warsh Cloture Tonight, CEG AMC.* |
 | [May 10, 2026](/morning-notes/2026-05-10-sunday-setup-cpi-warsh-trump-xi-lebanon-39-iran-stalls){:target="_blank"} | *Sunday Setup: CPI Tuesday, Warsh Cloture Monday, Trump-Xi Thursday. Lebanon 39 Dead, Iran Still 'Reviewing'.* |
 | [May 9, 2026](/morning-notes/2026-05-09-week-review-records-nacho-trade-tankers){:target="_blank"} | *Week Review: Records, Hot NFP, NACHO Trade Born, Tankers Hit.* |
-| [May 8, 2026](/morning-notes/2026-05-08-nfp-hot-hormuz-love-tap-ddog-afrm-brent-101){:target="_blank"} | *NFP Hot, Hormuz Love Tap, DDOG +29%, Brent Back to $101.* |
 
 ### Industry Analysis
 
