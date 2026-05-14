@@ -64,9 +64,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [May 14, 2026](/morning-notes/2026-05-14-trump-xi-day1-hormuz-deal-csco-rip-warsh-chair){:target="_blank"} | *Trump-Xi Day 1: Hormuz Must Stay Open, 200 Boeing Jets, Soybeans + LNG, Warsh Chair 54-45, CSCO Rips +15%, Records Again.* |
 | [May 13, 2026](/morning-notes/2026-05-13-ppi-shock-warsh-governor-trump-beijing-csco){:target="_blank"} | *PPI Shocks 1.4 Percent, Warsh Confirmed Governor 51-45, Trump Lands Beijing, CSCO AMC, Brent $107.* |
 | [May 12, 2026](/morning-notes/2026-05-12-cpi-day-brent-105-warsh-confirms-ceg-beats){:target="_blank"} | *CPI Day, Brent $105, Trump 'Life Support', Warsh Confirms Today, CEG Beats But Sells Off.* |
-| [May 11, 2026](/morning-notes/2026-05-11-trump-rejects-iran-counter-brent-104-china-ppi-hot-warsh-cloture){:target="_blank"} | *Trump Rejects Iran Counter-Memo, Brent $104, China PPI 2.8%. Warsh Cloture Tonight, CEG AMC.* |
 
 ### Industry Analysis
 
