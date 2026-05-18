@@ -64,9 +64,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [May 18, 2026](/morning-notes/2026-05-18-trump-clock-ticking-brent-110-china-misses-nvda-week){:target="_blank"} | *Trump 'Clock Is Ticking', Brent $110, China April Misses, Situation Room Tuesday, NVDA Wednesday, FOMC Minutes.* |
 | [May 14, 2026](/morning-notes/2026-05-14-trump-xi-day1-hormuz-deal-csco-rip-warsh-chair){:target="_blank"} | *Trump-Xi Day 1: Hormuz Must Stay Open, 200 Boeing Jets, Soybeans + LNG, Warsh Chair 54-45, CSCO Rips +15%, Records Again.* |
 | [May 13, 2026](/morning-notes/2026-05-13-ppi-shock-warsh-governor-trump-beijing-csco){:target="_blank"} | *PPI Shocks 1.4 Percent, Warsh Confirmed Governor 51-45, Trump Lands Beijing, CSCO AMC, Brent $107.* |
-| [May 12, 2026](/morning-notes/2026-05-12-cpi-day-brent-105-warsh-confirms-ceg-beats){:target="_blank"} | *CPI Day, Brent $105, Trump 'Life Support', Warsh Confirms Today, CEG Beats But Sells Off.* |
 
 ### Industry Analysis
 
