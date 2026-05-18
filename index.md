@@ -95,9 +95,9 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 
 | Film | Director | Rating |
 | ---- | -------- | ------ |
+| [*Tow*](/reviews/tow){:target="_blank"} | Stephanie Laing | ★★★ |
 | [*Wicked: For Good*](/reviews/wicked-for-good){:target="_blank"} | Jon M. Chu | ★★★ |
 | [*The Drama*](/reviews/the-drama){:target="_blank"} | Kristoffer Borgli | ★★★★ |
-| [*The Mastermind*](/reviews/the-mastermind){:target="_blank"} | Kelly Reichardt | ★★★ |
 
 </div>
 
