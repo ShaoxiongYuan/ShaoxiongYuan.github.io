@@ -95,9 +95,9 @@ I write occasional film reviews when a movie is worth thinking about beyond the 
 
 | Film | Director | Rating |
 | ---- | -------- | ------ |
+| [*The Mastermind*](/reviews/the-mastermind){:target="_blank"} | Kelly Reichardt | ★★★ |
 | [*Pizza Movie*](/reviews/pizza-movie){:target="_blank"} | Nick Kocher, Brian McElhaney | ★★★ |
 | [*Exit 8*](/reviews/exit-8){:target="_blank"} | Genki Kawamura | ★★½ |
-| [*Pillion*](/reviews/pillion){:target="_blank"} | Harry Lighton | ★★★½ |
 
 </div>
 
