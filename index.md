@@ -64,9 +64,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [May 21, 2026](/morning-notes/2026-05-21-nvda-blowout-iran-uranium-defiance-brent-107-wmt-soft-q2-fomc-hawkish){:target="_blank"} | *NVDA Blowout $81.6B Rev +85%, Iran Supreme Leader Defies Uranium Export, Brent $107, WMT In-Line/Soft Q2, FOMC Minutes Hawkish 8-4, SoftBank +20%, Munir to Tehran.* |
 | [May 20, 2026](/morning-notes/2026-05-20-trump-postpones-strike-brent-109-nvda-amc-fomc-minutes-uk-cpi-cools){:target="_blank"} | *Trump Postpones Iran Strike at Gulf Request, Brent $109, NVDA Wednesday AMC, FOMC April Minutes 2 PM, UK CPI Cools to 2.8%, TGT/HD/CAVA Beat.* |
 | [May 18, 2026](/morning-notes/2026-05-18-trump-clock-ticking-brent-110-china-misses-nvda-week){:target="_blank"} | *Trump 'Clock Is Ticking', Brent $110, China April Misses, Situation Room Tuesday, NVDA Wednesday, FOMC Minutes.* |
-| [May 14, 2026](/morning-notes/2026-05-14-trump-xi-day1-hormuz-deal-csco-rip-warsh-chair){:target="_blank"} | *Trump-Xi Day 1: Hormuz Must Stay Open, 200 Boeing Jets, Soybeans + LNG, Warsh Chair 54-45, CSCO Rips +15%, Records Again.* |
 
 ### Industry Analysis
 
