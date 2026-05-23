@@ -64,9 +64,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [May 23, 2026](/morning-notes/2026-05-23-week-review-warsh-sworn-eighth-week-record-iran-rome-deadlock-brent-week-6pct){:target="_blank"} | *Week Review: Warsh Sworn In as 17th Fed Chair, Dow Record + S&P Eighth Straight Weekly Gain, NVDA Blowout, Brent Down 6% on Week, UMich Final Cratered to 44.8, Iran Rome 5th Round Wraps 'Not Conclusive', Munir in Tehran.* |
 | [May 22, 2026](/morning-notes/2026-05-22-warsh-sworn-in-brent-105-iran-narrowed-gaps-de-crushes-nvda-muted-umich-final){:target="_blank"} | *Warsh Sworn In at White House, Brent Reverses to $105 on Iran Hormuz Toll Twist, DE Crushes $6.55, ROST/RL Beat, NVDA Muted on Baird $500 PT, UMich Final 10AM, Memorial Day Setup.* |
 | [May 21, 2026](/morning-notes/2026-05-21-nvda-blowout-iran-uranium-defiance-brent-107-wmt-soft-q2-fomc-hawkish){:target="_blank"} | *NVDA Blowout $81.6B Rev +85%, Iran Supreme Leader Defies Uranium Export, Brent $107, WMT In-Line/Soft Q2, FOMC Minutes Hawkish 8-4, SoftBank +20%, Munir to Tehran.* |
-| [May 20, 2026](/morning-notes/2026-05-20-trump-postpones-strike-brent-109-nvda-amc-fomc-minutes-uk-cpi-cools){:target="_blank"} | *Trump Postpones Iran Strike at Gulf Request, Brent $109, NVDA Wednesday AMC, FOMC April Minutes 2 PM, UK CPI Cools to 2.8%, TGT/HD/CAVA Beat.* |
 
 ### Industry Analysis
 
