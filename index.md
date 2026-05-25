@@ -87,7 +87,7 @@ Sector-level deep dives and individual company reports covering market structure
 |-|-|-|
 | [Amazon.com, Inc.](/industry-analysis/company-reports/amzn/) | AMZN | AWS reaccel, retail re-margining, advertising, capex cycle, SOTP $326 |
 
-[**→ View Sector Analysis & Company Reports**](/industry-analysis)
+[**→ View Sector Analysis & Company Reports**](/sector-analysis)
 
 </div>
 
