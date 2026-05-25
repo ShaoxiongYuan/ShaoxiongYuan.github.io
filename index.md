@@ -68,9 +68,11 @@ Daily equity research notes on market structure, macro, and trade ideas.
 | [May 22, 2026](/morning-notes/2026-05-22-warsh-sworn-in-brent-105-iran-narrowed-gaps-de-crushes-nvda-muted-umich-final){:target="_blank"} | *Warsh Sworn In at White House, Brent Reverses to $105 on Iran Hormuz Toll Twist, DE Crushes $6.55, ROST/RL Beat, NVDA Muted on Baird $500 PT, UMich Final 10AM, Memorial Day Setup.* |
 | [May 21, 2026](/morning-notes/2026-05-21-nvda-blowout-iran-uranium-defiance-brent-107-wmt-soft-q2-fomc-hawkish){:target="_blank"} | *NVDA Blowout $81.6B Rev +85%, Iran Supreme Leader Defies Uranium Export, Brent $107, WMT In-Line/Soft Q2, FOMC Minutes Hawkish 8-4, SoftBank +20%, Munir to Tehran.* |
 
-### Industry Analysis
+### Sector Analysis & Company Reports
 
-Sector-level deep dives covering market structure, competitive dynamics, and thematic trends.
+Sector-level deep dives and individual company reports covering market structure, competitive dynamics, valuations, and investment implications.
+
+**Sector Analysis**
 
 | Sector | Focus |
 |-|-|
@@ -79,7 +81,13 @@ Sector-level deep dives covering market structure, competitive dynamics, and the
 | [Financial Services](/industry-analysis/financial-services/) | Banking, private credit risk, asset management, fintech |
 | [Healthcare](/industry-analysis/healthcare/) | Pharmaceuticals, GLP-1, medical devices, payers, healthcare services |
 
-[**→ View Industry Analysis**](/industry-analysis)
+**Company Reports**
+
+| Company | Ticker | Focus |
+|-|-|-|
+| [Amazon.com, Inc.](/industry-analysis/company-reports/amzn/) | AMZN | AWS reaccel, retail re-margining, advertising, capex cycle, SOTP $326 |
+
+[**→ View Sector Analysis & Company Reports**](/industry-analysis)
 
 </div>
 

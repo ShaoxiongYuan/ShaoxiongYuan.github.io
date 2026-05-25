@@ -1,5 +1,5 @@
 ---
 layout: industry-analysis-index
-title: Industry Analysis
+title: Sector Analysis &amp; Company Reports
 permalink: /industry-analysis/
 ---
