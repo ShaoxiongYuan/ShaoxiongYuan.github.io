@@ -64,9 +64,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [May 27, 2026](/morning-notes/2026-05-27-spx-7519-record-azo-beats-zs-misses-rev-crm-snow-amc-iran-fantasy-bandar-abbas-echoes){:target="_blank"} | *SPX 7,519 Record Close, AZO EPS Beat / ZS Misses Rev on Raised Guide, CRM & SNOW AMC, Iran Talks Stall on 'Fantasy' Nuclear Demand, Bandar Abbas Strike Echoes, Brent $99 / WTI $93 / 10Y 4.48.* |
 | [May 26, 2026](/morning-notes/2026-05-26-hormuz-deal-framework-bandar-abbas-strikes-azo-zs-record-spx-7534){:target="_blank"} | *Reopen After Memorial Day: SPX Futures Record 7,534, Hormuz 60-Day Framework Leaked, US Self-Defense Strikes on Bandar Abbas, IRGC Claims MQ-9 Downed, Brent $99 / WTI $92 Diverge, AZO BMO, ZS AMC, CB Consumer Confidence 10AM.* |
 | [May 23, 2026](/morning-notes/2026-05-23-week-review-warsh-sworn-eighth-week-record-iran-rome-deadlock-brent-week-6pct){:target="_blank"} | *Week Review: Warsh Sworn In as 17th Fed Chair, Dow Record + S&P Eighth Straight Weekly Gain, NVDA Blowout, Brent Down 6% on Week, UMich Final Cratered to 44.8, Iran Rome 5th Round Wraps 'Not Conclusive', Munir in Tehran.* |
-| [May 22, 2026](/morning-notes/2026-05-22-warsh-sworn-in-brent-105-iran-narrowed-gaps-de-crushes-nvda-muted-umich-final){:target="_blank"} | *Warsh Sworn In at White House, Brent Reverses to $105 on Iran Hormuz Toll Twist, DE Crushes $6.55, ROST/RL Beat, NVDA Muted on Baird $500 PT, UMich Final 10AM, Memorial Day Setup.* |
 
 ### Sector Analysis & Company Reports
 
