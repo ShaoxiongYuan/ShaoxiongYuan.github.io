@@ -64,9 +64,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [May 28, 2026](/morning-notes/2026-05-28-iran-strikes-kuwait-ali-al-salem-mq9-destroyed-crm-snow-crush-gdp-revised-1pt6){:target="_blank"} | *Iran Strikes Ali Al Salem in Kuwait After US Hits Bandar Abbas, Italian MQ-9 Reaper Destroyed, CRM Crushes & SNOW +37% on AWS $6B, Q1 GDP Revised to 1.6%, COST / DELL / MRVL AMC, Brent $96 / WTI $90 / 10Y 4.50.* |
 | [May 27, 2026](/morning-notes/2026-05-27-spx-7519-record-azo-beats-zs-misses-rev-crm-snow-amc-iran-fantasy-bandar-abbas-echoes){:target="_blank"} | *SPX 7,519 Record Close, AZO EPS Beat / ZS Misses Rev on Raised Guide, CRM & SNOW AMC, Iran Talks Stall on 'Fantasy' Nuclear Demand, Bandar Abbas Strike Echoes, Brent $99 / WTI $93 / 10Y 4.48.* |
 | [May 26, 2026](/morning-notes/2026-05-26-hormuz-deal-framework-bandar-abbas-strikes-azo-zs-record-spx-7534){:target="_blank"} | *Reopen After Memorial Day: SPX Futures Record 7,534, Hormuz 60-Day Framework Leaked, US Self-Defense Strikes on Bandar Abbas, IRGC Claims MQ-9 Downed, Brent $99 / WTI $92 Diverge, AZO BMO, ZS AMC, CB Consumer Confidence 10AM.* |
-| [May 23, 2026](/morning-notes/2026-05-23-week-review-warsh-sworn-eighth-week-record-iran-rome-deadlock-brent-week-6pct){:target="_blank"} | *Week Review: Warsh Sworn In as 17th Fed Chair, Dow Record + S&P Eighth Straight Weekly Gain, NVDA Blowout, Brent Down 6% on Week, UMich Final Cratered to 44.8, Iran Rome 5th Round Wraps 'Not Conclusive', Munir in Tehran.* |
 
 ### Sector Analysis & Company Reports
 
