@@ -1,11 +1,11 @@
 ---
-layout: industry-analysis
+layout: sector-analysis
 title: "Financial Services Sector Analysis"
 headline: "Financial Services Sector Analysis"
 sector: "Financial Services"
 kicker: "Sector Research"
 summary: "Comprehensive analysis of the global financial services sector covering banking, private credit, insurance, asset management, and fintech with a special focus on private credit systemic risk, BDC stress, and the 2026 default cycle."
-permalink: /industry-analysis/financial-services/
+permalink: /sector-analysis/financial-services/
 badges:
   - { label: "Banking & Lending", active: false }
   - { label: "Private Credit", active: false }

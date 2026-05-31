@@ -1,11 +1,11 @@
 ---
-layout: industry-analysis
+layout: sector-analysis
 title: "Energy Sector Analysis"
 headline: "Energy Sector Analysis"
 sector: "Energy"
 kicker: "Sector Research"
 summary: "Comprehensive analysis of the global energy sector covering oil & gas, renewables, and energy infrastructure with focus on supply-demand dynamics, the energy transition, geopolitical risk, and AI-driven power demand. Updated April 6, 2026 with Strait of Hormuz crisis data, Q4 2025 earnings, and latest M&A activity."
-permalink: /industry-analysis/energy/
+permalink: /sector-analysis/energy/
 badges:
   - { label: "Oil & Gas", active: true }
   - { label: "Renewables", active: true }

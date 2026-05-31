@@ -1,11 +1,11 @@
 ---
-layout: industry-analysis
+layout: sector-analysis
 title: "Technology & Software Sector Analysis"
 headline: "Technology & Software Sector Analysis"
 sector: "Technology & Software"
 kicker: "Sector Research"
 summary: "Comprehensive analysis of the global technology and software sector covering market sizing, competitive dynamics, AI and cloud trends, valuation frameworks, and investment implications across semiconductors, SaaS, cybersecurity, and platform economics. Updated April 7, 2026 with Q4 2025 earnings, latest AI model developments, and the historic SaaS valuation compression."
-permalink: /industry-analysis/technology-software/
+permalink: /sector-analysis/technology-software/
 badges:
   - { label: "Semiconductors", active: true }
   - { label: "Cloud & SaaS", active: true }

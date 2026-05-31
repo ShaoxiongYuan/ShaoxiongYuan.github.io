@@ -8,7 +8,7 @@ sector: "Technology · Commerce · Cloud"
 kicker: "Company Report"
 report_date: "May 2026"
 summary: "Amazon is a $2.8 trillion enterprise operating four interlocking businesses — North American and international e-commerce, AWS (the world's largest cloud platform), advertising (the third-largest digital ad business globally), and emerging optionality (Project Leo, Zoox, Alexa+). The Q1 FY26 print was the cleanest operational beat in five years."
-permalink: /industry-analysis/company-reports/amzn/
+permalink: /sector-analysis/company-reports/amzn/
 badges:
   - { label: "AWS Cloud", active: true }
   - { label: "E-Commerce", active: true }

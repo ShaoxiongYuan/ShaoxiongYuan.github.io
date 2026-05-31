@@ -76,16 +76,17 @@ Sector-level deep dives and individual company reports covering market structure
 
 | Sector | Focus |
 |-|-|
-| [Technology & Software](/industry-analysis/technology-software/) | Semiconductors, AI infrastructure, cloud, SaaS repricing, cybersecurity, Mag 7 |
-| [Energy](/industry-analysis/energy/) | Oil & gas, Hormuz crisis, renewables, LNG, nuclear renaissance, AI power demand |
-| [Financial Services](/industry-analysis/financial-services/) | Banking, private credit risk, asset management, fintech |
-| [Healthcare](/industry-analysis/healthcare/) | Pharmaceuticals, GLP-1, medical devices, payers, healthcare services |
+| [Technology & Software](/sector-analysis/technology-software/) | Semiconductors, AI infrastructure, cloud, SaaS repricing, cybersecurity, Mag 7 |
+| [Energy](/sector-analysis/energy/) | Oil & gas, Hormuz crisis, renewables, LNG, nuclear renaissance, AI power demand |
+| [Financial Services](/sector-analysis/financial-services/) | Banking, private credit risk, asset management, fintech |
+| [Healthcare](/sector-analysis/healthcare/) | Pharmaceuticals, GLP-1, medical devices, payers, healthcare services |
 
 **Company Reports**
 
 | Company | Ticker | Focus |
 |-|-|-|
-| [Amazon.com, Inc.](/industry-analysis/company-reports/amzn/) | AMZN | AWS reaccel, retail re-margining, advertising, capex cycle, SOTP $326 |
+| [Dell Technologies, Inc.](/sector-analysis/company-reports/dell/) | DELL | AI server blowout (+88% YoY), $51.3B backlog, FY27 guide $165–169B, ref. target $485 |
+| [Amazon.com, Inc.](/sector-analysis/company-reports/amzn/) | AMZN | AWS reaccel, retail re-margining, advertising, capex cycle, SOTP $326 |
 
 [**→ View Sector Analysis & Company Reports**](/sector-analysis)
 

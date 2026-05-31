@@ -1,11 +1,11 @@
 ---
-layout: industry-analysis
+layout: sector-analysis
 title: "Healthcare Sector Analysis"
 headline: "Healthcare Sector Analysis"
 sector: "Healthcare"
 kicker: "Sector Research"
 summary: "Comprehensive analysis of the global healthcare sector covering pharmaceuticals, medical technology, payers, and healthcare services with focus on GLP-1 markets, AI drug discovery, regulatory transformation, and structural investment themes."
-permalink: /industry-analysis/healthcare/
+permalink: /sector-analysis/healthcare/
 badges:
   - { label: "Pharma & Biotech", active: true }
   - { label: "MedTech & Devices", active: true }
