@@ -64,9 +64,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [Jun 1, 2026](/morning-notes/2026-06-01-nvidia-rtx-spark-pc-reinvention-intc-amd-slide-iran-deal-unsigned-brent-93-ism-mfg-due-broadcom-crowdstrike-week){:target="_blank"} | *Nvidia Unveils RTX Spark at Computex, Enters PC Market in 40-Year Reinvention, INTC/AMD Slide 4-6% Pre-Market, Rubin in Production, Iran Hormuz Deal Still Unsigned, Brent $93 on Weekend Strikes, ISM Mfg Due 10AM, AVGO/CRWD Earnings This Week, Nikkei 66,934 Record.* |
 | [May 30, 2026](/morning-notes/2026-05-30-week-review-dow-51k-record-ninth-week-dell-32pct-iran-deal-pending-drone-hits-romania){:target="_blank"} | *Week Review: Dow 51,032 Record Close, S&P Ninth Straight Weekly Gain, DELL +32% Best Day Ever on $60B AI Server Guide, Tentative Iran Hormuz Deal Awaits Trump, Russian Drone Hits Romania, Chicago PMI 62.7 Blowout, Core PCE 0.2% MoM Cools, Brent $91 / 10Y 4.44.* |
 | [May 29, 2026](/morning-notes/2026-05-29-tentative-hormuz-deal-dell-38pct-cost-mrvl-core-pce-cools){:target="_blank"} | *Tentative US Iran Hormuz Deal Awaits Trump Sign-off, DELL +38% Pre-Market on $60B AI Server FY27 Guide, COST EPS $4.93 Beat, MRVL Custom Silicon Raise, Core PCE 3.3% / 0.2% MoM In-Line, Brent $92 / WTI $87 / 10Y 4.45.* |
-| [May 28, 2026](/morning-notes/2026-05-28-iran-strikes-kuwait-ali-al-salem-mq9-destroyed-crm-snow-crush-gdp-revised-1pt6){:target="_blank"} | *Iran Strikes Ali Al Salem in Kuwait After US Hits Bandar Abbas, Italian MQ-9 Reaper Destroyed, CRM Crushes & SNOW +37% on AWS $6B, Q1 GDP Revised to 1.6%, COST / DELL / MRVL AMC, Brent $96 / WTI $90 / 10Y 4.50.* |
 
 ### Sector Analysis & Company Reports
 
