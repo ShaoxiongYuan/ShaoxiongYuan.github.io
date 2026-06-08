@@ -282,19 +282,19 @@ Three mechanical drivers underpin the EPS compounding: **(i)** revenue growth of
 
 <div class="scenario-row">
   <div class="scenario-chip bear">
-    <div class="chip-label">Bear Case</div>
-    <div class="chip-price">$240</div>
-    <div class="chip-delta">–36% downside</div>
+    <div class="scenario-chip-label">Bear Case</div>
+    <div class="scenario-chip-price">$240</div>
+    <div class="scenario-chip-return">vs. $376.99 · –36%</div>
   </div>
   <div class="scenario-chip base">
-    <div class="chip-label">Base Case</div>
-    <div class="chip-price">$371</div>
-    <div class="chip-delta">~flat / –2%</div>
+    <div class="scenario-chip-label">Base Case</div>
+    <div class="scenario-chip-price">$371</div>
+    <div class="scenario-chip-return">vs. $376.99 · ~flat</div>
   </div>
   <div class="scenario-chip bull">
-    <div class="chip-label">Bull Case</div>
-    <div class="chip-price">$560</div>
-    <div class="chip-delta">+49% upside</div>
+    <div class="scenario-chip-label">Bull Case</div>
+    <div class="scenario-chip-price">$560</div>
+    <div class="scenario-chip-return">vs. $376.99 · +49%</div>
   </div>
 </div>
 
