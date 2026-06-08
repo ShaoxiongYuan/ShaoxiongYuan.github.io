@@ -87,6 +87,7 @@ Sector-level deep dives and individual company reports covering market structure
 |-|-|-|
 | [Dell Technologies, Inc.](/sector-analysis/company-reports/dell/) | DELL | AI server blowout (+88% YoY), $51.3B backlog, FY27 guide $165–169B, ref. target $485 |
 | [Amazon.com, Inc.](/sector-analysis/company-reports/amzn/) | AMZN | AWS reaccel, retail re-margining, advertising, capex cycle, SOTP $326 |
+| [Coherent Corp.](/sector-analysis/company-reports/cohr/) | COHR | Leading Western photonics & optical networking; $2B NVIDIA investment; 1.6T EML leader; ref. target $395 |
 
 [**→ View Sector Analysis & Company Reports**](/sector-analysis)
 
