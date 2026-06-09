@@ -64,9 +64,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [Jun 9, 2026](/morning-notes/2026-06-09-intel-11pct-alphabet-ai-chip-order-iran-israel-halt-attacks-brent-92-oil-eases-gold-4350-cpi-tomorrow-world-cup-thursday){:target="_blank"} | *Intel Surges 11% on Alphabet AI Chip Order, Iran and Israel Agree to Halt Attacks Easing Brent to $92, Oil Retreats as Diplomacy Gains Traction, Gold Holds $4,350 on Dollar Pullback, DXY Slips Below 100, May CPI Tomorrow Expected 4.2% YoY, FIFA World Cup Opens Thursday, Chip Rebound Broadens AMD +5% AVGO +3%.* |
 | [Jun 8, 2026](/morning-notes/2026-06-08-kospi-8pct-circuit-breaker-iran-israel-missiles-brent-97-nasdaq-rebound-mrvl-sp500-wwdc-cpi-wednesday){:target="_blank"} | *KOSPI Crashes 8.3% Triggering Circuit Breaker on Chip Rout and Fed Hike Fears, Iran and Israel Exchange Missile Strikes Breaking April Ceasefire, Brent $97 on Hormuz Re-Escalation, Nikkei -4%, Nasdaq Futures +1.35% Tech Rebound, MRVL +9% on S&P 500 Addition, Apple WWDC Kicks Off, May CPI Wednesday.* |
 | [Jun 1, 2026](/morning-notes/2026-06-01-nvidia-rtx-spark-pc-reinvention-intc-amd-slide-iran-deal-unsigned-brent-93-ism-mfg-due-broadcom-crowdstrike-week){:target="_blank"} | *Nvidia Unveils RTX Spark at Computex, Enters PC Market in 40-Year Reinvention, INTC/AMD Slide 4-6% Pre-Market, Rubin in Production, Iran Hormuz Deal Still Unsigned, Brent $93 on Weekend Strikes, ISM Mfg Due 10AM, AVGO/CRWD Earnings This Week, Nikkei 66,934 Record.* |
-| [May 30, 2026](/morning-notes/2026-05-30-week-review-dow-51k-record-ninth-week-dell-32pct-iran-deal-pending-drone-hits-romania){:target="_blank"} | *Week Review: Dow 51,032 Record Close, S&P Ninth Straight Weekly Gain, DELL +32% Best Day Ever on $60B AI Server Guide, Tentative Iran Hormuz Deal Awaits Trump, Russian Drone Hits Romania, Chicago PMI 62.7 Blowout, Core PCE 0.2% MoM Cools, Brent $91 / 10Y 4.44.* |
 
 ### Sector Analysis & Company Reports
 
