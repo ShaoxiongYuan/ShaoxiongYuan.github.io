@@ -23,11 +23,17 @@ permalink: /about/
     display: flex;
     align-items: center;
     gap: 1.25rem;
-    background: #fff;
-    border: 1px solid var(--rule);
+    background: #f7f5ee;
+    border: 1px solid var(--rule-card);
     border-radius: 6px;
     padding: 1rem 1.25rem;
     margin-bottom: 0.7rem;
+    transition: border-color 0.25s var(--ease), box-shadow 0.25s var(--ease), transform 0.25s var(--ease);
+  }
+  .degree-row:hover {
+    border-color: rgba(143,110,44,0.5);
+    box-shadow: var(--shadow-hover);
+    transform: translateY(-2px);
   }
   .degree-logo { height: 30px; width: auto; object-fit: contain; display: block; }
   .degree-text { flex: 1; text-align: right; }
@@ -77,7 +83,7 @@ permalink: /about/
 <div class="about-header" markdown="1">
 <img src="/images/professional_photo.jpg" alt="Shaoxiong (Steven) Yuan" class="about-headshot">
 <div markdown="1">
-I'm a quantitative researcher and co-founder of **Orion Alpha Asset Management**, where I serve as Fund X Managing Partner. My work sits at the intersection of fundamental equity research, derivatives modelling, and machine learning-driven portfolio construction.
+I'm a quantitative researcher and co-founder of [**Orion Alpha Asset Management**](https://www.oa-am.com/){:target="_blank"}, where I serve as Fund X Managing Partner. My work sits at the intersection of fundamental equity research, derivatives modelling, and machine learning-driven portfolio construction.
 </div>
 </div>
 
@@ -454,7 +460,7 @@ Course Textbook: Not Available
 </div>
 
 <!-- ═══════════════ CONTACT ═══════════════ -->
-<div class="content-section content-section--dark" markdown="1">
+<div class="content-section" markdown="1">
 
 ## *Contact* {#contact}
 

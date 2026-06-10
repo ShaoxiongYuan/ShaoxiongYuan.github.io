@@ -11,20 +11,20 @@ permalink: /research/
   /* ── Featured note ── */
   .featured-note {
     display: block;
-    background: linear-gradient(135deg, #101a30, #0d1526);
-    border: 1px solid var(--navy-3);
+    background: #f7f5ee;
+    border: 1px solid var(--rule-card);
     border-left: 3px solid var(--gold);
     border-radius: 8px;
     padding: 1.8rem 2rem;
     text-decoration: none;
-    border-bottom: 1px solid var(--navy-3) !important;
-    transition: border-color 0.2s, transform 0.2s, box-shadow 0.2s;
+    border-bottom: 1px solid var(--rule-card) !important;
+    transition: border-color 0.25s var(--ease), transform 0.25s var(--ease), box-shadow 0.25s var(--ease);
     margin: 1.2rem 0 0.4rem;
   }
   .featured-note:hover {
     border-color: var(--gold) !important;
-    transform: translateY(-2px);
-    box-shadow: 0 10px 32px rgba(0,0,0,0.35);
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-hover);
   }
   .featured-kicker {
     font-family: var(--mono);
@@ -32,7 +32,7 @@ permalink: /research/
     font-weight: 600;
     letter-spacing: 0.24em;
     text-transform: uppercase;
-    color: var(--gold);
+    color: var(--gold-2);
     margin-bottom: 0.7rem;
     display: flex;
     align-items: center;
@@ -44,13 +44,12 @@ permalink: /research/
     background: var(--gold);
     animation: pulse 2s ease-in-out infinite;
   }
-  @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.35; } }
   .featured-date {
     font-family: var(--mono);
     font-size: 0.66rem;
     letter-spacing: 0.16em;
     text-transform: uppercase;
-    color: var(--on-dark-3);
+    color: var(--ink-3);
     margin-bottom: 0.6rem;
   }
   .featured-title {
@@ -58,21 +57,25 @@ permalink: /research/
     font-size: 1.25rem;
     font-weight: 500;
     line-height: 1.45;
-    color: var(--on-dark);
+    color: var(--ink);
+    transition: color 0.2s;
     display: -webkit-box;
     -webkit-line-clamp: 4;
     -webkit-box-orient: vertical;
     overflow: hidden;
   }
+  .featured-note:hover .featured-title { color: var(--gold-2); }
   .featured-cta {
     font-family: var(--mono);
     font-size: 0.62rem;
     font-weight: 600;
     letter-spacing: 0.14em;
     text-transform: uppercase;
-    color: var(--gold);
+    color: var(--gold-2);
     margin-top: 1rem;
+    transition: letter-spacing 0.25s var(--ease);
   }
+  .featured-note:hover .featured-cta { letter-spacing: 0.22em; }
 
   /* ── Search + filters ── */
   .research-controls {
@@ -88,14 +91,14 @@ permalink: /research/
     font-family: var(--mono);
     font-size: 0.78rem;
     color: var(--ink);
-    background: #fff;
-    border: 1px solid var(--rule);
+    background: #f7f5ee;
+    border: 1px solid var(--rule-card);
     border-radius: 5px;
     padding: 0.6rem 0.9rem;
     outline: none;
     transition: border-color 0.18s, box-shadow 0.18s;
   }
-  .research-search:focus { border-color: var(--gold); box-shadow: 0 0 0 3px rgba(201,163,92,0.15); }
+  .research-search:focus { border-color: var(--gold); box-shadow: 0 0 0 3px rgba(176,138,62,0.18); }
   .research-search::placeholder { color: var(--ink-3); }
 
   .filter-chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
@@ -106,15 +109,16 @@ permalink: /research/
     letter-spacing: 0.1em;
     text-transform: uppercase;
     color: var(--ink-2);
-    background: #fff;
-    border: 1px solid var(--rule);
+    background: #f7f5ee;
+    border: 1px solid var(--rule-card);
     border-radius: 4px;
     padding: 0.42rem 0.8rem;
     cursor: pointer;
-    transition: background 0.15s, color 0.15s, border-color 0.15s;
+    transition: background 0.2s var(--ease), color 0.2s var(--ease),
+                border-color 0.2s var(--ease), transform 0.2s var(--ease);
   }
-  .filter-chip:hover { border-color: var(--gold-2); color: var(--gold-2); }
-  .filter-chip.active { background: var(--navy); color: var(--ivory); border-color: var(--navy); }
+  .filter-chip:hover { border-color: var(--gold-2); color: var(--gold-2); transform: translateY(-1px); }
+  .filter-chip.active { background: var(--navy); color: var(--card); border-color: var(--navy); }
 
   .results-count {
     font-family: var(--mono);
@@ -164,7 +168,7 @@ permalink: /research/
 <main class="main-content">
 
 <!-- ═══════════════ FEATURED NOTE ═══════════════ -->
-<div class="content-section content-section--dark" markdown="1">
+<div class="content-section" markdown="1">
 
 <div class="section-head" markdown="1">
 ## *Featured — Latest Morning Note* {#featured}

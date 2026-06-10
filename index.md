@@ -13,7 +13,7 @@ description: "Quantitative researcher building fundamental + machine-learning in
     <p class="hero-lede">I work at the intersection of fundamental equity research, derivatives modelling, and ML-driven portfolio construction — publishing daily market research and building systematic strategies at Orion Alpha Asset Management.</p>
     <div class="hero-ctas">
       <a class="btn btn-gold" href="/research/">Read Latest Research</a>
-      <a class="btn btn-outline" href="/orion-alpha/">View Orion Alpha</a>
+      <a class="btn btn-outline" href="/projects/">View Projects</a>
       <a class="btn btn-outline" href="mailto:ysxstevenpp123@gmail.com">Contact Me</a>
     </div>
     <div class="hero-proofs">
@@ -82,19 +82,12 @@ Daily morning notes on market structure, macro, and trade ideas — plus sector 
 
 </div>
 
-<!-- ═══════════════ ORION ALPHA PREVIEW ═══════════════ -->
-<div class="content-section content-section--dark" markdown="1">
+<!-- ═══════════════ ORION ALPHA — brief mention ═══════════════ -->
+<div class="content-section" markdown="1">
 
-<div class="section-head" markdown="1">
 ## *Orion Alpha Asset Management* {#orion-alpha}
-<a class="view-all" href="/orion-alpha/">Firm Profile →</a>
-</div>
 
-<p style="font-family: var(--serif); font-style: italic; font-size: 1.3rem; color: var(--gold); margin-bottom: 0.8rem;">Where fundamental conviction meets quantitative discipline.</p>
-
-Co-founder and Fund X Managing Partner of [Orion Alpha Asset Management](https://www.oa-am.com/){:target="_blank"} — a quantamental investment firm fusing deep fundamental business analysis with Bayesian data validation to eliminate narrative bias and capture market mispricing.
-
-<a class="btn btn-gold" href="/orion-alpha/" style="margin-top: 0.4rem;">Strategy &amp; Research Focus</a>
+I am a co-founder and Fund X Managing Partner of [Orion Alpha Asset Management](https://www.oa-am.com/){:target="_blank"}, a quantamental investment firm pairing fundamental business analysis with Bayesian data validation. More at [oa-am.com](https://www.oa-am.com/){:target="_blank"}.
 
 </div>
 
@@ -177,8 +170,8 @@ I hold a Master of Financial Engineering from UCLA Anderson and dual degrees in 
 
 <div class="hero-ctas" style="margin-top: 1.4rem;">
   <a class="btn btn-dark" href="/about/">About &amp; Education</a>
-  <a class="btn btn-quiet" href="/about/#coursework">Course Materials Archive</a>
-  <a class="btn btn-quiet" href="mailto:ysxstevenpp123@gmail.com">ysxstevenpp123@gmail.com</a>
+  <a class="btn btn-outline" href="/about/#coursework">Course Materials Archive</a>
+  <a class="btn btn-outline" href="mailto:ysxstevenpp123@gmail.com">ysxstevenpp123@gmail.com</a>
 </div>
 
 </div>
