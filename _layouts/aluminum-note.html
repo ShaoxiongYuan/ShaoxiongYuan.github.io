@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.date | date: "%b %-d, %Y" }} — {{ page.headline }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=DM+Sans:wght@300;400;500;600;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #f4f5f6;
+      --surface:   #ffffff;
+      --ink:       #17181b;
+      --ink-2:     #383b40;
+      --ink-3:     #696d74;
+      --rule:      #e1e3e6;
+      --rule-2:    #cbced3;
+      --graphite:  #202327;
+      --graphite-2:#2a2e34;
+      --molten:    #d9741c;
+      --molten-2:  #f2a24a;
+      --molten-bg: rgba(217,116,28,0.08);
+      --ember:     #e60012;
+      --green:     #1a7a45;
+      --red:       #c0392b;
+      --sans:      'Inter', system-ui, sans-serif;
+      --serif:     'Libre Baskerville', Georgia, serif;
+      --accent-sans: 'DM Sans', sans-serif;
+    }
+
+    html { font-size: 16px; }
+
+    body {
+      background: var(--bg);
+      color: var(--ink);
+      font-family: var(--sans);
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* ── LANGUAGE TOGGLE VISIBILITY ───────────── */
+    .lang-zh { display: none; }
+    body.zh .lang-en { display: none; }
+    body.zh .lang-zh { display: block; }
+    /* inline variants keep flow */
+    span.lang-en, span.lang-zh { display: inline; }
+    body.zh span.lang-en { display: none; }
+    span.lang-zh { display: none; }
+    body.zh span.lang-zh { display: inline; }
+
+    /* ── TOP NAV ──────────────────────────────── */
+    .topbar {
+      background: var(--graphite);
+      padding: 0 3rem;
+      height: 44px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 2px solid var(--molten);
+    }
+    .topbar-brand {
+      font-family: var(--accent-sans);
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      color: rgba(255,255,255,0.5);
+    }
+    .topbar-brand strong { color: #fff; font-weight: 500; }
+    .topbar-nav { display: flex; gap: 1.75rem; align-items: center; }
+    .topbar-nav a {
+      font-family: var(--accent-sans);
+      font-size: 0.68rem;
+      font-weight: 500;
+      letter-spacing: 0.1em;
+      color: rgba(255,255,255,0.45);
+      text-decoration: none;
+      text-transform: uppercase;
+      transition: color 0.15s;
+    }
+    .topbar-nav a:hover { color: var(--molten-2); }
+
+    /* language switch */
+    .lang-switch {
+      display: inline-flex;
+      border: 1px solid rgba(255,255,255,0.18);
+      border-radius: 3px;
+      overflow: hidden;
+    }
+    .lang-switch button {
+      font-family: var(--accent-sans);
+      font-size: 0.62rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      padding: 0.25rem 0.6rem;
+      background: transparent;
+      color: rgba(255,255,255,0.5);
+      border: none;
+      cursor: pointer;
+      transition: background 0.15s, color 0.15s;
+    }
+    .lang-switch button.active {
+      background: var(--molten);
+      color: #fff;
+    }
+
+    /* ── NOTE HEADER ──────────────────────────── */
+    .note-header {
+      background: var(--surface);
+      border-bottom: 2px solid var(--graphite);
+      padding: 2rem 3rem 1.75rem;
+      position: relative;
+    }
+    .note-header::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%;
+      height: 3px;
+      background: linear-gradient(90deg, var(--molten), var(--ember), transparent 70%);
+    }
+    .note-kicker {
+      display: flex;
+      align-items: center;
+      gap: 0.65rem;
+      font-family: var(--accent-sans);
+      font-size: 0.65rem;
+      font-weight: 500;
+      letter-spacing: 0.2em;
+      color: var(--molten);
+      text-transform: uppercase;
+      margin-bottom: 0.85rem;
+    }
+    .note-kicker::before {
+      content: '';
+      display: block;
+      width: 16px;
+      height: 2px;
+      background: var(--molten);
+      flex-shrink: 0;
+    }
+    .note-headline {
+      font-family: var(--serif);
+      font-size: clamp(1.4rem, 2.7vw, 2rem);
+      font-weight: 700;
+      line-height: 1.3;
+      color: var(--ink);
+      max-width: 70ch;
+      margin-bottom: 1.1rem;
+    }
+    .note-headline .lang-zh { font-size: 1.5rem; line-height: 1.45; }
+    .note-meta {
+      display: flex;
+      align-items: center;
+      gap: 1.25rem;
+      flex-wrap: wrap;
+    }
+    .meta-item {
+      font-family: var(--accent-sans);
+      font-size: 0.67rem;
+      color: var(--ink-3);
+      letter-spacing: 0.06em;
+    }
+    .meta-item strong { color: var(--ink-2); font-weight: 600; }
+    .meta-sep { width: 1px; height: 11px; background: var(--rule-2); }
+
+    /* ── DATA BAND ────────────────────────────── */
+    .data-band {
+      background: var(--graphite);
+      padding: 0.7rem 3rem;
+      display: flex;
+      gap: 0;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    .data-band::-webkit-scrollbar { display: none; }
+    .data-cell {
+      display: flex;
+      flex-direction: column;
+      gap: 0.12rem;
+      padding-right: 2rem;
+      margin-right: 2rem;
+      border-right: 1px solid rgba(255,255,255,0.07);
+      flex-shrink: 0;
+    }
+    .data-cell:last-child { border-right: none; padding-right: 0; margin-right: 0; }
+    .data-label {
+      font-family: var(--accent-sans);
+      font-size: 0.58rem;
+      font-weight: 500;
+      letter-spacing: 0.16em;
+      color: rgba(255,255,255,0.34);
+      text-transform: uppercase;
+    }
+    .data-value {
+      font-family: var(--accent-sans);
+      font-size: 0.88rem;
+      font-weight: 500;
+      color: #fff;
+      letter-spacing: 0.03em;
+      white-space: nowrap;
+    }
+    .data-value.up   { color: #52d68a; }
+    .data-value.down { color: #f07070; }
+    .data-value.flat { color: rgba(255,255,255,0.7); }
+
+    /* ── PAGE GRID ────────────────────────────── */
+    .page-wrap {
+      max-width: 1120px;
+      margin: 0 auto;
+      padding: 0 3rem;
+      display: grid;
+      grid-template-columns: 1fr 250px;
+      gap: 4rem;
+      align-items: start;
+    }
+
+    /* ── ARTICLE ──────────────────────────────── */
+    .note-article {
+      padding: 2.6rem 0 5rem;
+      min-width: 0;
+    }
+    .note-article h2 {
+      font-family: var(--accent-sans);
+      font-size: 0.82rem;
+      font-weight: 600;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--graphite);
+      margin: 2.75rem 0 1rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid var(--rule);
+      display: flex;
+      align-items: center;
+      gap: 0.7rem;
+    }
+    .note-article h2::before {
+      content: '';
+      width: 4px;
+      height: 0.95rem;
+      background: linear-gradient(var(--molten), var(--ember));
+      border-radius: 1px;
+      flex-shrink: 0;
+    }
+    .note-article h2:first-child { margin-top: 0; }
+    .note-article h3 {
+      font-family: var(--sans);
+      font-size: 0.98rem;
+      font-weight: 600;
+      color: var(--ink);
+      margin: 1.5rem 0 0.6rem;
+    }
+    .note-article p {
+      font-size: 1rem;
+      line-height: 1.8;
+      color: var(--ink-2);
+      margin-bottom: 1.15rem;
+    }
+    .note-article ul {
+      margin: 0.7rem 0 1.35rem 0;
+      padding-left: 1.1rem;
+      list-style: none;
+    }
+    .note-article ol {
+      margin: 0.7rem 0 1.35rem 0;
+      padding-left: 1.4rem;
+    }
+    .note-article li {
+      margin-bottom: 0.5rem;
+      padding-left: 0.75rem;
+      position: relative;
+      line-height: 1.7;
+      color: var(--ink-2);
+    }
+    .note-article ul > li::before {
+      content: "—";
+      position: absolute;
+      left: -1.1rem;
+      color: var(--molten);
+      font-weight: 700;
+    }
+    .note-article ol > li::marker {
+      color: var(--molten);
+      font-weight: 600;
+    }
+    .note-article strong { color: var(--ink); font-weight: 600; }
+    .note-article hr {
+      border: none;
+      border-top: 1px solid var(--rule);
+      margin: 2.25rem 0;
+    }
+
+    /* data / view inline labels */
+    .lbl {
+      font-family: var(--accent-sans);
+      font-size: 0.56rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      padding: 0.12rem 0.45rem;
+      border-radius: 2px;
+      vertical-align: middle;
+      margin-right: 0.5rem;
+      position: relative;
+      top: -1px;
+    }
+    .lbl-data { color: var(--molten); background: var(--molten-bg); border: 1px solid rgba(217,116,28,0.28); }
+    .lbl-view { color: var(--ink-3); background: var(--bg); border: 1px solid var(--rule-2); }
+
+    /* bull / bear inline tags */
+    .tone-bull { color: var(--green); font-weight: 600; }
+    .tone-bear { color: var(--red); font-weight: 600; }
+
+    /* one-sentence view callout */
+    .view-callout {
+      font-family: var(--serif);
+      font-size: 1.02rem;
+      font-style: italic;
+      color: var(--ink);
+      background: var(--molten-bg);
+      border-left: 3px solid var(--molten);
+      padding: 1.1rem 1.4rem;
+      line-height: 1.7;
+      margin: 0.5rem 0 1.5rem;
+      border-radius: 0 4px 4px 0;
+    }
+
+    /* disclaimer */
+    .note-disclaimer {
+      font-size: 0.78rem;
+      line-height: 1.6;
+      color: var(--ink-3);
+      background: var(--surface);
+      border: 1px solid var(--rule);
+      border-radius: 4px;
+      padding: 1rem 1.2rem;
+      margin-top: 1.5rem;
+    }
+    .note-disclaimer strong { color: var(--ink-2); }
+
+    /* ── TABLES ──────────────────────────────── */
+    .note-article .table-wrap {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      margin: 1.2rem 0 1.8rem;
+      border: 1px solid var(--rule);
+      border-radius: 4px;
+    }
+    .note-article table {
+      width: 100%;
+      min-width: 520px;
+      border-collapse: collapse;
+      font-size: 0.8rem;
+      line-height: 1.5;
+    }
+    .note-article thead th {
+      font-family: var(--accent-sans);
+      font-size: 0.65rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      white-space: nowrap;
+      color: rgba(255,255,255,0.9);
+      background: var(--graphite);
+      padding: 0.55rem 0.75rem;
+      text-align: left;
+      border: 1px solid rgba(255,255,255,0.08);
+    }
+    .note-article tbody td {
+      padding: 0.5rem 0.75rem;
+      border: 1px solid var(--rule);
+      color: var(--ink-2);
+      vertical-align: top;
+    }
+    .note-article tbody tr:nth-child(even) { background: #f8f8f7; }
+    .note-article tbody tr:hover { background: var(--molten-bg); }
+
+    /* ── SIDEBAR ──────────────────────────────── */
+    .note-sidebar {
+      padding: 2.6rem 0 3rem;
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+      position: sticky;
+      top: 1.5rem;
+    }
+    .widget-label {
+      font-family: var(--accent-sans);
+      font-size: 0.58rem;
+      font-weight: 600;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--ink-3);
+      margin-bottom: 0.7rem;
+      padding-bottom: 0.45rem;
+      border-bottom: 1px solid var(--rule);
+    }
+
+    /* Key levels */
+    .level-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      padding: 0.42rem 0;
+      border-bottom: 1px solid var(--rule);
+      gap: 0.75rem;
+    }
+    .level-row:last-child { border-bottom: none; }
+    .level-name { font-size: 0.74rem; color: var(--ink-3); white-space: nowrap; }
+    .level-val  { font-family: var(--accent-sans); font-size: 0.76rem; font-weight: 500; color: var(--ink); text-align: right; }
+
+    /* Drivers */
+    .driver-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0.3rem 0;
+    }
+    .driver-name { font-size: 0.78rem; color: var(--ink-2); }
+    .driver-val { font-family: var(--accent-sans); font-size: 0.95rem; font-weight: 700; }
+    .driver-val.bull { color: var(--green); }
+    .driver-val.bear { color: var(--red); }
+    .driver-meter {
+      height: 5px;
+      border-radius: 3px;
+      background: var(--red);
+      overflow: hidden;
+      margin: 0.5rem 0 0.6rem;
+    }
+    .driver-meter-bull {
+      display: block;
+      height: 100%;
+      background: var(--green);
+    }
+    .driver-net {
+      font-family: var(--accent-sans);
+      font-size: 0.64rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--ink-3);
+      text-align: center;
+    }
+
+    /* Tags */
+    .tag-grid { display: flex; flex-wrap: wrap; gap: 0.35rem; }
+    .tag {
+      font-family: var(--accent-sans);
+      font-size: 0.6rem;
+      font-weight: 500;
+      letter-spacing: 0.07em;
+      color: var(--ink-3);
+      background: var(--bg);
+      border: 1px solid var(--rule-2);
+      padding: 0.2rem 0.55rem;
+      border-radius: 2px;
+    }
+
+    /* ── FOOTER ───────────────────────────────── */
+    .note-footer {
+      border-top: 1px solid var(--rule);
+      padding: 1.4rem 3rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .note-footer a {
+      font-family: var(--accent-sans);
+      font-size: 0.65rem;
+      font-weight: 500;
+      letter-spacing: 0.1em;
+      color: var(--ink-3);
+      text-decoration: none;
+      text-transform: uppercase;
+      transition: color 0.15s;
+    }
+    .note-footer a:hover { color: var(--molten); }
+    .footer-brand {
+      font-family: var(--accent-sans);
+      font-size: 0.62rem;
+      color: var(--rule-2);
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+
+    /* ── RESPONSIVE ───────────────────────────── */
+    @media (max-width: 840px) {
+      .topbar, .note-header, .data-band, .note-footer { padding-left: 1.5rem; padding-right: 1.5rem; }
+      .topbar { gap: 0.75rem; }
+      .topbar-nav { gap: 1rem; }
+      .page-wrap { grid-template-columns: 1fr; gap: 0; padding: 0 1.5rem; }
+      .note-sidebar { position: static; padding-top: 0; border-top: 1px solid var(--rule); }
+      .note-article .table-wrap {
+        margin-left: -1.5rem;
+        margin-right: -1.5rem;
+        padding: 0 1.5rem;
+        border: none;
+        border-radius: 0;
+        border-top: 1px solid var(--rule);
+        border-bottom: 1px solid var(--rule);
+      }
+    }
+    @media (max-width: 560px) {
+      .topbar-brand { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+  <nav class="topbar">
+    <span class="topbar-brand"><strong>Steven Yuan</strong> &nbsp;·&nbsp; Bosai Minerals Group</span>
+    <div class="topbar-nav">
+      <div class="lang-switch">
+        <button type="button" data-lang="en" class="active">EN</button>
+        <button type="button" data-lang="zh">中文</button>
+      </div>
+      <a href="/aluminum-market-daily">All Editions</a>
+      <a href="/">Home</a>
+    </div>
+  </nav>
+
+  <header class="note-header">
+    <div class="note-kicker"><span class="lang-en">Aluminum Market Daily &nbsp;·&nbsp; Metals Desk</span><span class="lang-zh">铝早报 &nbsp;·&nbsp; 金属研究</span></div>
+    <h1 class="note-headline"><span class="lang-en">{{ page.headline }}</span>{% if page.headline_zh %}<span class="lang-zh">{{ page.headline_zh }}</span>{% endif %}</h1>
+    <div class="note-meta">
+      <span class="meta-item"><strong>{{ page.date | date: "%A, %B %-d, %Y" }}</strong></span>
+      <div class="meta-sep"></div>
+      <span class="meta-item"><span class="lang-en">Morning Meeting</span><span class="lang-zh">晨会参考</span></span>
+      {% if page.data_window %}<div class="meta-sep"></div><span class="meta-item">{{ page.data_window }}</span>{% endif %}
+      {% if page.author %}<div class="meta-sep"></div><span class="meta-item">{{ page.author }}</span>{% endif %}
+    </div>
+  </header>
+
+  {% if page.snapshot %}
+  <div class="data-band">
+    {% for item in page.snapshot %}
+    <div class="data-cell">
+      <span class="data-label">{{ item.label }}</span>
+      <span class="data-value {{ item.dir }}">{{ item.value }}</span>
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  <div class="page-wrap">
+    <article class="note-article">
+      {{ content }}
+    </article>
+
+    <aside class="note-sidebar">
+      {% if page.levels %}
+      <div>
+        <div class="widget-label"><span class="lang-en">Key Levels</span><span class="lang-zh">关键价位</span></div>
+        {% for l in page.levels %}
+        <div class="level-row">
+          <span class="level-name">{{ l.name }}</span>
+          <span class="level-val">{{ l.value }}</span>
+        </div>
+        {% endfor %}
+      </div>
+      {% endif %}
+
+      {% if page.drivers %}
+      {% assign total = page.drivers.bullish | plus: page.drivers.bearish %}
+      {% assign bull_pct = page.drivers.bullish | times: 100 | divided_by: total %}
+      <div>
+        <div class="widget-label"><span class="lang-en">Drivers</span><span class="lang-zh">驱动因素</span></div>
+        <div class="driver-row">
+          <span class="driver-name"><span class="lang-en">Bullish</span><span class="lang-zh">利多</span></span>
+          <span class="driver-val bull">{{ page.drivers.bullish }}</span>
+        </div>
+        <div class="driver-meter"><span class="driver-meter-bull" style="width:{{ bull_pct }}%"></span></div>
+        <div class="driver-row">
+          <span class="driver-name"><span class="lang-en">Bearish</span><span class="lang-zh">利空</span></span>
+          <span class="driver-val bear">{{ page.drivers.bearish }}</span>
+        </div>
+        {% if page.drivers.net %}<div class="driver-net">{{ page.drivers.net }}</div>{% endif %}
+      </div>
+      {% endif %}
+
+      {% if page.tags %}
+      <div>
+        <div class="widget-label"><span class="lang-en">Themes</span><span class="lang-zh">主题</span></div>
+        <div class="tag-grid">
+          {% for tag in page.tags %}
+          <span class="tag">{{ tag }}</span>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+    </aside>
+  </div>
+
+  <footer class="note-footer">
+    <a href="/aluminum-market-daily"><span class="lang-en">← All Editions</span><span class="lang-zh">← 全部早报</span></a>
+    <span class="footer-brand">Steven Yuan · Bosai Minerals Group</span>
+    <a href="/">stevenyuan.github.io</a>
+  </footer>
+
+  <script>
+  /* Wrap tables for horizontal scroll on mobile */
+  document.querySelectorAll('.note-article table').forEach(function(table) {
+    var wrap = document.createElement('div');
+    wrap.className = 'table-wrap';
+    table.parentNode.insertBefore(wrap, table);
+    wrap.appendChild(table);
+  });
+
+  /* Language toggle */
+  (function() {
+    var buttons = document.querySelectorAll('.lang-switch button');
+    function setLang(lang) {
+      document.body.classList.toggle('zh', lang === 'zh');
+      buttons.forEach(function(b) { b.classList.toggle('active', b.dataset.lang === lang); });
+      try { localStorage.setItem('amd-lang', lang); } catch (e) {}
+    }
+    buttons.forEach(function(b) {
+      b.addEventListener('click', function() { setLang(b.dataset.lang); });
+    });
+    var saved;
+    try { saved = localStorage.getItem('amd-lang'); } catch (e) {}
+    if (saved === 'zh') setLang('zh');
+  })();
+  </script>
+
+</body>
+</html>
