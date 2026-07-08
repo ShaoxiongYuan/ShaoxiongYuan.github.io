@@ -31,9 +31,9 @@
 
 ## *About* {#about}
 
-I'm a quantitative researcher and co-founder of **Orion Alpha Asset Management**, where I serve as Fund X Managing Partner. My work sits at the intersection of fundamental equity research, derivatives modelling, and machine learning-driven portfolio construction. Fund X has returned 26% over 8 months with a 3.43 Sharpe ratio and 4.6% maximum drawdown.
+I lead **bulk commodities procurement and sales, international commerce and trading** at **Bosai Minerals Group (博赛集团)**, one of China's largest privately held mining and materials groups, with operations across the Belt and Road and sales in 30+ countries.
 
-I also lead **bulk raw-materials procurement and sales — international commerce and trading** at **Bosai Minerals Group (博赛集团)**, one of China's largest privately held mining and materials groups, with operations across the Belt and Road and sales in 30+ countries.
+I'm also a quantitative researcher and co-founder of **Orion Alpha Asset Management**, where I serve as Fund X Managing Partner, working at the intersection of fundamental equity research, derivatives modelling, and machine learning-driven portfolio construction.
 
 I hold a Master of Financial Engineering from UCLA Anderson and dual degrees in Applied and Computational Mathematics (AMCM) and Computer Science & Business Administration (CSBA) from USC. My professional background spans capital markets and M&A in Beijing, Shanghai, and New York, including roles at China Reform Securities, Yongxing Securities, and M+A Squared.
 
@@ -53,14 +53,14 @@ Outside of markets, I write film reviews for movies worth thinking about beyond 
   </a>
   <div class="orion-text">
     <p class="orion-tagline">From Global Mines to Advanced Materials.</p>
-    <p>I lead <strong>bulk raw-materials procurement and sales — international commerce and trading</strong> at <a href="https://en.cqbosai.com/" target="_blank"><strong>Bosai Minerals Group (博赛集团)</strong></a>, a global mining and materials group founded in 1994 with roughly ¥66&nbsp;billion in annual revenue and 8,000+ employees worldwide. Bosai operates the world's largest single-line alumina refinery and leads globally in calcined bauxite, brown fused alumina, and silicon-manganese alloy, drawing on bauxite and manganese reserves across the Belt and Road with sales in 30+ countries.</p>
+    <p>I lead <strong>bulk commodities procurement and sales, international commerce and trading</strong> at <a href="https://en.cqbosai.com/" target="_blank"><strong>Bosai Minerals Group (博赛集团)</strong></a>, a global mining and materials group founded in 1994 with roughly ¥66&nbsp;billion in annual revenue and 8,000+ employees worldwide. Bosai operates the world's largest single-line alumina refinery and leads globally in calcined bauxite, brown fused alumina, and silicon-manganese alloy, drawing on bauxite and manganese reserves across the Belt and Road with sales in 30+ countries.</p>
     <p><a href="https://en.cqbosai.com/" target="_blank">Visit en.cqbosai.com →</a></p>
   </div>
 </div>
 
 ### Aluminum Market Daily
 
-Daily notes on the aluminum value chain — bauxite, alumina, and primary aluminum — tracking LME and SHFE price action, alumina and bauxite benchmarks, freight, inventories, and supply–demand shifts across the Belt-and-Road supply base.
+Daily notes on the aluminum value chain (bauxite, alumina, and primary aluminum), tracking LME and SHFE price action, alumina and bauxite benchmarks, freight, inventories, and supply–demand shifts across the Belt-and-Road supply base.
 
 [**→ View All Aluminum Market Daily**](/aluminum-market-daily)
 

@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.date | date: "%b %-d, %Y" }} — {{ page.headline }}</title>
+  <title>{{ page.date | date: "%b %-d, %Y" }} · {{ page.headline }}</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=DM+Sans:wght@300;400;500;600;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
   <style>
@@ -273,7 +273,7 @@
       color: var(--ink-2);
     }
     .note-article ul > li::before {
-      content: "—";
+      content: "▸";
       position: absolute;
       left: -1.1rem;
       color: var(--molten);

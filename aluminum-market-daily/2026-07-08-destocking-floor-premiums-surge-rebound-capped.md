@@ -1,8 +1,8 @@
 ---
 layout: aluminum-note
-title: "Aluminum Morning Brief — July 8, 2026"
+title: "Aluminum Morning Brief, July 8, 2026"
 headline: "Aluminum stabilizes and bounces off its lows as China's four-year-high destocking and surging ex-China premiums build a floor, while bearish moving averages, off-season demand and a hawkish Fed cap the rebound"
-headline_zh: "铝价低位企稳反弹——国内四年高位去库与海外升水飙升构成底部支撑，但中长期均线偏空、淡季需求与美联储鹰派限制反弹高度"
+headline_zh: "铝价低位企稳反弹：国内四年高位去库与海外升水飙升构成底部支撑，但中长期均线偏空、淡季需求与美联储鹰派限制反弹高度"
 date: 2026-07-08
 author: Steven Yuan
 data_window: "July 7 spot + night-session close"
@@ -30,23 +30,23 @@ drivers:
 
 ## 1 · Market Performance
 
-<span class="lbl lbl-data">Data</span> **SHFE aluminum, most-traded AL2608 — July 7 night session**
+<span class="lbl lbl-data">Data</span> **SHFE aluminum, most-traded AL2608, July 7 night session**
 
 - Open 22,940, high 23,130, low 22,940, **close 23,055 CNY/mt, +0.50%** vs prior close; bullish candle.
-- Rebounded from the prior low of 22,250; back above MA5 (22,943.90) and MA10 (22,853.82), testing/reclaiming MA20 (22,945.68); still capped by MA40 (23,290.36) and MA60 (23,555.97) — medium/long-term MAs in a bearish alignment.
+- Rebounded from the prior low of 22,250; back above MA5 (22,943.90) and MA10 (22,853.82), testing/reclaiming MA20 (22,945.68); still capped by MA40 (23,290.36) and MA60 (23,555.97); medium/long-term MAs in a bearish alignment.
 - Volume 64.3k lots (sharply lower); open interest 239k (−6,639) → short covering / bear position reduction.
-- 4h MACD golden cross persists (DIFF −212.61 > DEA −305.69), red bar 186.17 — bullish momentum expanding, though the medium/long-term bearish structure is not yet fully reversed.
+- 4h MACD golden cross persists (DIFF −212.61 > DEA −305.69), red bar 186.17; bullish momentum expanding, though the medium/long-term bearish structure is not yet fully reversed.
 
-<span class="lbl lbl-data">Data</span> **LME 3-month aluminum — July 7**
+<span class="lbl lbl-data">Data</span> **LME 3-month aluminum, July 7**
 
 - Open 3,113, high 3,152, low 3,103, **close 3,139 USD/mt, +0.84%**; bullish candle, rebounded from prior low 3,040.
-- Above MA5 (3,118.72); still below MA10 (3,146.35), MA20 (3,243.12), MA40 (3,353.47), MA60 (3,382.97) — all-cycle MAs bearish.
+- Above MA5 (3,118.72); still below MA10 (3,146.35), MA20 (3,243.12), MA40 (3,353.47), MA60 (3,382.97); all-cycle MAs bearish.
 - Volume 19,977 (+4,833); OI 600,276 (+103) → modest bullish position building. Daily MACD death cross persists but the green bar narrowed to −16.44 (bearish momentum easing).
 
 <span class="lbl lbl-view">View</span> **Level assessment**
 
 - SHFE sits in the low-level repair zone after the Mar–May rally; the bounce is short-covering / oversold-driven, not demand-led.
-- **SHFE:** support 22,850 (MA10) / 22,250 prior low; resistance MA40 (~23,290), MA60 (~23,556) — 23,290 is the key level once MA20 is reclaimed.
+- **SHFE:** support 22,850 (MA10) / 22,250 prior low; resistance MA40 (~23,290), MA60 (~23,556); 23,290 is the key level once MA20 is reclaimed.
 - **LME:** support 3,040 / MA5 3,119; resistance MA10 3,146, MA20 3,243.
 - SHFE and LME stabilized and bounced in tandem; destocking keeps SHFE relatively firmer.
 
@@ -57,9 +57,9 @@ drivers:
 - **SMM A00 ingot:** July 7 close 22,940 CNY/mt, +100 ↑.
 - **East China premium/discount:** mainstream at SHFE-07 parity to +10; shipment-sentiment index 3.01 (+0.02), purchasing 2.80 (+0.01).
 - **LME aluminum:** 3,139 close ↑.
-- **ADC12 (secondary alloy):** 24,050 CNY/mt, +50 ↑ — cost support + futures recovery.
+- **ADC12 (secondary alloy):** 24,050 CNY/mt, +50 ↑ (cost support + futures recovery).
 - **Alumina:** supply–demand easing persists, board falling on rising OI, still weak ↓; recent Mysteel national average ~2,776 CNY/mt (July 3).
-- **Brent crude:** ~76.65 USD (+3.36%) ↑ — renewed Iran sanctions friction.
+- **Brent crude:** ~76.65 USD (+3.36%) ↑ (renewed Iran sanctions friction).
 - **Dollar index:** ~101.05 (−0.04%) ↔.
 
 <span class="lbl lbl-view">View</span>
@@ -71,7 +71,7 @@ drivers:
 
 <span class="lbl lbl-data">Data</span>
 
-- Domestic ingot social inventory keeps drawing down; last week's ingot warehouse withdrawals hit a ~4-year high — destocking accelerated, mainly in Guangdong and Wuxi.
+- Domestic ingot social inventory keeps drawing down; last week's ingot warehouse withdrawals hit a ~4-year high; destocking accelerated, mainly in Guangdong and Wuxi.
 - As of Tuesday (July 7), ingot inventory in major consumption areas fell further vs the prior session (Guangdong/Wuxi led).
 - Liquid-aluminum share rising; casting-ingot output declining.
 - Secondary-alloy ingot social inventory (Foshan/Ningbo/Wuxi) 15,300 mt, −547 vs prior day (Foshan −506).
@@ -79,7 +79,7 @@ drivers:
 <span class="lbl lbl-view">View</span>
 
 - Rapid destocking (4-year-high withdrawals) is the single most important bullish support and the floor for SHFE.
-- But absolute inventory is still high; with the off-season plus more casting ingots, renewed buildup is a risk — persistence of destocking is the key variable. Inventory **cushions, it is not a strong driver**.
+- But absolute inventory is still high; with the off-season plus more casting ingots, renewed buildup is a risk; persistence of destocking is the key variable. Inventory **cushions, it is not a strong driver**.
 
 ## 4 · Macro Factors
 
@@ -90,24 +90,24 @@ drivers:
 
 | Meeting | Hold | +25 bps | +50 bps |
 | --- | --- | --- | --- |
-| July | 73.3% | 26.7% | — |
+| July | 73.3% | 26.7% | N/A |
 | September | 32.4% | 52.7% | 14.9% |
 
-  CME FedWatch — roughly a **67.6% chance of some hike by September**. Trigger: June NFP only +57k (est. ~110k); prior two months revised down 74k; unemployment 4.2%; hike timing pushed out.
+  CME FedWatch: roughly a **67.6% chance of some hike by September**. Trigger: June NFP only +57k (est. ~110k); prior two months revised down 74k; unemployment 4.2%; hike timing pushed out.
 
-- **Inflation:** core PCE ~3.4% (May), CPI ~4.2% YoY — still sticky.
+- **Inflation:** core PCE ~3.4% (May), CPI ~4.2% YoY; still sticky.
 - **Geopolitics/sanctions:** Iran's deputy FM said the US cancelled the waiver on Iranian oil-sales sanctions, calling it a breach of the US–Iran MOU; Brent +3.36%. US–Iran nuclear talks are still ongoing, so the risk premium is on balance still narrowing.
 - **China:** June manufacturing PMI back above 50 (expansion); May CPI +1.2% YoY; the 15th Five-Year Plan and "anti-involution" policy support industrial-metal sentiment; property still soft.
 
-<span class="lbl lbl-view">View — impact on aluminum</span>
+<span class="lbl lbl-view">View: impact on aluminum</span>
 
 - **<span class="tone-bull">Bullish:</span>** weaker dollar, China PMI expansion, "anti-involution" sentiment, oil bounce lifting cost expectations.
 - **<span class="tone-bear">Bearish:</span>** hawkish Fed (>50% Sept-hike odds), sticky core inflation, ex-China new-capacity expectations.
-- **Net:** mixed, short-term neutral. Key swings — dollar direction (break 100.4/99.5?), Sept-hike pricing, Iran sanctions/talks.
+- **Net:** mixed, short-term neutral. Key swings: dollar direction (break 100.4/99.5?), Sept-hike pricing, Iran sanctions/talks.
 
 ## 5 · Fundamentals
 
-<span class="lbl lbl-data">Data — ex-China regional premiums surging (tighter-supply expectations)</span>
+<span class="lbl lbl-data">Data: ex-China regional premiums surging (tighter-supply expectations)</span>
 
 | Region | Premium | Change |
 | --- | --- | --- |
@@ -161,7 +161,7 @@ drivers:
 ## 8 · One-Sentence Market View
 
 <div class="view-callout" markdown="1">
-Aluminum is stabilizing and bouncing at low levels (short-covering / oversold repair) — China's four-year-high destocking and surging ex-China premiums provide a floor and keep SHFE firmer than LME; but with medium/long-term MAs still bearish, off-season demand, ex-China new capacity and a hawkish Fed capping the upside, the rebound's height is limited.
+Aluminum is stabilizing and bouncing at low levels (short-covering / oversold repair); China's four-year-high destocking and surging ex-China premiums provide a floor and keep SHFE firmer than LME; but with medium/long-term MAs still bearish, off-season demand, ex-China new capacity and a hawkish Fed capping the upside, the rebound's height is limited.
 </div>
 
 ## 9 · Watchlist for Tonight's Night Session
@@ -170,7 +170,7 @@ Aluminum is stabilizing and bouncing at low levels (short-covering / oversold re
 2. **LME 3M** (~3,140–3,157): can it reclaim MA10 (3,146) / MA20 (3,243)? Support 3,040.
 3. **DXY** (~101): break below 100.4 / 99.5 (bullish metals) vs reclaim above 101.2 (bearish).
 4. **Fed:** shifts in FedWatch Sept-hike odds (now ~67.6%) + hawkish official commentary.
-5. **Inventory:** SMM/Mysteel social inventory — can the 4-year-high destocking pace continue?
+5. **Inventory:** SMM/Mysteel social inventory; can the 4-year-high destocking pace continue?
 6. **Spot premium/discount:** East/Central/South China premiums and shipment/purchasing indices; direction of MJP/Europe/US premiums.
 7. **Geopolitics/energy:** Iran oil-sanctions-waiver cancellation + nuclear talks, Brent crude; alumina price and ex-China capacity ramp.
 
@@ -186,14 +186,14 @@ Aluminum is stabilizing and bouncing at low levels (short-covering / oversold re
 
 ## 一 · 行情表现
 
-<span class="lbl lbl-data">确认</span> **沪铝主力 AL2608 — 7月7日夜盘**
+<span class="lbl lbl-data">确认</span> **沪铝主力 AL2608，7月7日夜盘**
 
 - 开 22,940，高 23,130，低 22,940，**收 23,055 元/吨，+0.50%**（较前收盘），收阳线。
 - 自前低 22,250 反弹；站上 MA5（22,943.90）、MA10（22,853.82），测试/上破 MA20（22,945.68）；仍受 MA40（23,290.36）、MA60（23,555.97）压制，中长期均线偏空下行。
 - 成交量 6.43 万手（较前明显萎缩）；持仓 23.9 万手（减 6,639 手）→ 空头减仓特征。
 - 4小时 MACD 金叉延续（DIFF −212.61 > DEA −305.69），红柱 186.17，多头动能扩张；但中长期空头格局未完全反转。
 
-<span class="lbl lbl-data">确认</span> **LME 3个月铝 — 7月7日**
+<span class="lbl lbl-data">确认</span> **LME 3个月铝，7月7日**
 
 - 开 3,113，高 3,152，低 3,103，**收 3,139 美元/吨，+0.84%**，收阳线，自前低 3,040 反弹。
 - 站上 MA5（3,118.72）；仍在 MA10（3,146.35）、MA20（3,243.12）、MA40（3,353.47）、MA60（3,382.97）下方，全周期均线偏空。
@@ -213,9 +213,9 @@ Aluminum is stabilizing and bouncing at low levels (short-covering / oversold re
 - **SMM A00 铝锭：** 7月7日收 22,940 元/吨，+100 ↑。
 - **华东升贴水：** 主流成交 SHFE 07 平水至 +10；出货意愿指数 3.01（+0.02）、采购意愿 2.80（+0.01）。
 - **LME 铝：** 3,139 美元收 ↑。
-- **ADC12（再生铝合金）：** 24,050 元/吨，+50 ↑ — 成本支撑 + 盘面回升。
+- **ADC12（再生铝合金）：** 24,050 元/吨，+50 ↑（成本支撑 + 盘面回升）。
 - **氧化铝：** 供需转松格局延续，盘面增仓下行、弱势不改 ↓；近期 Mysteel 全国均价约 2,776 元/吨（7月3日）。
-- **原油 Brent：** 约 76.65 美元（+3.36%）↑ — 伊朗制裁摩擦再起。
+- **原油 Brent：** 约 76.65 美元（+3.36%）↑（伊朗制裁摩擦再起）。
 - **美元指数：** 约 101.05（−0.04%）↔。
 
 <span class="lbl lbl-view">解读</span>
@@ -246,24 +246,24 @@ Aluminum is stabilizing and bouncing at low levels (short-covering / oversold re
 
 | 会议 | 按兵不动 | 加息 25bp | 加息 50bp |
 | --- | --- | --- | --- |
-| 7月 | 73.3% | 26.7% | — |
+| 7月 | 73.3% | 26.7% | 无 |
 | 9月 | 32.4% | 52.7% | 14.9% |
 
-  CME FedWatch — **9月前加息概率约 67.6%**。触发因素：6月非农仅 +5.7 万（预期约 11 万），前两月合计下修 7.4 万；失业率 4.2%；加息时点被后移。
+  CME FedWatch：**9月前加息概率约 67.6%**。触发因素：6月非农仅 +5.7 万（预期约 11 万），前两月合计下修 7.4 万；失业率 4.2%；加息时点被后移。
 
 - **通胀：** 核心 PCE 5月约 3.4%，CPI 同比约 4.2%，仍偏黏。
 - **地缘/制裁：** 伊朗副外长称美国取消对伊朗石油销售制裁豁免，指其违反美伊谅解备忘录；Brent +3.36%。同时美伊核谈判仍在推进，风险溢价整体仍趋窄。
 - **中国：** 6月制造业 PMI 重回 50 上方（扩张）；5月 CPI 同比 +1.2%；"十五五"规划、"反内卷"政策对工业金属情绪偏支撑；地产偏弱。
 
-<span class="lbl lbl-view">解读 — 对铝影响</span>
+<span class="lbl lbl-view">解读：对铝影响</span>
 
 - **<span class="tone-bull">偏多：</span>** 美元走弱、中国 PMI 扩张、"反内卷"情绪、原油反弹抬升成本预期。
 - **<span class="tone-bear">偏空：</span>** 美联储鹰派（9月加息概率过半）、核心通胀黏性、海外新增产能预期。
-- **综合：** 多空交织、短期中性。关键变量 — 美元方向（能否破 100.4/99.5）、9月加息定价、伊朗制裁/核谈进展。
+- **综合：** 多空交织、短期中性。关键变量：美元方向（能否破 100.4/99.5）、9月加息定价、伊朗制裁/核谈进展。
 
 ## 五 · 基本面
 
-<span class="lbl lbl-data">确认 — 海外升水大涨（供应趋紧预期）</span>
+<span class="lbl lbl-data">确认：海外升水大涨（供应趋紧预期）</span>
 
 | 地区 | 升水 | 变化 |
 | --- | --- | --- |
@@ -317,7 +317,7 @@ Aluminum is stabilizing and bouncing at low levels (short-covering / oversold re
 ## 八 · 一句话观点
 
 <div class="view-callout" markdown="1">
-铝价低位企稳反弹（以空头减仓/超跌修复为主）——国内四年高位去库与海外升水飙升构成底部支撑，沪铝相对 LME 偏强；但中长期均线仍偏空、淡季需求、海外新增产能与美联储鹰派限制上行，反弹高度有限。
+铝价低位企稳反弹（以空头减仓/超跌修复为主），国内四年高位去库与海外升水飙升构成底部支撑，沪铝相对 LME 偏强；但中长期均线仍偏空、淡季需求、海外新增产能与美联储鹰派限制上行，反弹高度有限。
 </div>
 
 ## 九 · 今晚夜盘关注清单
@@ -326,7 +326,7 @@ Aluminum is stabilizing and bouncing at low levels (short-covering / oversold re
 2. **LME 3M**（~3,140–3,157 美元）：能否收复 MA10（3,146）/ MA20（3,243）；支撑 3,040。
 3. **美元指数**（~101）：破 100.4/99.5（利多金属）还是重回 101.2 上方（利空）。
 4. **美联储：** FedWatch 9月加息概率（现 ~67.6%）变化 + 官员鹰派表态。
-5. **库存：** SMM/Mysteel 社会库存 — 四年高位去库能否延续。
+5. **库存：** SMM/Mysteel 社会库存，四年高位去库能否延续。
 6. **现货升贴水：** 华东/华中/华南升贴水与出货、采购意愿指数；海外 MJP/欧美升水走向。
 7. **地缘/能源：** 伊朗石油制裁豁免取消 + 核谈进展、Brent 原油；氧化铝价格与海外产能爬产。
 
