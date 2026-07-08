@@ -58,6 +58,14 @@ Outside of markets, I write film reviews for movies worth thinking about beyond 
   </div>
 </div>
 
+### Aluminum Market Daily
+
+Daily notes on the aluminum value chain — bauxite, alumina, and primary aluminum — tracking LME and SHFE price action, alumina and bauxite benchmarks, freight, inventories, and supply–demand shifts across the Belt-and-Road supply base.
+
+[**→ View All Aluminum Market Daily**](/aluminum-market-daily)
+
+*The inaugural edition is publishing soon.*
+
 </div>
 
 ---
