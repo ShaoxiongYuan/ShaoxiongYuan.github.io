@@ -64,7 +64,9 @@ Daily notes on the aluminum value chain — bauxite, alumina, and primary alumin
 
 [**→ View All Aluminum Market Daily**](/aluminum-market-daily)
 
-*The inaugural edition is publishing soon.*
+| Date | Brief |
+| ---- | ----- |
+| [Jul 8, 2026](/aluminum-market-daily/2026-07-08-destocking-floor-premiums-surge-rebound-capped){:target="_blank"} | *Aluminum stabilizes and bounces off its lows as China's four-year-high destocking and surging ex-China premiums build a floor, while bearish moving averages, off-season demand and a hawkish Fed cap the rebound.* |
 
 </div>
 
