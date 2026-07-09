@@ -66,6 +66,7 @@ Daily notes on the aluminum value chain (bauxite, alumina, and primary aluminum)
 
 | Date | Brief |
 | ---- | ----- |
+| [Jul 9, 2026](/aluminum-market-daily/2026-07-09-destocking-floor-holds-hawkish-fed-oil-spike-cap-rebound){:target="_blank"} | *Aluminum consolidates at low levels as the four-year-high destocking floor holds, but a sharply more hawkish Fed (September-hike odds jump to ~70%), a firmer dollar and weakening alumina cap the rebound, while a US–Iran oil spike adds a two-sided risk premium.* |
 | [Jul 8, 2026](/aluminum-market-daily/2026-07-08-destocking-floor-premiums-surge-rebound-capped){:target="_blank"} | *Aluminum stabilizes and bounces off its lows as China's four-year-high destocking and surging ex-China premiums build a floor, while bearish moving averages, off-season demand and a hawkish Fed cap the rebound.* |
 
 </div>
