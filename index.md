@@ -66,6 +66,7 @@ Daily notes on the aluminum value chain (bauxite, alumina, and primary aluminum)
 
 | Date | Brief |
 | ---- | ----- |
+| [Jul 11, 2026](/aluminum-market-daily/2026-07-11-soft-jobs-cool-fed-hikes-dollar-eases-destock-floor-holds){:target="_blank"} | *Aluminum holds its low-level consolidation as a soft US June jobs report cools Fed-hike bets (September-hike odds ease to ~56%) and softens the dollar (DXY ~100.9), lending support, while LME pulls back (−1.95%) from its geopolitics-driven spike as oil eases; China's continuing destock and the shift toward an H2 deficit underpin SHFE.* |
 | [Jul 9, 2026](/aluminum-market-daily/2026-07-09-destocking-floor-holds-hawkish-fed-oil-spike-cap-rebound){:target="_blank"} | *Aluminum consolidates at low levels as the four-year-high destocking floor holds, but a sharply more hawkish Fed (September-hike odds jump to ~70%), a firmer dollar and weakening alumina cap the rebound, while a US–Iran oil spike adds a two-sided risk premium.* |
 | [Jul 8, 2026](/aluminum-market-daily/2026-07-08-destocking-floor-premiums-surge-rebound-capped){:target="_blank"} | *Aluminum stabilizes and bounces off its lows as China's four-year-high destocking and surging ex-China premiums build a floor, while bearish moving averages, off-season demand and a hawkish Fed cap the rebound.* |
 
