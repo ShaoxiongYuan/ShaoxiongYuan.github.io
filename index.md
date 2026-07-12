@@ -66,9 +66,9 @@ Daily notes on the aluminum value chain (bauxite, alumina, and primary aluminum)
 
 | Date | Brief |
 | ---- | ----- |
+| [Jul 12, 2026](/aluminum-market-daily/2026-07-12-weekend-destock-floor-holds-eyes-cpi-warsh-twin-test){:target="_blank"} | *Weekend edition — markets closed after Friday's LME give-back (−1.95% to $3,146) as the dollar firmed back to ~101 from its post-jobs dip; China's destock floor and the H2-deficit story keep SHFE consolidating near 23,050, but the whole complex now waits on next week's twin test — June CPI (seen cooling to ~3.9%) and Chair Warsh's first congressional testimony Tuesday/Wednesday — to set the Fed-hike path and the dollar.* |
 | [Jul 11, 2026](/aluminum-market-daily/2026-07-11-soft-jobs-cool-fed-hikes-dollar-eases-destock-floor-holds){:target="_blank"} | *Aluminum holds its low-level consolidation as a soft US June jobs report cools Fed-hike bets (September-hike odds ease to ~56%) and softens the dollar (DXY ~100.9), lending support, while LME pulls back (−1.95%) from its geopolitics-driven spike as oil eases; China's continuing destock and the shift toward an H2 deficit underpin SHFE.* |
 | [Jul 9, 2026](/aluminum-market-daily/2026-07-09-destocking-floor-holds-hawkish-fed-oil-spike-cap-rebound){:target="_blank"} | *Aluminum consolidates at low levels as the four-year-high destocking floor holds, but a sharply more hawkish Fed (September-hike odds jump to ~70%), a firmer dollar and weakening alumina cap the rebound, while a US–Iran oil spike adds a two-sided risk premium.* |
-| [Jul 8, 2026](/aluminum-market-daily/2026-07-08-destocking-floor-premiums-surge-rebound-capped){:target="_blank"} | *Aluminum stabilizes and bounces off its lows as China's four-year-high destocking and surging ex-China premiums build a floor, while bearish moving averages, off-season demand and a hawkish Fed cap the rebound.* |
 
 </div>
 
