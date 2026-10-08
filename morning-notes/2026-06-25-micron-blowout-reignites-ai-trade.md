@@ -43,17 +43,9 @@ sentiment:
   - { label: "The Fear Bid Unwinds: Gold and Bitcoin Slide as Risk Appetite Returns", tone: neutral, pct: 55 }
   - { label: "Core PCE at 8:30am Is the Hawkish-Fed Wildcard That Could Cap the Rally", tone: bearish, pct: 52 }
 
-tags:
-  - Micron
-  - AI Memory
-  - Qualcomm
-  - HBM4
-  - Semiconductors
-  - Core PCE
-  - Oil
-  - Gold
-  - Iran
-  - Bitcoin
+tags: ["Micron", "AI Memory", "Qualcomm", "HBM4", "Semiconductors", "Core PCE"]
+redirect_from:
+  - /morning-notes/2026-06-25-micron-blowout-reignites-ai-trade-nasdaq-jumps-2pct-revenue-41-5b-margins-81pct-qualcomm-40b-data-center-sandisk-wd-double-digits-kospi-6pct-sk-hynix-16pct-oil-below-70-gold-4038-core-pce-bitcoin-60k
 ---
 
 Thursday, June 25, 2026, written pre-market around 7:30am ET. The verdict is in, and it was emphatic. Micron's fiscal Q3 print last night did not just clear the lowered bar from Tuesday's rout, it vaulted over it, and the AI-memory complex is roaring back this morning. Nasdaq 100 futures are up about 2.1 percent near 30,600, S&P 500 futures are firmer by roughly 0.7 percent near 7,490, and the Dow is up a more modest 137 points as the gains concentrate in technology. Micron itself is indicated up 17 to 18 percent pre-market, Qualcomm is up double digits on a separate data-center bombshell from its investor day, and the entire storage and memory chain is ripping in sympathy. As always with a pre-open note, these are overnight and futures levels and they can move by the bell, and this morning there is a live wildcard, with core PCE due at 8:30am ET.

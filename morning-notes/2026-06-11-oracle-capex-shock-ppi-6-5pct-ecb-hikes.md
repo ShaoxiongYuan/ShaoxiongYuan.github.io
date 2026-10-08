@@ -49,17 +49,9 @@ sentiment:
   - { label: "SpaceX $75B IPO Prices Tonight",                 tone: bullish,  pct: 70 }
   - { label: "US-Iran Strikes Day 2, Ceasefire Dead",          tone: bearish,  pct: 25 }
 
-tags:
-  - Oracle
-  - PPI
-  - ECB
-  - SpaceX
-  - Semiconductor
-  - Iran
-  - Oil
-  - Inflation
-  - INTC
-  - Gold
+tags: ["Oracle", "PPI", "ECB", "SpaceX", "Semiconductors", "Iran"]
+redirect_from:
+  - /morning-notes/2026-06-11-oracle-q4-beats-95b-ai-capex-spooks-9pct-drop-ppi-65pct-yoy-six-year-high-ecb-hikes-25bp-spacex-ipo-prices-135-us-iran-strikes-brent-92-gold-six-month-low
 ---
 
 Thursday pre-PPI, 7:30 AM ET. Overnight action is defined by two forces pulling markets in opposite directions: a semiconductor rebound led by Intel and Applied Materials is lifting Nasdaq futures over 1%, while Oracle's post-earnings plunge and hotter-than-expected PPI data remind investors that the AI capex cycle comes with a cost, and the Hormuz-driven energy shock is still pushing through the pipeline. Futures are trading green on balance, with the S&P 500 up 0.71% and the Nasdaq up 1.17%, as the chip recovery outweighs the drag from Oracle and macro concerns. But the risk calendar is front-loaded today: May PPI lands at 8:30 AM, ECB rate decision at 12:15 PM, and SpaceX prices the largest IPO in history after the close.

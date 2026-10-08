@@ -4,7 +4,7 @@ title: "Aluminum Morning Brief, July 28, 2026"
 headline: "LME inventories hit a record low of 271kt even as oil slides to $88. The tape holds at $3,171 on physical tightness."
 headline_zh: "LME 库存降至 27.1 万吨的历史新低,油价跌至 88 美元;实物偏紧令盘面守在 3,171 美元。"
 date: 2026-07-28
-tags: [LME Stocks Record Low 271kt, Lowest Since 1998, Oil Collapses to 88, Strike Pause Third Day, Premium Fully Drained, LME Holds 3171, Dollar Back to 1015, Destock Floor Deepens, Billet Builds, FOMC July 29]
+tags: ["LME Stocks Record Low", "Oil 88", "LME 3171", "Destock Deepens", "Billet Build", "FOMC Watch"]
 author: Steven Yuan
 data_window: "LME 3M Monday July 27 confirmed close $3,171.00/mt (+0.19%, +$5.95 vs Friday's $3,165.05) is the last confirmed settlement; written Tuesday July 28 morning, before the Tuesday LME London settle and with the SHFE overnight/day session in progress — the SHFE AL2608 level is estimated and labeled as interpretation; LME stock data as of the July 24 report (271,275 mt total, 245,350 mt on-warrant); several China spot/premium prints are the July 27 SMM caliber (East China parity to +10 vs SHFE 07, ~−20 to parity vs 08; Central China −100 to −120 vs 08); aluminum-ingot inventory to the mid-late-July SMM series (major-consumption-area ~1.022 Mt), billet ~121 kt as of July 23 with July 14–20 withdrawals of 33 kt; alumina futures main ~2,710 and regional spot as of July 24; CME FedWatch snapshot as of July 27 (hold ~65.7% / hike ~34.3%); DXY ~101.50 (−0.03%) and Brent ~$87.83 (−0.09%) as of July 28, after Monday's September-contract settle of $88.36 (−8.7%); the US–Iran strike pause, Tehran's halt to retaliation and the Oman-brokered Hormuz shipping talks are carried as confirmed news with the aluminum price impact labeled interpretation"
 snapshot:
@@ -25,6 +25,8 @@ drivers:
   bullish: 6
   bearish: 5
   net: "Floor-deepens-cap-intact — the week's read has flipped in composition, not in level. The oil premium that carried the rebound is now fully drained (Brent −8.7% Monday to $88.36, ~$87.83 Tuesday, a third day of the US–Iran strike pause with Tehran halting retaliation and Oman-brokered Hormuz shipping talks under way), yet LME still closed Monday higher at a confirmed $3,171.00 (+0.19%) — because the tightness story stopped being a narrative and became a print: LME stocks at 271,275 mt on July 24 are the lowest in records back to January 1998, below the August 2022 low, and equal to under one day of global consumption, with on-warrant at 245,350 mt. China's destock still floors the base (~1.022 Mt major-area, 1 Mt in sight) but its momentum keeps fading — billet a second week of build to ~121 kt with processing fees at the cost line. Against that, the dollar has firmed back to ~101.50 into a live July 29 FOMC (~66% hold / ~34% hike, September the consensus hike), $3,200 remains unbroken on three attempts, and alumina keeps eroding the cost floor. The gate is the FOMC and $3,200; the floor is now an exchange-stock record, not a war premium"
+redirect_from:
+  - /aluminum-market-daily/2026-07-28-lme-stocks-record-low-271kt-oil-collapses-88-lme-holds-3171-destock-floor-deepens-eyes-fomc-tomorrow
 ---
 
 <div class="lang lang-zh" markdown="1">

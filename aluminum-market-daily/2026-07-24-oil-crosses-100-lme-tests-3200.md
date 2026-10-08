@@ -5,7 +5,7 @@ headline: "Houthi tanker strikes push Brent above $100. LME rebounds to $3,192 a
 headline_zh: "胡塞武装袭击油轮推动 Brent 突破 100 美元;LME 反弹至 3,192 美元,再测 3,200 美元上限。"
 date: 2026-07-24
 author: Steven Yuan
-tags: [Oil Crosses 100 Red Sea, Houthi Tanker Strikes, LME Rebounds 3192, Tests 3200 Hard Cap, Supply-Risk Premium Revives, Destock Floor, Eyes FOMC July 29]
+tags: ["Oil Above 100", "Houthi Strikes", "LME 3192", "3200 Cap", "Supply Risk", "Destock Floor"]
 data_window: "Thursday July 23 LME confirmed close (~$3,191.55, +0.03% d/d, ~+1.7% WoW) as the last confirmed settlement, plus an unconfirmed Friday July 24 intraday LME read; SHFE Thursday July 23 close/overnight estimated with Friday intraday and no confirmed Friday settlement at writing; several China spot/premium prints lag to the July 21–23 SMM caliber (A00 ~23,190 on July 21, firming with the rebound); aluminum-ingot inventory to the mid-late-July SMM series (major-consumption-area ~1.022 Mt); CME FedWatch snapshot as of July 22–24; DXY (~100.6) and Brent (~$100–101) as of July 23–24; the Red Sea Houthi tanker strikes and ongoing Hormuz near-halt carried as confirmed news with the aluminum price impact labeled interpretation"
 snapshot:
   - { label: "SHFE AL2608", value: "~23,300–23,500 (Thu/Fri, est/firm)", dir: up }
@@ -24,6 +24,8 @@ drivers:
   bullish: 6
   bearish: 4
   net: "Constructive-but-capped — a fresh Red Sea/Hormuz supply-risk surge drove Brent above $100 (>+30% MTD) and revived the ex-China energy/supply-risk premium, which together with the accelerating destock lifted LME back to a confirmed ~$3,191.55 (Thursday, ~+1.7% WoW) now pressing the $3,200 hard cap; the dollar eased to ~100.6, but the same oil spike is a live inflation tail keeping Fed-hike expectations alive into the July 28–29 FOMC — so upside is gated by whether LME can clear $3,200 on a confirmed close, whether the destock breaks below 1 Mt, and whether the FOMC/oil-inflation tail turns the macro against metals"
+redirect_from:
+  - /aluminum-market-daily/2026-07-24-oil-crosses-100-red-sea-houthi-strikes-lme-rebounds-3192-tests-3200-destock-floor-holds-eyes-fomc-july-29
 ---
 
 <div class="lang lang-zh" markdown="1">

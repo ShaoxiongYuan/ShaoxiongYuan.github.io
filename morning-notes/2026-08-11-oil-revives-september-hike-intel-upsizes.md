@@ -44,17 +44,9 @@ sentiment:
   - { label: "Intel Upsizing a $15 Billion Raise to $20 Billion and Clearing It Overnight at $95 Answers Yesterday's Question in the Constructive Direction, Because the Marginal Buyer of AI Infrastructure Paper Not Only Exists but Absorbed a Third More Than Was Offered, Though the Size Itself Concedes the Funding Gap Was Larger Than Management First Admitted", tone: bullish, pct: 62 }
   - { label: "Demand Is Still Not the Variable Anywhere in the Complex, With TSMC July Revenue Up 44.7%, Super Micro Carrying More Than $60 Billion of Single-Quarter Orders and Rocket Lab's Backlog Up 137%, So the Only Live Question Across Tonight's Prints Is How Any of It Gets Financed", tone: bullish, pct: 58 }
 
-tags:
-  - Oil
-  - Federal Reserve
-  - CPI
-  - Intel
-  - Super Micro
-  - CoreWeave
-  - TSMC
-  - Rocket Lab
-  - Hormuz
-  - Treasuries
+tags: ["Oil", "Fed", "CPI", "Intel", "Super Micro", "CoreWeave"]
+redirect_from:
+  - /morning-notes/2026-08-11-oil-puts-september-hike-back-brent-8941-2y-4241-odds-52pct-intel-upsizes-20b-at-95-tsmc-july-447pct-rocket-lab-record-234m-coreweave-smci-tonight-tokyo-shut-cpi-tomorrow-gold-4447-bitcoin-65k
 ---
 
 Tuesday, August 11, 2026, written at 9:20am Eastern, ten minutes before the bell, so the marks below are live and several will move within the hour. The index level is not the story and neither is the earnings tape. The story is that four trading days ago July payrolls printed minus 23,000 and the market declared the hiking cycle finished, and since then crude has risen four consecutive sessions and put the September hike back to a coin toss. Nothing about growth changed. Brent changed. That is a different market from the one that closed last Friday, and almost nobody has repriced equities for it.

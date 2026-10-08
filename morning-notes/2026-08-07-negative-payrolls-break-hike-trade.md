@@ -44,17 +44,9 @@ sentiment:
   - { label: "The Unemployment Rate Fell to 4.1 Percent and That Is the Worst Number in the Release, Because Participation Dropped to 61.4 Percent, the Lowest in More Than Five Years, So the Rate Improved Through People Leaving the Workforce Rather Than Through Anyone Being Hired, and a Falling Denominator Is the One Way a Soft Labour Market Can Keep Flattering the Headline the Fed Watches Most", tone: bearish, pct: 24 }
   - { label: "Equities Are Rallying on the Discount Rate and Not on Growth, With Nasdaq Futures Up 1.16 Percent While Russell Futures Sit Lower and Gold Rips 4.8 Percent on the Week to $4,411, and Twenty-Four Hours After Storage Was Sold on Pricing Visibility the Report Landed That Samsung SK Hynix and Micron Have Sold Out All of 2027 DRAM and HBM With Customers Being Filled at Only 60 to 70 Percent", tone: bullish, pct: 64 }
 
-tags:
-  - Payrolls
-  - Federal Reserve
-  - Atlassian
-  - Cloudflare
-  - Trade Desk
-  - Microchip
-  - DRAM
-  - Vistra
-  - Gold
-  - Hormuz
+tags: ["Payrolls", "Fed", "Atlassian", "Cloudflare", "Trade Desk", "Microchip"]
+redirect_from:
+  - /morning-notes/2026-08-07-hike-trade-breaks-payrolls-23k-revisions-103k-participation-614-sept-odds-20pct-atlassian-32pct-cloudflare-16pct-trade-desk-29pct-microchip-10pct-2027-dram-sold-out-vistra-helix-kospi-6400-gold-4411-bitcoin-65k
 ---
 
 Friday, August 7, 2026, written at 9:15am Eastern, forty-five minutes before the open, so the pre-market marks below can and probably will move. The July employment report landed at 8:30 and it broke the trade that has organised this market since the March oil shock. Non-farm payrolls fell by 23,000 against a consensus of roughly 80,000, the first outright decline in months, and the Bureau of Labor Statistics took another 103,000 out of the prior two months, cutting May by 66,000 and June by 37,000 to leave June at just 20,000. Average hourly earnings rose 3.2 percent year over year against 3.5 percent expected. The unemployment rate fell to 4.1 percent from 4.2 percent, which sounds like the one piece of good news in the release and is in fact the worst part of it, because the participation rate dropped to 61.4 percent, the lowest reading in more than five years. The rate improved because people stopped looking, not because anybody got hired. September hike odds collapsed to roughly 20 percent from about 55 percent before the print, and from the 82 percent the futures market carried in late July. For five months the working assumption on every desk has been that a triple-digit crude shock forces the Fed to tighten into a slowing economy. Half of that assumption died this morning.

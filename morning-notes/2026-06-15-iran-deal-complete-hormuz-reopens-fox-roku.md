@@ -47,15 +47,9 @@ sentiment:
   - { label: "SpaceX Day 2 Momentum Holds, Risk-On Broadens",  tone: bullish,  pct: 70 }
   - { label: "G7 Summit Trade and AI Tensions Linger",          tone: bearish,  pct: 35 }
 
-tags:
-  - Iran
-  - Oil
-  - Fox
-  - Roku
-  - SpaceX
-  - FOMC
-  - G7
-  - Gold
+tags: ["Iran", "Oil", "Fox", "Roku", "SpaceX", "FOMC"]
+redirect_from:
+  - /morning-notes/2026-06-15-us-iran-peace-deal-complete-strait-of-hormuz-reopens-oil-crashes-6pct-wti-80-brent-83-fox-roku-22b-merger-spacex-spcx-day-2-g7-evian-fomc-wednesday-warsh-debut-gold-4320-bitcoin-65k
 ---
 
 Monday pre-open, 6:30 AM ET. Futures are surging across the board to start a holiday-shortened week after President Trump declared the US-Iran peace deal "now complete" late Sunday, with a formal signing ceremony set for Friday in Switzerland. S&P 500 futures are up 1.2%, Nasdaq 100 futures lead at +2.1%, and Dow futures add 1.0%. Oil is cratering on the news: WTI plunged 5.5% to $80.20 and Brent fell 5.2% to $82.80, both breaking below levels last seen in March as markets reprice the reopening of the Strait of Hormuz. The VIX collapsed 9.1% to 16.08, its lowest level since the war began in late February. In corporate news, Fox Corporation announced it will acquire Roku in a $22 billion deal that reshapes the streaming landscape. SpaceX is indicated up roughly 5% pre-market on its second day of trading. Asia posted its strongest session of the year, led by Japan's Nikkei surging 5%. The G7 summit opens today in Evian, France, and the FOMC begins its two-day meeting tomorrow with Kevin Warsh's debut as Chair and fresh dot plot projections. Markets are closed Friday for Juneteenth.

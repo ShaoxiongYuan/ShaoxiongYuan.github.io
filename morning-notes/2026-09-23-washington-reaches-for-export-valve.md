@@ -44,17 +44,9 @@ sentiment:
   - { label: "Brent Fell Below $100 for the First Time Since Early September on the Saudi Pipeline Restart and the First Mediated US-Iran Talks Since July, So the Crude Leg Is Genuinely De-escalating", tone: bullish, pct: 64 }
   - { label: "The Dollar at a Two Month High and Gold Down a Third Session With the Front End Pinned at Cycle Highs Is the Rally Still Paying for Its Own Next Hike", tone: bearish, pct: 70 }
 
-tags:
-  - Diesel Crack
-  - Energy Policy
-  - Crude Oil
-  - Iran Diplomacy
-  - US-China Summit
-  - Federal Reserve
-  - Treasury Market
-  - Quantum Computing
-  - Semiconductors
-  - Homebuilders
+tags: ["Diesel Crack", "Energy Policy", "Oil", "Iran Diplomacy", "US-China Summit", "Fed"]
+redirect_from:
+  - /morning-notes/2026-09-23-washington-reaches-for-the-export-valve-diesel-652-record-brent-under-100-sixth-straight-decline-dollar-10085-two-month-high-kospi-7081-hang-seng-minus11pct-into-the-xi-summit
 ---
 
 Wednesday, September 23, 2026, written at 9:25 a.m. Eastern, thirty five minutes before the open. Futures and pre-market levels below are indicative and can move before the bell. Tokyo is shut for a fourth consecutive session for the autumnal equinox and reopens tomorrow, so Asia has now traded four days without its largest cash market.

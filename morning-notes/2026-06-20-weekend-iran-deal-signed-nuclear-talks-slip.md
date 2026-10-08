@@ -44,17 +44,9 @@ sentiment:
   - { label: "Micron Tuesday Is the Real AI-Memory Verdict",                     tone: neutral,  pct: 55 }
   - { label: "Space Names Cool as SPCX Fever Fades Into Rocket Lab Index Entry", tone: neutral,  pct: 50 }
 
-tags:
-  - Iran
-  - Hormuz
-  - FOMC
-  - Warsh
-  - Oil
-  - Micron
-  - Semiconductors
-  - Qualcomm
-  - SpaceX
-  - RocketLab
+tags: ["Iran", "Hormuz", "FOMC", "Warsh", "Oil", "Micron"]
+redirect_from:
+  - /morning-notes/2026-06-20-weekend-wrap-iran-deal-signed-nuclear-talks-postponed-warsh-hawkish-pivot-oil-slide-extends-wti-74-brent-77-micron-tuesday-qualcomm-tenstorrent-rocket-lab-nasdaq100-monday-gold-4300-bitcoin-64k
 ---
 
 Saturday, June 20, 2026. There is no live tape this weekend. US equity and bond markets were shut Friday for Juneteenth and only reopen Monday, June 22, so the last cash prints on the screen are still Thursday's June 18 closes. Think of this as a stocktaking exercise rather than a reaction note. The week that just ended carried two of the biggest swing factors of the year, the formal signing of the US-Iran peace deal and Kevin Warsh's hawkish FOMC debut, and the way those two forces interact is what sets up Monday's reopen and Tuesday's Micron print. Greater China is still partly offline into the weekend, with Hong Kong and the mainland out for the Dragon Boat holiday, while Japan was the only major market trading Friday and slipped modestly off its highs.

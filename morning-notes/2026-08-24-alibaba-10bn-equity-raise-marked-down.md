@@ -44,17 +44,9 @@ sentiment:
   - { label: "Crude Is Falling Into a Two O'Clock Sanctions Announcement Aimed at the Buyers of Iranian Oil on the Same Morning Tehran Threatens That Not a Drop Leaves the Persian Gulf, Which Means the Tape Is Pricing Carve-Outs and Enforcement Delay Rather Than Supply Loss", tone: bearish, pct: 38 }
   - { label: "The Debasement Trade Did Not Pause for Any of It, With Gold Adding Another 0.83 Percent to $4,645.74 and Bitcoin Up Two Percent to $79,043 While the Thirty-Year Eased Three Basis Points and the Dollar Stayed Beneath Ninety-Nine", tone: bullish, pct: 61 }
 
-tags:
-  - Alibaba
-  - AI Capex Funding
-  - Iran Sanctions
-  - Samsung
-  - Nvidia
-  - Canada Tariffs
-  - Gold
-  - Jackson Hole
-  - Kevin Warsh
-  - Strait of Hormuz
+tags: ["Alibaba", "AI Capex", "Iran Sanctions", "Samsung", "Nvidia", "Canada Tariffs"]
+redirect_from:
+  - /morning-notes/2026-08-24-alibaba-102b-equity-for-ai-largest-hk-follow-on-ever-baba-10pct-samsung-87pct-kospi-312pct-bessent-economic-d-day-2pm-iran-threatens-every-gulf-barrel-crude-falls-canada-50pct-tariffs-gold-4646
 ---
 
 Monday, August 24, 2026, written at 9:15 a.m. Eastern, roughly fifteen minutes before the cash open, so every US level below is a pre-market mark and the two o'clock sanctions headline has not printed yet. Asia closed hard, Europe is flat with technology leaking, and the single most informative event of the weekend was not a policy decision but a capital raise.

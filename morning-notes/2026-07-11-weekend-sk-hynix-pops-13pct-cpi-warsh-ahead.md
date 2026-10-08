@@ -42,17 +42,9 @@ sentiment:
   - { label: "But the Rally Was Narrow, Small Caps Fell and the Real Overhang Is Rates as June CPI and New Fed Chair Warsh's First Testimony Land Tuesday", tone: neutral, pct: 48 }
   - { label: "The War Premium Kept Bleeding Out of Oil as US-Iran Talks Survive the Broken Ceasefire, Leaving the Weekend Middle East Headline as the One Wildcard Into Monday", tone: neutral, pct: 47 }
 
-tags:
-  - SK Hynix
-  - AI Memory
-  - Nvidia
-  - June CPI
-  - Fed Warsh
-  - Bank Earnings
-  - TSMC
-  - Netflix
-  - Iran
-  - Oil
+tags: ["SK Hynix", "AI Memory", "Nvidia", "June CPI", "Warsh", "Bank Earnings"]
+redirect_from:
+  - /morning-notes/2026-07-11-sk-hynix-debut-caps-ai-memory-week-13pct-pop-chips-lead-record-friday-nvidia-meta-war-premium-bleeds-week-ahead-cpi-warsh-banks-tsmc-netflix-oil-72-gold-4121-bitcoin-63k
 ---
 
 Saturday, July 11, 2026, weekend wrap written with markets closed. The week that the whole tape had been building toward is over, and it delivered. SK Hynix went public on the Nasdaq Friday and jumped about 13 percent from its offering price to close near 168 dollars, after pricing its American depositary receipts at 149 dollars and raising 26.5 billion dollars, the largest first-time US listing any foreign company has ever done. The primary market did not just accept the AI memory trade, it embraced it, and the secondary tape followed: the S&P 500 closed at a fresh high near 7,575 with Nvidia up almost 4 percent and Meta up about 6 percent doing most of the lifting, the Dow added roughly 150 points to sit near its own record around 52,637, and the Nasdaq Composite pushed to about 26,281. Yet the move was narrow. Small caps went the other way, the Russell 2000 slipping about half a percent, a quiet reminder that this is still a handful of AI names carrying the index rather than a broad advance. Oil kept easing, WTI back near 72 and Brent near 76, as Washington confirmed it will keep talking to Tehran even with the ceasefire officially over. With the marquee listing behind us, the market now pivots to the two tests that actually decide the next leg: Tuesday's June CPI landing alongside new Fed Chair Kevin Warsh's first testimony to Congress, and an earnings week that finally moves from headlines to numbers with the big banks, ASML, TSMC and Netflix.

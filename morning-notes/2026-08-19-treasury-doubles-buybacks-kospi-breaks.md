@@ -44,17 +44,9 @@ sentiment:
   - { label: "Korea's Kospi Fell 5.80% and Tripped a Sidecar Halt While SK Hynix Dropped 9.75% on the Same Day It Announced the Largest Share Cancellation in Korean History, So the Memory Complex Is Now Selling Its Own Capital Return, Which Is the Signature of a Positioning Unwind Rather Than a Fundamental One", tone: bearish, pct: 28 }
   - { label: "US Futures Are Up Roughly Half a Percent Across the Board With the Nasdaq Not Leading and the Russell Ahead of It, So Relief at the Long End Is Not Flowing Into Long-Duration Equity the Way Yesterday's Duration Thesis Predicted, and the $3 Trillion of Off-Balance-Sheet AI Commitments Is Why", tone: neutral, pct: 46 }
 
-tags:
-  - Treasuries
-  - Semiconductors
-  - SK Hynix
-  - Analog Devices
-  - Target
-  - Oil
-  - Iran
-  - AI Capex
-  - Federal Reserve
-  - China
+tags: ["Treasuries", "Semiconductors", "SK Hynix", "Analog Devices", "Target", "Oil"]
+redirect_from:
+  - /morning-notes/2026-08-19-treasury-doubles-long-end-buybacks-30y-5196-kospi-58pct-sidecar-sk-hynix-975pct-on-29b-buyback-nikkei-316pct-wsj-3t-off-balance-sheet-adi-record-40pct-target-tariff-refund-unitree-629pct
 ---
 
 Wednesday, August 19, 2026, written at 9:15am Eastern, fifteen minutes before the bell, with the July FOMC minutes at 2:00pm and three retailers already out. Two things happened overnight and they point in opposite directions. The US Treasury said it will at least double the size of its long-dated buyback operations, and the 30-year fell nine basis points off Tuesday's nineteen-year high. Then Asia's semiconductor complex fell apart anyway, with Korea's Kospi down 5.80% and an exchange halt tripped inside the first hour. Reconciling those two facts is the whole job this morning.

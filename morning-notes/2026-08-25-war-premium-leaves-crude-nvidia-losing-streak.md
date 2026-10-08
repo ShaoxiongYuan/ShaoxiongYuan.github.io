@@ -44,17 +44,9 @@ sentiment:
   - { label: "Equal-Weight Software Has Beaten Equal-Weight Semiconductors by Roughly Fifty Points Since June 22, the Widest Gap in the History of Either Fund, With 59 of 60 Chip Names Lower Into Nvidia's Print Tomorrow Night", tone: bearish, pct: 36 }
   - { label: "German Ifo at 88.8 Is a One-Year High and Q2 GDP Was Revised Up to 0.3%, Which Means Europe Is Recovering Into Cheaper Energy Rather Than Away From It", tone: bullish, pct: 66 }
 
-tags:
-  - Crude Oil
-  - Iran Sanctions
-  - Nvidia
-  - Semiconductors
-  - Software
-  - Jackson Hole
-  - Kevin Warsh
-  - German Ifo
-  - Dick's Sporting Goods
-  - Shein IPO
+tags: ["Oil", "Iran Sanctions", "Nvidia", "Semiconductors", "Software", "Jackson Hole"]
+redirect_from:
+  - /morning-notes/2026-08-25-war-premium-comes-out-of-crude-brent-8910-wti-8204-one-week-low-sanctions-land-soft-pakistan-mediates-nvidia-seventh-straight-loss-software-beats-chips-by-record-50-points-dicks-cuts-19pct-ifo-888
 ---
 
 Tuesday, August 25, 2026, written at 9:15 a.m. Eastern, fifteen minutes before the cash open, so every US level below is a pre-market mark and the 10 a.m. confidence print has not landed. Yesterday's two o'clock headline has now printed, and the most important thing about it is what it did not contain.

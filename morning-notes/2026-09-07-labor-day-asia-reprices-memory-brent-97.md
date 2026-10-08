@@ -44,17 +44,9 @@ sentiment:
   - { label: "The Tanker War Changed Category Over the Weekend When the IRGC Fired Ballistic Missiles at Two US Navy Warships and CENTCOM Answered by Sinking or Disabling Three Iranian State Tankers, Taking Brent to $97 With OPEC+ Now Holding Quotas Flat Into a Physical Shortage", tone: bearish, pct: 26 }
   - { label: "Four Trading Sessions Separate This Market From a Fed Decision, With PPI and the ECB on Thursday and an August CPI on Friday That Cannot Contain the September Oil Impulse the Committee Will Actually Be Voting On", tone: neutral, pct: 46 }
 
-tags:
-  - Labor Day
-  - Memory Chips
-  - SK Hynix
-  - Strait of Hormuz
-  - Crude Oil
-  - OPEC
-  - Germany AfD
-  - Federal Reserve
-  - CPI
-  - Oracle
+tags: ["Labor Day", "Memory Chips", "SK Hynix", "Hormuz", "Oil", "OPEC"]
+redirect_from:
+  - /morning-notes/2026-09-07-labor-day-asia-reprices-memory-without-us-kospi-plus46pct-sk-hynix-plus83pct-nikkei-66400-inventories-under-10-days-us-sinks-three-iranian-tankers-brent-97-opec-holds-afd-438pct-cpi-friday
 ---
 
 Monday, September 7, 2026, written into a Labor Day holiday. The New York Stock Exchange and Nasdaq are shut, the cash Treasury market is shut, equity index futures close early at 1:00 p.m. Eastern, and everything below is either a foreign settlement or a thin holiday quote. Cash trading resumes Tuesday at 9:30 a.m. Nothing in this note has been priced by an American investor yet, which is precisely what makes it worth reading.

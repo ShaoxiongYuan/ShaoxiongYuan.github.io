@@ -51,16 +51,9 @@ sentiment:
   - { label: "SMCI -13% Dilution Despite AI Demand",        tone: bearish,  pct: 35 }
   - { label: "Oracle Q4 Tonight, $553B Backlog Test",       tone: neutral,  pct: 50 }
 
-tags:
-  - CPI
-  - Inflation
-  - Iran
-  - Oil
-  - SMCI
-  - Oracle
-  - Semiconductor
-  - Bitcoin
-  - VIX
+tags: ["CPI", "Inflation", "Iran", "Oil", "SMCI", "Oracle"]
+redirect_from:
+  - /morning-notes/2026-06-10-may-cpi-42-three-year-high-us-iran-strikes-apache-brent-93-smci-13pct-dilution-oracle-q4-tonight-bitcoin-19month-low-vix-spikes
 ---
 
 Wednesday post-CPI, 8:45 AM ET. The dual punch today is a CPI print that confirms the Iran-driven energy shock is flowing through to headline inflation, paired with an overnight military re-escalation that makes the underlying supply disruption worse. May CPI came in at 4.2% year-over-year, matching consensus and marking a three-year high. The number is ugly on the surface: energy costs surged 23.5% year-over-year (vs. 17.9% in April), food accelerated to 3.1% (from 2.3%), and shelter ticked up to 3.4%. This is the third consecutive monthly acceleration in headline inflation. However, the saving grace is core CPI, which rose just 0.2% month-over-month versus the 0.3% consensus, while annual core held at 2.9%. That below-consensus core read is what allowed futures to pare their early losses; it tells you the inflation problem is concentrated in energy, not broadening. The question for Kevin Warsh's first FOMC on June 16-17 is whether a structurally driven energy shock warrants a rate hike or whether the Fed should look through it. Markets still price over 60% odds of a hike by October, but today's core print gives the doves some ammunition.

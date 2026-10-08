@@ -44,17 +44,9 @@ sentiment:
   - { label: "ISM Prices Paid Jumped 6.8 Points to 77.9 on Thursday and Eurozone Inflation Printed 3.8% With Energy at 18.8% This Morning, While American Hourly Earnings Grew 3.0% Against a 3.4% Headline CPI, So Input Costs Are Accelerating Into Falling Real Wages", tone: bearish, pct: 81 }
   - { label: "The October Meeting Has Been Priced at 70%, 35%, 64% and 16% in Five Sessions on Three Data Points, Two of Which Carry Serious Interpretation Problems, Which Describes a Market Tracking the Last Print Rather Than Holding a View", tone: bearish, pct: 70 }
 
-tags:
-  - Labor Market
-  - Federal Reserve
-  - Inflation
-  - Treasury Market
-  - Crude Oil
-  - Europe
-  - Memory
-  - Artificial Intelligence
-  - Consumer
-  - Earnings
+tags: ["Labor Market", "Fed", "Inflation", "Treasuries", "Oil", "Europe"]
+redirect_from:
+  - /morning-notes/2026-10-02-payrolls-29k-against-90k-with-60k-cut-from-prior-months-october-odds-go-64pct-to-16pct-ism-prices-paid-779-eurozone-cpi-38pct-wti-minus42pct-to-8895-gold-4250
 ---
 
 Friday, October 2, 2026, written at 9:30 a.m. Eastern, half an hour after the payrolls release and half an hour before the open. The September employment report and the eurozone flash estimate are both in hand. Futures and pre-market levels are indicative and can move before the bell. Mainland China and Hong Kong remain shut through October 7.

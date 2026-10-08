@@ -42,17 +42,9 @@ sentiment:
   - { label: "The Demand Side Never Cracked: Asia Chips Ripped on a Kospi Up 3.5% With SK Hynix and Samsung Leading, and ServiceNow Beat and Lifted Its AI Target, Confirming the Money Is Being Spent for a Reason", tone: bullish, pct: 47 }
   - { label: "Oil Opens a Second Chokepoint: Houthis Struck Saudi Tankers in the Red Sea on a 12th Night of US Strikes, Pushing Brent Toward $97 and Reviving the Inflation Tail Straight Into the July 28-29 FOMC", tone: bearish, pct: 52 }
 
-tags:
-  - AI Capex
-  - Alphabet
-  - Tesla
-  - Chip Demand
-  - ServiceNow
-  - Red Sea
-  - Oil Surge
-  - Intel
-  - ECB
-  - FOMC
+tags: ["AI Capex", "Alphabet", "Tesla", "Chip Demand", "ServiceNow", "Red Sea"]
+redirect_from:
+  - /morning-notes/2026-07-23-big-tech-capex-bill-comes-due-alphabet-tesla-sink-negative-fcf-asia-chips-rip-kospi-35pct-servicenow-ai-beat-oil-second-front-houthis-saudi-tankers-red-sea-brent-97-intel-ecb-gold-4100-bitcoin-66k
 ---
 
 Thursday, July 23, 2026, and the verdict the whole tape was waiting for arrived after last night's close, but it was not the clean green light the bulls wanted. Alphabet and Tesla, the first mega-caps of the season, both fell hard even though the businesses held up, because each one raised the price of admission to the AI race and reported negative free cash flow in the quarter. US stock futures are lower, with S&P 500 and Dow futures each off about 0.4 percent and Nasdaq 100 futures down near 0.5 percent as the Big Tech pair drags. Underneath that, though, the demand side of the trade is roaring: Asia went the other way overnight, with South Korea's Kospi up 3.5 percent behind SK Hynix and Samsung, and ServiceNow jumped about 7 percent after hours on an AI-fueled beat. The second story is oil, which has opened a genuinely new front. Iran-backed Houthis struck two Saudi tankers in the Red Sea on a twelfth night of US strikes, giving the market a two-chokepoint problem and sending Brent up roughly 4.6 percent toward $97. Intel reports tonight and the ECB decides at midday.

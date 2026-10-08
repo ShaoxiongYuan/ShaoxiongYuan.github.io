@@ -42,17 +42,9 @@ sentiment:
   - { label: "Monday's Seoul Black Monday Reversed Overnight as SK Hynix and Samsung Led a Kospi Rebound and US Memory Names Jumped Pre-Market, Confirming the Crash Was a Positioning Flush and Not a Broken Thesis", tone: bullish, pct: 55 }
   - { label: "The Catch Is That the Cool Print Reflects June's Oil Crash While July's Hormuz Spike Is Fresh, So Trump's 20% Strait Fee and Warsh's First Testimony Keep a Hawkish Tail Alive", tone: bearish, pct: 40 }
 
-tags:
-  - June CPI
-  - Fed Warsh
-  - Bank Earnings
-  - IBM
-  - SK Hynix
-  - AI Memory
-  - Hormuz Oil
-  - JPMorgan
-  - Rate Cuts
-  - Bitcoin
+tags: ["June CPI", "Warsh", "Bank Earnings", "IBM", "SK Hynix", "AI Memory"]
+redirect_from:
+  - /morning-notes/2026-07-14-june-cpi-cools-35pct-biggest-drop-since-2020-reopens-cut-door-memory-snaps-back-sk-hynix-kospi-rebound-jpmorgan-blowout-ibm-warns-sinks-22pct-trump-hormuz-fee-oil-jumps-warsh-first-testimony-gold-4010-bitcoin-63k
 ---
 
 Tuesday, July 14, 2026, written around the 8:30 CPI release with US futures wavering. The trifecta the last note flagged as a single 48 hour test has arrived, and the data broke the bulls' way. June CPI came in far cooler than feared, memory stocks that were flushed on Monday snapped back hard, and JPMorgan opened bank earnings season with a blowout, while the two offsets are an IBM warning that sank the stock 22 percent and an oil spike as President Trump moved to levy a 20 percent fee on cargo crossing the Strait of Hormuz. Consumer prices fell a seasonally adjusted 0.4 percent in June, the largest single month decline since April 2020, dragging the annual rate down to 3.5 percent against the 3.8 percent economists expected and down from 4.2 percent in May, with core easing to 2.6 percent. Overnight, Seoul staged a sharp recovery from its Black Monday, Samsung rose almost 6 percent and SK Hynix bounced 4.5 percent, and in US pre-market SK Hynix's listed shares jumped about 7 percent with Micron, SanDisk and Western Digital all higher. It all lands the same morning new Fed Chair Kevin Warsh takes the stand before the House for his first testimony as chair.

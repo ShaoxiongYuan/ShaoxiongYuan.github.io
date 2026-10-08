@@ -44,17 +44,9 @@ sentiment:
   - { label: "Jobless Claims at 196,000 and a Philly Fed Prices Received Index at a Five Month High, Landing the Day After Equities Eased Financial Conditions 1.1% Into a Chairman Who Named Financial Conditions as His Trigger, Has Taken the Two Year to a Cycle High of 4.74%", tone: bearish, pct: 74 }
   - { label: "Congress Has Sent the President Authority to Impose Tariffs of Up to 100% on the Largest Buyers of Russian Crude While Brent Sits at $104 and the Saudi East-West Pipeline Is Still Down, Which Is the Largest Unpriced Supply Risk on the Page", tone: bearish, pct: 70 }
 
-tags:
-  - Bank of Japan
-  - Federal Reserve
-  - Yen Carry Trade
-  - Treasury Market
-  - Crude Oil
-  - Russia Sanctions
-  - AI Infrastructure
-  - Semiconductors
-  - Quadruple Witching
-  - Berkshire Hathaway
+tags: ["Bank of Japan", "Fed", "Yen Carry Trade", "Treasuries", "Oil", "Russia Sanctions"]
+redirect_from:
+  - /morning-notes/2026-09-18-boj-hikes-to-125pct-a-31-year-high-and-the-yen-falls-to-15768-claims-196k-philly-fed-378-2y-474-a-cycle-high-europe-minus1pct-while-asia-plus2pct-vix-plus8pct-into-quad-witching
 ---
 
 Friday, September 18, 2026, written at 9:15 a.m. Eastern, fifteen minutes before a quarterly expiry. Three central banks have acted inside forty eight hours. Everything below is a pre-market mark.

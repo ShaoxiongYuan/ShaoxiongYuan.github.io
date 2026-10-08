@@ -44,17 +44,9 @@ sentiment:
   - { label: "The Damage Did Not Stay in the United States, Korea Took It Instead: the Kospi Fell 4.59% on a Sidecar Halt With SK Hynix Down 10.4% and Samsung Down 6.3%, and Kioxia Lost More Than 10% in Tokyo, the Third Korean Circuit-Breaker Event in Ten Sessions and a Sign the Memory Complex Now Trades as One Levered Instrument Rather Than as Individual Companies", tone: bearish, pct: 28 }
   - { label: "Nvidia Rose 3% on a Deal That Creates Demand Nobody Had Modelled, Supplying Rubin GPUs and Vera CPUs for a SpaceX Orbital Compute Constellation Filed With the FCC at Up to One Million Satellites, So While the Memory Layer Was Marked Down on Price Realisation the Compute Layer Was Marked Up on Addressable Market, Which Is a Finer Cut Than Last Week's Spender Versus Supplier Divide", tone: bullish, pct: 66 }
 
-tags:
-  - SanDisk
-  - Western Digital
-  - Kospi
-  - Nvidia
-  - SpaceX
-  - Datadog
-  - HubSpot
-  - Storage
-  - Hormuz
-  - Jobless Claims
+tags: ["SanDisk", "Western Digital", "KOSPI", "Nvidia", "SpaceX", "Datadog"]
+redirect_from:
+  - /morning-notes/2026-08-06-storage-best-quarter-gets-sold-sandisk-846pct-margin-guide-matches-wdc-16pct-kospi-459pct-sk-hynix-104pct-nvidia-3pct-spacex-starmind-datadog-20pct-hubspot-24pct-claims-199k-hormuz-route-agreed-gold-4309-bitcoin-64k
 ---
 
 Thursday, August 6, 2026, written pre-market. Two storage companies reported the best quarters in the history of their industry last night and both were sold hard. SanDisk earned $39.25 a share on $8.97 billion of revenue at an 84.6 percent gross margin, grew the top line 51 percent in a single quarter, and closed down 5.4 percent before losing another 4.2 percent after hours. Western Digital grew revenue 44 percent to $3.75 billion with record margins, beat by nearly nine percent on earnings, guided the September quarter higher again, and finished roughly 16 percent below where it started the print. The reaction did not stay in New York. Korea opened, the Kospi fell 4.59 percent and tripped a sidecar halt, SK Hynix lost 10.4 percent and Samsung 6.3 percent, and Kioxia dropped more than ten percent in Tokyo. Meanwhile Nvidia is up about three percent because SpaceX named it the exclusive silicon supplier for an orbital data centre constellation. This is not a market rejecting artificial intelligence. It is a market that has started pricing each layer of the stack on a different question, and last night the storage layer got asked the one it could not answer.

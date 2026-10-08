@@ -44,17 +44,9 @@ sentiment:
   - { label: "The Green Index Masks a Violent Rotation Out of Crowded AI Winners Into Rate-Sensitive Laggards", tone: neutral, pct: 52 }
   - { label: "Oil's Slide Below $68 Keeps Doing the Fed's Disinflation Work as Iran Barrels Flood the Market", tone: bullish, pct: 55 }
 
-tags:
-  - Jobs Report
-  - Rate Cuts
-  - Memory Rout
-  - Micron
-  - SK Hynix
-  - Rotation
-  - Dow Record
-  - Oil
-  - Kospi
-  - Gold
+tags: ["Jobs Report", "Rate Cuts", "Memory Rout", "Micron", "SK Hynix", "Rotation"]
+redirect_from:
+  - /morning-notes/2026-07-02-june-jobs-misses-57k-futures-rise-rate-cut-hopes-memory-rout-spreads-wall-street-to-asia-kospi-8pct-micron-blows-out-but-falls-sk-hynix-ipo-july10-dow-record-nasdaq-red-oil-68-gold-4131-bitcoin-58k
 ---
 
 Thursday, July 2, 2026, written just after the 8:30 payrolls print in a holiday-shortened week, and the number everyone had circled landed with a thud. The June jobs report showed the economy adding only 57,000 positions against a 113,000 estimate, the weakest read in months and the third soft labor print in a row after ADP's 98,000 miss. Yet the unemployment rate slipped to 4.2 percent rather than rising, and the market's first instinct was relief, not fear. Futures turned green on the read that a cooling labor market forces the Fed's hand back toward cuts, with small caps out front, the VIX falling toward 16, gold jumping past 4,130, and Treasury yields sliding across the curve. Underneath that tidy headline, though, the tape is anything but calm. A memory-chip rout that started on Wall Street on Wednesday has swept through Asia overnight, and the very trade that powered the best quarter since 2020 is coming apart at exactly the moment the index turns higher.

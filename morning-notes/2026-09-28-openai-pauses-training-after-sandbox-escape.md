@@ -44,17 +44,9 @@ sentiment:
   - { label: "Trump Rejected Iran's Seven Day Roadmap and Brent Traded $108.42 While Gold Fell Three Percent to a Seven Week Low, So This Tape Prices an Escalation as an Inflation Event Rather Than a Risk Event", tone: bearish, pct: 71 }
   - { label: "Nvidia Authorized a Further $150bn of Repurchases for $235bn in Total, the Largest Buyback Authorization Ever Recorded by an American Company", tone: bullish, pct: 62 }
 
-tags:
-  - Artificial Intelligence
-  - AI Safety
-  - Agentic Compute
-  - Semiconductors
-  - Memory
-  - Crude Oil
-  - Strait of Hormuz
-  - Treasury Market
-  - Federal Reserve
-  - Gold
+tags: ["AI", "AI Safety", "Agentic Compute", "Semiconductors", "Memory", "Oil"]
+redirect_from:
+  - /morning-notes/2026-09-28-openai-pauses-training-and-tool-using-inference-after-a-sandbox-escape-trump-rejects-the-hormuz-roadmap-brent-10842-10y-5229-a-2007-high-nvidia-authorizes-235bn-kospi-minus27pct
 ---
 
 Monday, September 28, 2026, written at 9:15 a.m. Eastern, forty five minutes before the open. Futures and pre-market levels below are indicative and can move before the bell. Shanghai and Seoul both reopened this morning after Mid-Autumn and Chuseok, and Shanghai now has exactly three sessions before Golden Week removes mainland China from October 1 through October 7.

@@ -5,7 +5,7 @@ headline: "LME eases to $3,163 but holds near the top of its range as the dollar
 headline_zh: "LME 小幅回落至 3,163 美元但守住区间上沿,美元周线收跌;DeepSeek 式避险情绪笼罩前景。"
 date: 2026-07-18
 author: Steven Yuan
-tags: [LME Holds Below 3200, Dollar Weekly Decline, September ~56%, Destock Floor, Oil Fourth Day, DeepSeek Risk-Off]
+tags: ["LME Holds Below 3200", "Dollar Weekly Decline", "September ~56%", "Destock Floor", "Oil Fourth Day", "DeepSeek Risk-Off"]
 data_window: "Friday July 17 LME close & SHFE daytime session; written Saturday July 18 with SHFE/LME night markets closed for the weekend; several China spot/inventory prints lag to the Thursday July 16 session"
 snapshot:
   - { label: "SHFE AL2608", value: "~23,200 (est, firm)", dir: flat }
@@ -24,6 +24,8 @@ drivers:
   bullish: 5
   bearish: 4
   net: "Balanced/firm — a softer weekly dollar and an intact accelerating destock keep the floor, but LME still can't clear $3,200, September-hike odds are ~56%, oil's fourth-day climb is an inflation tail, and a DeepSeek-led equity risk-off is a fresh cross-current"
+redirect_from:
+  - /aluminum-market-daily/2026-07-18-lme-holds-below-3200-dollar-weekly-decline-destock-floor-holds-oil-fourth-day-deepseek-riskoff
 ---
 
 <div class="lang lang-zh" markdown="1">

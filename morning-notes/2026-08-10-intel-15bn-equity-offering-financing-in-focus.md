@@ -44,17 +44,9 @@ sentiment:
   - { label: "The Hormuz Bid Is Structural Rather Than Headline Driven, With Araghchi Ruling Out Direct Talks and Demanding Reparations While Only 8 to 15 Vessels Clear the Strait Each Day Against 130 Before the War, So Brent at $84.70 Prices a Route Nobody Has Actually Reopened", tone: bearish, pct: 30 }
   - { label: "The Tape Itself Is Constructive Into Wednesday, With Asia Rallying Hard on the Payroll Miss, the Stoxx 600 Holding Record Territory, Berkshire Deploying Twenty Billion Dollars After Fifteen Quarters of Net Selling, and Futures Flat Rather Than Fragile Ahead of the Only Print That Matters", tone: bullish, pct: 60 }
 
-tags:
-  - Intel
-  - Apple
-  - Hormuz
-  - CPI
-  - Federal Reserve
-  - Berkshire Hathaway
-  - Rocket Lab
-  - CoreWeave
-  - SK Hynix
-  - Oil
+tags: ["Intel", "Apple", "Hormuz", "CPI", "Fed", "Berkshire"]
+redirect_from:
+  - /morning-notes/2026-08-10-intel-15b-equity-offering-stock-under-100-apple-cut-underperform-iphone-glass-cancelled-brent-8470-hormuz-transits-8-15-nikkei-208pct-berkshire-net-buyer-20b-rocket-lab-coreweave-cpi-wednesday-gold-4388-bitcoin-65k
 ---
 
 Monday, August 10, 2026, written at 9:20am Eastern, ten minutes before the opening bell, so the pre-market marks below are live and several of them will move within the hour. Futures are flat rather than directional, which is the correct posture for a session sitting two days ahead of the only data point that matters this week. The interesting news this morning is not in the index level. It is that the largest single corporate announcement of the day is a company asking shareholders for fifteen billion dollars to fund the AI buildout, on the same morning a Bloomberg piece asks whether credit markets have started to doubt that same buildout, and one trading day after Berkshire Hathaway disclosed that it has finally stopped hoarding cash. Those three items are one story told from three balance sheets.

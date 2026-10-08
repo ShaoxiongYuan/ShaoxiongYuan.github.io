@@ -43,17 +43,9 @@ sentiment:
   - { label: "Micron Wednesday Is Now Do-or-Die for the HBM Supercycle Narrative", tone: neutral, pct: 55 }
   - { label: "Iran Lets IAEA Inspectors Back as Oil and Gold Keep Bleeding the War Premium", tone: bullish, pct: 56 }
 
-tags:
-  - AI Memory
-  - Micron
-  - Kospi
-  - Semiconductors
-  - FedEx
-  - Iran
-  - Oil
-  - Gold
-  - PCE
-  - Bitcoin
+tags: ["AI Memory", "Micron", "KOSPI", "Semiconductors", "FedEx", "Iran"]
+redirect_from:
+  - /morning-notes/2026-06-23-ai-memory-rout-kospi-limit-down-10pct-samsung-sk-hynix-12pct-nasdaq-futures-3pct-micron-9pct-gold-cracks-4090-oil-slides-wti-74-iran-iaea-inspectors-return-fedex-tonight-micron-wednesday-pce-thursday-bitcoin-63k
 ---
 
 Tuesday, June 23, 2026, written pre-market around 7:30am ET. The screen has finally given us the air pocket the AI complex has been daring for months, and it arrived overnight in Seoul rather than on Wall Street. Nasdaq 100 futures are down roughly 3 percent near 29,740, S&P 500 futures are off about 1.2 percent toward 7,385, and only the Dow is holding relatively firm, down about half a percent at 51,883 as money rotates out of the megacap-tech weighting and into anything that is not a memory chip. Micron is indicated down close to 9 percent in pre-market trade, 24 hours before it reports. The trigger was a violent unwind in Asian memory names that halted the Korean market limit-down, and the question into the cash open is whether this is a healthy flush of a parabolic trade or the first crack in the story that has carried the entire tape. As always with a pre-open note, these are overnight and futures levels and they can move by the bell.

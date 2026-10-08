@@ -44,17 +44,9 @@ sentiment:
   - { label: "The France to Germany Ten Year Spread at 159 Basis Points Is a Cycle High and a 2011 Vintage Level, With French Debt Headed to 121.7% of GDP and Spain Calling a Snap Election for November 29, So Sovereign Risk Is Back as a European Equity Input", tone: bearish, pct: 79 }
   - { label: "The Nasdaq 100 Closed at a Record While the Equal-Weight S&P Rose Only 0.33% Against the Index at 0.73% and the SOX Added 2.4%, Which Restores the Breadth Call After Friday Produced Its First Counterexample", tone: neutral, pct: 68 }
 
-tags:
-  - Dollar
-  - Europe
-  - Sovereign Debt
-  - Federal Reserve
-  - Crude Oil
-  - Artificial Intelligence
-  - Semiconductors
-  - Mergers and Acquisitions
-  - Geopolitics
-  - Japan
+tags: ["Dollar", "Europe", "Sovereign Debt", "Fed", "Oil", "AI"]
+redirect_from:
+  - /morning-notes/2026-10-05-dollar-18-month-high-as-euro-hits-11161-france-germany-159bp-october-odds-18pct-nasdaq-100-record-equal-weight-033pct-schneider-buys-ptc-226bn-brent-back-over-100
 ---
 
 Monday, October 5, 2026, written at 8:45 a.m. Eastern, forty five minutes before the open and seventy five minutes before ISM services. All futures and pre-market levels carry that timestamp and can move before the bell. Mainland China remains shut through October 7, and Korea is closed for a substitute National Foundation Day holiday. Hong Kong and Tokyo traded.

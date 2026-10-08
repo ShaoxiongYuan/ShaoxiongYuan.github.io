@@ -44,17 +44,9 @@ sentiment:
   - { label: "Third Quarter Global M&A Fell 41% to $993bn for the First Sub-Trillion Quarter Since 2025 While Amazon Explored Moving $8bn of Nvidia Chips Into a Leaseback Vehicle, So the Same Long Rate Is Closing Deal Pipelines and Reshaping How the Buildout Is Financed", tone: bearish, pct: 76 }
   - { label: "The Nasdaq Closed at a Record and Nvidia Printed an All-Time High on a Day the Entire Treasury Curve Rose in Yield, Gold Fell and Bitcoin Faded, Which Is One Trade Carrying an Index Rather Than a Market Discounting Lower Rates", tone: neutral, pct: 71 }
 
-tags:
-  - Treasury Market
-  - Cost of Capital
-  - Federal Reserve
-  - Labor Market
-  - Artificial Intelligence
-  - Mergers and Acquisitions
-  - Crude Oil
-  - Nvidia
-  - Amazon
-  - Optical Networking
+tags: ["Treasuries", "Cost of Capital", "Fed", "Labor Market", "AI", "M&A"]
+redirect_from:
+  - /morning-notes/2026-10-03-weekend-wrap-payrolls-miss-by-60k-and-the-entire-curve-closes-higher-2y-4839-10y-5281-nasdaq-record-nvidia-235bn-buyback-q3-ma-993bn-minus41pct-gold-minus36pct-week
 ---
 
 Saturday, October 3, 2026, written at 9:15 a.m. Eastern. This is a weekend wrap covering the week to Friday's close. US markets are shut and every figure below is settled rather than indicative. Mainland China and Hong Kong remain closed through October 7 and return on the 8th. OPEC+ meets tomorrow.

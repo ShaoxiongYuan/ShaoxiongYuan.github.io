@@ -44,17 +44,9 @@ sentiment:
   - { label: "A Dovish 57K Jobs Miss Flipped the Fed From Hike Watch Toward Cuts, Lifting Gold, Small Caps, and Global Equities", tone: bullish, pct: 56 }
   - { label: "Wall Street Reopens Monday Into a Loaded Week: SpaceX Nasdaq-100 Entry Tuesday, SK Hynix Listing Friday, Banks Kick Off Q2", tone: neutral, pct: 52 }
 
-tags:
-  - Independence Day
-  - Week Ahead
-  - Meta Compute
-  - Memory Rebound
-  - Jobs Miss
-  - SpaceX
-  - SK Hynix
-  - Rotation
-  - Gold
-  - Iran
+tags: ["Independence Day", "Week Ahead", "Meta Compute", "Memory Rebound", "Jobs Miss", "SpaceX"]
+redirect_from:
+  - /morning-notes/2026-07-04-independence-day-weekend-ai-compute-scare-dovish-jobs-meltup-memory-rout-reverses-dow-record-52900-reopens-monday-pivotal-week-spacex-nasdaq100-tuesday-sk-hynix-lists-friday-oil-68-gold-4170-bitcoin-62k
 ---
 
 Saturday, July 4, 2026, and this is a holiday weekend note. US cash and bond markets have been shut since Thursday's close, closed Friday for Independence Day observed and dark again today for the Fourth itself, so the next real print is Monday, July 6. That leaves a two-session gap to think, and it lands at a useful moment, because the week that just ended packed a full cycle of fear and relief into four trading days. An AI-compute scare that started with Meta and rippled through the entire memory complex collided with the most dovish jobs report in months, and by the time Asia and Europe closed Friday the panic had almost entirely unwound. The Dow sits at a record, the memory names that looked broken on Thursday are ripping again, and Wall Street reopens into one of the busiest setups of the year. This note is less about a single overnight tape and more about what to carry into that week.

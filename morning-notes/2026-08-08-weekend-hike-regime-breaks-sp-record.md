@@ -44,17 +44,9 @@ sentiment:
   - { label: "September Is Still Genuinely Live at Roughly 40 to 44 Percent Rather Than the 20 Percent the First Print Implied, So the Hike Debate Was Not Settled on Friday, It Was Handed to the July CPI Release on Wednesday, and a Core Reading That Fails to Ease From 2.6 Percent Puts the Entire Week Back on the Table", tone: neutral, pct: 45 }
   - { label: "Congress Escalated While the Strait Did Not Open, Because the Senate Passed a Sanctions Act Covering Both Russia and Iran by 86 to 11 on the Same Day Iran Said Its Oman Arrangement Bars American and Israeli Vessels Entirely, and Crude Rose Into That News After Falling Roughly 7 Percent on the Week", tone: bearish, pct: 34 }
 
-tags:
-  - Payrolls
-  - Federal Reserve
-  - Gold
-  - Atlassian
-  - Microchip
-  - SpaceX
-  - CoreWeave
-  - Hormuz
-  - Russia Sanctions
-  - CPI
+tags: ["Payrolls", "Fed", "Gold", "Atlassian", "Microchip", "SpaceX"]
+redirect_from:
+  - /morning-notes/2026-08-08-weekend-wrap-hike-regime-breaks-sp-7757-record-nasdaq-52pct-best-week-since-april-payrolls-23k-gold-4400-silver-10pct-senate-graham-act-86-11-hormuz-bars-us-ships-spacex-19pct-bitcoin-65k
 ---
 
 Saturday, August 8, 2026. Written after Friday's close, so every level below is a settlement rather than a moving mark, and the next thing that can change any of it is Monday's Asian open. The week ended with the S&P 500 and the Nasdaq Composite at record closes, the Stoxx 600 at a record, gold up 7 percent, silver up 10 percent, and the reason for all of it being a payroll report that showed the American economy shedding jobs. That combination is the entire story, and it is worth being precise about what it means rather than celebrating the prints.

@@ -42,17 +42,9 @@ sentiment:
   - { label: "ISM Manufacturing at a Four-Year High of 55.6 Against 54.0 Expected Undercuts the Cheap-Oil Relief Trade Rather Than Confirming It: Prices Paid Eased Only to 71.1 From 73.0 and Remains Deeply Inflationary, So the September Hike Argument Now Rests on Domestic Demand Instead of Energy and 63% Odds Look Too Low", tone: bearish, pct: 38 }
   - { label: "The Market Is Trading a Hormuz Reopening That Two Shot-At Ships in Twenty-Four Hours Say Has Not Happened: Bessent Says a Deal Could Come Today or Tomorrow, Trump Calls Tehran Unbelievably Duplicitous, Iran Says It Is Only Discussing a Route With Oman, and Transit Traffic Remains a Trickle", tone: neutral, pct: 44 }
 
-tags:
-  - Palantir
-  - Caterpillar
-  - AMD
-  - SpaceX
-  - AI Capex
-  - Iran
-  - Hormuz
-  - Oil
-  - ISM
-  - Earnings
+tags: ["Palantir", "Caterpillar", "AMD", "SpaceX", "AI Capex", "Iran"]
+redirect_from:
+  - /morning-notes/2026-08-04-ai-trade-broadens-palantir-93pct-us-comm-149pct-caterpillar-first-20b-quarter-power-gen-29pct-ism-556-four-year-high-brent-81-wti-77-amd-spacex-first-public-quarter-tonight-gold-4136-bitcoin-63k
 ---
 
 Tuesday, August 4, 2026. Two companies reported into this tape overnight and they could hardly be less alike. One writes software for governments and enterprises and trades on a multiple that has embarrassed a generation of value investors. The other builds excavators and gensets and has been public since before the Second World War. Palantir grew revenue 93 percent and raised its full-year guide by half a billion dollars. Caterpillar passed $20 billion of quarterly revenue for the first time in its history and lifted its own outlook. Both stocks are up double digits or close to it before the bell. The common thread running through both income statements is the same physical buildout: Palantir's US commercial business rose 149 percent selling the software layer, and Caterpillar's power generation business rose 29 percent selling the turbines and reciprocating engines that keep the buildings that run it energised. That is the story of this morning, and it matters more than the third consecutive session of falling oil.

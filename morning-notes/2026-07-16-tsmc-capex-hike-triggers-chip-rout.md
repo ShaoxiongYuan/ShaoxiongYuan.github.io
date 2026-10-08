@@ -42,17 +42,9 @@ sentiment:
   - { label: "The Tape Sold It Anyway as the Capex Bump and Overseas-Fab Margin Dilution Sparked a Chip Rout That Reversed Yesterday's Memory Revenge Rally, With the Kospi Down 6%, SK Hynix Off 9% and Samsung Down 6.6%, a Reminder That Positioning in This Trade Is Still Violently Two-Sided", tone: bearish, pct: 45 }
   - { label: "Oil Stuck Near a One-Month High Above $84 With Trump Weighing the Seizure of Iran's Kharg Island Keeps the September-Hike Tail Alive and Overhangs a Retail-Sales Print and a Netflix Report That Land Into a Jumpy Market", tone: bearish, pct: 43 }
 
-tags:
-  - TSMC
-  - AI Chips
-  - Capex
-  - SK Hynix
-  - Netflix
-  - Retail Sales
-  - Kharg Island
-  - Hormuz Oil
-  - Rate Cuts
-  - Bitcoin
+tags: ["TSMC", "AI Chips", "Capex", "SK Hynix", "Netflix", "Retail Sales"]
+redirect_from:
+  - /morning-notes/2026-07-16-tsmc-posts-record-q2-but-64b-capex-hike-triggers-sell-the-news-chip-rout-kospi-6pct-sk-hynix-9pct-nasdaq-futures-drop-oil-sticky-84-hormuz-kharg-threat-retail-sales-netflix-ahead-gold-4038-bitcoin-64k
 ---
 
 Thursday, July 16, 2026, written pre-market with US futures lower as the last big AI verdict of the week landed strong on the numbers and weak in the tape. TSMC, the foundry that manufactures nearly every leading-edge chip on the planet, posted its fifth consecutive record quarter, beat on both lines, and raised its outlook, yet the stock fell almost 4 percent before the bell because it also lifted its 2026 capital-spending plan by roughly 15 percent. That single decision flipped a blowout into a selloff, dragged the Nasdaq futures down about a percent, and set off a fresh chip rout across Asia that erased yesterday's memory revenge rally, with the Kospi down 6 percent, SK Hynix off 9 percent, and Samsung lower by nearly 7. The offsets from the rest of the week are intact. Oil is pinned near a one-month high as Washington escalates around Hormuz, and two events still sit ahead, June retail sales this morning and Netflix after the close.

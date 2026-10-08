@@ -44,17 +44,9 @@ sentiment:
   - { label: "Oracle Rising 7% on 121% Cloud Infrastructure Growth and a Thirty Year Yield at Its Highest Since 2007 Are Not Two Stories but One, Because the Capital Expenditure That Produced the Beat Is Being Funded in the Long End, and AI Issuers Now Account for Roughly Two Thirds of Net New Long Duration Treasury Borrowing", tone: bearish, pct: 72 }
   - { label: "Crude Gave Back Nearly Four Dollars on Diplomatic Noise in the Same Week Saudi Output Fell to Its Lowest Level Since 1990 and the Kingdom Covered Roughly Nine Hundred Thousand Barrels a Day Out of Storage, Which Makes the Pullback a Positioning Event Rather Than a Supply One", tone: bullish, pct: 64 }
 
-tags:
-  - Consumer Prices
-  - Federal Reserve
-  - Treasury Market
-  - Oracle
-  - AI Capital Expenditure
-  - Crude Oil
-  - Saudi Arabia
-  - Adobe
-  - Bank of Japan
-  - Strait of Hormuz
+tags: ["CPI", "Fed", "Treasuries", "Oracle", "AI Capex", "Oil"]
+redirect_from:
+  - /morning-notes/2026-09-11-cpi-34pct-headline-against-24pct-core-a-100bp-wedge-that-is-all-energy-core-misses-at-03pct-september-goes-to-72pct-30y-5373-highest-since-2007-oracle-oci-plus121pct-rpo-664bn-capex-95bn
 ---
 
 Friday, September 11, 2026, written at 9:20 a.m. Eastern, ten minutes before the open and fifty minutes after the August consumer price report. Everything below is a pre-open mark. Oracle and Adobe reported last night, the Fed is in blackout, and the next scheduled data point that can move the September vote is the University of Michigan preliminary at 10:00.

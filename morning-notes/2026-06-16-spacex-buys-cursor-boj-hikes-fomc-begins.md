@@ -45,15 +45,9 @@ sentiment:
   - { label: "Hormuz Reopening Tempered by Logistics Reality",    tone: bullish,  pct: 50 }
   - { label: "Housing Starts Plunge 15%, Rate Sensitivity Clear", tone: bearish,  pct: 60 }
 
-tags:
-  - SpaceX
-  - Cursor
-  - FOMC
-  - BOJ
-  - Oil
-  - Iran
-  - Housing
-  - G7
+tags: ["SpaceX", "Cursor", "FOMC", "BOJ", "Oil", "Iran"]
+redirect_from:
+  - /morning-notes/2026-06-16-spacex-spcx-acquires-cursor-60b-stock-deal-up-10pct-pre-market-2pt78t-valuation-fomc-day-1-boj-hikes-to-1pct-oil-flat-wti-80-brent-81-iran-signing-friday-g7-day-2-gold-4300-bitcoin-66k
 ---
 
 Tuesday pre-open, 6:30 AM ET. Futures are holding steady after Monday's strong rally, consolidating gains as the market digests two major developments overnight. SpaceX announced it will acquire AI coding platform Cursor's parent company Anysphere in a $60 billion all-stock deal, sending SPCX up roughly 10% in pre-market to $212, pushing its valuation past $2.78 trillion just four days after its record IPO. The Bank of Japan raised rates to 1% for the first time since 1995 in a 7-1 vote, a milestone that briefly pressured Asian equities before the Nikkei recovered to close slightly positive. The FOMC begins its two-day meeting today, with the rate decision and Kevin Warsh's first press conference arriving tomorrow at 2 PM ET. Oil continues drifting lower as Brent fell 1.5% to $81.55 and WTI eased 0.4% to $80.47, though analysts warn the Strait of Hormuz reopening could take months to fully normalize flows. May housing starts plunged 15.4% to a 1.177 million annualized rate, the weakest reading in over a year, confirming that mortgage rate sensitivity remains acute. The G7 summit continues in Evian with trade and AI governance on the agenda. Markets are pricing a 99.6% probability of no rate change tomorrow.

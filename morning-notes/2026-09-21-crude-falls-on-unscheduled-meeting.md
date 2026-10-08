@@ -44,17 +44,9 @@ sentiment:
   - { label: "The Crude Selloff Is Priced Off a Meeting That Has Not Been Scheduled While the Distillate Market Set a Record Crack at $118.62 and Ukraine Hit the Moscow Refinery on Sunday, So the Barrel Is Being Repriced and the Refinery Is Not", tone: bearish, pct: 76 }
   - { label: "Goolsbee Told London the Road to Two Percent Will Not Be Painless on the Same Morning Equities Eased Financial Conditions Again, Which Is the Exact Reflexivity Warsh Named as His Trigger", tone: bearish, pct: 68 }
 
-tags:
-  - Crude Oil
-  - Diesel Crack
-  - Iran Diplomacy
-  - Semiconductors
-  - Korea Exports
-  - US-China Summit
-  - Federal Reserve
-  - Anthropic
-  - Memory Supply
-  - Treasury Market
+tags: ["Oil", "Diesel Crack", "Iran Diplomacy", "Semiconductors", "Korea Exports", "US-China Summit"]
+redirect_from:
+  - /morning-notes/2026-09-21-crude-falls-a-fourth-day-to-brent-10050-on-a-meeting-nobody-has-scheduled-while-the-diesel-crack-prints-a-record-11862-korea-ships-3412bn-of-chips-in-twenty-days-plus259pct-kospi-7008
 ---
 
 Monday, September 21, 2026, written at 9:15 a.m. Eastern, fifteen minutes before the open. Every futures and pre-market level below is indicative and can move before the bell. Tokyo is shut for Respect for the Aged Day, so the Asian session ran without its largest cash market.

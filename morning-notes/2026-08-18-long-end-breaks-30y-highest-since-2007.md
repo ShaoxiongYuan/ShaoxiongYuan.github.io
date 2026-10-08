@@ -44,17 +44,9 @@ sentiment:
   - { label: "Nvidia's Ohio Guarantee Settled at $105 Billion Against 8 Gigawatts and Bought Exclusive Chip Supply in Return, So Yesterday's Reading That the Cut Was Pure De-Risking Was Half Right, Because What Actually Happened Is That Contingent Credit Was Exchanged for a Locked Order Book", tone: neutral, pct: 55 }
   - { label: "Baidu Grew GPU Cloud Revenue 283% and Lost 19% of Its Advertising Line in the Same Quarter, Which Is the Clearest Single-Company Evidence That AI Demand and AI Disruption Are Now Arriving Through the Same Income Statement", tone: bearish, pct: 44 }
 
-tags:
-  - Treasuries
-  - Oil
-  - Iran
-  - Nvidia
-  - Baidu
-  - Home Depot
-  - Japan
-  - Fund Manager Survey
-  - Federal Reserve
-  - AI Capex
+tags: ["Treasuries", "Oil", "Iran", "Nvidia", "Baidu", "Home Depot"]
+redirect_from:
+  - /morning-notes/2026-08-18-long-end-breaks-30y-5327-19-year-high-jgb-295-three-decade-brent-91-deadline-expires-nasdaq-fut-13pct-nvidia-105b-buys-exclusivity-baidu-gpu-cloud-283pct-ads-19pct-home-depot-beats-gold-4450
 ---
 
 Tuesday, August 18, 2026, written at 8:20am Eastern, ninety minutes before the bell, with Home Depot already out and the July FOMC minutes twenty-nine hours away. Two prices did the damage overnight and neither of them is an equity. The 30-year Treasury printed 5.327%, the highest since June 2007. Brent went to $91 after the 60-day window for a US-Iran settlement expired with nothing to replace it. Everything in the tape this morning is downstream of those two lines.

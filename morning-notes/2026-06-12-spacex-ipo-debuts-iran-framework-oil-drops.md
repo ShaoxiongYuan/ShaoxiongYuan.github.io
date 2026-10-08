@@ -49,16 +49,9 @@ sentiment:
   - { label: "Adobe Beats but Freemium Shift Spooks",         tone: bearish,  pct: 45 }
   - { label: "PPI 6.5% Still Echoing, FOMC Next Week",        tone: bearish,  pct: 35 }
 
-tags:
-  - SpaceX
-  - Iran
-  - Oil
-  - Adobe
-  - SanDisk
-  - KLA
-  - Semiconductor
-  - Gold
-  - FOMC
+tags: ["SpaceX", "Iran", "Oil", "Adobe", "SanDisk", "KLA"]
+redirect_from:
+  - /morning-notes/2026-06-12-spacex-ipo-debuts-135-largest-ever-75b-raise-iran-peace-deal-framework-oil-crashes-4pct-brent-88-adobe-q2-beats-raises-fy-sndk-14pct-ai-memory-klac-13pct-split-gold-4216-bitcoin-63k
 ---
 
 Friday pre-open, 7:30 AM ET. Today is dominated by one historic event: SpaceX begins trading on Nasdaq under ticker SPCX at $135 per share, the largest IPO ever at a $1.77 trillion valuation, making it instantly the seventh-largest US company, above Tesla. Alongside the debut, Trump's claim of a framework peace deal with Iran is hammering oil, with Brent down nearly 4% to $88 and WTI at $84. That combination of reduced geopolitical risk premium and a landmark capital markets event is creating a rare setup where commodity bears and equity bulls can coexist. Futures are mixed, with the Dow up 0.34% and S&P 500 up 0.12% while Nasdaq lags at -0.18%, reflecting the Oracle post-earnings drag and Adobe's after-hours drop pulling on mega-cap tech. Under the surface, the semiconductor complex continues its recovery with SanDisk up 14.5% and KLA up 12.9%. Gold is rebounding to $4,216 after hitting its November 2025 low yesterday, and Treasury yields are falling, with the 10-year dropping 7 basis points to 4.47% as the market re-prices geopolitical risk lower.

@@ -42,17 +42,9 @@ sentiment:
   - { label: "Amazon Closed the Cash-Conversion Argument: AWS Accelerated for a Fifth Straight Quarter to 36.7% With a $496B Backlog and 39% Segment Margins, Which Is Why a $220B Capital Budget Was Rewarded With 15.3% Rather Than Punished", tone: bullish, pct: 66 }
   - { label: "The Long End Did Not Ratify the Recovery: September Hike Odds Fell From 79% to Roughly 60% After Warsh Spoke and the 30-Year Still Sits at a 19-Year High of 5.23%, Which Is a Term-Premium Problem Rather Than a Policy-Path Problem", tone: bearish, pct: 38 }
 
-tags:
-  - Amazon
-  - Apple
-  - AI Capex
-  - Memory Cycle
-  - Kospi
-  - 30-Year Yield
-  - Hormuz
-  - OPEC+
-  - Payrolls
-  - Month-End
+tags: ["Amazon", "Apple", "AI Capex", "Memory Cycle", "KOSPI", "30-Year Yield"]
+redirect_from:
+  - /morning-notes/2026-08-01-weekend-wrap-july-ends-flat-nasdaq-32pct-dow-fourth-month-amazon-153pct-aws-367pct-496b-backlog-apple-74pct-kospi-best-day-ever-22pct-month-30y-523pct-hormuz-five-vessels-opec-sunday-gold-4107-bitcoin-63k
 ---
 
 Saturday, August 1, 2026. There is no live tape this weekend, so the last prints on the screen are Friday's July 31 closes and the next scheduled event that can move anything is the OPEC+ ministerial tomorrow. Treat this as stocktaking rather than reaction. July closed with the S&P 500 at 7,489.72, up 0.70 percent on Friday and down about 0.1 percent for the month. That number is arithmetically true and analytically useless. Inside those four weeks the Nasdaq Composite lost 3.2 percent, the Dow gained 0.3 percent for a fourth consecutive monthly advance, the Philadelphia Semiconductor Index went into a bear market and came out of it, Korea produced both the worst monthly decline and the best single day in the history of its benchmark, Brent traded a range of roughly $72 to $102, and the 30-year Treasury yield ended at a 19-year high. A flat headline sitting on top of that much internal violence is not calm. It is cancellation.

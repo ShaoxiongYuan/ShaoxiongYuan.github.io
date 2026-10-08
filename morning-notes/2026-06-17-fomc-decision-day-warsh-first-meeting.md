@@ -45,15 +45,9 @@ sentiment:
   - { label: "SpaceX Post-IPO Consolidation After Cursor Deal",        tone: neutral,  pct: 50 }
   - { label: "Iran Signing Friday Reduces Geopolitical Tail Risk",     tone: bullish,  pct: 70 }
 
-tags:
-  - FOMC
-  - Warsh
-  - Oil
-  - SpaceX
-  - Iran
-  - Nikkei
-  - Semiconductors
-  - G7
+tags: ["FOMC", "Warsh", "Oil", "SpaceX", "Iran", "Nikkei"]
+redirect_from:
+  - /morning-notes/2026-06-17-fomc-decision-day-warsh-debut-hold-expected-dot-plot-key-nasdaq-leads-pre-market-spcx-207-third-day-oil-slides-wti-76-brent-78-hormuz-iran-signing-friday-nikkei-70k-gold-4349-bitcoin-65k
 ---
 
 Wednesday pre-open, 6:30 AM ET. Today is the day. The FOMC announces its rate decision at 2 PM ET, followed by Kevin Warsh's first press conference as Chair at 2:30 PM. Markets have priced a 97% probability of a hold at 3.50-3.75%, so the rate call itself is a formality. What matters is the updated dot plot, the Summary of Economic Projections, and whether Warsh signals a bias shift from easing toward neutral or tightening. Nasdaq futures are leading the tape higher, up 0.59% to 30,493, outperforming a flat Dow, as tech sentiment recovers from last week's Broadcom-induced wobble. Oil continues to slide with Brent dropping below $79 and WTI falling to $75.47, the fifth straight session of declines as the Hormuz reopening timeline and OPEC supply increases weigh on pricing. Japan's Nikkei rose 0.8% to close near 70,000 on a 17% surge in May exports, while Hong Kong and China slipped. The G7 summit wraps up today in Evian. The Iran peace deal signing is confirmed for Friday in Switzerland.

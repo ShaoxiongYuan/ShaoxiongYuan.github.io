@@ -42,17 +42,9 @@ sentiment:
   - { label: "The Market Is Paying for a Negotiation Start Date Rather Than a Signed Agreement: Iran's Foreign Ministry Again Rejected Direct Talks Within Hours of Trump Calling a Hormuz and Denuclearisation Deal Imminent, and Every Previous Pause in This Campaign Has Been Followed by Resumed Strikes", tone: bearish, pct: 32 }
   - { label: "Korea Handed Back a Third of a Record Rally in One Session With Nothing Changed in Memory Fundamentals: Samsung and SK Hynix Fell About 9% After Friday's 17.9% Index Gain, Which Confirms That Move as Positioning and Short Covering Rather Than a Re-Rating", tone: neutral, pct: 45 }
 
-tags:
-  - Iran
-  - Hormuz
-  - Oil
-  - OPEC+
-  - Kospi
-  - Yen Intervention
-  - Palantir
-  - SpaceX
-  - ISM
-  - Payrolls
+tags: ["Iran", "Hormuz", "Oil", "OPEC+", "KOSPI", "Yen Intervention"]
+redirect_from:
+  - /morning-notes/2026-08-03-war-premium-comes-out-trump-calls-off-attack-iran-talks-resume-brent-73pct-under-84-dow-futures-676pts-kospi-51pct-opec-rollback-done-joint-yen-intervention-gold-4104-bitcoin-63k
 ---
 
 Monday, August 3, 2026. The single largest input to this market for four months was removed from the screen over the weekend, and it was removed by a sentence rather than by a barrel. President Trump said on Air Force One on Sunday that he had called off what he described as the biggest attack since World War II against Iran, at the request of Saudi Arabia, the United Arab Emirates, Qatar and Tehran itself, and that negotiators would sit down this morning on a deal covering the reopening of the Strait of Hormuz and Iranian denuclearisation. Brent for October fell as much as 7.3 percent to trade below $84, WTI slipped under $81, and the equity futures complex sorted itself in a very particular order: Dow futures up 676 points or 1.28 percent, Russell 2000 futures up 0.99 percent, S&P 500 futures up 0.60 percent, and Nasdaq 100 futures up 0.19 percent. That ordering is the whole story of the morning. This is not a growth rally. It is the unwinding of an energy tax.

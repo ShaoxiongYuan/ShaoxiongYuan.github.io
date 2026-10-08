@@ -5,7 +5,7 @@ headline: "Monday's reopen turns soft as LME slips toward $3,140 on risk-off and
 headline_zh: "周一开盘走软,风险偏好下降与美元坚挺令 LME 滑向 3,140 美元;去库底部仍在。"
 date: 2026-07-20
 author: Steven Yuan
-tags: [Monday Reopen Soft, LME Slips Toward 3140, Destock Floor, LPR Held 3.00/3.50, Q2 GDP 4.3% Miss, Oil Elevated, Eyes FOMC July 29]
+tags: ["Soft Reopen", "LME 3140", "Destock Floor", "LPR Held", "Q2 GDP Miss", "FOMC Watch"]
 data_window: "Friday July 17 LME close ($3,164.65, −0.43%) as the last confirmed settlement, plus an unconfirmed Monday July 20 intraday LME read (~$3,138.5, range $3,125.5–$3,165); SHFE/LME reopened Monday July 20 with no confirmed Monday settlement at writing; several China spot/premium prints lag to the July 16–17 session and the aluminum-ingot inventory caliber to the July 9–16 series; China LPR (announced July 20) and Q2 GDP (released July 14–15) incorporated as Data; the ongoing US–Iran/Hormuz escalation and Monday's equity tone carried as interpretation"
 snapshot:
   - { label: "SHFE AL2608", value: "~22,950–23,100 (Mon, est/soft)", dir: down }
@@ -24,6 +24,8 @@ drivers:
   bullish: 5
   bearish: 5
   net: "Balanced, softer at the Monday reopen — an intact accelerating destock and the Hormuz supply-risk premium hold the base, but the reopen slipped toward $3,140 rather than delivering the cleaner upside test, as an equity risk-off, a still-firm dollar and elevated oil as an inflation tail weigh; LPR held as expected and Q2 GDP had already missed at +4.3%, with the July 29 FOMC now the key event and September still near a coin flip"
+redirect_from:
+  - /aluminum-market-daily/2026-07-20-monday-reopen-turns-soft-lme-slips-toward-3140-destock-floor-holds-lpr-held-q2-gdp-miss-eyes-fomc
 ---
 
 <div class="lang lang-zh" markdown="1">

@@ -44,17 +44,9 @@ sentiment:
   - { label: "August Manufacturing Output Fell 0.3%, the First Decline of the Year, With Capacity Utilisation at 75.7%, Which Is the Energy Shock Arriving in the Factory Data Three Days After the Committee Tightened Into It", tone: bearish, pct: 71 }
   - { label: "The Week Bear Flattened Ten Basis Points at the Front and Minus Three at the Back, Which Is the Curve Adding Policy and Removing Term Premium, the Single Most Constructive Thing in This Note", tone: bullish, pct: 64 }
 
-tags:
-  - Refining Margins
-  - Russia Sanctions
-  - Federal Reserve
-  - Treasury Market
-  - Crude Oil
-  - Tokenized Securities
-  - AI Capital Structure
-  - Micron
-  - Strait of Hormuz
-  - US-China Summit
+tags: ["Refining Margins", "Russia Sanctions", "Fed", "Treasuries", "Oil", "Tokenization"]
+redirect_from:
+  - /morning-notes/2026-09-19-weekend-wrap-diesel-sets-a-record-629-and-the-crack-10772-while-crude-falls-trump-signs-the-russia-sanctions-act-manufacturing-output-minus03pct-vix-1481-sp-minus08pct-week-dow-worst-since-march
 ---
 
 Saturday, September 19, 2026, written at 9:30 a.m. Eastern. This is a weekend wrap covering the week to Friday's close. US markets are shut, every figure below is settled rather than indicative, and the Xi visit to Washington is five days away.

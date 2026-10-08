@@ -44,17 +44,9 @@ sentiment:
   - { label: "The Fed Enters Its Blackout Today With Payrolls at 162,000 Against a Twelve-Month Average of 31,000, So the Labour Half of the Mandate Has Stopped Blocking a Hike and Only Thursday's PPI and Friday's CPI Remain Between Here and the September 16 Decision", tone: neutral, pct: 48 }
   - { label: "The S&P Moved a Tenth of a Percent on the Week While SanDisk Gained 11.9% in a Session and Apple, Alphabet and Microsoft All Fell More Than 2%, Which Is the AI Trade Rotating Out of the Platform Layer and Into the Physically Scarce One", tone: bullish, pct: 66 }
 
-tags:
-  - Strait of Hormuz
-  - Crude Oil
-  - Payrolls
-  - Federal Reserve
-  - ECB
-  - Memory Chips
-  - Micron
-  - Adobe
-  - Lululemon
-  - Anthropic
+tags: ["Hormuz", "Oil", "Payrolls", "Fed", "ECB", "Memory Chips"]
+redirect_from:
+  - /morning-notes/2026-09-05-weekend-wrap-crude-plus95pct-on-a-strait-running-six-transits-payrolls-162k-take-september-to-59pct-fed-goes-dark-today-sandisk-plus119pct-micron-plus61pct-apple-alphabet-microsoft-all-minus2pct-ecb-thursday-cpi-friday
 ---
 
 Saturday, September 5, 2026, written after Friday's close, so every level below is a settlement rather than a moving mark and nothing reprices until Sunday night. OPEC+ meets tomorrow, the Federal Reserve's blackout period begins today, and the week that just ended moved the S&P 500 by one tenth of one percent. That flat line is the least informative number in this note.

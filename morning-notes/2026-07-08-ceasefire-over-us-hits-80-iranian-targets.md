@@ -43,17 +43,9 @@ sentiment:
   - { label: "The Tell Is Stagflation, Not Fear: Gold Falls, Yields Rise, and the Dollar Bids as Higher Oil Feeds Rate Angst Rather Than a Safety Trade", tone: bearish, pct: 33 }
   - { label: "June FOMC Minutes at 2pm Land Into a Hawkish Hold and Rising Hike Odds, and an Oil Shock Only Complicates the Cut the Jobs Miss Had Revived", tone: neutral, pct: 44 }
 
-tags:
-  - Iran War
-  - Ceasefire Over
-  - Strait of Hormuz
-  - Oil Spike
-  - Stagflation
-  - Chips
-  - DeepSeek
-  - FOMC Minutes
-  - Gold
-  - Bitcoin
+tags: ["Iran War", "Ceasefire Over", "Hormuz", "Oil Spike", "Stagflation", "Chips"]
+redirect_from:
+  - /morning-notes/2026-07-08-us-strikes-iran-80-targets-ceasefire-over-oil-spikes-wti-74-brent-78-stagflation-tell-gold-down-yields-up-chips-slide-deepseek-fomc-minutes-oil-74-gold-4085-bitcoin-62k
 ---
 
 Wednesday, July 8, 2026, written pre-bell. The war is back, and it came back overnight in the most direct way it could. Late Tuesday US forces launched what Central Command called a series of powerful strikes on Iran, hitting more than 80 targets with precision munitions, air-defense sites, radar and command networks, and better than 60 Revolutionary Guard fast boats in and around the Strait of Hormuz. The trigger was Iran's attack on three commercial vessels in the strait, the tanker fire this note flagged yesterday plus two more ships struck. President Trump declared the ceasefire finished, saying it is a waste of time dealing with Tehran, and the Treasury revoked the license that had let Iran sell oil on the world market, tearing up the core of June's memorandum to end the conflict. Iran did not wait long to answer. The Revolutionary Guard acknowledged strikes on US installations in Bahrain, home to the Fifth Fleet, and in Kuwait, and Tehran is vowing a crushing response. US equity futures are lower across the board, with the Dow off about 480 points, the S&P down roughly 0.6 percent, and the Nasdaq 100 near 0.9 percent lower. Oil is up more than 5 percent, WTI above 74 dollars and Brent near 78. The overnight tape is a clean regime change from the grind-higher market of the past week into a live geopolitical shock.

@@ -42,17 +42,9 @@ sentiment:
   - { label: "The Weekend Wildcard Landed: a Fourth US-Iran Strike Round and Iran's Claim It Closed Hormuz Pushed Oil Up About 4% and Revived the Rate-Hike Trade Right Into Tuesday's CPI", tone: bearish, pct: 38 }
   - { label: "It All Funnels Into One 48-Hour Test: June CPI, New Fed Chair Warsh's First Testimony and the Bank Earnings Kickoff Decide Whether This Is a Dip or a Turn", tone: neutral, pct: 45 }
 
-tags:
-  - SK Hynix
-  - AI Memory
-  - Kospi
-  - Iran
-  - Hormuz
-  - Oil
-  - June CPI
-  - Fed Warsh
-  - Bank Earnings
-  - Bitcoin
+tags: ["SK Hynix", "AI Memory", "KOSPI", "Iran", "Hormuz", "Oil"]
+redirect_from:
+  - /morning-notes/2026-07-13-sk-hynix-debut-euphoria-reverses-seoul-black-monday-kospi-9pct-crash-record-15pct-drop-us-iran-fourth-strike-hormuz-closed-oil-jumps-brent-79-futures-lower-cpi-warsh-banks-loom-gold-4064-bitcoin-62k
 ---
 
 Monday, July 13, 2026, written pre-market with US futures pointing lower. The trade that looked validated on Friday looks very different this morning. SK Hynix, which popped about 13 percent on its record Nasdaq debut, was slammed in Seoul overnight, falling a record 15 percent and tripping a circuit breaker as investors sold the news the moment the listing was in the books and as domestic brokers cut their second quarter earnings estimates below consensus. The damage was not contained to one name. The Kospi crashed 8.95 percent to 6,806.93, its worst session of the year and its first close below 7,000 in two months, a genuine Black Monday for Korea, and the memory rout began bleeding into Taiwan. Sitting on top of that was the weekend headline the last note flagged as the one live wildcard: the United States carried out a fourth round of strikes on Iran on Sunday in retaliation for an Iranian attack on a Cyprus flagged container ship, Iran declared the Strait of Hormuz closed until further notice, and crude jumped about 4 percent with Brent back near 79 and WTI near 74. US futures are lower across the board, the Dow off about 0.36 percent and the Nasdaq 100 leading the decline near 0.8 percent as the chip complex takes the brunt, and prediction markets put the odds of an up open for the S&P at only about 22 percent. All of it funnels into a single 48 hour test that starts tomorrow: June CPI, new Fed Chair Kevin Warsh's first testimony to Congress, and the bank earnings kickoff.

@@ -6,7 +6,7 @@ headline_zh: "中国四年来最强去库与海外升水飙升为铝价筑底;�
 date: 2026-07-08
 author: Steven Yuan
 data_window: "July 7 spot + night-session close"
-tags: [Destocking, Ex-China Premiums, Short Covering, Hawkish Fed, Off-Season Demand, Alumina Weakness]
+tags: ["Destocking", "Ex-China Premiums", "Short Covering", "Hawkish Fed", "Off-Season Demand", "Alumina Weakness"]
 snapshot:
   - { label: "SHFE AL2608", value: "23,055 (+0.50%)", dir: up }
   - { label: "LME 3M", value: "$3,139 (+0.84%)", dir: up }
@@ -24,6 +24,8 @@ drivers:
   bullish: 5
   bearish: 5
   net: "Short-term neutral"
+redirect_from:
+  - /aluminum-market-daily/2026-07-08-destocking-floor-premiums-surge-rebound-capped
 ---
 
 <div class="lang lang-en" markdown="1">

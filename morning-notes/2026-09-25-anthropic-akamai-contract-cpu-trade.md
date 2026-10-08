@@ -44,17 +44,9 @@ sentiment:
   - { label: "The Buyer Received a Warrant Worth Roughly Five Percent of Akamai, So the Vendor Financed Part of Its Own Backlog and the Circularity Now Runs Through the CPU Layer Too", tone: bearish, pct: 66 }
   - { label: "WTI Fell Seven Percent on the Week While Brent Rose Two, So the Export Ban Proposal Has Moved Out of the Crack and Into the Price of the American Barrel Itself", tone: bearish, pct: 72 }
 
-tags:
-  - Artificial Intelligence
-  - CPU Compute
-  - Cloud Infrastructure
-  - Crude Oil
-  - Strait of Hormuz
-  - Treasury Market
-  - Federal Reserve
-  - Diesel Crack
-  - Consumer Sentiment
-  - US-China Summit
+tags: ["AI", "CPU Compute", "Cloud Infrastructure", "Oil", "Hormuz", "Treasuries"]
+redirect_from:
+  - /morning-notes/2026-09-25-anthropic-signs-116bn-with-akamai-for-cpu-workloads-and-pays-in-equity-akam-plus20pct-hormuz-phased-deal-pulls-brent-off-108-wti-minus7pct-on-the-week-nikkei-66364-fifth-straight
 ---
 
 Friday, September 25, 2026, written at 9:15 a.m. Eastern, forty five minutes before the open. Futures and pre-market levels below are indicative and can move before the bell. Shanghai and Shenzhen are shut through Sunday for the Mid-Autumn Festival and Seoul is still out for Chuseok until Monday, so for the second consecutive session the two markets that own the physical side of this cycle are absent.

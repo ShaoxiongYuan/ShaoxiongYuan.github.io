@@ -44,17 +44,9 @@ sentiment:
   - { label: "Iran and Oman Agreed a Joint Temporary Navigational Corridor Through Hormuz and Committed to Clearing Mines, the First Concrete Reopening Framework in Six Months, and Crude Has Now Fallen Three Sessions in a Row", tone: bullish, pct: 64 }
   - { label: "Headline PCE at 3.7% Is a Three-Year High While Core Held at 3.3%, So the Fed Gets to Choose Its Own Story on Friday and September Hike Odds Sit Almost Exactly on the Coin Flip", tone: neutral, pct: 48 }
 
-tags:
-  - Nvidia
-  - Salesforce
-  - Intuit
-  - Core PCE
-  - Strait of Hormuz
-  - Crude Oil
-  - Jackson Hole
-  - SpaceX
-  - Abercrombie
-  - Canada Tariffs
+tags: ["Nvidia", "Salesforce", "Intuit", "Core PCE", "Hormuz", "Oil"]
+redirect_from:
+  - /morning-notes/2026-08-26-hormuz-corridor-talks-take-brent-8680-third-straight-fall-intuit-beats-and-drops-12pct-on-fy27-guide-nvidia-salesforce-both-tonight-headline-pce-37pct-three-year-high-spacex-100b-louisiana-spaceport
 ---
 
 Wednesday, August 26, 2026, written at 9:20 a.m. Eastern, ten minutes before the cash open. The eight-thirty data is in the market and the two prints that decide the week are still eight hours away. One correction to yesterday's edition before anything else: this book carried the Nikkei's Tuesday close at 64,980.53, and the correct figure was 65,856.43. The direction of the Asia read was right, the level was not.

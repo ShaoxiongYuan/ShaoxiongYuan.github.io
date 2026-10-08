@@ -52,16 +52,9 @@ sentiment:
   - { label: "May CPI Tomorrow (4.2% YoY Expected)",        tone: bearish, pct: 38 }
   - { label: "Warsh FOMC Jun 16-17 (Hike Odds >60%)",       tone: bearish, pct: 30 }
 
-tags:
-  - Intel
-  - Alphabet
-  - Iran-Israel
-  - Brent
-  - CPI
-  - semiconductor
-  - World-Cup
-  - FOMC
-  - gold
+tags: ["Intel", "Alphabet", "Iran-Israel", "Brent", "CPI", "Semiconductors"]
+redirect_from:
+  - /morning-notes/2026-06-09-intel-11pct-alphabet-ai-chip-order-iran-israel-halt-attacks-brent-92-oil-eases-gold-4350-cpi-tomorrow-world-cup-thursday
 ---
 
 Tuesday pre-market, 7:00 AM ET. The lead story this morning is Intel surging 11.2% in pre-market after reports that Alphabet placed a substantial AI chip order, the most significant sign yet that hyperscalers are actively diversifying their silicon supply chains beyond Nvidia. The order pulled the entire semiconductor complex higher, with AMD adding 5.1%, Broadcom climbing 2.8%, and Micron gaining 5.0%. The move comes at a critical moment: the PHLX Semiconductor Index lost over 10% last Friday on Broadcom's AI guidance miss, and the KOSPI triggered a circuit breaker on Monday with an 8.3% crash. A single Alphabet order does not fix Intel's structural challenges around foundry execution and market share losses, but it does validate a thesis that hyperscaler demand for custom and alternative AI silicon is broadening. Nvidia rose 2.0% pre-market to roughly $210, holding near its all-time high despite the rotation narrative.

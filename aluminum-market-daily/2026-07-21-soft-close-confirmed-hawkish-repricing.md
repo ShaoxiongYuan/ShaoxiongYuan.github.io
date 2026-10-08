@@ -5,7 +5,7 @@ headline: "LME confirms a soft close at $3,138 as the dollar firms to 101. Oil-d
 headline_zh: "LME 确认收软于 3,138 美元,美元升至 101;油价推升通胀担忧,9 月加息预期升温。"
 date: 2026-07-21
 author: Steven Yuan
-tags: [Soft Close Confirmed 3138, Dollar Firms 101, Hawkish September Repricing, Destock Floor, US-Iran Talks Emerge, Oil Near 89, Eyes FOMC July 28-29]
+tags: ["LME 3138", "Dollar 101", "Hawkish Repricing", "Destock Floor", "US-Iran Talks", "FOMC Watch"]
 data_window: "Monday July 20 LME close ($3,137.80, −0.85%) as the last confirmed settlement, plus an unconfirmed Tuesday July 21 intraday LME read (~$3,130–3,150); SHFE Monday close estimated/soft and Tuesday intraday with no confirmed Tuesday settlement at writing; several China spot/premium prints lag to the July 17–18 session and the aluminum-ingot inventory caliber to the July 16–20 series (SMM Monday social caliber ~1.242 Mt); CME FedWatch snapshot as of July 20–21; DXY (~101) and Brent (~$89) as of July 21; the ongoing US–Iran/Hormuz strikes (tenth night) and the SMM-cited easing-negotiations report carried as interpretation"
 snapshot:
   - { label: "SHFE AL2608", value: "~22,900–23,100 (Tue, est/soft)", dir: down }
@@ -24,6 +24,8 @@ drivers:
   bullish: 5
   bearish: 5
   net: "Balanced-to-softer with a bearish macro edge — the accelerating destock and a (now two-sided) Hormuz supply-risk premium hold the base, but the confirmed soft Monday close ($3,137.80, −0.85%), a firmer dollar (~101) and a hawkish September re-pricing (~70% hike odds) tilt the near-term macro against metals; the SMM-cited easing US–Iran negotiations are a fresh downside cross-current for the ex-China risk premium even as strikes ran to a tenth night, with the July 28–29 FOMC and whether the destock breaks below 1 Mt the two-sided arbiters"
+redirect_from:
+  - /aluminum-market-daily/2026-07-21-soft-close-confirmed-3138-dollar-firms-101-hawkish-september-repricing-destock-floor-holds-us-iran-talks-emerge-eyes-fomc
 ---
 
 <div class="lang lang-zh" markdown="1">

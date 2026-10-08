@@ -44,17 +44,9 @@ sentiment:
   - { label: "SoftBank Cleared $11.1bn at a Reported 9.75% Coupon With More Than $30bn of Orders, the Largest High Yield Corporate Bond Sale on Record, So the Bid Is Intact and the Price Has Changed", tone: neutral, pct: 60 }
   - { label: "The Export Ban Report Cut the American Diesel Crack $12.70 and Took the European Premium to a Record, Which Is the Exact Mechanism This Desk Described Twenty Four Hours Earlier", tone: bullish, pct: 74 }
 
-tags:
-  - Treasury Market
-  - Federal Reserve
-  - Credit Markets
-  - Artificial Intelligence
-  - Diesel Crack
-  - Crude Oil
-  - US-China Summit
-  - Iran Conflict
-  - Space
-  - Semiconductors
+tags: ["Treasuries", "Fed", "Credit Markets", "AI", "Diesel Crack", "Oil"]
+redirect_from:
+  - /morning-notes/2026-09-24-the-curve-breaks-to-a-2007-high-10y-5135-30y-544-october-to-775pct-softbank-clears-111bn-the-largest-junk-deal-on-record-at-975pct-diesel-ban-splits-the-crack
 ---
 
 Thursday, September 24, 2026, written at 9:25 a.m. Eastern, thirty five minutes before the open. Futures and pre-market levels below are indicative and can move before the bell. Tokyo reopened overnight after four sessions shut. Seoul is closed for Chuseok and does not trade again until Monday the 28th, so the two Asian markets that matter most to this cycle are split between a market catching up and a market absent.

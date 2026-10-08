@@ -42,17 +42,9 @@ sentiment:
   - { label: "But the Damage Has More Substance Than a Positioning Wobble: a DeepSeek Own-Chip Report and a Gemini 3.5 Pro Delay Both Chip at the Two Consensus Bets in the Market, That Nvidia's Moat Is Permanent and That US Labs Hold the Model Lead, and the SOX Formally Entered a Bear Market on the Week", tone: bearish, pct: 46 }
   - { label: "Oil Booked Its Best Week Since the Spring and the US and Iran Traded a Seventh Straight Night of Strikes Into the Weekend, Keeping a Live Inflation Tail on the Tape Even as CPI and PPI Cooled, and It Is the One Variable Most Likely to Keep a Fed Hike on the Table Into the July 28-29 FOMC", tone: bearish, pct: 44 }
 
-tags:
-  - Chip Selloff
-  - SOX Bear Market
-  - Kimi K3
-  - DeepSeek
-  - Netflix
-  - Oil
-  - Iran
-  - Hormuz
-  - Tesla
-  - FOMC
+tags: ["Chip Selloff", "SOX Bear Market", "Kimi K3", "DeepSeek", "Netflix", "Oil"]
+redirect_from:
+  - /morning-notes/2026-07-18-weekend-wrap-second-deepseek-moment-drags-chips-into-bear-market-kimi-k3-gemini-delay-sox-down-20pct-oil-best-week-12pct-iran-us-trade-seventh-night-strikes-hormuz-tesla-alphabet-fomc-ahead-gold-4019-bitcoin-64k
 ---
 
 Saturday, July 18, 2026, a weekend wrap written after a bruising week for the AI trade and with the Middle East hotter than it was at Friday's close. US stocks ended the week lower as a fresh scare over the economics of the AI buildout tore through semiconductors, and the Philadelphia Semiconductor Index slid into bear-market territory, now down about 20 percent from its June record even after a year that still has it up more than 60 percent. The trigger was software rather than a capex line. China's Moonshot AI unveiled Kimi K3, described as the largest open-weight model ever at roughly 2.8 trillion parameters, a separate report said DeepSeek is developing its own inference chip, and a third report suggested Alphabet's Gemini 3.5 Pro has slipped months behind schedule. On Friday the S&P 500 fell 1.0 percent to 7,457.69, the Nasdaq dropped 1.4 percent to 25,520, and the Dow eased 0.8 percent to 52,146, capping weekly losses of roughly 1.5, 2.9 and 1.0 percent. Oil went the other way, booking its best week since the spring as the US and Iran kept trading blows over the Strait of Hormuz, and overnight the fighting escalated again with a seventh straight night of American strikes and fresh Iranian fire that reached Kuwait.

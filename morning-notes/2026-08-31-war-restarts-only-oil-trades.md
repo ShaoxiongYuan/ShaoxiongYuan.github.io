@@ -44,17 +44,9 @@ sentiment:
   - { label: "September Hike Odds Rose to 60.4% on the Day the War Restarted, Because After Warsh a Gulf Supply Shock Lands on the Inflation Side of the Mandate Rather Than the Growth Side, Which Inverts the Reflex Every Oil Spike Has Traded on for Twenty Years", tone: bearish, pct: 30 }
   - { label: "Korea Opened Down 2.6%, Fell 3.55% Intraday and Closed Up 0.46%, and China's New Orders Jumped to 50.6 From 48.5, So the Demand Side of Asia Refused to Confirm Either the Rate Scare or the War Scare", tone: bullish, pct: 64 }
 
-tags:
-  - Strait of Hormuz
-  - Iran
-  - Brent Crude
-  - Kevin Warsh
-  - Edison International
-  - PG&E
-  - China PMI
-  - Anthropic
-  - Broadcom
-  - Gold
+tags: ["Hormuz", "Iran", "Oil", "Warsh", "Edison", "PG&E"]
+redirect_from:
+  - /morning-notes/2026-08-31-us-iran-exchange-strikes-first-in-a-month-brent-9036-but-gold-falls-and-september-hike-odds-rise-to-604pct-california-kills-utility-liability-relief-eix-pcg-17pct-china-pmi-498-kospi-round-trips-35pct
 ---
 
 Monday, August 31, 2026, written at 9:15 a.m. Eastern, before the cash open and on the last session of the month, so every US number below is a future or a pre-market print and can look different by ten o'clock. Three things happened while the desk was closed. A six-month war produced its first military exchange in a month, California's legislature ended its session without giving its utilities the liability relief they had been priced for, and China's factory survey beat by a tenth with a very large move underneath it.

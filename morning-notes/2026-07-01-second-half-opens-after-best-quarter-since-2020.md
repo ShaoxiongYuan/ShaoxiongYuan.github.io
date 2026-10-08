@@ -43,17 +43,9 @@ sentiment:
   - { label: "A Softening Labor Market (ADP 98K) Puts All the Weight on Thursday's Pulled-Forward Payrolls", tone: neutral, pct: 53 }
   - { label: "Oil's 24% Quarterly Collapse Is Disinflationary Fuel, but Iran Refusing Talks Keeps a Tail Alive", tone: bearish, pct: 50 }
 
-tags:
-  - Record Highs
-  - Best Quarter Since 2020
-  - AI Memory
-  - Storage
-  - SpaceX
-  - AMD
-  - Oil Collapse
-  - Jobs Report
-  - Iran
-  - ADP
+tags: ["Record Highs", "Best Quarter", "AI Memory", "Storage", "SpaceX", "AMD"]
+redirect_from:
+  - /morning-notes/2026-07-01-second-half-opens-best-quarter-since-2020-futures-slip-records-ai-memory-storage-lead-amd-record-western-digital-spacex-nasdaq100-july7-oil-craters-24pct-iran-refuses-talks-adp-98k-jobs-thursday-gold-4015-bitcoin-58k
 ---
 
 Wednesday, July 1, 2026, written pre-bell, and the second half opens the morning after the strongest quarter US equities have posted since 2020. Tuesday sealed it with another set of record closes, the Dow finishing at 52,319.20 for a second straight all-time high, the S&P 500 at 7,449.36, and the Nasdaq Composite at 26,213.72. Now the tape exhales. Futures are slipping this morning, with the S&P down about 0.3 percent and the Nasdaq 100 off roughly 0.4 percent, the first real give-back after a run that took the index from last week's financing scare to fresh records in barely three sessions. Three things frame the day. The AI complex is still doing the leading, with memory, storage, and the space names setting the pace. Oil is in an outright collapse that is quietly doing the Fed's disinflation work. And a labor market that is visibly cooling now hands the whole story to Thursday's jobs report, which has been pulled forward into a holiday-shortened week.

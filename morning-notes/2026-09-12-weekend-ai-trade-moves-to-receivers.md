@@ -44,17 +44,9 @@ sentiment:
   - { label: "The Committee Meets Wednesday With Headline Inflation at 3.4%, Core at 2.4% and Effectively the Entire Wedge Sitting in Energy, So a Hike Priced at 88% Is Being Delivered Against a Barrel Rather Than Against Domestic Demand, and the Dot Plot Carries Far More Information Than the Move", tone: bearish, pct: 70 }
   - { label: "Brent Added 8.7% on the Week and Gave Back Three Dollars on a Diplomatic Headline in the Same Seven Days That Saudi Output Printed Its Lowest Level Since 1990, Which Makes the Friday Pullback a Positioning Event Rather Than a Supply One", tone: bullish, pct: 63 }
 
-tags:
-  - Federal Reserve
-  - Consumer Prices
-  - AI Capital Expenditure
-  - Oracle
-  - Treasury Market
-  - Crude Oil
-  - Optical Networking
-  - Bank of Japan
-  - Strait of Hormuz
-  - BRICS
+tags: ["Fed", "CPI", "AI Capex", "Oracle", "Treasuries", "Oil"]
+redirect_from:
+  - /morning-notes/2026-09-12-weekend-wrap-oracle-beats-and-closes-red-while-dell-hpe-add-12pct-fed-odds-go-71-to-88pct-10y-4974-brent-plus87pct-week-sp-minus08pct-brics-new-delhi
 ---
 
 Saturday, September 12, 2026, written at 9:30 a.m. Eastern. This is a weekend wrap covering the week to Friday's close, with US markets shut and the Federal Open Market Committee four days away. Everything below is a settled mark rather than a live one.

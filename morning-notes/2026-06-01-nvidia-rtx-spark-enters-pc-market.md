@@ -55,17 +55,9 @@ sentiment:
   - { label: "AVGO/CRWD Earnings This Week (AI Reads)",         tone: bullish, pct: 72 }
   - { label: "ISM Mfg Due 10AM (52.6 Cons, Chicago 62.7)",     tone: bullish, pct: 68 }
 
-tags:
-  - Nvidia
-  - RTX-Spark
-  - N1X
-  - Computex-2026
-  - Jensen-Huang
-  - PC-reinvention
-  - INTC
-  - AMD
-  - MSFT
-  - ARM
+tags: ["Nvidia", "RTX-Spark", "N1X", "Computex-2026", "Jensen-Huang", "PC-reinvention"]
+redirect_from:
+  - /morning-notes/2026-06-01-nvidia-rtx-spark-pc-reinvention-intc-amd-slide-iran-deal-unsigned-brent-93-ism-mfg-due-broadcom-crowdstrike-week
 ---
 
 Monday pre-market, 7:00 AM ET. Nvidia CEO Jensen Huang took the stage at Computex 2026 in Taipei overnight and delivered what amounts to the most significant PC platform shift in four decades. The RTX Spark superchip pairs a custom Arm-based N1X CPU (designed with MediaTek) with a Blackwell GPU packing 6,144 CUDA cores and up to 128 GB of unified LPDDR5X memory, delivering 1 petaflop of AI performance in a laptop form factor. Huang called it "the first completely re-engineered, reinvented line of PCs that has happened in 40 years." Launch partners include Microsoft, Dell, HP, ASUS, Lenovo, and MSI, with the Surface Laptop Ultra, Dell XPS 16, and HP OmniBook Ultra 16 shipping this fall. Intel fell 6.5% and AMD dropped 4.2% in pre-market trading as Nvidia's entry into the CPU market directly threatens their decades-long PC duopoly. Microsoft rose nearly 4%, Arm gained 3%, and Nvidia itself climbed 2%.

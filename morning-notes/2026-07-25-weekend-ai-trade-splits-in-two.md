@@ -42,17 +42,9 @@ sentiment:
   - { label: "The Oil Shock Cooled Hard on Friday, Brent Down 4% Below $96 as China and Pakistan Pushed Iran Toward Talks, Taking the Edge Off the September-Hike Panic Even as the Week Still Booked Hefty Crude Gains", tone: bullish, pct: 52 }
   - { label: "The Setup Into the FOMC Is Two-Sided: Yields Sit Near Multi-Month Highs With the 30-Year at Its Loftiest Since 2007, and a Hot GDP or PCE Print Thursday Could Reignite the Rate Scare a Cooling Oil Tape Just Calmed", tone: bearish, pct: 54 }
 
-tags:
-  - Weekend Wrap
-  - AI Capex
-  - Chip Suppliers
-  - Big Tech Earnings
-  - FOMC
-  - Oil Cools
-  - Iran Talks
-  - GDP PCE
-  - Gold
-  - Bitcoin
+tags: ["Weekend Wrap", "AI Capex", "Chip Suppliers", "Earnings", "FOMC", "Oil Cools"]
+redirect_from:
+  - /morning-notes/2026-07-25-weekend-wrap-ai-trade-splits-spenders-punished-suppliers-rewarded-intel-proof-oil-cools-brent-96-china-pakistan-broker-iran-talks-fomc-msft-meta-apple-amazon-gdp-pce-week-ahead-gold-4053-bitcoin-65k
 ---
 
 Saturday, July 25, 2026, and with the screens dark for the weekend it is worth stepping back, because the week that just closed set up the most consequential five days of the summer. Wall Street ended a jumpy stretch on a split note: the S&P 500 scratched out a flat Friday to finish at 7,411.98, the Dow added 236 points to 51,947, and the Nasdaq Composite slipped again to 24,976, leaving the tech gauge down about 2 percent on the week. Underneath that quiet tape ran the story of the season, an AI trade that has cleaved in two, with the big spenders punished and the suppliers rewarded. Oil, the other headline all week, finally broke lower on Friday, with Brent sliding 4 percent below $96 after word that China and Pakistan are quietly pushing Iran back toward talks. And waiting on the other side of the weekend is a wall of catalysts: a Federal Reserve decision Wednesday, four of the Magnificent Seven reporting, and second-quarter GDP and the Fed's preferred inflation gauge both landing Thursday.

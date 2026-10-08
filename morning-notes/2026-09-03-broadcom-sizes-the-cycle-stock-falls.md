@@ -44,17 +44,9 @@ sentiment:
   - { label: "The Stock Fell 3.5% Because a Single Quarter's Revenue Guide Was $230 Million Light on a $35 Billion Base, Seven Tenths of One Percent, So the Market Is Demanding Perfect Quarterly Execution From Companies It Is Simultaneously Valuing on 2028 Revenue", tone: bearish, pct: 36 }
   - { label: "Challenger Counted 52,881 August Job Cuts, the Quietest August Since 2022, One Day After ADP Reported the Weakest Hiring Since January, and a Labour Market That Is Neither Hiring Nor Firing Gives Tomorrow's Payrolls an Unusually Wide Distribution", tone: neutral, pct: 50 }
 
-tags:
-  - Broadcom
-  - Anthropic
-  - Snowflake
-  - Ciena
-  - AI Capex
-  - Bank of Japan
-  - Gold
-  - Payrolls
-  - Strait of Hormuz
-  - Zscaler
+tags: ["Broadcom", "Anthropic", "Snowflake", "Ciena", "AI Capex", "Bank of Japan"]
+redirect_from:
+  - /morning-notes/2026-09-03-broadcom-ai-167b-plus221pct-guides-115b-fy27-230b-fy28-anthropic-largest-xpu-customer-stock-minus35pct-on-230m-guide-miss-snowflake-plus23pct-ciena-optical-plus46pct-yen-15634-boj-gold-plus2pct-payrolls-friday
 ---
 
 Thursday, September 3, 2026, written at 9:05 a.m. Eastern, after the Challenger release and before jobless claims and the cash open, so every US number below is a future or a pre-market print and can look different by ten o'clock. Four companies from four different layers of the same supply chain reported inside twenty-four hours. All four beat. All four raised. One of them was sold.

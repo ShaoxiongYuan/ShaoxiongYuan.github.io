@@ -42,17 +42,9 @@ sentiment:
   - { label: "Gold Rallying Almost 3% Through $4,245 on the Exact Morning Washington Says a Hormuz Deal Could Be Signed Is the Most Informative Price on the Screen: With the 10-Year at 4.607% and the Dollar Flat, This Is a Labour-Market and Debasement Bid Rather Than a War Bid, and It Says the Bond Market Took the 44,000 ADP Print Far More Seriously Than the Equity Market Did", tone: bearish, pct: 35 }
   - { label: "Eli Lilly Beat by $2.37 a Share With International Revenue Up 80% on 113% Volume Growth While Novo Nordisk Guided Full-Year Sales to Down 6% to Flat and Is Cutting 9,000 Jobs, Which Is No Longer a Competitive Gap in the Same Category but Two Different Businesses", tone: bullish, pct: 68 }
 
-tags:
-  - AMD
-  - SpaceX
-  - Arista
-  - Eli Lilly
-  - AI Capex
-  - Hormuz
-  - Gold
-  - ADP
-  - Disney
-  - Earnings
+tags: ["AMD", "SpaceX", "Arista", "Eli Lilly", "AI Capex", "Hormuz"]
+redirect_from:
+  - /morning-notes/2026-08-05-market-audits-ai-cash-not-revenue-amd-9pct-data-centre-107pct-spacex-11pct-184b-capex-arista-14pct-adp-44k-slowest-since-january-gold-rips-4245-hormuz-deal-could-land-today-lilly-87b-bitcoin-64k
 ---
 
 Wednesday, August 5, 2026. Three companies levered to artificial intelligence reported after yesterday's close, and all three beat. AMD beat on revenue and earnings and guided the September quarter above the street. SpaceX beat consensus revenue by a billion dollars in its first disclosure as a public company and lost a quarter of what analysts had penciled in. Arista beat and then guided the next quarter roughly twelve percent above where the street had it. Two of those three stocks are lower this morning and one is up fourteen percent. The sorting principle is not growth, because AMD grew its data centre business 107 percent and is down nine. The sorting principle is cash. Companies that collect money from the buildout are being paid for it. Companies that spend money on the buildout are being charged for it, and as of this morning that charge applies even when their revenue is compounding at triple digits.

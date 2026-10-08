@@ -42,16 +42,9 @@ sentiment:
   - { label: "The Macro Turned Genuinely Hostile: Oil Crossed $100, September Hike Odds Leapt to 80%, and Trump's Tariffs on 60 Countries Went Live at Midnight, a Stagflation-Lite Mix That Has Gold Struggling to Hold $4,000", tone: bearish, pct: 60 }
   - { label: "Thursday's $800B Mag7 Capex Rout Still Overhangs the Open: The Free-Cash-Flow Scrutiny on the Hyperscaler Spenders Has Not Cleared, and Asia's Chip Selloff Shows the Fear Is Not Fully Priced", tone: bearish, pct: 52 }
 
-tags:
-  - Intel
-  - AI Demand
-  - Chip Suppliers
-  - Oil $100
-  - Red Sea
-  - Fed Hike
-  - Tariffs
-  - Big Tech Capex
-  - Gold
+tags: ["Intel", "AI Demand", "Chip Suppliers", "Oil $100", "Red Sea", "Fed Hike"]
+redirect_from:
+  - /morning-notes/2026-07-24-intel-blowout-fastest-growth-15-years-steadies-tape-after-mag7-800b-capex-rout-oil-crosses-100-red-sea-sept-hike-odds-80-trump-tariffs-60-countries-live-gold-4028-bitcoin-65k
 ---
 
 Friday, July 24, 2026, and after a brutal Thursday the tape is trying to find its feet, with the help of an earnings print almost nobody expected to matter this much. Intel reported after the close and cleared every line, growing revenue 25 percent for its fastest quarter in nearly fifteen years, and the stock is up about 4 percent pre-market even against a savage overnight selloff in Asian chips. That steadies US futures, with S&P 500 futures up about 0.2 percent, Dow futures up 0.4 percent and Nasdaq 100 futures barely positive, after Thursday handed the Magnificent Seven a roughly $800 billion single-day loss on the back of Alphabet and Tesla's ballooning AI spending. But the calm is fragile, because the macro underneath got worse overnight. Oil crossed $100 a barrel for the first time since May after Iran-backed Houthis struck two Saudi tankers in the Red Sea, the odds of a September Fed hike jumped to roughly 80 percent, and President Trump's new tariffs on sixty trading partners went live at one minute past midnight. American Express and Verizon both beat before the bell.

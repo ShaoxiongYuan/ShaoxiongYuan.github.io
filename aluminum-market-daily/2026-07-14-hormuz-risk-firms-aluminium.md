@@ -6,7 +6,7 @@ headline_zh: "伊朗宣布关闭霍尔木兹推升 Brent 4%,供应风险溢价�
 date: 2026-07-14
 author: Steven Yuan
 data_window: "Monday July 13 SHFE daytime close & LME; written Tuesday July 14 ahead of the 8:30 ET June CPI and Chair Warsh testimony"
-tags: [Hormuz Supply Risk, Destock Accelerates, CPI-Warsh Day, LME Stocks 285kt, Oil Spike, H2 Deficit]
+tags: ["Hormuz Supply Risk", "Destock Accelerates", "CPI-Warsh Day", "LME Stocks 285kt", "Oil Spike", "H2 Deficit"]
 snapshot:
   - { label: "SHFE AL2608", value: "23,030 (Mon −0.28%)", dir: down }
   - { label: "LME 3M", value: "$3,149 (+0.16%)", dir: up }
@@ -24,6 +24,8 @@ drivers:
   bullish: 5
   bearish: 4
   net: "Neutral-to-firm; Hormuz supply-risk + destock underpin, CPI/Warsh the pivot today"
+redirect_from:
+  - /aluminum-market-daily/2026-07-14-hormuz-supply-risk-destock-firm-aluminum-into-cpi-warsh-day
 ---
 
 <div class="lang lang-en" markdown="1">

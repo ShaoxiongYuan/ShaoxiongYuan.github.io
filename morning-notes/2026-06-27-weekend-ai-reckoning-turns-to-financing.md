@@ -43,17 +43,9 @@ sentiment:
   - { label: "Oil's War-Premium Unwind Extends Into a Genuine Disinflation Offset", tone: bullish, pct: 58 }
   - { label: "Micron's Record Quarter Gets Ignored as the Market Doubts AI's Financing, Not Its Demand", tone: neutral, pct: 52 }
 
-tags:
-  - AI Selloff
-  - Semiconductors
-  - OpenAI
-  - SpaceX
-  - Micron
-  - Kashkari
-  - Core PCE
-  - Oil
-  - Iran
-  - Bitcoin
+tags: ["AI Selloff", "Semiconductors", "OpenAI", "SpaceX", "Micron", "Kashkari"]
+redirect_from:
+  - /morning-notes/2026-06-27-weekend-wrap-ai-trade-reckoning-financing-not-demand-nasdaq-worst-week-fifth-straight-drop-openai-ipo-slips-2027-spacex-153-kashkari-first-fed-hawk-2026-hike-micron-blowout-ignored-oil-wti-69-gold-4025-bitcoin-60k
 ---
 
 Saturday, June 27, 2026. There is no live tape this weekend. US equity and bond markets are shut until Monday, June 29, so the last cash prints on the screen are Friday's June 26 closes. Treat this as a stocktaking note rather than a reaction piece. The week that just ended was the moment the AI trade stopped being a one-way bet. The Nasdaq Composite fell for a fifth straight session Friday to close at 25,297.62, capping a roughly 4.6 percent weekly slide that was its worst stretch in months, while the S&P 500 ended the week down close to 2 percent at 7,354.02 and the Dow held up far better at 51,876.11. What makes this selloff different from the wobbles earlier in the spring is the reason behind it. The market is no longer arguing about whether AI demand is real. Micron just answered that with a record quarter. It is arguing about who pays for the build-out, how much of it is funded with debt, and whether public and private markets still have the appetite to keep writing the checks.

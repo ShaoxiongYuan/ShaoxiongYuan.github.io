@@ -42,17 +42,9 @@ sentiment:
   - { label: "The Oil Market Just Handed the Fed Back Its Hawkish Option Four Hours Before Warsh Speaks: Not a Barrel of Production Was Lost, Every Missile and Drone Was Intercepted, and Brent Still Rose 6.6% While September Hike Odds Went From Roughly 56% to 76%, Which Says the Inflation Impulse Is Now Priced Off Headlines Rather Than Supply", tone: bearish, pct: 30 }
   - { label: "Vertiv Is the Quiet Tell Into Tonight: The Company That Physically Powers and Cools AI Data Centres Beat on Both Lines and Fell 13% Because Organic Growth Decelerated to 17.8% Against 23.6% Expected, Which Raises the Question Microsoft and Meta Have to Answer After the Bell About How Fast Announced Capex Converts Into Shipped Equipment", tone: neutral, pct: 48 }
 
-tags:
-  - SK Hynix
-  - Kospi Circuit Breaker
-  - Iran
-  - Brent Crude
-  - FOMC
-  - Warsh
-  - Microsoft
-  - Meta
-  - Vertiv
-  - Nasdaq Correction
+tags: ["SK Hynix", "KOSPI", "Iran", "Oil", "FOMC", "Warsh"]
+redirect_from:
+  - /morning-notes/2026-07-29-record-quarter-is-now-a-miss-sk-hynix-76pct-margin-kospi-second-circuit-breaker-iran-missiles-brent-jumps-90-sept-hike-odds-76pct-vertiv-13pct-fomc-msft-meta-gold-4043-bitcoin-63k
 ---
 
 Wednesday, July 29, 2026, and two separate things broke overnight that happen to point the same direction. SK Hynix reported the most profitable quarter any memory company has ever produced, with revenue of KRW 79.32 trillion and operating profit of KRW 60.54 trillion at a 76 percent operating margin, up 557 percent year on year, and the market treated it as a miss because consensus wanted roughly KRW 84 trillion and KRW 64 trillion. The Kospi fell as much as 9.8 percent, tripped a market-wide circuit breaker for the second consecutive session, a first in the index's history, and closed down 5.98 percent at 5,663.24. That is more than 18 percent off in two days and roughly 40 percent below the June high, putting July on track to be the worst calendar month the Kospi has ever recorded. Meanwhile Iran's Revolutionary Guard fired ballistic missiles at US forces in the Middle East late Tuesday, CENTCOM intercepted all of them, and President Trump told Fox News that Iran is "going to get a beating." Brent jumped 6.6 percent to $89.61 and WTI 6.4 percent to $84.31. The Federal Reserve announces at 2:00pm Eastern into all of it.

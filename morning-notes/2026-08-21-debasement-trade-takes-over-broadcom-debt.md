@@ -44,17 +44,9 @@ sentiment:
   - { label: "Broadcom Seeking More Than $60 Billion of Debt in a Package That Could Reach $100 Billion Confirms That AI Capacity Is Now Being Financed in the Same Credit Market the Treasury Is Trying to Steady", tone: bearish, pct: 35 }
   - { label: "Ross at 10% Comparable Sales and BJ's Raising Guidance Against Walmart's 2.6% Say the Consumer Has Not Stopped Spending, It Has Moved Down Market, Which Is a Rotation Rather Than a Contraction", tone: neutral, pct: 52 }
 
-tags:
-  - Treasuries
-  - Gold
-  - Bitcoin
-  - Broadcom
-  - Anthropic
-  - Retail
-  - Oil
-  - Iran
-  - Federal Reserve
-  - Dollar
+tags: ["Treasuries", "Gold", "Bitcoin", "Broadcom", "Anthropic", "Retail"]
+redirect_from:
+  - /morning-notes/2026-08-21-debasement-trade-takes-over-gold-4540-bitcoin-79241-best-week-since-march-2023-30y-back-525-broadcom-60b-anthropic-debt-blackstone-apollo-ross-266-comps-10pct-bjs-raises-ubiquiti-235pct-hormuz-seven
 ---
 
 Friday, August 21, 2026, written at 9:15am Eastern, fifteen minutes before the bell, with the flash PMIs still half an hour away and Bitcoin having printed $79,241 overnight. Yesterday this note argued that the dollar had become the cleanest expression of the whole setup, and that gold and Bitcoin were the same trade wearing different clothes. That has been the right frame, though not in the way we drew the line. The dollar itself did not break 98.50. It sat at 98.802 and did nothing. What moved instead were the two assets that have no issuer, and they moved with real violence.

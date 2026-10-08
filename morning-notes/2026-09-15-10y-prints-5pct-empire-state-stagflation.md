@@ -44,17 +44,9 @@ sentiment:
   - { label: "Empire State Collapsed From 20.6 to 7.6 With New Orders Falling to 2.0 and Prices Paid Accelerating to 63.1, the First Hard American Activity Survey Covering the Weeks After Brent Cleared $100, and the Committee Votes Against It Tomorrow Afternoon", tone: bearish, pct: 74 }
   - { label: "Forgent Booked $1.5 Billion of Data Centre Electrical Equipment in a Single Quarter Against $1.42 Billion of Full Year Revenue on a 3.3x Book to Bill and Guided Fiscal 2027 Up 76%, Which Is the Order Book Answering Monday's Argument About the Pace of the Frontier", tone: bullish, pct: 81 }
 
-tags:
-  - Treasury Market
-  - Federal Reserve
-  - Inflation
-  - Crude Oil
-  - Strait of Hormuz
-  - AI Capital Expenditure
-  - Data Centre Power
-  - Gold
-  - China
-  - Saudi Arabia
+tags: ["Treasuries", "Fed", "Inflation", "Oil", "Hormuz", "AI Capex"]
+redirect_from:
+  - /morning-notes/2026-09-15-10y-prints-502pct-first-five-handle-since-2007-empire-state-collapses-206-to-76-new-orders-20-prices-paid-631-gold-falls-to-a-five-week-low-anyway-fed-votes-wednesday-forgent-books-15bn-on-33x
 ---
 
 Tuesday, September 15, 2026, written at 9:20 a.m. Eastern, forty minutes before the open. Asia has closed, Europe is mid session, and the American cash market has not opened, so every futures mark below can move before the bell.

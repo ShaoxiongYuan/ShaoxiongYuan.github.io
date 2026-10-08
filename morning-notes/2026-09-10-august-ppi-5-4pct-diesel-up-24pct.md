@@ -44,17 +44,9 @@ sentiment:
   - { label: "The Treasury Tripled Its Buyback Limit for Ten to Twenty Year Paper From $2 Billion to $6 Billion and the Ten Year Yield Went to a Three Year High Anyway on a Perfectly Ordinary Auction, Which Means This Is Not a Demand Failure but a Pricing Decision, and the Intervention Itself Is Now the Information", tone: bearish, pct: 71 }
   - { label: "The Absence of Any New Gulf Strike Overnight Did Not Bring Crude Down and Brent Still Added Eighty Cents to Its Highest Level Since May, Which Tells You the Bid Is Structural Rather Than Headline Driven and That a Quiet Night Is No Longer Worth a Discount", tone: neutral, pct: 46 }
 
-tags:
-  - Producer Prices
-  - Treasury Market
-  - Federal Reserve
-  - Crude Oil
-  - European Central Bank
-  - Oracle
-  - TSMC
-  - AeroVironment
-  - Strait of Hormuz
-  - Macy's
+tags: ["PPI", "Treasuries", "Fed", "Oil", "ECB", "Oracle"]
+redirect_from:
+  - /morning-notes/2026-09-10-ppi-54pct-on-energy-42pct-and-diesel-241pct-while-core-cools-to-02pct-treasury-triples-buybacks-to-6bn-and-10y-goes-to-4856-a-three-year-high-anyway-ecb-hikes-to-250-oracle-tonight-cpi-friday
 ---
 
 Thursday, September 10, 2026, written at 9:15 a.m. Eastern, fifteen minutes before the open and forty five minutes after the August producer price report. Everything below is a pre-open mark. The ECB has already moved, Oracle reports after the close, and August CPI lands tomorrow at 8:30.

@@ -44,17 +44,9 @@ sentiment:
   - { label: "The Order Evidence Underneath Those Three Prints Is the Strongest of the Cycle, With Cisco Booking $9.3 Billion of Hyperscaler AI Orders and Guiding $7.5 Billion of Fiscal 2027 AI Revenue and Coherent Guiding a Quarter 10% Above Consensus on Datacenter Volumes Up 59%", tone: bullish, pct: 72 }
   - { label: "July PPI Printed Flat Only Because Gasoline Fell 5.7% and Energy Fell 3.1%, While Core Ex Food, Energy and Trade Services Ran +0.4% on the Month, So the Second Inflation Release in Two Days Has Been Flattered by an Energy Move That August Is Currently Reversing", tone: bearish, pct: 38 }
 
-tags:
-  - Cisco
-  - Coherent
-  - Cerebras
-  - Applied Materials
-  - PPI
-  - AI Capex
-  - Optics
-  - Oil
-  - Hormuz
-  - Kospi
+tags: ["Cisco", "Coherent", "Cerebras", "Applied Materials", "PPI", "AI Capex"]
+redirect_from:
+  - /morning-notes/2026-08-13-three-ai-beats-sold-on-margin-cisco-6pct-orders-93b-45x-coherent-5pct-datacom-59pct-cerebras-15pct-margin-47-to-36pct-ppi-flat-core-04pct-claims-209k-brent-8792-kospi-6813-amat-tonight-gold-4441
 ---
 
 Thursday, August 13, 2026, written at 9:20am Eastern, fifty minutes after the PPI release and ten minutes before the bell, so the marks below are live and several will move within the hour. Three companies that sit at the physical centre of the AI buildout reported after yesterday's close. All three beat on revenue. All three are lower this morning. That is the story, and it is a different story from the one this note told yesterday.

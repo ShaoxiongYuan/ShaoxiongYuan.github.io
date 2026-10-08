@@ -43,16 +43,9 @@ sentiment:
   - { label: "A Melt-Up Into Thursday's Jobs Report With a Hawkish Fed Is the Real Risk", tone: neutral, pct: 54 }
   - { label: "The Doha Talks Stay Unconfirmed by Tehran, Keeping a War Premium Lurking in Oil", tone: bearish, pct: 52 }
 
-tags:
-  - Record Highs
-  - Dow 52,000
-  - Alphabet
-  - Semiconductors
-  - Nike Earnings
-  - Quarter-End
-  - Iran
-  - Jobs Report
-  - Oil
+tags: ["Record Highs", "Dow 52,000", "Alphabet", "Semiconductors", "Nike Earnings", "Quarter-End"]
+redirect_from:
+  - /morning-notes/2026-06-30-dow-tops-52000-first-time-alphabet-joins-records-extend-relief-rally-quarter-end-nike-tonight-china-doha-unconfirmed-jobs-thursday-oil-wti-70-gold-4050-bitcoin-60k
 ---
 
 Tuesday, June 30, 2026, written pre-bell, and it is the last session of the quarter and the first half. Wall Street comes in off a powerful Monday that put the Dow above 52,000 for the first time ever and dragged the S&P 500 back to a record close, with the Nasdaq Composite ripping more than 2 percent as the chips that led last week's rout led the rebound. Futures are quietly higher again this morning, with the S&P up about 0.2 percent and the Nasdaq 100 around 0.3 percent, a continuation rather than a fresh surge. The tape is being carried by three currents at once: a genuine relief rally on the Iran de-escalation, a burst of dealmaking that has not let up, and quarter-end rebalancing that mechanically tilts money toward the winners. The thing to keep in mind is that all of it is happening two days ahead of a jobs report that has been pulled forward to Thursday, into a Fed that has turned openly hawkish. This is a melt-up with a catalyst sitting right behind it.

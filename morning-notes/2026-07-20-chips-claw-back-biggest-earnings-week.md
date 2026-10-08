@@ -42,17 +42,9 @@ sentiment:
   - { label: "But Citi Retiring the Magnificent Seven for a Broader Fab 10 With SpaceX at the Center Is a Real Signal: Leadership Is Widening and Narrowing at Once, and This Week's Alphabet, Tesla and Intel Prints Will Decide Who Keeps the Bid", tone: neutral, pct: 47 }
   - { label: "Oil Fading a $90 Spike Helps at the Open, but a Fresh Weekend of US-Iran Strikes Keeps a Live Inflation Tail on the Tape and Is the One Variable Most Likely to Keep a Fed Hike Alive Into July 28-29", tone: bearish, pct: 45 }
 
-tags:
-  - Chip Rebound
-  - Fab 10
-  - SpaceX
-  - Alphabet
-  - Tesla
-  - Intel
-  - Oil
-  - Hormuz
-  - Iran
-  - FOMC
+tags: ["Chip Rebound", "Fab 10", "SpaceX", "Alphabet", "Tesla", "Intel"]
+redirect_from:
+  - /morning-notes/2026-07-20-chips-rebound-futures-higher-oil-fades-90-spike-citi-mag7-obsolete-spacex-fab10-alphabet-tesla-intel-earnings-week-us-iran-weekend-strikes-fomc-ahead-gold-4001-bitcoin-64k
 ---
 
 Monday, July 20, 2026, and the tape is trying to stand back up after a bruising week that pushed the chip complex into a bear market. US stock futures are firmer in choppy pre-market trade, with S&P 500 futures up about 0.3 percent, Dow futures up 0.2 percent, and Nasdaq 100 futures leading at roughly 0.7 percent as semiconductors attempt to claw back some of last week's losses. The VanEck Semiconductor ETF is up more than 2 percent before the bell and the memory names are bouncing hardest, a mirror image of the selloff that dragged the Philadelphia Semiconductor Index some 20 percent below its June record. Oil is the swing factor again. Crude touched $90 a barrel overnight after the US carried out a fresh round of strikes on Iran through the weekend and confirmed the death of another American service member, then faded the spike, leaving Brent near $88.5 and WTI around $82.4. Into that backdrop lands the busiest earnings week of the season, with Alphabet, Tesla and Intel all on deck, and a new note from Citi arguing that the Magnificent Seven framing investors have leaned on for two years is now obsolete.

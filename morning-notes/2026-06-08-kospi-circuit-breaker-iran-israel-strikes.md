@@ -52,17 +52,9 @@ sentiment:
   - { label: "MRVL +9% S&P 500 Inclusion (Jun 22)",           tone: bullish, pct: 78 }
   - { label: "May CPI Wednesday (Apr 3.8% YoY, Energy +18%)", tone: bearish, pct: 35 }
 
-tags:
-  - KOSPI
-  - Iran-Israel
-  - Brent-97
-  - MRVL
-  - WWDC
-  - CPI
-  - semiconductor
-  - circuit-breaker
-  - Hormuz
-  - Meta-offering
+tags: ["KOSPI", "Iran-Israel", "Brent-97", "MRVL", "WWDC", "CPI"]
+redirect_from:
+  - /morning-notes/2026-06-08-kospi-8pct-circuit-breaker-iran-israel-missiles-brent-97-nasdaq-rebound-mrvl-sp500-wwdc-cpi-wednesday
 ---
 
 Monday pre-market, 7:00 AM ET. The dominant story overnight is the KOSPI crash. South Korea's benchmark index plunged 8.29% to 7,484, triggering only the ninth circuit breaker in its history within three minutes of the opening bell. Samsung Electronics and SK Hynix both fell roughly 10%, and those two names alone account for about half the KOSPI's total market capitalization. The immediate catalysts were Broadcom's AI chip guidance miss from last Tuesday (next-quarter outlook landed below the most aggressive buyside estimates despite record $10.8B AI revenue), Friday's blowout US jobs report stoking rate-hike expectations, and Iran's Sunday missile strikes on Israel reigniting geopolitical risk. The KOSPI is still up 78% year-to-date after a parabolic AI-led run, so the move reads more like a leverage unwind in a single-factor market than a structural break.

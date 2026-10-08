@@ -44,17 +44,9 @@ sentiment:
   - { label: "Average Hourly Earnings Slowed to 3.1% Year on Year, Which Is the Softest Wage Print of the Cycle, So a Committee Hiking Into an Inflation Problem Received a Strong Quantity Number and a Cooling Price Number in the Same Release and September Moved Only a Handful of Points", tone: neutral, pct: 52 }
   - { label: "Chinese Suppliers Are Refusing Some Rare Earth Cargoes to US Buyers While Washington Drafts a Ban on Chinese Optical Transceivers That Carry Roughly Sixty Percent of Global Volume, So Both Ends of the AI Supply Chain Became Policy Variables Three Weeks Before Xi Lands in Washington", tone: bearish, pct: 33 }
 
-tags:
-  - Payrolls
-  - Federal Reserve
-  - Nvidia
-  - Hugging Face
-  - Samsara
-  - Zscaler
-  - Rare Earths
-  - Optical Transceivers
-  - Volkswagen
-  - Gold
+tags: ["Payrolls", "Fed", "Nvidia", "Hugging Face", "Samsara", "Zscaler"]
+redirect_from:
+  - /morning-notes/2026-09-04-payrolls-162k-triples-a-53k-consensus-but-wages-cool-to-31pct-and-september-moves-only-to-52-58pct-2y-441-gold-minus2pct-dxy-9927-nvidia-buys-hugging-face-129b-samsara-plus15pct-vw-cuts-50000
 ---
 
 Friday, September 4, 2026, written at 9:20 a.m. Eastern, thirty minutes after the Bureau of Labor Statistics released the August employment report and before the cash open, so every US equity number below is a future and the reaction function described here has an hour left to change its mind. The number that the whole week was built around arrived, it was three times the consensus, and the meeting it was supposed to decide moved by roughly five percentage points.

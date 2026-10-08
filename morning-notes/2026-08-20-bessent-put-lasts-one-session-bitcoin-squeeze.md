@@ -44,17 +44,9 @@ sentiment:
   - { label: "The Dollar at a Three-Month Low With Gold Near $4,475 and Bitcoin Up 10.8% Is the Market Pricing the Fiscal Consequence of the Intervention Rather Than the Relief From It", tone: bearish, pct: 34 }
   - { label: "Claims at 206,000 and a Philadelphia Fed Print of 47.4 Against 25.0 Expected Say the Real Economy Is Hot Everywhere Except the Consumer, Which Walmart Just Described Growing at Its Slowest Pace in Six Years", tone: neutral, pct: 48 }
 
-tags:
-  - Treasuries
-  - Dollar
-  - Bitcoin
-  - Walmart
-  - Deere
-  - Alibaba
-  - Semiconductors
-  - Oil
-  - Iran
-  - Federal Reserve
+tags: ["Treasuries", "Dollar", "Bitcoin", "Walmart", "Deere", "Alibaba"]
+redirect_from:
+  - /morning-notes/2026-08-20-bessent-put-lasts-one-session-30y-back-to-5254-debt-crosses-40t-dollar-9889-three-month-low-bitcoin-72k-largest-squeeze-since-2021-kospi-589pct-walmart-comps-26pct-deere-510-brent-9357
 ---
 
 Thursday, August 20, 2026, written at 8:45am Eastern, forty-five minutes before the bell, with claims and the Philadelphia Fed already out and Walmart down 6%. Yesterday this note called the Treasury buyback expansion a real intervention and said it should be read as one rather than as a technical adjustment. It was, and it has already been half unwound. The 30-year is back at 5.254%, six basis points above where it closed on the announcement. What survived overnight was not the rate relief. It was the currency consequence.

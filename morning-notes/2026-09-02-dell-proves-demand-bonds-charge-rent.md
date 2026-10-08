@@ -44,17 +44,9 @@ sentiment:
   - { label: "Record Revenue Produced $986 Million of Free Cash Flow, Down Forty-Seven Percent Year on Year, Because the Buildout Consumes Working Capital Faster Than It Converts It, Which Is the Exact Mechanism by Which AI Capex Became a Bond Market Problem", tone: bearish, pct: 33 }
   - { label: "The Ten-Year at 4.814% Is the Highest Since November 2023 and the Front End Is Now Moving Too at 4.40%, So the Third Day of This Rout Is No Longer Purely Term Premium and the Fed Is Being Dragged Back Into It", tone: bearish, pct: 29 }
 
-tags:
-  - Dell
-  - Broadcom
-  - AI Capex
-  - Bond Rout
-  - ADP
-  - Strait of Hormuz
-  - Brent Crude
-  - Bank of Japan
-  - SoftBank
-  - Kospi
+tags: ["Dell", "Broadcom", "AI Capex", "Bond Rout", "ADP", "Hormuz"]
+redirect_from:
+  - /morning-notes/2026-09-02-dell-proves-demand-47b-revenue-58pct-eps-704-backlog-95b-guidance-raised-25b-fcf-minus47pct-10y-4814-highest-since-nov-2023-adp-38k-brent-95-nikkei-29pct-kospi-4pct-broadcom-tonight
 ---
 
 Wednesday, September 2, 2026, written at 8:40 a.m. Eastern, after the ADP release and before the cash open, so every US number below is a future or a pre-market print and can look different by ten o'clock. The overnight tape and the overnight fundamentals pointed in opposite directions, which is the whole story.

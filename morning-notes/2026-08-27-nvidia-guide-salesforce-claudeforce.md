@@ -44,17 +44,9 @@ sentiment:
   - { label: "Salesforce, Okta and CrowdStrike All Beat, All Raised and All Rose Between Ten and Seventeen Percent, Which Falsifies Half of Yesterday's Claim That This Tape Will Not Fund an Investment Story", tone: bullish, pct: 74 }
   - { label: "Jobless Claims at 203,000 Are Near a Cycle Low With Core Inflation at 3.3%, So Kevin Warsh Walks Into His First Jackson Hole Keynote With No Labour Market Excuse for Patience", tone: bearish, pct: 38 }
 
-tags:
-  - Nvidia
-  - Salesforce
-  - CrowdStrike
-  - Vera Rubin
-  - Memory Costs
-  - Jackson Hole
-  - Kevin Warsh
-  - Strait of Hormuz
-  - Bank of Korea
-  - Dollar General
+tags: ["Nvidia", "Salesforce", "CrowdStrike", "Vera Rubin", "Memory Costs", "Jackson Hole"]
+redirect_from:
+  - /morning-notes/2026-08-27-nvidia-962b-guides-108b-and-70pct-fy28-growth-but-margins-fall-to-71pct-on-memory-salesforce-12pct-claudeforce-crowdstrike-10pct-okta-17pct-claims-203k-warsh-keynote-tomorrow
 ---
 
 Thursday, August 27, 2026, written at 9:20 a.m. Eastern, ten minutes before the cash open. The night that this book has been pointing at for a week has resolved, and it resolved with more nuance than either camp wanted.

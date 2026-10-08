@@ -44,17 +44,9 @@ sentiment:
   - { label: "The Empire State Index Printed 20.6 for a Four-Year High While Prices Paid Ran 58.6 Against Selling Prices of 22.7, So the Manufacturing Rebound Everybody Wanted Arrives With a Cost Pass-Through Gap Wide Enough to Take the Margin Back Out of It", tone: bearish, pct: 41 }
   - { label: "China Reported Retail Sales Growth of 0.6% and Fixed Asset Investment Down 6.7% Year to Date and Its Semiconductor Index Rallied 4% in the Same Session, Which Means the Split Between the Capex Economy and the Consumption Economy Is No Longer an American Peculiarity but the Structure of Global Equity", tone: bearish, pct: 45 }
 
-tags:
-  - Anthropic
-  - Nvidia
-  - Micron
-  - Empire State
-  - China
-  - Memory
-  - Hormuz
-  - L3Harris
-  - Federal Reserve
-  - AI Capex
+tags: ["Anthropic", "Nvidia", "Micron", "Empire State", "China", "Memory"]
+redirect_from:
+  - /morning-notes/2026-08-17-ai-revenue-proven-financing-cut-anthropic-q2-115b-14x-first-operating-profit-190-200b-2028-nvidia-cuts-ohio-backstop-250b-to-120b-micron-first-1000-empire-state-206-four-year-high-china-retail-06pct-gold-4440
 ---
 
 Monday, August 17, 2026, written at 9:15am Eastern, forty-five minutes after the Empire State survey and fifteen minutes before the bell, with the NAHB housing index still to come at 10am. Two things happened over the weekend that the tape is treating as one bullish item and that we think are two different items pointing the same direction. Anthropic showed prospective investors a quarter that makes the AI revenue line real. Nvidia cut in half the amount of its own balance sheet standing behind somebody else's data centre. Reconciling those is the note.

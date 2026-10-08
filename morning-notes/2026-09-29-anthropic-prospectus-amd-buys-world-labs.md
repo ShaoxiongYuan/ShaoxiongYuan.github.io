@@ -44,17 +44,9 @@ sentiment:
   - { label: "AMD Paid $8.2bn in Its Own Stock for World Labs and Hired Fei-Fei Li as Chief Scientist, Buying a Compute Class That Is Not Transformer Inference While Stepping One Layer Closer to Its Own Customers", tone: bullish, pct: 63 }
   - { label: "Oura Pulled a Four Times Oversubscribed $2.2bn Listing on the Same Morning a $2 Trillion Prospectus Leaked, Which Describes an Issuance Window Open Only to the Very Largest Names", tone: bearish, pct: 66 }
 
-tags:
-  - Artificial Intelligence
-  - AI Capital Markets
-  - Anthropic
-  - Semiconductors
-  - Memory
-  - Crude Oil
-  - Strait of Hormuz
-  - Treasury Market
-  - Federal Reserve
-  - IPO Market
+tags: ["AI", "AI Financing", "Anthropic", "Semiconductors", "Memory", "Oil"]
+redirect_from:
+  - /morning-notes/2026-09-29-anthropic-prospectus-puts-518bn-of-compute-obligations-against-46bn-of-revenue-amd-pays-82bn-for-world-labs-oura-pulls-a-four-times-covered-ipo-six-ai-ceos-lunch-with-trump
 ---
 
 Tuesday, September 29, 2026, written at 9:30 a.m. Eastern, half an hour before the open. Futures and pre-market levels below are indicative and can move before the bell. Consumer confidence and JOLTS land at 10:00, after this note is filed. Shanghai and Hong Kong have two sessions left before Golden Week removes mainland China from Thursday through the following Wednesday.

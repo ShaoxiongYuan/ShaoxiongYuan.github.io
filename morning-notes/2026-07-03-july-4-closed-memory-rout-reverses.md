@@ -44,17 +44,9 @@ sentiment:
   - { label: "Global Risk-On Ex-US: Europe's Stoxx 600 Hits a Record on Its Best Week in a Month, Gold and Bitcoin Both Higher", tone: bullish, pct: 57 }
   - { label: "The Dovish Jobs Miss Still Rules the Tape, but the Rotation Out of Crowded AI Winners Is Not Fully Resolved", tone: neutral, pct: 51 }
 
-tags:
-  - July 4 Holiday
-  - Memory Rebound
-  - SK Hynix
-  - Kospi
-  - Stoxx Record
-  - Dow Record
-  - Jobs Miss
-  - Rotation
-  - Oil
-  - SpaceX
+tags: ["July 4 Holiday", "Memory Rebound", "SK Hynix", "KOSPI", "Stoxx Record", "Dow Record"]
+redirect_from:
+  - /morning-notes/2026-07-03-us-markets-closed-july4-holiday-observed-memory-rout-reverses-hard-overnight-sk-hynix-samsung-kioxia-rip-kospi-rebounds-6pct-europe-stoxx-record-dow-record-thursday-oil-69-gold-4183-bitcoin-62k
 ---
 
 Friday, July 3, 2026, and this is a holiday note. US cash equity and bond markets are both shut for Independence Day, observed today because the Fourth falls on Saturday, so Wall Street reopens Monday, July 6. Thursday's closing prints are frozen behind us, which means the levels that matter for positioning are the ones being set right now in Asia and Europe, and they are telling a very different story from the one that ended the US session. The memory-chip rout that swept Wall Street on Wednesday and then crushed the Kospi by nearly 8 percent on Thursday has reversed with a vengeance overnight. Seoul is up almost 6 percent, the Korean memory giants are ripping, Kioxia is leading Tokyo higher, and Europe's Stoxx 600 has printed a fresh record on its best week in more than a month. The dovish jobs miss is still doing its work, the tone is risk-on almost everywhere the tape is open, and the thin holiday session is a good moment to ask whether Thursday's chip panic was the start of something or just a two-day positioning flush.

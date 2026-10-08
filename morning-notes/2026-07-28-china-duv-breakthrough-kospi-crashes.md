@@ -42,17 +42,9 @@ sentiment:
   - { label: "Seoul's 10.8% Circuit-Breaker Crash Is the Memory Margin Under Attack: Samsung and SK Hynix Buy From ASML Rather Than Compete With It, So Selling Them on a Lithography Headline Only Works If You Believe Chinese Tools Unlock Chinese DRAM Capacity, Which Makes SK Hynix's Expected 76% Operating Margin the Real Target", tone: bearish, pct: 33 }
   - { label: "The Tape Underneath Is a Rotation and Not a Panic: Dow Futures Are Up 509 Points With Coca-Cola, UPS and Boeing All Delivering, Cadence Beat and Raised With a Record $8.1B Backlog, and Apple Retook the World's Largest Company Title at $4.96T Precisely Because It Carries the Smallest AI Capex Bill", tone: neutral, pct: 55 }
 
-tags:
-  - China DUV
-  - Kospi Crash
-  - ASML
-  - Memory
-  - Circular Financing
-  - Nvidia
-  - FOMC
-  - Coca-Cola
-  - Cadence
-  - Apple
+tags: ["China DUV", "KOSPI", "ASML", "Memory", "Circular Financing", "Nvidia"]
+redirect_from:
+  - /morning-notes/2026-07-28-china-duv-breakthrough-detonates-chip-rout-kospi-crashes-108pct-circuit-breaker-sk-hynix-147pct-below-ipo-asml-loses-44b-nvidia-250b-openai-backstop-dow-futures-509pts-cadence-record-backlog-fomc-gold-4032-bitcoin-63k
 ---
 
 Tuesday, July 28, 2026, and the relief rally lasted exactly one session. Overnight the global semiconductor complex came apart in a way that has no recent parallel outside of a policy shock. Korea's Kospi crashed 10.8 percent to 6,023.66, tripping a twenty-minute market-wide circuit breaker on the way down, with Samsung Electronics off 13.4 percent and SK Hynix off 14.7 percent. SK Hynix's US-listed shares closed at $143, below the $149 IPO price they debuted at seventeen days ago. Tokyo's Nikkei fell 4.0 percent to 62,364.92 and Taiwan's Taiex dropped 4.7 percent with TSMC down 3 percent. The proximate cause is a report from The Information that a state-backed enterprise in Shanghai has begun mass-producing domestically developed immersion deep ultraviolet lithography machines, which knocked ASML down 8.4 percent on Monday and dragged ASM International 7.1 percent and BE Semiconductor 9.7 percent lower with it. Underneath that sits a second story: Nvidia is in talks to guarantee roughly $250 billion of financing for OpenAI, and the market did not like the arithmetic. Yet the rest of the tape is fine. Dow futures are up 509 points at 52,891 and S&P futures are marginally higher at 7,458.50, with only the Nasdaq 100 down, at 28,013.50 for a loss of 0.63 percent.

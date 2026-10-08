@@ -42,17 +42,9 @@ sentiment:
   - { label: "The Long End Is Now Pricing Duration Supply as Much as Monetary Policy: The 30-Year Hit 5.244%, Its Highest Since July 2007, While the 2-Year Eased to 4.26%, and Hyperscalers Have Already Issued $159 Billion of Bonds This Year, More Than the Same Five Companies Borrowed in the Prior Five Years Combined", tone: bearish, pct: 30 }
   - { label: "Korea Delivered the Best Possible News and Could Not Hold the Bid: Samsung Posted a Record KRW 89.5 Trillion Operating Profit, Guided to a Deeper 2027 Shortage, Opened the Kospi Up 5.5%, and the Index Closed Down 1.23% for a Three-Session Loss of 17%, Though Foreigners Turned Net Buyers for the First Time in Four Days", tone: bearish, pct: 36 }
 
-tags:
-  - Microsoft
-  - Meta
-  - AI Capex
-  - Bond Rout
-  - Warsh
-  - Core PCE
-  - Iran
-  - Samsung
-  - Apple
-  - Amazon
+tags: ["Microsoft", "Meta", "AI Capex", "Bond Rout", "Warsh", "Core PCE"]
+redirect_from:
+  - /morning-notes/2026-07-30-ai-trade-splits-on-cash-not-capex-microsoft-9pct-azure-tops-100b-meta-9pct-fcf-784m-30y-yield-19-year-high-dow-worst-day-since-april-2025-gdp-15pct-core-pce-33pct-us-strikes-hormuz-samsung-record-gold-4128-bitcoin-64k
 ---
 
 Thursday, July 30, 2026, and the AI trade finally sorted itself into two piles overnight. Microsoft reported $90.01 billion of revenue against an $87.63 billion consensus, said Azure grew 43 percent and passed $100 billion of annual revenue for the first time, then guided fiscal 2027 capital expenditure to a range of $255 to $260 billion against roughly $190 billion this year, and the stock is up almost 8 percent pre-market. Meta reported $60.80 billion of revenue, ahead of the $59.50 billion estimate, missed on earnings at $6.18 against $7.13 to $7.22 expected, watched free cash flow fall to $784 million, and is down 9 percent. One company raised its spending by 35 percent and was rewarded. The other nudged up the bottom of its range by $5 billion and was punished. That is the whole market in two prints. Behind it, the Dow fell 1,153.18 points on Wednesday for its worst session since April 2025 after Kevin Warsh held rates with three dissents and the 30-year Treasury yield touched 5.244 percent, the highest since July 2007.

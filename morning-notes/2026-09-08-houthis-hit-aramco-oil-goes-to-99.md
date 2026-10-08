@@ -44,17 +44,9 @@ sentiment:
   - { label: "Nasdaq Futures Are the Only Green Board in the World This Morning Because the Memory and Storage Shortage Is the One Asset in This Tape That an Oil Price and a Tariff Schedule Cannot Reach, With Hyperscalers Now Locking NAND Supply Out to 2031", tone: bullish, pct: 61 }
   - { label: "The Sequencing Risk Nobody Is Pricing Is Next Week Itself, a Fed Decision on Wednesday and a Bank of Japan Decision on Friday in the Same Five Days, With the Yen Already at a Seven-Month High and the Carry Trade That Funds a Great Deal of This Market Being Unwound in Front of Both", tone: neutral, pct: 44 }
 
-tags:
-  - Crude Oil
-  - Saudi Arabia
-  - Houthi Attacks
-  - Canada Tariffs
-  - Yen Carry Trade
-  - Bank of Japan
-  - Novartis
-  - Memory Chips
-  - Federal Reserve
-  - Oracle
+tags: ["Oil", "Saudi Arabia", "Houthi Attacks", "Canada Tariffs", "Yen Carry Trade", "Bank of Japan"]
+redirect_from:
+  - /morning-notes/2026-09-08-war-moves-from-ships-to-wells-houthis-hit-jizan-abha-najran-73-wounded-saudi-halts-operations-brent-99-opec-has-no-lever-canada-50pct-tariffs-live-yen-15289-nikkei-minus17pct-novartis-minus12pct
 ---
 
 Tuesday, September 8, 2026, written at 9:00 a.m. Eastern, half an hour before the first honest American mark since Friday's close. Monday was Labor Day and the cash tape was shut, so everything below has been priced by Asia, by Europe and by a thin futures session, and the 9:30 open is the first time US capital gets a vote on any of it.

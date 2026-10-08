@@ -44,16 +44,9 @@ sentiment:
   - { label: "Chips Led Thursday Rebound, AI Trade Holds the Bid",               tone: bullish,  pct: 58 }
   - { label: "Thin Holiday Tape: US and Greater China Shut",                     tone: neutral,  pct: 50 }
 
-tags:
-  - Juneteenth
-  - FOMC
-  - Warsh
-  - Iran
-  - Oil
-  - Semiconductors
-  - Micron
-  - Accenture
-  - SpaceX
+tags: ["Juneteenth", "FOMC", "Warsh", "Iran", "Oil", "Semiconductors"]
+redirect_from:
+  - /morning-notes/2026-06-19-markets-closed-juneteenth-iran-peace-deal-signed-switzerland-hormuz-reopens-warsh-hawkish-dot-plot-2026-hike-oil-slides-wti-74-brent-77-chips-rebound-accenture-q3-micron-tuesday-gold-4305-bitcoin-64k
 ---
 
 Friday, June 19, 2026. US equity and bond markets are closed today for Juneteenth and reopen Monday, June 22, so there is no live domestic tape and no futures print to react to. The session is even quieter across Asia, where Hong Kong is dark for Tuen Ng and mainland China is shut for a three-day Dragon Boat holiday that runs through Sunday. Japan is the one major market open, with the Nikkei 225 grinding higher again and brushing 72,000 intraday. The headline event sits outside the trading day entirely: the United States and Iran formally sign their peace agreement in Switzerland this afternoon, sealing the reopening of the Strait of Hormuz to toll-free commercial shipping and closing the book on a conflict that has driven the macro narrative since late February. With no US prices moving, this note is best read as a week-in-review and a setup for Monday, when the market reopens to digest both the deal and the harder reality of Wednesday's hawkish Fed.

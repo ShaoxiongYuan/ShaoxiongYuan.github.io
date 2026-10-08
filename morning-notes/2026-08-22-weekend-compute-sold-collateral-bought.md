@@ -44,17 +44,9 @@ sentiment:
   - { label: "The Doubled Treasury Buyback Round-Tripped in Three Sessions, Which Is the Cleanest Available Evidence That the Long End Is Pricing Term Premium and Supply Rather Than a Shortage of Buyers, Because Changing Who Owns the Bonds Does Not Change How Many There Are", tone: bearish, pct: 30 }
   - { label: "The Growth Data Did Not Cooperate With the Bearish Tape, Because a 56.0 Composite With Services at a Twenty-Month High and the Fastest Private Hiring Since January 2025 Points to Roughly Three Percent Annualised Third-Quarter Growth Against 1.5 Percent in the Second", tone: bullish, pct: 64 }
 
-tags:
-  - Jackson Hole
-  - Nvidia
-  - Gold
-  - Bitcoin
-  - Treasury Yields
-  - Semiconductors
-  - Flash PMI
-  - Iran Sanctions
-  - Kevin Warsh
-  - Analog Devices
+tags: ["Jackson Hole", "Nvidia", "Gold", "Bitcoin", "Treasuries", "Semiconductors"]
+redirect_from:
+  - /morning-notes/2026-08-22-weekend-wrap-compute-sold-collateral-bought-semis-5pct-gold-4607-silver-6963-bitcoin-22pct-best-week-two-years-30y-527-buyback-round-trip-pmi-560-four-year-high-nvidia-warsh-next-week
 ---
 
 Saturday, August 22, 2026, written after Friday's close, so every level below is a settlement rather than a moving mark, and nothing can change any of it until Monday's Asian open. The week snapped a three-week advance in all three major averages. It also produced the best week for Bitcoin in two years, a roughly five percent gain in gold, a break above sixty-nine dollars in silver, and the fastest reading of US business activity since April 2022. Reconciling those facts is the whole note, because on the surface they do not belong to the same market.

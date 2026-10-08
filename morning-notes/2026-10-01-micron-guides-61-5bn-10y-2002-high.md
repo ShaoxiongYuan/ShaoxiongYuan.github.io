@@ -44,17 +44,9 @@ sentiment:
   - { label: "The Ten Year Printed 5.3338% and Its Highest Since April 2002 in the Same Week October Hike Odds Fell From 70.9% to Roughly 35%, Which Means the Long End Is Pricing the Inflation the Fed Is Now Less Likely to Fight Rather Than the Policy Rate Itself", tone: bearish, pct: 76 }
   - { label: "Foreign Investors Sold a Net 21.51 Trillion Won of Korean Equities in September, a Fifth Consecutive Month and 76.6% of It in Samsung and SK Hynix, in the Same Month Korean Semiconductor Exports Rose 262.8% to a Record $60.3bn", tone: neutral, pct: 61 }
 
-tags:
-  - Memory
-  - Semiconductors
-  - Artificial Intelligence
-  - Treasury Market
-  - Federal Reserve
-  - Crude Oil
-  - Korea
-  - Europe
-  - Inflation
-  - Earnings
+tags: ["Memory", "Semiconductors", "AI", "Treasuries", "Fed", "Oil"]
+redirect_from:
+  - /morning-notes/2026-10-01-micron-guides-615bn-against-a-57bn-street-at-8625pct-margin-fq4-5423bn-and-87pct-10y-5334-a-2002-high-as-october-odds-fall-to-35pct-nikkei-plus33pct-brent-back-over-100
 ---
 
 Thursday, October 1, 2026, written at 9:30 a.m. Eastern, half an hour before the open and on the first session of the fourth quarter. Jobless claims are in hand. The ISM manufacturing survey lands at 10:00, construction spending with it, and four Federal Reserve speakers follow through the afternoon. Nike reports after the close. Mainland China and Hong Kong are shut for National Day and will not return until October 8, which means the second largest equity market in the world is absent for both the ISM this morning and payrolls tomorrow. Futures and pre-market levels are indicative and can move before the bell.

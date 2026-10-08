@@ -44,17 +44,9 @@ sentiment:
   - { label: "Super Micro Guiding Fiscal 2027 to $65-72 Billion Against $54.4 Billion of Consensus and CoreWeave Adding $25 Billion of Commitments in Three Weeks of Q3 Settle the Demand Question Beyond Argument, and the Order Books Are Now So Far Ahead of the Street That the Funding Gap Stopped Mattering to the Tape", tone: bullish, pct: 70 }
   - { label: "The Cost of the Buildout Has Moved Out of the Press Release and Into the Financial Statements, With Super Micro Burning $6.8 Billion of Operating Cash for the Fiscal Year and CoreWeave Paying $640 Million of Net Interest on $2.58 Billion of Revenue, a Quarter of the Top Line Going to Lenders Before a Dollar of Depreciation", tone: bearish, pct: 35 }
 
-tags:
-  - CPI
-  - Federal Reserve
-  - Super Micro
-  - CoreWeave
-  - Nebius
-  - Memory
-  - Oil
-  - Hormuz
-  - Kospi
-  - AI Capex
+tags: ["CPI", "Fed", "Super Micro", "CoreWeave", "Nebius", "Memory"]
+redirect_from:
+  - /morning-notes/2026-08-12-cpi-in-line-34pct-core-25pct-hike-odds-42pct-smci-guides-72b-margin-175pct-cash-burn-68b-coreweave-backlog-1042b-interest-640m-nebius-454pct-kospi-37pct-6579-brent-8953-ten-vessels-hormuz-gold-4493-bitcoin-65k
 ---
 
 Wednesday, August 12, 2026, written at 9:20am Eastern, fifty minutes after the CPI release and ten minutes before the bell, so the marks below are live and several will move within the hour. The inflation print came in exactly where the street said it would, and the market has taken that as permission. It is not the most important thing that happened in the last eighteen hours. The most important thing is that Super Micro, CoreWeave and Nebius all reported inside that window, and between them they turned yesterday's framing on its head. The question all week has been whether the AI buildout can be funded. The answer arriving this morning is that the order books got so much larger that the market has decided to stop asking.

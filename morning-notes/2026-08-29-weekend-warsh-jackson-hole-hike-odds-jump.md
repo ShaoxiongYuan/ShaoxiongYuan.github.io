@@ -44,17 +44,9 @@ sentiment:
   - { label: "The Week's Real Signal Is the Curve Rather Than the Level, With the Two-Year Up Twenty-Three Basis Points and the Thirty-Year Down Six, Which Is the Long End Paying a Credibility Discount That Two Rounds of Treasury Buybacks Could Not Buy", tone: bullish, pct: 61 }
   - { label: "Equities Absorbed a Hawkish Repricing With a Quarter-Percent Loss and a Fourteen Handle on Volatility, So the Damage Landed Entirely on the Debasement Hedge, With Gold Down 3.1% and Silver Down 4.2% on the Same Session", tone: neutral, pct: 50 }
 
-tags:
-  - Kevin Warsh
-  - Jackson Hole
-  - PCE Inflation
-  - Gold
-  - Treasury Curve
-  - Nvidia
-  - Marvell
-  - Artificial Intelligence
-  - Dell
-  - Strait of Hormuz
+tags: ["Warsh", "Jackson Hole", "PCE Inflation", "Gold", "Treasury Curve", "Nvidia"]
+redirect_from:
+  - /morning-notes/2026-08-29-weekend-wrap-warsh-makes-september-live-hike-odds-35-to-57pct-six-month-pce-41pct-gold-31pct-worst-day-silver-42pct-2y-435pct-curve-bear-flattens-24bp-ai-new-factor-of-production-brent-8945
 ---
 
 Saturday, August 29, 2026, written after Friday's close, so every level below is a settlement rather than a moving mark and nothing changes until Monday's Asian open. Jackson Hole's final panels run today and rarely matter. Yesterday's keynote mattered a great deal, and the interesting part is not that a hawkish Fed chair sold gold. It is which parts of the market paid and which did not.

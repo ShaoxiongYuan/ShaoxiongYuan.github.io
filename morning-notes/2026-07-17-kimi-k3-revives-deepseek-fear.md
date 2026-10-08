@@ -42,17 +42,9 @@ sentiment:
   - { label: "But This One Has More Substance Than a Typical Positioning Wobble Because the Report That DeepSeek Is Building Its Own Inference Chip Is a Genuine If Early Threat to Nvidia's Moat, and the Value in the AI Stack May Be Migrating From Training Hardware Toward the Model and Inference Layer Where China Now Sits at the Frontier", tone: bearish, pct: 44 }
   - { label: "Netflix Beat but Guided the Third Quarter Below the Street and Fell 8%, a Second Straight Guide-Driven Disappointment That, Alongside a Fourth Day of Rising Oil and a Soft Retail Headline, Keeps the Consumer and the Inflation Tail Open Into This Morning's Import Prices and Michigan Sentiment", tone: bearish, pct: 42 }
 
-tags:
-  - Kimi K3
-  - Open-Source AI
-  - AI Chips
-  - DeepSeek
-  - Nvidia
-  - Netflix
-  - SK Hynix
-  - Oil
-  - Iran
-  - Rate Cuts
+tags: ["Kimi K3", "Open-Source AI", "AI Chips", "DeepSeek", "Nvidia", "Netflix"]
+redirect_from:
+  - /morning-notes/2026-07-17-open-model-shock-reignites-deepseek-fear-kimi-k3-deepseek-own-chip-nasdaq-futures-16pct-kospi-76pct-netflix-beats-soft-guide-drops-8pct-oil-fourth-day-brent-86-import-prices-michigan-gold-4007-bitcoin-63k
 ---
 
 Friday, July 17, 2026, written pre-market with US futures lower and the AI trade on the back foot again, only this time the blow came from software rather than from a capex line. Overnight China's Moonshot AI released Kimi K3, described as the largest open-source model ever built at roughly 2.8 trillion parameters, timed to land just before the World Artificial Intelligence Conference in Shanghai, and a separate report said DeepSeek is quietly developing its own inference chip. Together they revived the fear that first hit the market in early 2025, that cheap and highly capable open models could undercut the enormous US spending on AI hardware. Nasdaq futures fell about 1.6 percent, chips led the way down, and the selloff tore through Asia, with the Kospi off as much as 7.6 percent into a Seoul holiday and the Nikkei down 2.9. Netflix added to the gloom after beating on its quarter but guiding the current one below the street, and oil rose for a fourth straight day as the Iran standoff kept a supply premium in the tape.

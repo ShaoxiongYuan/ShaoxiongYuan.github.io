@@ -43,17 +43,9 @@ sentiment:
   - { label: "FedEx Beat on Earnings but Cautious Guidance Hints at Soft Goods Demand", tone: neutral, pct: 50 }
   - { label: "Oil Keeps Bleeding the War Premium as Tehran Disputes the Inspector Deal", tone: bearish, pct: 56 }
 
-tags:
-  - Micron
-  - AI Memory
-  - Semiconductors
-  - FedEx
-  - HBM
-  - Kospi
-  - Iran
-  - Oil
-  - Core PCE
-  - Bitcoin
+tags: ["Micron", "AI Memory", "Semiconductors", "FedEx", "HBM", "KOSPI"]
+redirect_from:
+  - /morning-notes/2026-06-24-micron-tonight-ai-memory-verdict-kospi-rebounds-3pct-samsung-buyback-sk-hynix-us-listing-fedex-beats-631-cautious-guide-oil-wti-72-gold-4106-pce-friday-bitcoin-63k
 ---
 
 Wednesday, June 24, 2026, written pre-market around 7:30am ET. The tape has steadied overnight after Tuesday's violent memory unwind, and the rebound came from the same place the selling did, namely Seoul. S&P 500 futures are up about half a percent near 7,420, Nasdaq 100 futures have clawed back roughly 0.7 percent to 29,960 after dropping 3 percent yesterday, and the Dow is firmer too. The bounce is being led by the very names that broke on Tuesday, with the Kospi closing up 3.26 percent as Samsung surged on a buyback and SK Hynix rallied on a US listing plan. But the steadiness is fragile and conditional, because the one event that actually settles the AI-memory argument arrives tonight when Micron reports fiscal Q3 after the close. As always with a pre-open note, these are overnight and futures levels and they can move by the bell.

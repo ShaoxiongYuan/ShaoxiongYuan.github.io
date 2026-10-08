@@ -43,17 +43,9 @@ sentiment:
   - { label: "A Suspected Iranian Missile Hits a Qatari LNG Tanker in Hormuz, Reviving the Oil Risk Premium the Market Had Written Off", tone: bearish, pct: 43 }
   - { label: "The Dow Grinds to Fresh Records on Rotation Into Value and Rate-Sensitive Names While the Nasdaq Whipsaws", tone: bullish, pct: 55 }
 
-tags:
-  - SpaceX
-  - Nasdaq-100
-  - Chip Selloff
-  - Samsung
-  - Hormuz Attack
-  - Oil
-  - Dow Record
-  - FOMC Minutes
-  - Iran
-  - SK Hynix
+tags: ["SpaceX", "Nasdaq-100", "Chip Selloff", "Samsung", "Hormuz Attack", "Oil"]
+redirect_from:
+  - /morning-notes/2026-07-07-spacex-joins-nasdaq100-forced-buying-chip-selloff-resumes-nasdaq-down1pct-dow-record-53055-iran-missile-qatari-lng-tanker-hormuz-oil-jumps-samsung-18x-profit-falls-oil-69-gold-4123-bitcoin-63k
 ---
 
 Tuesday, July 7, 2026, written pre-bell. Wall Street comes in this morning fresh off a strong reopening session, but the tape is already trying to take it back. On Monday the market roared out of the July 4 break with a chip-led rally that pushed the Dow to a record 53,055.91, lifted the S&P 500 by 0.72 percent to 7,537.43, and drove the Nasdaq Composite up 1.12 percent to 26,121 as faith in the AI trade came flooding back. Twelve hours later that faith is wobbling again. Nasdaq 100 futures are down about 1 percent, with Micron, Broadcom, AMD, Marvell, and KLA all lower before the bell, while Dow futures point up roughly 225 points and the S&P sits just below flat. Two large events sit on top of the whipsaw. SpaceX officially joins the Nasdaq-100 at the open, unleashing billions in forced passive buying, and overnight a suspected Iranian missile set a Qatari LNG tanker ablaze in the Strait of Hormuz, the first attack on a gas carrier since the war began. The setup into the open is a market that cannot decide whether the AI leaders are a buy or a source of funds, layered on top of a geopolitical tail that just reappeared.

@@ -43,17 +43,9 @@ sentiment:
   - { label: "Meta Compute's Scarcity-to-Glut Reframe Is the Real Overhang the Rebound Has Not Resolved", tone: bearish, pct: 47 }
   - { label: "A Loaded Week of Supply and Passive Flows: SpaceX Nasdaq-100 Tuesday, SK Hynix Listing Friday, Banks Next Week", tone: neutral, pct: 51 }
 
-tags:
-  - Jobs Miss
-  - Rate Cuts
-  - Memory Rebound
-  - Meta Compute
-  - SpaceX
-  - SK Hynix
-  - Dow Record
-  - Micron
-  - Oil
-  - Iran
+tags: ["Jobs Miss", "Rate Cuts", "Memory Rebound", "Meta Compute", "SpaceX", "SK Hynix"]
+redirect_from:
+  - /morning-notes/2026-07-06-wall-street-reopens-chips-extend-memory-reversal-dovish-57k-jobs-keeps-fed-cut-alive-dow-record-52900-loaded-week-spacex-nasdaq100-tuesday-sk-hynix-lists-friday-oil-68-gold-4153-bitcoin-62k
 ---
 
 Monday, July 6, 2026, written pre-bell. Wall Street reopens this morning for the first time since Thursday, after a three-session break for the Independence Day holiday, and it reopens into a global tape that already made up its mind while New York was closed. The memory-chip rout that terrified the market mid-week fully reversed by Friday, with Asia and Europe staging the recovery that US cash could not, and this morning's futures are catching up to it. Nasdaq 100 futures lead by about 1.2 percent, the semiconductor ETF is up more than 2 percent before the bell, the S&P 500 is up roughly 0.4 percent, and Dow futures sit just below the flatline after the index closed at a record 52,900 on Thursday. The backdrop is the same dovish jobs report that reset the Fed debate, and the setup into the open is a chip-led relief extension layered on top of a rotation that has quietly broadened the whole market.

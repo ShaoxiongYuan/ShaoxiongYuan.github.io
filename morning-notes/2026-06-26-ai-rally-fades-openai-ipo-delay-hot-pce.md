@@ -43,17 +43,9 @@ sentiment:
   - { label: "Apple and Microsoft Price Hikes Turn the AI Memory Boom Into Consumer Inflation", tone: neutral, pct: 55 }
   - { label: "Hot Core PCE at 3.4% Cements the September Hike Risk", tone: bearish, pct: 56 }
 
-tags:
-  - AI Selloff
-  - Semiconductors
-  - OpenAI
-  - SpaceX
-  - Apple
-  - Microsoft
-  - Core PCE
-  - Memory Chips
-  - Oil
-  - Bitcoin
+tags: ["AI Selloff", "Semiconductors", "OpenAI", "SpaceX", "Apple", "Microsoft"]
+redirect_from:
+  - /morning-notes/2026-06-26-ai-victory-lap-ends-tech-selloff-resumes-openai-weighs-2027-ipo-delay-after-spacex-flop-apple-microsoft-hike-prices-on-chip-costs-hot-core-pce-34pct-nikkei-4pct-kospi-6pct-softbank-12pct-oil-68-gold-3995-bitcoin-60k
 ---
 
 Friday, June 26, 2026, written pre-market around 8:00am ET. The AI trade got exactly one day to celebrate. Micron's blowout reignited the complex on Wednesday and Thursday morning, and by Thursday's close the mood had already curdled, with the Magnificent Seven slipping on news that Apple and Microsoft are raising hardware prices. Overnight the selling resumed in force across Asia and is carrying into US futures. Nasdaq 100 futures are off about 1.0 percent near 30,290, S&P 500 futures are down roughly 0.4 percent near 7,460, and the Dow is barely changed, a split that tells you this is a narrow reassessment of expensive technology rather than a broad growth scare. The proximate trigger overnight was a report that OpenAI may push its blockbuster IPO into 2027, blaming SpaceX's flop and its own cash burn. As always with a pre-open note, these are overnight and futures levels and they can move by the bell.

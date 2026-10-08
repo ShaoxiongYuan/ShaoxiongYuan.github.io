@@ -42,17 +42,9 @@ sentiment:
   - { label: "ASML Blew Past Estimates and Raised Full-Year Guidance on Very Strong Bookings and a 30% EUV Capacity Expansion, the Cleanest Third-Party Proof Yet That the AI and Memory Buildout Is Durable and Not a Bubble", tone: bullish, pct: 60 }
   - { label: "The Catch Is Brent Stuck at a One-Month High Above $84 on the Reimposed Hormuz Blockade, Which Keeps the September Hike a Coin Flip and Hands Warsh a Two-Sided Story for His Second Hearing", tone: bearish, pct: 42 }
 
-tags:
-  - ASML
-  - June PPI
-  - AI Memory
-  - SK Hynix
-  - Fed Warsh
-  - Morgan Stanley
-  - PayPal M&A
-  - Hormuz Oil
-  - Rate Cuts
-  - Bitcoin
+tags: ["ASML", "June PPI", "AI Memory", "SK Hynix", "Warsh", "Morgan Stanley"]
+redirect_from:
+  - /morning-notes/2026-07-15-asml-blows-out-raises-guidance-june-ppi-confirms-cool-cpi-memory-extends-kospi-7pct-sk-hynix-13pct-morgan-stanley-blackrock-crush-stripe-advent-53b-paypal-bid-warsh-senate-round-two-gold-4028-bitcoin-65k
 ---
 
 Wednesday, July 15, 2026, written pre-market with US futures modestly higher and the dovish tape from Tuesday carrying through. The setup that looked so fraught 48 hours ago keeps resolving in the bulls' favor. June wholesale inflation cooled for a second straight print, ASML delivered the AI reality check the whole week was waiting on and raised its full-year outlook, the memory complex extended its rebound with a violent revenge rally across Seoul, and Morgan Stanley and BlackRock opened the second leg of bank earnings with blowouts, while dealmaking roared back to life as Stripe and Advent lobbed a 53 billion dollar bid for PayPal. Producer prices fell 0.3 percent in June against expectations for no change, the first monthly decline since last summer, with gasoline down 12 percent doing most of the work and core rising a benign 0.2 percent. It all lands hours before new Fed Chair Kevin Warsh returns to Capitol Hill, this time before the Senate, in his last real public window before the pre-meeting blackout.

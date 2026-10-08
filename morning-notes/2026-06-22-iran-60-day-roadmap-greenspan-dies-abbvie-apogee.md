@@ -44,17 +44,9 @@ sentiment:
   - { label: "Micron Wednesday Is the AI-Memory Verdict; FedEx Tuesday the First Pure-Play",  tone: neutral, pct: 55 }
   - { label: "AbbVie-Apogee Reopens Large-Cap Biotech M&A",                                   tone: bullish, pct: 56 }
 
-tags:
-  - Iran
-  - Greenspan
-  - AbbVie
-  - Micron
-  - Semiconductors
-  - Oil
-  - FedEx
-  - PCE
-  - UK
-  - Bitcoin
+tags: ["Iran", "Greenspan", "AbbVie", "Micron", "Semiconductors", "Oil"]
+redirect_from:
+  - /morning-notes/2026-06-22-us-markets-reopen-iran-deal-60-day-roadmap-greenspan-dies-100-abbvie-apogee-10-9b-oil-slides-wti-75-brent-78-gold-4216-micron-wednesday-fedex-tuesday-pce-thursday-nikkei-72k-bitcoin-64k
 ---
 
 Monday, June 22, 2026, written pre-market around 7:30am ET. US equity and bond markets reopen today after Friday's Juneteenth closure, so this is the first live tape since Thursday's June 18 cash closes, and the screen has plenty to digest. Futures are doing very little after a long weekend, with S&P 500 contracts hovering near 7,569 essentially flat, Dow futures up about a tenth to 52,059, and Nasdaq 100 futures the relative leader at 30,814, up roughly three-tenths on continued AI demand optimism. Underneath that calm surface the cross-currents are real. The US-Iran track produced a constructive weekend, oil and gold are both bleeding as the fear premium drains, the bond market keeps grinding to fresh cycle highs, and the calendar funnels everything toward Thursday's PCE print. As always with a pre-open note, the levels here can shift by the cash open, so treat them as a setup rather than a settlement.

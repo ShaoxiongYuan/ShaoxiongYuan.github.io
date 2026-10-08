@@ -6,7 +6,7 @@ headline_zh: "6 月非农疲软令加息预期降温、美元回落;中国持续
 date: 2026-07-11
 author: Steven Yuan
 data_window: "July 10 spot + night-session close"
-tags: [Destocking Floor, Soft US Jobs, Dovish Repricing, Softer Dollar, H2 Deficit, Off-Season Demand]
+tags: ["Destocking Floor", "Soft US Jobs", "Dovish Repricing", "Softer Dollar", "H2 Deficit", "Off-Season Demand"]
 snapshot:
   - { label: "SHFE AL2608", value: "~23,050 (slight pullback)", dir: down }
   - { label: "LME 3M", value: "$3,146 (−1.95%)", dir: down }
@@ -24,6 +24,8 @@ drivers:
   bullish: 5
   bearish: 4
   net: "Short-term neutral-to-firm, floor holds, upside capped"
+redirect_from:
+  - /aluminum-market-daily/2026-07-11-soft-jobs-cool-fed-hikes-dollar-eases-destock-floor-holds
 ---
 
 <div class="lang lang-en" markdown="1">

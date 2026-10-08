@@ -44,17 +44,9 @@ sentiment:
   - { label: "Saudi Arabia Has Shut the Only Pipeline That Bypasses Hormuz, Yanbu Holds Five to Seven Days of Export Cover Against a Repair Estimated at Up to Six Weeks, and the Market Has Paid Roughly Three and a Half Dollars for a Constraint That Has an Actual Countable Clock Attached to It", tone: bullish, pct: 82 }
   - { label: "The Committee Hikes Into This on Wednesday With the Ten Year Three Basis Points From 5%, Which Means the AI Complex Is Losing the Ceiling on Its Growth Narrative and Facing Its Highest Cost of Capital in Nineteen Years in the Same Week", tone: bearish, pct: 71 }
 
-tags:
-  - Artificial Intelligence
-  - AI Capital Expenditure
-  - Semiconductors
-  - Crude Oil
-  - Strait of Hormuz
-  - Federal Reserve
-  - SoftBank
-  - Anthropic
-  - Treasury Market
-  - Korea
+tags: ["AI", "AI Capex", "Semiconductors", "Oil", "Hormuz", "Fed"]
+redirect_from:
+  - /morning-notes/2026-09-14-amodei-altman-musk-call-for-an-ai-slowdown-softbank-minus13pct-sk-hynix-minus64pct-kospi-minus33pct-nasdaq-fut-minus16pct-saudi-east-west-pipeline-shut-4pct-of-supply-brent-108-yanbu-five-to-seven-days-fed-wednesday
 ---
 
 Monday, September 14, 2026, written at 9:15 a.m. Eastern, forty five minutes before the open. Asia has closed, Europe is mid session, and the American cash market has not opened yet, so the futures marks below can move before the bell.

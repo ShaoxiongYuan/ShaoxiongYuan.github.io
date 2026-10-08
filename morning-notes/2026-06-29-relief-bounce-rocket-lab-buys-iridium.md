@@ -43,17 +43,9 @@ sentiment:
   - { label: "The Ceasefire's 48-Hour Break and Mend Keeps a War Premium Lurking in Oil", tone: bearish, pct: 55 }
   - { label: "A Hawkish Fed and Thursday's Pulled-Forward Jobs Report Cap the Upside", tone: neutral, pct: 52 }
 
-tags:
-  - AI Rebound
-  - Semiconductors
-  - Rocket Lab
-  - Iridium
-  - Comcast
-  - SpaceX
-  - Micron
-  - Iran
-  - Jobs Report
-  - Oil
+tags: ["AI Rebound", "Semiconductors", "Rocket Lab", "Iridium", "Comcast", "SpaceX"]
+redirect_from:
+  - /morning-notes/2026-06-29-markets-reopen-relief-bounce-iran-ceasefire-breaks-mends-rocket-lab-buys-iridium-8b-comcast-splits-nbcuniversal-charter-starlink-micron-1t-oil-firms-jobs-thursday-gold-4040-bitcoin-60k
 ---
 
 Monday, June 29, 2026, written pre-bell. US equity and bond markets reopen this morning for the first time since Friday, and they reopen into a weekend that managed to be both more dangerous and more hopeful than the one that preceded it. The Iran ceasefire cracked open on Saturday and Sunday, with the US striking five Iranian coastal sites and Iran answering with drones and ballistic missiles aimed at American bases in Kuwait and Bahrain and at targets in the UAE, before both governments stepped back late Sunday and agreed to stand down and meet in Doha this week. Markets are reading the de-escalation, not the escalation. S&P 500 futures are up about 1.0 percent, Nasdaq 100 futures lead at roughly 1.3 percent, and the Dow is the laggard at about 0.4 percent, a clean reversal of last week's pattern in which the most expensive technology fell the hardest. The setup into the open is a risk-on bounce layered on top of a still-live geopolitical tail and a hawkish Fed, and the corporate tape is doing a lot of the lifting.

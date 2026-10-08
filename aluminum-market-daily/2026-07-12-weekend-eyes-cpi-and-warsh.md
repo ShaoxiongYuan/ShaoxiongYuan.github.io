@@ -6,7 +6,7 @@ headline_zh: "周末版:LME 周五回吐 1.95%,去库底部未破;市场等待 6
 date: 2026-07-12
 author: Steven Yuan
 data_window: "Friday July 10 close; markets closed over the weekend"
-tags: [Weekend Edition, Destocking Floor, CPI-Warsh Twin Test, Dollar Firms Back, H2 Deficit, Off-Season Demand]
+tags: ["Weekend Edition", "Destocking Floor", "CPI-Warsh Twin Test", "Dollar Firms Back", "H2 Deficit", "Off-Season Demand"]
 snapshot:
   - { label: "SHFE AL2608", value: "~23,050 (weekend hold)", dir: flat }
   - { label: "LME 3M", value: "$3,146 (Fri −1.95%)", dir: down }
@@ -24,6 +24,8 @@ drivers:
   bullish: 5
   bearish: 4
   net: "Neutral-to-firm, floor holds; event-risk into CPI/Warsh"
+redirect_from:
+  - /aluminum-market-daily/2026-07-12-weekend-destock-floor-holds-eyes-cpi-warsh-twin-test
 ---
 
 <div class="lang lang-en" markdown="1">

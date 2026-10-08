@@ -43,17 +43,9 @@ sentiment:
   - { label: "Hawkish June Minutes Point to No Cuts Until 2027 and September Hike Odds Near 69%, a Cost-of-Capital Overhang on the Chip Leaders", tone: bearish, pct: 33 }
   - { label: "SK Hynix's $29B Nasdaq Debut Is a Referendum on Whether the AI Memory Boom Has More Room or Is Quietly Topping", tone: neutral, pct: 46 }
 
-tags:
-  - Iran War
-  - Strait of Hormuz
-  - Oil
-  - SK Hynix
-  - AI Memory
-  - Chips
-  - Hawkish Fed
-  - SpaceX
-  - Gold
-  - Bitcoin
+tags: ["Iran War", "Hormuz", "Oil", "SK Hynix", "AI Memory", "Chips"]
+redirect_from:
+  - /morning-notes/2026-07-09-market-looks-away-chips-lead-us-hits-90-iran-targets-sk-hynix-lists-friday-brent-79-hawkish-minutes-no-cuts-2027-gold-4030-bitcoin-61k
 ---
 
 Thursday, July 9, 2026, written pre-bell. Twenty-four hours after the war came roaring back, the market has decided to look the other way. Overnight US forces widened the campaign, striking roughly 90 targets across Iran, including the ocean-facing commercial port at Chabahar and an IRGC Aerospace installation near Bushehr, and Iran again answered with missile and drone attacks on US-linked sites around the Gulf. Yet the pre-bell tape is the opposite of yesterday's risk-off. US futures are higher, led by the Nasdaq 100 up about 0.7 percent, with the S&P slightly positive and the Dow roughly flat. Oil is firmer but calm, Brent near 79 dollars and WTI around 74, extending Wednesday's surge without spiking. Gold is lower again near 4,030, the dollar is bid at 101, and the 10-year sits around 4.53 percent. The story of the morning is not the strikes. It is that a market staring at a two-front military exchange has already turned its full attention to tomorrow, when SK Hynix lists on the Nasdaq in a roughly 29 billion dollar debut that will serve as a live referendum on the AI memory trade that runs this tape.

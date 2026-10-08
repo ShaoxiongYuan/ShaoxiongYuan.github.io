@@ -44,17 +44,9 @@ sentiment:
   - { label: "Applied Materials Answered Yesterday's Margin Question in the Opposite Direction, Printing a Record $9.12 Billion With Semiconductor Systems Margin Expanding to 38.0% From 33.2% and Guiding the October Quarter More Than $700 Million Above Consensus, Which Means the Capital Equipment Layer Is Capturing the Buildout Rather Than Subsidising It", tone: bullish, pct: 76 }
   - { label: "Four AI Names in Two Days Have Beaten and Been Sold Regardless of Whether Margin Rose or Fell, So the Common Variable Is Not the Income Statement but the Price Already Paid, and That Is a Positioning Condition Rather Than a Fundamental One", tone: bearish, pct: 44 }
 
-tags:
-  - Retail Sales
-  - Applied Materials
-  - Workday
-  - Silver Lake
-  - Kospi
-  - Memory
-  - Hormuz
-  - Consumer
-  - Fed
-  - M&A
+tags: ["Retail Sales", "Applied Materials", "Workday", "Silver Lake", "KOSPI", "Memory"]
+redirect_from:
+  - /morning-notes/2026-08-14-consumer-cracks-retail-sales-06pct-worst-since-may-2025-amat-record-912b-margin-38pct-guides-1025b-still-falls-5pct-silver-lake-43b-workday-kospi-record-6977-adnoc-tankers-hormuz-gold-4435
 ---
 
 Friday, August 14, 2026, written at 9:20am Eastern, fifty minutes after the retail sales release and ten minutes before the bell, with University of Michigan sentiment still to come at 10am. The S&P 500 closed at a record 7,798.99 last night, its twenty-seventh record close of the year, after trading above 7,800 intraday for the first time. This morning the American consumer posted its worst month in more than a year and the futures barely moved. That gap is the note.

@@ -42,17 +42,9 @@ sentiment:
   - { label: "But the Secondary Tape Is Soft, With Chips Slipping Into the Debut, the Sell-the-News and New-Supply Digestion Risk the Group Flagged All Week Now Playing Out", tone: bearish, pct: 41 }
   - { label: "The Overhang Rotates From War to Rates as Oil Eases on US-Iran Technical Talks While the 30-Year Yield Pushes Near 4.90% Under a No-Cuts-Until-2027 Fed", tone: bearish, pct: 43 }
 
-tags:
-  - SK Hynix
-  - AI Memory
-  - HBM
-  - Chips
-  - Nasdaq Listing
-  - Iran Talks
-  - Oil
-  - Rising Yields
-  - Delta
-  - Gold
+tags: ["SK Hynix", "AI Memory", "HBM", "Chips", "Nasdaq Listing", "Iran Talks"]
+redirect_from:
+  - /morning-notes/2026-07-10-sk-hynix-lands-biggest-foreign-us-listing-265b-7x-covered-chips-slip-into-debut-oil-eases-iran-talks-overhang-rotates-war-to-yields-30y-490-delta-beats-gold-4108-bitcoin-60k
 ---
 
 Friday, July 10, 2026, written pre-bell. The day the whole week has been pointing to is finally here, and it is arriving with a split personality. SK Hynix lists on the Nasdaq this morning after pricing its American depositary receipts at 149 dollars and raising 26.5 billion dollars, the largest first-time US listing by any foreign company on record, edging past the 25 billion dollars Alibaba raised in 2014. Demand was ferocious, with the book covered roughly seven times, and the company holds about 56 percent of the high-bandwidth memory market that every AI accelerator on the planet depends on. Yet the pre-bell tape does not look like a celebration. Nasdaq 100 futures are lower by about a third of a percent as the chip complex slips into the very debut it was supposed to crown, while the Dow adds about 130 points and small caps hold green. Oil is easing rather than spiking, WTI back near 72 and Brent near 76, as Washington confirms it will keep holding technical talks with Iran even after declaring the ceasefire over. The war premium that ran the tape all week is coming out, and in its place the market is staring at a 30-year yield pushing 4.90 percent. Delta opens earnings season with a clean beat before the bell. The primary market just cast an emphatic vote for the AI memory trade. The secondary market is not so sure.

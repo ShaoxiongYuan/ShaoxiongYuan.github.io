@@ -42,17 +42,9 @@ sentiment:
   - { label: "CXMT's 535% Shanghai Debut to a $530B Valuation Past Intel Is the Supplier Bid at Its Most Extreme, Validating the Memory Cycle While Flagging That China Is Funding Commodity DRAM Capacity at a Cost of Capital Nobody Else Can Match", tone: neutral, pct: 50 }
   - { label: "This Is a Pause and Not a Deal, Driven Partly by Depleted US Interceptor Stockpiles, So the Relief Should Be Traded as De-Risking Rather Than a Re-Rating With Four Megacap Prints and Core PCE Still Between Here and Friday", tone: bearish, pct: 47 }
 
-tags:
-  - Iran Strike Pause
-  - Oil Collapse
-  - CXMT Debut
-  - Memory
-  - FOMC
-  - Megacap Earnings
-  - Durable Goods
-  - M&A
-  - Gold
-  - Bitcoin
+tags: ["Iran", "Oil Collapse", "CXMT Debut", "Memory", "FOMC", "Earnings"]
+redirect_from:
+  - /morning-notes/2026-07-27-war-premium-unwinds-iran-strike-pause-third-day-brent-under-90-dow-futures-600pts-cxmt-535pct-shanghai-debut-tops-intel-argenx-forte-2pt2b-durable-goods-core-holds-fomc-megacap-week-gold-4098-bitcoin-65k
 ---
 
 Monday, July 27, 2026, and the week that everyone spent the weekend dreading has opened with a gift. The United States and Iran have now gone a third consecutive day without striking each other, Tehran said on Sunday that it will keep holding fire as long as Washington does, and the oil market has responded by tearing the war premium out of the tape. Brent for September delivery fell as much as 7.6 percent to about $89.43 a barrel, its first trip below $90 since the escalation began, with West Texas Intermediate down 6.7 percent to roughly $83.37. Equity futures grabbed it with both hands. Dow futures are up 613 points at 52,737, S&P 500 futures are 0.88 percent higher at 7,512.75, Nasdaq 100 futures lead at 28,682.75 for a gain of 1.42 percent, and the Russell 2000 is along for the ride at plus 1.06 percent. Bonds rallied alongside, with the ten-year yield down about five basis points to 4.63 percent, and the VIX slid more than 5 percent to the mid-17s. Overnight in Shanghai, memory chipmaker CXMT staged one of the great listing debuts on record.

@@ -44,17 +44,9 @@ sentiment:
   - { label: "Advent and Stripe Walking Away From PayPal at $60.50 Leaves the Stock Trading at Roughly the Bid Its Own Board Called Inadequate, Which Is the Cleanest Read Available on What Large Leveraged Financing Costs Right Now", tone: bearish, pct: 33 }
   - { label: "The Thirty-Year at 5.20% Is Its Highest Since 2007 While the Two-Year Sits at 4.19%, So the Curve Is Steepening Into a Keynote That the Long End Is Asking to Be Convinced By", tone: neutral, pct: 48 }
 
-tags:
-  - Marvell
-  - Custom Silicon
-  - PayPal
-  - Kevin Warsh
-  - Jackson Hole
-  - Bank of Japan
-  - Strait of Hormuz
-  - Gross Margin
-  - Affirm
-  - China Tariffs
+tags: ["Marvell", "Custom Silicon", "PayPal", "Warsh", "Jackson Hole", "Bank of Japan"]
+redirect_from:
+  - /morning-notes/2026-08-28-marvell-beats-raises-and-falls-8pct-on-custom-silicon-margin-mix-paypal-16pct-as-advent-and-stripe-walk-from-53b-buyout-30y-520-highest-since-2007-into-warsh-keynote-tokyo-cpi-18pct-brent-8822
 ---
 
 Friday, August 28, 2026, written at 9:15 a.m. Eastern, forty-five minutes before the cash open and forty-five minutes before Kevin Warsh speaks. Yesterday's tape was one of the narrowest good days of the year. Today's has a policy event in the middle of it.

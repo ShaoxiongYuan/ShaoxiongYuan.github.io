@@ -44,17 +44,9 @@ sentiment:
   - { label: "Eurozone Headline Inflation Jumped to 3.3% Entirely on Energy at 14.3% While Services Inflation Actually Fell to 3.0% From 3.3%, So the Core Is Still Cooling Underneath an Energy Shock the ECB Cannot Do Anything About", tone: neutral, pct: 52 }
   - { label: "Gold Has Now Fallen on a Hawkish Fed Chair, on a Shooting War and on a Global Bond Rout in Three Consecutive Sessions, Which Retires the Debasement Trade as an Explanation for Anything That Happens From Here", tone: bearish, pct: 34 }
 
-tags:
-  - Global Bond Rout
-  - Japan JGB
-  - Gilts
-  - Eurozone Inflation
-  - Strait of Hormuz
-  - Brent Crude
-  - Dell
-  - Gold
-  - Bank of Japan
-  - AI Debt
+tags: ["Global Bond Rout", "Japan JGB", "Gilts", "Eurozone Inflation", "Hormuz", "Oil"]
+redirect_from:
+  - /morning-notes/2026-09-01-global-bond-rout-jgb-10y-3pct-first-since-1996-30y-gilt-5886-highest-since-1998-us-10y-479-eurozone-cpi-33pct-energy-143pct-brent-92-nasdaq-fut-13pct-dell-tonight
 ---
 
 Tuesday, September 1, 2026, written at 9:20 a.m. Eastern, before the cash open and on the first session of the new month, so every US number below is a future or a pre-market print and can look different by ten o'clock. One thing happened overnight and it happened everywhere at once.

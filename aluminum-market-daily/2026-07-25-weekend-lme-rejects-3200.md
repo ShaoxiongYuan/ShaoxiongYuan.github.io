@@ -5,7 +5,7 @@ headline: "Weekend: LME rejects $3,200 again and pulls back to $3,165. The week 
 headline_zh: "周末版:LME 再次在 3,200 美元受阻,回落至 3,165 美元;周线仍收涨,去库底部未破。"
 date: 2026-07-25
 author: Steven Yuan
-tags: [Weekend Cool-Down, LME Rejected 3200, Confirmed Pullback 3165, Destock Floor, Red Sea Houthi Strikes, Oil Holds 100, Eyes Monday Reopen, Eyes FOMC July 29]
+tags: ["Weekend", "LME Rejects 3200", "LME 3165", "Destock Floor", "Red Sea", "FOMC Watch"]
 data_window: "Friday July 24 LME confirmed close (~$3,165.05, −0.83% d/d, ~+0.9% WoW off Monday's $3,137.80) as the last confirmed settlement; written Saturday July 25 with SHFE/LME night and weekend markets closed — no new exchange prints since Friday; SHFE Friday July 24 daytime close/overnight estimated (reopens Monday July 27); several China spot/premium prints lag to the July 22–24 SMM caliber; aluminum-ingot inventory to the mid-late-July SMM series (major-consumption-area ~1.022 Mt); CME FedWatch snapshot as of July 23–24; DXY (~100.6) and Brent (~$100–101) as of July 24; the Red Sea Houthi tanker strikes and ongoing Hormuz near-halt carried as confirmed news with the aluminum price impact labeled interpretation"
 snapshot:
   - { label: "SHFE AL2608", value: "~23,200–23,400 (Fri, est; reopens Mon)", dir: flat }
@@ -24,6 +24,8 @@ drivers:
   bullish: 6
   bearish: 4
   net: "Constructive-but-capped — the week's Red Sea/Hormuz supply-risk surge kept Brent above $100 (~+40% MTD) and the ex-China energy/supply-risk premium alive, and the accelerating destock still floors the tape, but LME's Friday July 24 confirmed close pulled back to $3,165.05 (−0.83%) as the $3,200 hard cap rejected the test once more — the week finished ~+0.9% higher but capped; the dollar closed range-bound near ~100.6, and the same oil spike is a live inflation tail keeping Fed-hike expectations alive into the July 28–29 FOMC — with markets shut until Monday's reopen, upside is gated by whether LME can clear $3,200 on a confirmed close, whether the destock breaks below 1 Mt, and whether the FOMC/oil-inflation tail turns the macro against metals"
+redirect_from:
+  - /aluminum-market-daily/2026-07-25-weekend-lme-rejected-3200-confirmed-pullback-3165-destock-floor-holds-eyes-monday-reopen-fomc
 ---
 
 <div class="lang lang-zh" markdown="1">

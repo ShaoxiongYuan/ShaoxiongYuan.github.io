@@ -44,17 +44,9 @@ sentiment:
   - { label: "The Correlation Regime Flipped This Morning Because All Four Futures Boards Are Down Together for the First Time in This Sequence, and a Nasdaq That No Longer Gets an Exemption From an Oil Price Is a Market Pricing Crude Through the Fed Rather Than Through Sector Margins", tone: bearish, pct: 66 }
   - { label: "Iran Firing Twenty Ballistic Missiles at an Air Base in Jordan Is Horizontal Escalation Into a Country That Produces No Oil at All, Which Widens the Theatre and Almost Certainly Kills the Oman Corridor Deal That Was Described as Days Away Twenty Four Hours Ago", tone: neutral, pct: 41 }
 
-tags:
-  - Crude Oil
-  - Strait of Hormuz
-  - Iran
-  - Federal Reserve
-  - Apple
-  - Oracle
-  - Memory Chips
-  - GameStop
-  - European Central Bank
-  - Treasury Auction
+tags: ["Oil", "Hormuz", "Iran", "Fed", "Apple", "Oracle"]
+redirect_from:
+  - /morning-notes/2026-09-09-brent-clears-100-centcom-sinks-five-more-iranian-tankers-iran-hits-jordan-airbase-hormuz-shut-nasdaq-futures-red-with-the-rest-dow-minus628-tuesday-apple-ternus-foldable-1pm-10y-auction-cpi-friday
 ---
 
 Wednesday, September 9, 2026, written at 8:30 a.m. Eastern, an hour before the open. Brent traded through $100 overnight for the first time since late July. Everything below is a pre-open mark and the 10-year auction at 1:00 p.m. is the first real vote on any of it.

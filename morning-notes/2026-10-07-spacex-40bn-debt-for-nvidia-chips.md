@@ -44,17 +44,9 @@ sentiment:
   - { label: "Brent Round-Tripped Back Above $101 in One Session Because UKMTO Has Logged Nine Hormuz Attacks in Six Days, Half of September's Entire Total, and the EIA Raised Its 2027 Brent Forecast by Ten Dollars Citing Tight Diesel", tone: bearish, pct: 76 }
   - { label: "The Kospi Fell 1.98% With Foreigners Selling 2.6 Trillion Won the Day Before Samsung Is Expected to Report a Ninefold Profit Jump and Korea's First Hundred Trillion Won Quarter, Which Is a Rate and Currency Verdict Rather Than a Semiconductor One", tone: neutral, pct: 72 }
 
-tags:
-  - Artificial Intelligence
-  - Credit
-  - Rates
-  - Federal Reserve
-  - Crude Oil
-  - Semiconductors
-  - Memory
-  - Nuclear Power
-  - Korea
-  - Geopolitics
+tags: ["AI", "Credit", "Rates", "Fed", "Oil", "Semiconductors"]
+redirect_from:
+  - /morning-notes/2026-10-07-spacex-seeks-40bn-of-debt-for-nvidia-chips-as-dalio-calls-ai-a-classic-bubble-10y-535-a-24-year-high-brent-back-over-101-sp-record-781893-kospi-minus198pct
 ---
 
 Wednesday, October 7, 2026, written at 8:45 a.m. Eastern, forty five minutes before the open. Every future, yield, currency and commodity level in this note carries that stamp and can move before the bell. Where we compare to Tuesday we say whether we mean Tuesday's close or Tuesday's morning. Mainland China returns tomorrow after the National Day break, so the Southbound Connect is still shut in Hong Kong today.

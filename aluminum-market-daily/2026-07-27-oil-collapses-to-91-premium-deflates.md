@@ -5,7 +5,7 @@ headline: "Brent collapses to $91 as US strikes on Iran pause. Aluminium's risk 
 headline_zh: "美国暂停对伊打击,Brent 暴跌至 91 美元;FOMC 前铝价风险溢价收缩。"
 date: 2026-07-27
 author: Steven Yuan
-tags: [Monday Reopen, Oil Collapses Below 92, US Strikes Paused 2nd Night, Talks Progress, Premium Deflates, Dollar Eases 1012, Destock Floor Holds, Billet Builds, LME Rejected 3200, Eyes FOMC July 29]
+tags: ["Oil Collapses", "Strike Pause", "Premium Deflates", "Destock Floor", "Billet Build", "FOMC Watch"]
 data_window: "Friday July 24 LME confirmed close (~$3,165.05, −0.83% d/d, ~+0.9% WoW off Monday's $3,137.80) remains the last confirmed settlement; written Monday July 27 morning as the SHFE reopens and before the Monday LME London settle — no fresh confirmed exchange print since Friday; the SHFE Monday open/reopen is estimated; several China spot/premium prints lag to the July 22–24 SMM caliber; aluminum-ingot inventory to the mid-late-July SMM series (major-consumption-area ~1.022 Mt), billet ~121 kt as of July 23; CME FedWatch snapshot as of July 23–25; DXY (~101.2, −0.26% July 27) and Brent (~$91.75, −6.7% July 27, ~−13% off Thursday's $100+) as of July 27; the weekend oil collapse on the US suspending strikes on Iran for a second consecutive night and talks progressing (VP Vance, Secretary Rubio engaged) carried as confirmed news with the aluminum price impact labeled interpretation"
 snapshot:
   - { label: "SHFE AL2608", value: "~22,900–23,200 (Mon reopen, est; soft on oil)", dir: down }
@@ -24,6 +24,8 @@ drivers:
   bullish: 4
   bearish: 6
   net: "Constructive-floor-but-premium-gone — the accelerating destock still floors the tape (SMM major-consumption-area ingot ~1.022 Mt, 1 Mt in sight; LME stocks ~284 kt, −43% YTD), but the week's core bull — the Red Sea/Hormuz oil spike — has now unwound hard: Brent fell ~13% off Thursday's $100+ to ~$91.75 as the US suspended strikes on Iran for a second consecutive night and talks progressed, draining the ex-China energy/supply-risk premium; the dollar eased only marginally to ~101.2 into the FOMC. LME's last confirmed close remains Friday's $3,165.05 (−0.83%), rejected once more at the $3,200 hard cap, so the Monday reopen digests a collapsed premium with a soft bias — and the destock's own momentum is fading (billet a second week of build to ~121 kt, weekly ingot withdrawals slowing to ~33 kt). With the July 28–29 FOMC (decision July 29) one day out, downside is gated by whether the destock holds the base below 1 Mt as the premium exits, whether LME defends MA10 (~$3,120), and whether a still-firm dollar and the FOMC turn the macro further against metals"
+redirect_from:
+  - /aluminum-market-daily/2026-07-27-monday-reopen-oil-collapses-91-strikes-paused-premium-deflates-destock-floor-holds-eyes-fomc-july-29
 ---
 
 <div class="lang lang-zh" markdown="1">

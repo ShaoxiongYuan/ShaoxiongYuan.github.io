@@ -5,7 +5,7 @@ headline: "A cool June PPI confirms the soft CPI. LME fades again at $3,200 whil
 headline_zh: "6 月 PPI 回落确认 CPI 降温;LME 再度在 3,200 美元受阻,去库底部仍在。"
 date: 2026-07-16
 author: Steven Yuan
-tags: [Cool PPI, Disinflation Confirmed, LME Fades at 3200, Dollar 100.6, Destock Floor, Retail Sales Watch]
+tags: ["Cool PPI", "Disinflation Confirmed", "LME Fades at 3200", "Dollar 100.6", "Destock Floor", "Retail Sales Watch"]
 data_window: "Wednesday July 15 LME close & SHFE daytime/night session; written Thursday July 16 after the June PPI print and Chair Warsh's Senate Banking testimony, ahead of the June retail-sales release"
 snapshot:
   - { label: "SHFE AL2608", value: "~23,050 (night soft)", dir: down }
@@ -24,6 +24,8 @@ drivers:
   bullish: 5
   bearish: 4
   net: "Balanced/firm — the macro stayed metals-friendly (a second cool inflation print, softer-ish dollar) on top of the destock floor, but LME's rejection at $3,200 and a still-live September hike keep it consolidation rather than breakout"
+redirect_from:
+  - /aluminum-market-daily/2026-07-16-cool-ppi-confirms-cpi-lme-fades-at-3200-destock-floor-holds-eyes-retail-sales
 ---
 
 <div class="lang lang-en" markdown="1">

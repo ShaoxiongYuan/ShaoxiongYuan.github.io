@@ -44,17 +44,9 @@ sentiment:
   - { label: "Saudi Aramco Cut the November Arab Light Price to Asia by $3 to a Five Dollar Discount, the Widest Since June 2020, Against a Survey Expecting a Hike of up to $5, Which Prices Freight and Insurance Rather Than Demand and Leaves the Product Shortage Untouched", tone: neutral, pct: 74 }
   - { label: "The Nasdaq Composite Closed at a Record 27,477.31 While the Dow Added 0.18% and Nvidia Reached a Record Within $300bn of a $6 Trillion Market Value on the Same Afternoon the Ten Year Closed at a 24-Year High", tone: neutral, pct: 70 }
 
-tags:
-  - Inflation
-  - Federal Reserve
-  - Rates
-  - Crude Oil
-  - Artificial Intelligence
-  - Semiconductors
-  - Nuclear Power
-  - Japan
-  - Europe
-  - Geopolitics
+tags: ["Inflation", "Fed", "Rates", "Oil", "AI", "Semiconductors"]
+redirect_from:
+  - /morning-notes/2026-10-06-ism-services-prices-740-highest-since-july-2022-services-employment-501-10y-closes-531-a-24-year-high-saudi-cuts-asia-osp-to-a-six-year-low-nikkei-tops-70000-google-buys-890mw-of-nuclear
 ---
 
 Tuesday, October 6, 2026, written at 8:45 a.m. Eastern, forty five minutes before the open. Every future, yield, currency and commodity level in this note carries that stamp and can move before the bell, and where we compare to Monday we say whether we mean Monday's close or Monday's morning. Mainland China remains shut through October 7. Korea reopened today after the substitute holiday.

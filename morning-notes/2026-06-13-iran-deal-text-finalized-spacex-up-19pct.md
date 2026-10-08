@@ -47,16 +47,9 @@ sentiment:
   - { label: "FOMC Next Week, Rate Hike Risk Builds",           tone: bearish,  pct: 40 }
   - { label: "Consumer Sentiment Still Near Record Lows",        tone: bearish,  pct: 35 }
 
-tags:
-  - Iran
-  - SpaceX
-  - Paramount
-  - WBD
-  - Oil
-  - FOMC
-  - Gold
-  - Semiconductors
-  - IPO
+tags: ["Iran", "SpaceX", "Paramount", "WBD", "Oil", "FOMC"]
+redirect_from:
+  - /morning-notes/2026-06-13-iran-peace-deal-text-agreed-oil-brent-88-spacex-spcx-closes-161-19pct-pop-paramount-wbd-111b-doj-clears-michigan-sentiment-49-fomc-next-week-dow-51202-gold-4216-bitcoin-63k
 ---
 
 Weekend edition, Saturday June 13. Friday capped a week that reshuffled the macro narrative significantly. The US-Iran peace deal moved from aspiration to near-reality after Pakistan confirmed a "final, agreed upon text" had been reached between Washington and Tehran. Oil cratered on the news, with WTI dropping 3.8% to $84 and Brent falling 3.6% to $88, both at two-month lows. Simultaneously, SpaceX delivered the most successful IPO debut in market history, closing its first day at $161.11, up 19.3% from the $135 offering price, and briefly crossing $175 intraday, making Elon Musk the world's first trillionaire. The DOJ cleared the $111 billion Paramount-WBD merger without concessions, marking the largest media consolidation ever. All three major indices closed higher for the week: S&P 500 at 7,431 (+0.50%), Dow at 51,202 (+0.70%), and Nasdaq at 25,889 (+0.31%). The VIX fell sharply to 17.68, down from 19.40 the prior session, as geopolitical risk premium deflated. Heading into next week, the June 16-17 FOMC meeting with fresh dot plot projections dominates the calendar.

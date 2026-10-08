@@ -42,17 +42,9 @@ sentiment:
   - { label: "Amazon Settled the Cash-Conversion Question at Three Prints Out of Four: AWS Accelerated to 37% Growth, Its Fastest Since 2021 and Six Points Above Consensus, While Capital Spending Rose to Roughly $220 Billion, Which Is the Microsoft Template Repeated and Leaves Meta as the Exception Rather Than the Rule", tone: bullish, pct: 63 }
   - { label: "A Record 17.9% One-Day Gain in Korea Is the Mirror Image of a Record Three-Day Crash and Both Are Positioning Rather Than Fundamentals: SK Hynix Went Limit-Up on a Chairman's Personal Share Purchase, Samsung Rose 28%, and the Index Recovered in a Session Almost Exactly What It Lost in Three", tone: neutral, pct: 50 }
 
-tags:
-  - Apple
-  - Amazon
-  - Memory Cycle
-  - AI Capex
-  - Kospi
-  - SK Hynix
-  - Hormuz
-  - Exxon
-  - Chevron
-  - Month-End
+tags: ["Apple", "Amazon", "Memory Cycle", "AI Capex", "KOSPI", "SK Hynix"]
+redirect_from:
+  - /morning-notes/2026-07-31-memory-shortage-crosses-to-the-buyers-apple-7pct-dram-nand-guide-amazon-13pct-aws-37pct-capex-220b-kospi-record-179pct-sk-hynix-limit-up-stoxx-record-exxon-chevron-266b-gold-4113-bitcoin-64k
 ---
 
 Friday, July 31, 2026, the last session of a month that produced a bear market and a record rally inside four weeks. Apple did something unusual last night. It beat on revenue at $109.42 billion against $108.86 billion expected, beat on earnings at $2.02 against $1.89, grew iPhone revenue 22 percent to $54.3 billion and Mac revenue 29 percent to $10.4 billion, and the stock is down 7.2 percent pre-market. The reason is one sentence from chief financial officer Kevan Parekh: September-quarter revenue is guided to $111.69 billion to $113.74 billion, growth of 9 to 11 percent against a 12 percent consensus, because of supply constraints and severe DRAM and NAND price inflation. Hours earlier Amazon told the market that AWS grew 37 percent to $42.2 billion, its fastest rate since 2021 and six points above the 31 percent consensus, and that 2026 cash capital expenditure is going to roughly $220 billion from the $200 billion guided in April, partly because memory and component prices have risen. Amazon is up about 13 percent. The same input showed up twice in one night, once as a cap on revenue and once as an overrun on capital spending, and the market paid up for one and marked down the other.

@@ -44,17 +44,9 @@ sentiment:
   - { label: "Credit Analysts Began Underwriting the AI Buildout as Debt Rather Than as Equity, and the First Casualty Was Broadcom Falling 6.6 Percent on a Bank of America Estimate That Its Financing Vehicle With Apollo and Blackstone Could Carry 370 Billion Dollars of Senior Obligations by 2029", tone: bearish, pct: 35 }
   - { label: "Breadth Is Genuinely Improving Rather Than Narrowing, Because the Russell 2000 and the S&P MidCap 400 Both Set Records in the Same Session the Megacap Complex Sold Off, and Six of Eleven Sectors Finished the Week Higher With Dispersion Outside Energy of Only 1.2 Percent", tone: bullish, pct: 61 }
 
-tags:
-  - Treasury Auction
-  - Broadcom
-  - Applied Materials
-  - PayPal
-  - Federal Reserve
-  - Hormuz
-  - Energy
-  - Memory
-  - Consumer Sentiment
-  - Russell 2000
+tags: ["Treasury Auction", "Broadcom", "Applied Materials", "PayPal", "Fed", "Hormuz"]
+redirect_from:
+  - /morning-notes/2026-08-15-weekend-wrap-credit-prices-the-ai-buildout-30y-auction-5216-highest-since-2001-broadcom-66pct-bofa-370b-umich-51-russell-record-3068-vix-2026-low-energy-73pct-best-week-since-2022-paypal-53b-gold-4437
 ---
 
 Saturday, August 15, 2026, written after Friday's close, so every level below is a settlement rather than a moving mark, and the next thing that can change any of it is Monday's Asian open. The week produced a record close in the Russell 2000, a record in the S&P MidCap 400, the lowest VIX print of 2026, the fourth lightest volume of the year, and the most expensive thirty-year Treasury auction since 2001. Those facts sit awkwardly together, and reconciling them is the whole note.

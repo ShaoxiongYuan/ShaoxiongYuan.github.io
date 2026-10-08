@@ -44,17 +44,9 @@ sentiment:
   - { label: "TD Synnex Beat Consensus Earnings by 22% and Fell 9.4% Because Hyve Grew Billings 117% While Free Cash Flow Went to Roughly Negative $1bn, Which Is the Working Capital Bill for This Buildout Arriving in Public Filings", tone: bearish, pct: 74 }
   - { label: "The Thirty Year Printed 5.53% and a 2004 High While the Two Year Sat at 4.81%, So the Curve Is Charging Term Premium Rather Than Policy and the Long End Is Now the Price of the Capital Cycle", tone: bearish, pct: 69 }
 
-tags:
-  - Artificial Intelligence
-  - Agentic Compute
-  - Data Center Capacity
-  - Memory Cycle
-  - Treasury Market
-  - Federal Reserve
-  - Crude Oil
-  - Diesel Crack
-  - Strait of Hormuz
-  - Micron
+tags: ["AI", "Agentic Compute", "Data Centers", "Memory Cycle", "Treasuries", "Fed"]
+redirect_from:
+  - /morning-notes/2026-09-26-weekend-wrap-agentic-compute-gets-its-contract-and-its-ceiling-in-the-same-week-akam-plus14pct-meta-minus33pct-on-muse-capacity-snx-minus94pct-on-a-1bn-cash-drain-30y-553
 ---
 
 Saturday, September 26, 2026, written at 9:30 a.m. Eastern. This is a weekend wrap covering the week to Friday's close. US markets are shut and every figure below is settled rather than indicative. Mainland China, Korea and Taiwan were all closed on Friday, Hong Kong is closed today for Mid-Autumn, and Shanghai reopens Monday for exactly three sessions before Golden Week takes it out again until October 8.

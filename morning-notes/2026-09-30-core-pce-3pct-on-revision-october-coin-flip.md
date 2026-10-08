@@ -44,17 +44,9 @@ sentiment:
   - { label: "The Two Real Activity Numbers Published at the Same Hour Both Beat, With Q2 GDP Revised Up to 2.2% Against 1.5% Expected and ADP at 90,000 After an August of 38,000, Which Argues the Opposite of What the Front End Just Did", tone: bullish, pct: 64 }
   - { label: "Gold Rose 1.4% Off a Seven Week Low on the Day Real Yields Fell, Which Is the Carry Cost Framing Published Two Days Ago Working in the Opposite Direction From Its First Test", tone: bullish, pct: 58 }
 
-tags:
-  - Federal Reserve
-  - Inflation
-  - Treasury Market
-  - Artificial Intelligence
-  - Semiconductors
-  - Memory
-  - Crude Oil
-  - Strait of Hormuz
-  - Gold
-  - Europe
+tags: ["Fed", "Inflation", "Treasuries", "AI", "Semiconductors", "Memory"]
+redirect_from:
+  - /morning-notes/2026-09-30-core-pce-30pct-is-a-revision-not-disinflation-gdp-revised-up-to-22pct-adp-90k-october-odds-cut-from-70pct-to-a-coin-flip-30y-561-a-2002-high-micron-tonight
 ---
 
 Wednesday, September 30, 2026, written at 9:30 a.m. Eastern, half an hour before the open, on the last session of the third quarter. The 8:30 data is in hand and is discussed below. Futures and pre-market levels are indicative and can move before the bell. Micron reports after the close. Mainland China shuts from tomorrow through October 7 for Golden Week and will be absent for the ISM and for payrolls.

@@ -44,17 +44,9 @@ sentiment:
   - { label: "Brent Falling 3.43% to $102.15 on a Saudi Repair Timeline While Oman Physical Futures Clear $132 and Gulf to China Freight Prints a Record $1.035m a Day Is the Paper Market and the Physical Market Disagreeing About the Same Barrels, and Only One of Them Has to Deliver Them", tone: bearish, pct: 74 }
   - { label: "Generac Up 33% on a Contracted Amazon Order Worth Up to $8bn While Fluence Falls 22% on Its Second Guidance Cut in Six Weeks Is the AI Power Trade Separating Balance Sheet Backed Demand From Merchant Execution, Which Is the Correct Distinction to Start Making at a 4% Funds Rate", tone: bullish, pct: 71 }
 
-tags:
-  - Federal Reserve
-  - Interest Rates
-  - Crude Oil
-  - Strait of Hormuz
-  - AI Infrastructure
-  - Data Center Power
-  - Treasury Market
-  - Gold
-  - Bank of Japan
-  - Housing
+tags: ["Fed", "Interest Rates", "Oil", "Hormuz", "AI Infrastructure", "Data Center Power"]
+redirect_from:
+  - /morning-notes/2026-09-17-fed-hikes-to-400-median-dot-410-warsh-says-conditions-are-not-restrictive-dow-minus631-nasdaq-flat-brent-minus343pct-to-10215-gold-plus243pct-2y-4702-generac-plus33pct-on-amazons-8bn
 ---
 
 Thursday, September 17, 2026, written at 8:50 a.m. Eastern, forty minutes before the open and roughly twenty six hours before the Bank of Japan. The Federal Reserve raised rates yesterday for the first time since July 2023. Everything below is a pre-market mark.

@@ -5,7 +5,7 @@ headline: "June CPI cools far more than expected and clears the twin test. The d
 headline_zh: "6 月 CPI 远低于预期,双重考验偏鸽落地;美元走弱,铝价走稳。"
 date: 2026-07-15
 author: Steven Yuan
-tags: [Dovish CPI, Twin Test Clears, Dollar Slips 100.7, Metals Rally, Hormuz Blockade, Destock Floor]
+tags: ["Dovish CPI", "Twin Test Clears", "Dollar Slips 100.7", "Metals Rally", "Hormuz Blockade", "Destock Floor"]
 data_window: "Tuesday July 14 LME close & SHFE daytime/night session; written Wednesday July 15 after the June CPI print and Chair Warsh's first House testimony"
 snapshot:
   - { label: "SHFE AL2608", value: "~23,120 (night firm)", dir: up }
@@ -24,6 +24,8 @@ drivers:
   bullish: 6
   bearish: 3
   net: "Firm — the macro cleared metals-positive (dovish CPI, softer dollar) on top of the destock floor; oil-inflation and sticky-ish core the residual tail"
+redirect_from:
+  - /aluminum-market-daily/2026-07-15-dovish-cpi-clears-twin-test-dollar-slips-aluminum-firms
 ---
 
 <div class="lang lang-en" markdown="1">

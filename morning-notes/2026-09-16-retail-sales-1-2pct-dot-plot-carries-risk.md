@@ -44,17 +44,9 @@ sentiment:
   - { label: "The Two Year at 4.65% Is the Only Instrument on the Page With Asymmetric Risk Into 2pm, Because a Median Dot Above 4.00% Prices a Second Hike the Front End Has Not Discounted at All", tone: bearish, pct: 71 }
   - { label: "SoftBank Five Year Credit Default Swaps at 384.6 Basis Points, the Widest Since 2023, Is the Credit Market Repricing the Same Balance Sheet the Equity Market Marked Up 9.1% Yesterday on Financing Headlines", tone: bearish, pct: 79 }
 
-tags:
-  - Federal Reserve
-  - Retail Sales
-  - Treasury Market
-  - Crude Oil
-  - Strait of Hormuz
-  - AI Capital Expenditure
-  - Credit Markets
-  - Gold
-  - Japan
-  - Semiconductors
+tags: ["Fed", "Retail Sales", "Treasuries", "Oil", "Hormuz", "AI Capex"]
+redirect_from:
+  - /morning-notes/2026-09-16-retail-sales-12pct-against-a-02pct-call-control-group-07pct-and-59pct-yoy-five-hours-before-warsh-votes-10y-504-tuesday-softbank-cds-3846bp-three-year-high-gold-bounces-off-the-five-week-low
 ---
 
 Wednesday, September 16, 2026, written at 9:20 a.m. Eastern, forty minutes before the open and four hours forty minutes before the decision. August retail sales landed at 8:30. Everything below is a pre-market mark and the entire picture can change at 2pm.

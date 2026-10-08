@@ -44,17 +44,9 @@ sentiment:
   - { label: "Korea Opened Up 2.20% and Closed Up 0.15%, So the Region That Manufactures the Thesis Would Not Hold the Gap That New York Paid For", tone: bearish, pct: 66 }
   - { label: "A Record Nasdaq Close Eased Financial Conditions Into a Two Year at a Cycle High and a Regional President Saying Policy Is Still Stimulative", tone: bearish, pct: 70 }
 
-tags:
-  - Semiconductors
-  - AI Agents
-  - Meta
-  - Federal Reserve
-  - Crude Oil
-  - Iran Diplomacy
-  - US-China Summit
-  - Treasury Market
-  - Memory Supply
-  - Consumer
+tags: ["Semiconductors", "AI Agents", "Meta", "Fed", "Oil", "Iran Diplomacy"]
+redirect_from:
+  - /morning-notes/2026-09-22-the-tape-reprices-the-cpu-layer-on-twelve-days-of-download-data-amd-clears-1trn-intel-plus12pct-arm-plus17pct-nasdaq-record-27122-kospi-opens-plus22pct-closes-plus015pct-2y-4751-cycle-high
 ---
 
 Tuesday, September 22, 2026, written at 9:20 a.m. Eastern, forty minutes before the open. Futures and pre-market levels below are indicative and can move before the bell. Tokyo is shut for a third consecutive session, the citizens' holiday bridging Respect for the Aged Day and tomorrow's autumnal equinox, so Asia has now run three days without its largest cash market.

@@ -5,7 +5,7 @@ headline: "Weekend: Brent falls back below $100 on peace-talk hopes as the dolla
 headline_zh: "周末版:和谈预期令 Brent 跌回 100 美元下方,美元走强;供应风险溢价消退。"
 date: 2026-07-26
 author: Steven Yuan
-tags: [Weekend, Oil Pulls Back Below 100, Peace-Talk Hopes, US-Iran Pakistan Push, Dollar Firms 101, Destock Floor, LME Rejected 3200, Eyes Monday Reopen, Eyes FOMC July 29]
+tags: ["Weekend", "Oil Below 100", "Peace Talks", "Dollar 101", "Destock Floor", "FOMC Watch"]
 data_window: "Friday July 24 LME confirmed close (~$3,165.05, −0.83% d/d, ~+0.9% WoW off Monday's $3,137.80) as the last confirmed settlement; written Sunday July 26 with SHFE/LME night and weekend markets closed — no new exchange prints since Friday (reopens Monday July 27); the SHFE Friday July 24 daytime close/overnight is estimated; several China spot/premium prints lag to the July 22–24 SMM caliber; aluminum-ingot inventory to the mid-late-July SMM series (major-consumption-area ~1.022 Mt); CME FedWatch snapshot as of July 23; DXY (~101.3) as of July 24–25 and Brent (~$97–98, −~2–4% Friday) as of July 24 close; the Friday oil pullback on the China-initiated Pakistan push to revive US–Iran talks, the ongoing Red Sea Houthi threat and Hormuz near-halt carried as confirmed news with the aluminum price impact labeled interpretation"
 snapshot:
   - { label: "SHFE AL2608", value: "~23,100–23,300 (Fri, est; reopens Mon)", dir: flat }
@@ -24,6 +24,8 @@ drivers:
   bullish: 5
   bearish: 5
   net: "Constructive-but-capped with a fading premium — the accelerating destock still floors the tape (SMM major-consumption-area ingot ~1.022 Mt, 1 Mt in sight; LME stocks ~284 kt, −43% YTD), but the week's core bull — the Red Sea/Hormuz oil spike — reversed Friday as Brent fell ~2–4% back below $100 (to ~$97–98) on a China-initiated Pakistan push to revive US–Iran talks, cooling the ex-China energy/supply-risk premium; the dollar firmed to ~101.3 near a one-month high, and LME's last confirmed close remains Friday's $3,165.05 (−0.83%), rejected once more at the $3,200 hard cap (the week still +0.9%). With markets shut until Monday's reopen and the July 28–29 FOMC (decision July 29) two days later, upside is gated by whether the peace-talk push holds oil down (and the premium out), whether LME can still clear $3,200 on a confirmed close, whether the destock breaks below 1 Mt against a two-week billet build, and whether a firmer dollar and the FOMC turn the macro against metals"
+redirect_from:
+  - /aluminum-market-daily/2026-07-26-weekend-oil-pulls-back-below-100-peace-talk-hopes-dollar-firms-1013-destock-floor-holds-eyes-monday-reopen-fomc
 ---
 
 <div class="lang lang-zh" markdown="1">

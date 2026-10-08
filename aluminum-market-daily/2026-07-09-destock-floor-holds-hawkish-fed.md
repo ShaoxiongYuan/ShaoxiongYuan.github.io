@@ -6,7 +6,7 @@ headline_zh: "去库底部稳固,铝价低位整理;美联储转鹰与美元走�
 date: 2026-07-09
 author: Steven Yuan
 data_window: "July 8 spot + night-session close"
-tags: [Destocking Floor, Hawkish Fed, Firmer Dollar, Oil Spike, Alumina Weakness, Off-Season Demand]
+tags: ["Destocking Floor", "Hawkish Fed", "Firmer Dollar", "Oil Spike", "Alumina Weakness", "Off-Season Demand"]
 snapshot:
   - { label: "SHFE AL2608", value: "~23,000 (≈flat)", dir: flat }
   - { label: "LME 3M", value: "$3,141 (flat)", dir: flat }
@@ -24,6 +24,8 @@ drivers:
   bullish: 5
   bearish: 5
   net: "Short-term neutral, rebound capped"
+redirect_from:
+  - /aluminum-market-daily/2026-07-09-destocking-floor-holds-hawkish-fed-oil-spike-cap-rebound
 ---
 
 <div class="lang lang-en" markdown="1">

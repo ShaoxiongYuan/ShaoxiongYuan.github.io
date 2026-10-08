@@ -42,17 +42,9 @@ sentiment:
   - { label: "The Buildout Keeps Printing Receipts: Supermicro's Record $60B Backlog and a Margin Jump Say AI Server and Storage Demand Never Cracked, Even as the Tape Gives Back Its Bounce", tone: bullish, pct: 48 }
   - { label: "Tonight Is the Real Verdict: Alphabet's Capex Signal and Tesla's Margins Are the First Mega-Cap Prints of the Season and Set the Tone for the Whole Cycle", tone: neutral, pct: 46 }
 
-tags:
-  - Oil Surge
-  - Iran Hormuz
-  - Brazil Tariff
-  - Chip Wobble
-  - Supermicro
-  - AI Capex
-  - Alphabet
-  - Tesla
-  - IBM
-  - FOMC
+tags: ["Oil Surge", "Iran Hormuz", "Brazil Tariff", "Chip Wobble", "Supermicro", "AI Capex"]
+redirect_from:
+  - /morning-notes/2026-07-22-oil-surges-back-brent-95-11th-night-iran-strikes-rubio-hormuz-brazil-tariff-live-chips-wobble-smci-60b-backlog-alphabet-tesla-verdict-gold-4114-bitcoin-66k
 ---
 
 Wednesday, July 22, 2026, and the rebound that dragged chips off a bear-market low is meeting its first real test before the bell. US stock futures are lower, with S&P 500 futures down about 0.5 percent, Dow futures off 0.3 percent, and Nasdaq 100 futures leading the way down near 1.1 percent as the semiconductor complex gives back part of a two-day bounce. The driver is oil, which has swung hard the other way from yesterday's ceasefire optimism. Brent is up roughly 4 percent toward $95 and WTI is near $88 after an eleventh straight night of US strikes on Iran, and after Secretary of State Marco Rubio told Asian leaders that Tehran's demand to control and collect tolls in the Strait of Hormuz would set a dangerous precedent and threaten the world economy. The message markets took from that is simple, the peace track has stalled rather than advanced. Layered on top is trade, with a 25 percent tariff on a range of Brazilian goods taking effect today. Against that macro drag, the AI buildout keeps handing the bulls fresh evidence, loudest of all Supermicro's record order book. And the day's real verdict lands after the close, when Alphabet and Tesla post the first mega-cap results of the season.

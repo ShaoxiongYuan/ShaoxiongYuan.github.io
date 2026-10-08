@@ -42,17 +42,9 @@ sentiment:
   - { label: "Oil Fading Off $90 on a 10-Day Ceasefire Proposal Is the Relief the Tape Wanted, but the Deal Is Unsigned, Trump Is Still Promising Retaliation, and a New 50% Canada Tariff Keeps an Inflation Tail Alive Into July 28-29", tone: neutral, pct: 46 }
   - { label: "This Bounce Is Still Unconfirmed by Fundamentals: Alphabet and Tesla Wednesday and Intel Thursday Decide Whether the Snapback Has Legs or Just Retraces a Vicious Week", tone: neutral, pct: 45 }
 
-tags:
-  - Chip Rebound
-  - Nvidia
-  - Nebius
-  - IREN
-  - Iran Ceasefire
-  - Canada Tariffs
-  - GM Earnings
-  - Alphabet
-  - Oil
-  - FOMC
+tags: ["Chip Rebound", "Nvidia", "Nebius", "IREN", "Iran Ceasefire", "Canada Tariffs"]
+redirect_from:
+  - /morning-notes/2026-07-21-chips-rebound-nasdaq-futures-14pct-nvidia-93pct-nebius-stake-iren-28b-ai-cloud-contracts-oil-eases-10-day-iran-ceasefire-gm-beats-trump-50pct-canada-tariffs-alphabet-tesla-intel-ahead-gold-4058-bitcoin-66k
 ---
 
 Tuesday, July 21, 2026, and the tape is trying to turn the corner after a brutal stretch that shoved the chip complex into a bear market. US stock futures are firmer before the bell, with S&P 500 futures up about 0.4 percent, Dow futures up 0.3 percent, and Nasdaq 100 futures leading by roughly 1.4 percent as semiconductors and AI infrastructure names lead the charge back. The spark is corporate, not macro. Nvidia disclosed a 9.3 percent stake in Amsterdam-based neocloud Nebius, worth about $2 billion at the current market cap near $46 billion, and the stock jumped more than 6 percent pre-market. Alongside it, AI data center operator IREN ripped after locking in $2.8 billion of new cloud contracts with customers including Perplexity and Figure AI, following a nearly 20 percent surge the prior session. Asia set the tone overnight, with Korea's Kospi up more than 3 percent and Japan's Nikkei closing up 3.3 percent as the memory names steadied. Oil is the other swing factor and it is finally leaning the market's way, fading a run at $90 after mediators floated a 10-day US-Iran ceasefire that would halt strikes and reopen the Strait of Hormuz. Into that setup lands a heavy earnings slate, with General Motors already out and Alphabet, Tesla and Intel on deck later this week.

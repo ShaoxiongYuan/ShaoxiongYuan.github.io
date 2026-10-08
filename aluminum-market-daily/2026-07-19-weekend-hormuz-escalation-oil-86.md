@@ -5,7 +5,7 @@ headline: "Weekend: Hormuz strikes escalate and keep Brent near $86. The destock
 headline_zh: "周末版:霍尔木兹冲突升级,Brent 维持 86 美元附近;去库底部稳固,静候周一开盘。"
 date: 2026-07-19
 author: Steven Yuan
-tags: [Weekend Hormuz Escalation, Oil Holds 86, Dollar Soft, September ~56%, Destock Floor, Eyes Monday Reopen]
+tags: ["Weekend Hormuz Escalation", "Oil Holds 86", "Dollar Soft", "September ~56%", "Destock Floor", "Eyes Monday Reopen"]
 data_window: "Friday July 17 LME close & SHFE daytime session; written Sunday July 19 with SHFE/LME night and weekend markets closed — no new exchange prints since Friday; several China spot/inventory prints lag to the Thursday July 16 session; weekend news flow (Sat July 18 Hormuz escalation) incorporated as interpretation"
 snapshot:
   - { label: "SHFE AL2608", value: "~23,150–23,250 (Fri, est)", dir: flat }
@@ -24,6 +24,8 @@ drivers:
   bullish: 5
   bearish: 4
   net: "Balanced/firm — an intact accelerating destock and a soft weekly dollar keep the floor, and the weekend Hormuz escalation re-firms the ex-China supply-risk premium, but LME still can't clear $3,200, September-hike odds are ~56%, sustained oil is an inflation tail, and no fresh exchange prints land until Monday's SHFE reopen"
+redirect_from:
+  - /aluminum-market-daily/2026-07-19-weekend-hormuz-escalation-oil-holds-86-destock-floor-holds-eyes-monday-reopen
 ---
 
 <div class="lang lang-zh" markdown="1">
