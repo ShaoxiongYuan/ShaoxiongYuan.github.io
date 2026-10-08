@@ -2,6 +2,7 @@ markdown: kramdown
 kramdown:
   input: GFM
 
+url: "https://shaoxiongyuan.me"
 title: Steven Yuan's Repository
 description: Coursework, personal projects, and movie reviews.
 
