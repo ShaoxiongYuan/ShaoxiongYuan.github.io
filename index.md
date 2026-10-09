@@ -103,9 +103,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [Oct 9, 2026](/morning-notes/2026-10-09-openai-revenue-gap-optics-2029){:target="_blank"} | *OpenAI's Revenue Is $20 Billion Smaller Than Investors Believed. Lumentum Is Sold Out Through 2029.* |
 | [Oct 8, 2026](/morning-notes/2026-10-08-150bn-ai-debt-brent-105){:target="_blank"} | *$150 Billion of AI Debt in One Week. Brent at $105 on Iran Strike Prep.* |
 | [Oct 7, 2026](/morning-notes/2026-10-07-spacex-40bn-debt-for-nvidia-chips){:target="_blank"} | *SpaceX Wants $40 Billion of Debt to Buy Nvidia Chips. The Ten Year Is at 5.35%.* |
-| [Oct 6, 2026](/morning-notes/2026-10-06-ism-services-prices-74-employment-stalls){:target="_blank"} | *ISM Services Prices Hit 74.0 and Services Employment Stalled at 50.1. That Is the One Configuration the Committee Has No Answer For.* |
 
 ### Sector Analysis & Company Reports
 
