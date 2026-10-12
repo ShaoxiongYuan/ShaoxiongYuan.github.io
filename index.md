@@ -103,9 +103,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [Oct 12, 2026](/morning-notes/2026-10-12-broadcom-casino-pc-shipments-fall-20pct){:target="_blank"} | *Broadcom's Chief Says AI Investors Are in a Casino. PC Shipments Just Fell 20%.* |
 | [Oct 10, 2026](/morning-notes/2026-10-10-weekend-diesel-waiver-gold-reprices){:target="_blank"} | *Weekend Wrap: Washington Traded Russian Sanctions for 36 Hours of Diesel. Gold Was the Only Market That Repriced.* |
 | [Oct 9, 2026](/morning-notes/2026-10-09-openai-revenue-gap-optics-2029){:target="_blank"} | *OpenAI's Revenue Is $20 Billion Smaller Than Investors Believed. Lumentum Is Sold Out Through 2029.* |
-| [Oct 8, 2026](/morning-notes/2026-10-08-150bn-ai-debt-brent-105){:target="_blank"} | *$150 Billion of AI Debt in One Week. Brent at $105 on Iran Strike Prep.* |
 
 ### Sector Analysis & Company Reports
 
