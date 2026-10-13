@@ -103,9 +103,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [Oct 13, 2026](/morning-notes/2026-10-13-cxmt-claim-korea-volta-11pct){:target="_blank"} | *A Chinese Memory Claim Erased 5.5% of Korea. The Price That Matters Is 11%.* |
 | [Oct 12, 2026](/morning-notes/2026-10-12-broadcom-casino-pc-shipments-fall-20pct){:target="_blank"} | *Broadcom's Chief Says AI Investors Are in a Casino. PC Shipments Just Fell 20%.* |
 | [Oct 10, 2026](/morning-notes/2026-10-10-weekend-diesel-waiver-gold-reprices){:target="_blank"} | *Weekend Wrap: Washington Traded Russian Sanctions for 36 Hours of Diesel. Gold Was the Only Market That Repriced.* |
-| [Oct 9, 2026](/morning-notes/2026-10-09-openai-revenue-gap-optics-2029){:target="_blank"} | *OpenAI's Revenue Is $20 Billion Smaller Than Investors Believed. Lumentum Is Sold Out Through 2029.* |
 
 ### Sector Analysis & Company Reports
 
