@@ -103,9 +103,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [Oct 15, 2026](/morning-notes/2026-10-15-ai-credit-breaks-equity-oracle-cds-record){:target="_blank"} | *The AI Trade Broke on Credit, Not on Earnings. Bonds Rallied Into the Hottest PPI in Four Years.* |
 | [Oct 14, 2026](/morning-notes/2026-10-14-core-cpi-03-curve-prices-duration){:target="_blank"} | *Core CPI Broke 0.3%. The Curve Answered With Duration, Not a Hike.* |
 | [Oct 13, 2026](/morning-notes/2026-10-13-cxmt-claim-korea-volta-11pct){:target="_blank"} | *A Chinese Memory Claim Erased 5.5% of Korea. The Price That Matters Is 11%.* |
-| [Oct 12, 2026](/morning-notes/2026-10-12-broadcom-casino-pc-shipments-fall-20pct){:target="_blank"} | *Broadcom's Chief Says AI Investors Are in a Casino. PC Shipments Just Fell 20%.* |
 
 ### Sector Analysis & Company Reports
 
