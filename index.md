@@ -103,9 +103,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [Oct 19, 2026](/morning-notes/2026-10-19-deepseek-reopens-demand-debate){:target="_blank"} | *DeepSeek Reopened the Demand Debate We Retired. Two Bear Cases Are Worse Than One.* |
 | [Oct 17, 2026](/morning-notes/2026-10-17-weekend-vix-rumor-crowded-ai-trade){:target="_blank"} | *Weekend Wrap: Volatility Repriced on a Rumor Nobody Could Confirm. That Is What a Crowded Trade Looks Like.* |
 | [Oct 16, 2026](/morning-notes/2026-10-16-volta-clears-95-cents-ai-credit-repriced){:target="_blank"} | *The AI Loan Cleared at 95 Cents. That Is a Price, Not a Failure.* |
-| [Oct 15, 2026](/morning-notes/2026-10-15-ai-credit-breaks-equity-oracle-cds-record){:target="_blank"} | *The AI Trade Broke on Credit, Not on Earnings. Bonds Rallied Into the Hottest PPI in Four Years.* |
 
 ### Sector Analysis & Company Reports
 
