@@ -103,9 +103,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [Oct 22, 2026](/morning-notes/2026-10-22-meta-funds-ai-with-equity){:target="_blank"} | *Meta Answered the Funding Question with Equity. The Market Sold the Answer.* |
 | [Oct 21, 2026](/morning-notes/2026-10-21-spacex-revenue-real-doubles-the-bill){:target="_blank"} | *SpaceX Proved the Revenue Is Real and Then Doubled the Bill. Both Halves Matter.* |
 | [Oct 20, 2026](/morning-notes/2026-10-20-sp-hidden-ai-debt-korea-sells-rebound){:target="_blank"} | *S&P Says the AI Debt Is Bigger Than Disclosed. Korea Sold the Whole Rebound in a Day.* |
-| [Oct 19, 2026](/morning-notes/2026-10-19-deepseek-reopens-demand-debate){:target="_blank"} | *DeepSeek Reopened the Demand Debate We Retired. Two Bear Cases Are Worse Than One.* |
 
 ### Sector Analysis & Company Reports
 
