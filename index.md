@@ -103,9 +103,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [Oct 26, 2026](/morning-notes/2026-10-26-meta-95bn-equity-debt-window-shut){:target="_blank"} | *Meta Asks the Market for $95bn. Musk Says the Debt Window Is Shut.* |
 | [Oct 24, 2026](/morning-notes/2026-10-24-brent-six-month-high-fed-france-dodges){:target="_blank"} | *Brent at a Six-Month High Three Days Before the Fed. France Dodged the Downgrade We Expected.* |
 | [Oct 23, 2026](/morning-notes/2026-10-23-three-funding-doors-shut){:target="_blank"} | *Three Funding Doors Shut in One Day. The Demand Side Beat and Got Sold Anyway.* |
-| [Oct 22, 2026](/morning-notes/2026-10-22-meta-funds-ai-with-equity){:target="_blank"} | *Meta Answered the Funding Question with Equity. The Market Sold the Answer.* |
 
 ### Sector Analysis & Company Reports
 
