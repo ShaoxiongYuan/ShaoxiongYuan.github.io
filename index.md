@@ -103,9 +103,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [Oct 27, 2026](/morning-notes/2026-10-27-anthropic-opens-books-63bn-spv){:target="_blank"} | *Anthropic Opens Its Books. The $63bn for Its Chips Sits in a Vehicle Nobody Consolidates.* |
 | [Oct 26, 2026](/morning-notes/2026-10-26-meta-95bn-equity-debt-window-shut){:target="_blank"} | *Meta Asks the Market for $95bn. Musk Says the Debt Window Is Shut.* |
 | [Oct 24, 2026](/morning-notes/2026-10-24-brent-six-month-high-fed-france-dodges){:target="_blank"} | *Brent at a Six-Month High Three Days Before the Fed. France Dodged the Downgrade We Expected.* |
-| [Oct 23, 2026](/morning-notes/2026-10-23-three-funding-doors-shut){:target="_blank"} | *Three Funding Doors Shut in One Day. The Demand Side Beat and Got Sold Anyway.* |
 
 ### Sector Analysis & Company Reports
 
