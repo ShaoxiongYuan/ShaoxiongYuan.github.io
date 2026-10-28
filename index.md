@@ -103,9 +103,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [Oct 28, 2026](/morning-notes/2026-10-28-memory-sold-out-2029-drawdown){:target="_blank"} | *Memory Is Sold Out Through 2029. The Drawdown Was About Money, Not Demand.* |
 | [Oct 27, 2026](/morning-notes/2026-10-27-anthropic-opens-books-63bn-spv){:target="_blank"} | *Anthropic Opens Its Books. The $63bn for Its Chips Sits in a Vehicle Nobody Consolidates.* |
 | [Oct 26, 2026](/morning-notes/2026-10-26-meta-95bn-equity-debt-window-shut){:target="_blank"} | *Meta Asks the Market for $95bn. Musk Says the Debt Window Is Shut.* |
-| [Oct 24, 2026](/morning-notes/2026-10-24-brent-six-month-high-fed-france-dodges){:target="_blank"} | *Brent at a Six-Month High Three Days Before the Fed. France Dodged the Downgrade We Expected.* |
 
 ### Sector Analysis & Company Reports
 
