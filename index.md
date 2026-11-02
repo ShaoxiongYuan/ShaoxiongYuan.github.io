@@ -103,9 +103,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [Nov 2, 2026](/morning-notes/2026-11-02-marvell-115bn-own-stock-hormuz-reopens){:target="_blank"} | *Marvell Paid $115bn in Its Own Stock. Hormuz May Reopen in Two Days.* |
 | [Oct 31, 2026](/morning-notes/2026-10-31-openai-cuts-round-funding-says-no){:target="_blank"} | *OpenAI Cut Its Own Round. The Funding Market Said No in Three Places at Once.* |
 | [Oct 30, 2026](/morning-notes/2026-10-30-aws-39pct-amazon-falls-capex-bill){:target="_blank"} | *AWS Accelerated to 39% and Amazon Fell 7%. Demand Is No Longer the Question.* |
-| [Oct 29, 2026](/morning-notes/2026-10-29-capex-stops-paying-cash-flow-wins){:target="_blank"} | *The Market Stopped Paying for Capex. Microsoft Spent Less and Won.* |
 
 ### Sector Analysis & Company Reports
 
