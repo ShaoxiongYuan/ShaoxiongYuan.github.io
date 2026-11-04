@@ -103,9 +103,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [Nov 4, 2026](/morning-notes/2026-11-04-amd-answers-demand-texas-asks-harder){:target="_blank"} | *AMD Answered the Demand Question. Texas and Georgia Asked a Harder One.* |
 | [Nov 3, 2026](/morning-notes/2026-11-03-apple-memory-unprecedented-market-sells-memory){:target="_blank"} | *Apple Calls Memory Pricing Unprecedented. The Market Sold the Memory Makers.* |
 | [Nov 2, 2026](/morning-notes/2026-11-02-marvell-115bn-own-stock-hormuz-reopens){:target="_blank"} | *Marvell Paid $115bn in Its Own Stock. Hormuz May Reopen in Two Days.* |
-| [Oct 31, 2026](/morning-notes/2026-10-31-openai-cuts-round-funding-says-no){:target="_blank"} | *OpenAI Cut Its Own Round. The Funding Market Said No in Three Places at Once.* |
 
 ### Sector Analysis & Company Reports
 
