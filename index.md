@@ -103,9 +103,9 @@ Daily equity research notes on market structure, macro, and trade ideas.
 
 | Date | Headline |
 | ---- | -------- |
+| [Nov 6, 2026](/morning-notes/2026-11-06-worst-day-since-april-had-no-catalyst){:target="_blank"} | *The Worst Day Since April Had No Catalyst. The Credit Market Did.* |
 | [Nov 5, 2026](/morning-notes/2026-11-05-compute-owners-records-builders-korea){:target="_blank"} | *The Market Split AI Into Owners and Builders. Korea Landed on the Wrong Side.* |
 | [Nov 4, 2026](/morning-notes/2026-11-04-amd-answers-demand-texas-asks-harder){:target="_blank"} | *AMD Answered the Demand Question. Texas and Georgia Asked a Harder One.* |
-| [Nov 3, 2026](/morning-notes/2026-11-03-apple-memory-unprecedented-market-sells-memory){:target="_blank"} | *Apple Calls Memory Pricing Unprecedented. The Market Sold the Memory Makers.* |
 
 ### Sector Analysis & Company Reports
 
